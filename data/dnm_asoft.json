@@ -1,0 +1,67 @@
+{
+    "DN25/0802": {
+        "doc_no": "DN25/0802",
+        "doc_date": "2025-08-25",
+        "card_id": "SPTM",
+        "adj_type": "MIS",
+        "sm_id": "Kee",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 483.0,
+        "amount_rm": 483.0,
+        "remark": "",
+        "invoice_type": 6
+    },
+    "DN25/0901": {
+        "doc_no": "DN25/0901",
+        "doc_date": "2025-09-04",
+        "card_id": "WKM4",
+        "adj_type": "MIS",
+        "sm_id": "Yap",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 714.55,
+        "amount_rm": 714.55,
+        "remark": "",
+        "invoice_type": 6
+    },
+    "DN25/0902": {
+        "doc_no": "DN25/0902",
+        "doc_date": "2025-09-18",
+        "card_id": "JSHP",
+        "adj_type": "MIS",
+        "sm_id": "101",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 200.87,
+        "amount_rm": 200.87,
+        "remark": "",
+        "invoice_type": 6
+    },
+    "DN25/1001": {
+        "doc_no": "DN25/1001",
+        "doc_date": "2025-10-27",
+        "card_id": "JSHP",
+        "adj_type": "MIS",
+        "sm_id": "101",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 14.75,
+        "amount_rm": 14.75,
+        "remark": "",
+        "invoice_type": 6
+    },
+    "DN25/1101": {
+        "doc_no": "DN25/1101",
+        "doc_date": "2025-11-11",
+        "card_id": "JSHP",
+        "adj_type": "MIS",
+        "sm_id": "101",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 40.0,
+        "amount_rm": 40.0,
+        "remark": "",
+        "invoice_type": 6
+    }
+}

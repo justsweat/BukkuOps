@@ -1,0 +1,83 @@
+{
+    "JE250905": {
+        "doc_no": "JE250905",
+        "doc_date": "2025-09-30",
+        "remark": "TRANSFER A/C OF 1122",
+        "total_dr": 1325.0,
+        "total_cr": 1325.0,
+        "trx_no": 187894,
+        "trx_date": "2025-09-01"
+    },
+    "JE250906": {
+        "doc_no": "JE250906",
+        "doc_date": "2025-09-30",
+        "remark": "TRANSFER A/C OF 1122",
+        "total_dr": 1594.0,
+        "total_cr": 1594.0,
+        "trx_no": 187900,
+        "trx_date": "2025-09-01"
+    },
+    "JE250907": {
+        "doc_no": "JE250907",
+        "doc_date": "2025-09-30",
+        "remark": "TRANSFER A/C OF 1122",
+        "total_dr": 2320.0,
+        "total_cr": 2320.0,
+        "trx_no": 187905,
+        "trx_date": "2025-09-01"
+    },
+    "JE250908": {
+        "doc_no": "JE250908",
+        "doc_date": "2025-09-30",
+        "remark": "SEPT CLOSING STOCK",
+        "total_dr": 535008.0,
+        "total_cr": 535008.0,
+        "trx_no": 187982,
+        "trx_date": "2025-09-01"
+    },
+    "JE250909": {
+        "doc_no": "JE250909",
+        "doc_date": "2025-09-30",
+        "remark": "SEPT CLOSING STOCK",
+        "total_dr": 138077.0,
+        "total_cr": 138077.0,
+        "trx_no": 187985,
+        "trx_date": "2025-09-01"
+    },
+    "JE250910": {
+        "doc_no": "JE250910",
+        "doc_date": "2025-09-30",
+        "remark": "SEPT CLOSING STOCK",
+        "total_dr": 3832488.0,
+        "total_cr": 3832488.0,
+        "trx_no": 187986,
+        "trx_date": "2025-09-01"
+    },
+    "JE250911": {
+        "doc_no": "JE250911",
+        "doc_date": "2025-09-30",
+        "remark": "SEPT CLOSING STOCK",
+        "total_dr": 66452.0,
+        "total_cr": 66452.0,
+        "trx_no": 187987,
+        "trx_date": "2025-09-01"
+    },
+    "JE250912": {
+        "doc_no": "JE250912",
+        "doc_date": "2025-09-30",
+        "remark": "SEPT CLOSING STOCK",
+        "total_dr": 31208.0,
+        "total_cr": 31208.0,
+        "trx_no": 187988,
+        "trx_date": "2025-09-01"
+    },
+    "JE250913": {
+        "doc_no": "JE250913",
+        "doc_date": "2025-09-30",
+        "remark": "SEPT CLOSING STOCK",
+        "total_dr": 801848.0,
+        "total_cr": 801848.0,
+        "trx_no": 187989,
+        "trx_date": "2025-09-01"
+    }
+}

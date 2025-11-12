@@ -1,0 +1,10 @@
+# price1 = dealer price
+# price2 = retail price
+# price3 = wholesale price
+#* price4 = empty
+# price5 = for wmm1 only
+# price6 = 50-Off
+#* price7 = used for u2 but not sure what it is for, not using
+#* price8 = not using
+#* price9 = not using
+# price10 = for nong only

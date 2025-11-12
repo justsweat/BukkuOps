@@ -1,0 +1,59 @@
+{
+    "tag_groups": {
+        "version": "2025-07-25 16:17:54",
+        "items": [
+            {
+                "id": 2,
+                "name": "Main",
+                "tags": [
+                    {
+                        "id": 7,
+                        "name": "Aurafit",
+                        "is_archived": false
+                    },
+                    {
+                        "id": 3,
+                        "name": "Battery",
+                        "is_archived": false
+                    },
+                    {
+                        "id": 4,
+                        "name": "Glass",
+                        "is_archived": false
+                    },
+                    {
+                        "id": 6,
+                        "name": "Invoice",
+                        "is_archived": false
+                    },
+                    {
+                        "id": 9,
+                        "name": "Other",
+                        "is_archived": false
+                    },
+                    {
+                        "id": 5,
+                        "name": "Renata",
+                        "is_archived": false
+                    },
+                    {
+                        "id": 8,
+                        "name": "Repair",
+                        "is_archived": false
+                    },
+                    {
+                        "id": 2,
+                        "name": "Roscani",
+                        "is_archived": false
+                    },
+                    {
+                        "id": 1,
+                        "name": "U2",
+                        "is_archived": false
+                    }
+                ],
+                "is_archived": false
+            }
+        ]
+    }
+}

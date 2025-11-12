@@ -1,0 +1,79 @@
+{
+    "terms": {
+        "version": "2025-04-10 15:54:51",
+        "items": [
+            {
+                "id": 1,
+                "name": "COD",
+                "type": "in_days",
+                "value": 0,
+                "interest_on": false,
+                "interest_rate": null,
+                "is_archived": false
+            },
+            {
+                "id": 7,
+                "name": "DOM25",
+                "type": "day_of_month",
+                "value": 25,
+                "interest_on": false,
+                "interest_rate": null,
+                "is_archived": false
+            },
+            {
+                "id": 6,
+                "name": "EOFM",
+                "type": "end_of_month",
+                "value": 1,
+                "interest_on": false,
+                "interest_rate": null,
+                "is_archived": false
+            },
+            {
+                "id": 5,
+                "name": "EOM",
+                "type": "end_of_month",
+                "value": 0,
+                "interest_on": false,
+                "interest_rate": null,
+                "is_archived": false
+            },
+            {
+                "id": 8,
+                "name": "NET120",
+                "type": "in_days",
+                "value": 120,
+                "interest_on": false,
+                "interest_rate": null,
+                "is_archived": false
+            },
+            {
+                "id": 2,
+                "name": "NET14",
+                "type": "in_days",
+                "value": 14,
+                "interest_on": false,
+                "interest_rate": null,
+                "is_archived": false
+            },
+            {
+                "id": 3,
+                "name": "NET30",
+                "type": "in_days",
+                "value": 30,
+                "interest_on": false,
+                "interest_rate": null,
+                "is_archived": false
+            },
+            {
+                "id": 4,
+                "name": "NET60",
+                "type": "in_days",
+                "value": 60,
+                "interest_on": false,
+                "interest_rate": null,
+                "is_archived": false
+            }
+        ]
+    }
+}

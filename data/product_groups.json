@@ -1,0 +1,79 @@
+{
+    "product_groups": {
+        "version": "2025-08-08 15:04:16",
+        "items": [
+            {
+                "id": 11,
+                "name": "Arrixon"
+            },
+            {
+                "id": 18,
+                "name": "Aurafit"
+            },
+            {
+                "id": 12,
+                "name": "Bally"
+            },
+            {
+                "id": 2,
+                "name": "Battery"
+            },
+            {
+                "id": 3,
+                "name": "Glass"
+            },
+            {
+                "id": 9,
+                "name": "Japan"
+            },
+            {
+                "id": 17,
+                "name": "Non-stock"
+            },
+            {
+                "id": 6,
+                "name": "Original"
+            },
+            {
+                "id": 14,
+                "name": "Other"
+            },
+            {
+                "id": 4,
+                "name": "Postage"
+            },
+            {
+                "id": 7,
+                "name": "Promo"
+            },
+            {
+                "id": 10,
+                "name": "Raw"
+            },
+            {
+                "id": 13,
+                "name": "Renata"
+            },
+            {
+                "id": 1,
+                "name": "Roscani"
+            },
+            {
+                "id": 8,
+                "name": "Spron"
+            },
+            {
+                "id": 15,
+                "name": "Strap"
+            },
+            {
+                "id": 5,
+                "name": "U2"
+            },
+            {
+                "id": 16,
+                "name": "Wallet"
+            }
+        ]
+    }
+}

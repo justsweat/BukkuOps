@@ -1,0 +1,3114 @@
+{
+    "PO0087": [
+        {
+            "doc_no": "PO0087",
+            "item_no": 1,
+            "stock_id": "E644G0",
+            "remark": "ROSCANI BL E644G0 R/G BRAC SPG RGD",
+            "qty": 99.0,
+            "price": 148.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 2,
+            "stock_id": "E644G4",
+            "remark": "ROSCANI BL E644G4 R/G BRAC SPG BRN",
+            "qty": 99.0,
+            "price": 148.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 3,
+            "stock_id": "E645G1",
+            "remark": "ROSCANI BL E645G1 G/D BRAC SPG YEL",
+            "qty": 99.0,
+            "price": 143.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 4,
+            "stock_id": "E645G3",
+            "remark": "ROSCANI BL E645G3 G/D BRAC SPG BLK",
+            "qty": 99.0,
+            "price": 143.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 5,
+            "stock_id": "E647G5",
+            "remark": "ROSCANI BL E647G5 G/S BRAC SPG WHT",
+            "qty": 99.0,
+            "price": 143.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 7,
+            "stock_id": "S954G0",
+            "remark": "ROSCANI BL S954G0 R/G BRAC GLA RGD",
+            "qty": 110.0,
+            "price": 108.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 8,
+            "stock_id": "S955G1",
+            "remark": "ROSCANI BL S955G1 G/D BRAC GLA YEL",
+            "qty": 10.0,
+            "price": 104.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 9,
+            "stock_id": "S955G7",
+            "remark": "ROSCANI BL S955G7 G/D BRAC GLA GRN",
+            "qty": 10.0,
+            "price": 104.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 10,
+            "stock_id": "S953G3",
+            "remark": "ROSCANI BL S953G3 B/K BRAC GLA BLK",
+            "qty": 97.0,
+            "price": 108.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 11,
+            "stock_id": "S975T1",
+            "remark": "ROSCANI BL S975T1 G/D BRAC GLA YEL",
+            "qty": 30.0,
+            "price": 98.0
+        },
+        {
+            "doc_no": "PO0087",
+            "item_no": 12,
+            "stock_id": "S950G8",
+            "remark": "ROSCANI BL S950G8 S/S STRP GLA BLU",
+            "qty": 98.0,
+            "price": 95.0
+        }
+    ],
+    "PO0088": [
+        {
+            "doc_no": "PO0088",
+            "item_no": 1,
+            "stock_id": "4657T5",
+            "remark": "ROSCANI BG 4657T5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 186.0
+        },
+        {
+            "doc_no": "PO0088",
+            "item_no": 2,
+            "stock_id": "4659T5",
+            "remark": "ROSCANI BG 4659T5 S/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 162.0
+        },
+        {
+            "doc_no": "PO0088",
+            "item_no": 3,
+            "stock_id": "4659T3",
+            "remark": "ROSCANI BG 4659T3 S/S BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 162.0
+        },
+        {
+            "doc_no": "PO0088",
+            "item_no": 4,
+            "stock_id": "4667T5",
+            "remark": "ROSCANI BL 4667T5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 182.0
+        },
+        {
+            "doc_no": "PO0088",
+            "item_no": 5,
+            "stock_id": "4669T3",
+            "remark": "ROSCANI BL 4669T3 S/S BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 158.0
+        },
+        {
+            "doc_no": "PO0088",
+            "item_no": 7,
+            "stock_id": "4669T5",
+            "remark": "ROSCANI BL 4669T5 S/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 158.0
+        }
+    ],
+    "PO0089": [
+        {
+            "doc_no": "PO0089",
+            "item_no": 1,
+            "stock_id": "4659T5",
+            "remark": "ROSCANI BG 4659T5 S/S BRAC SPG WHT",
+            "qty": 200.0,
+            "price": 162.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 2,
+            "stock_id": "4659T3",
+            "remark": "ROSCANI BG 4659T3 S/S BRAC SPG BLK",
+            "qty": 150.0,
+            "price": 162.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 3,
+            "stock_id": "4657T5",
+            "remark": "ROSCANI BG 4657T5 G/S BRAC SPG WHT",
+            "qty": 150.0,
+            "price": 186.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 4,
+            "stock_id": "4669T5",
+            "remark": "ROSCANI BL 4669T5 S/S BRAC SPG WHT",
+            "qty": 200.0,
+            "price": 158.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 5,
+            "stock_id": "4669T3",
+            "remark": "ROSCANI BL 4669T3 S/S BRAC SPG BLK",
+            "qty": 150.0,
+            "price": 158.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 6,
+            "stock_id": "4667T5",
+            "remark": "ROSCANI BL 4667T5 G/S BRAC SPG WHT",
+            "qty": 150.0,
+            "price": 182.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 7,
+            "stock_id": "S979K8",
+            "remark": "ROSCANI BL S979K8 S/S BRAC GLA BLU",
+            "qty": 100.0,
+            "price": 85.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 9,
+            "stock_id": "S974K0",
+            "remark": "ROSCANI BL S974K0 R/G BRAC GLA RGD",
+            "qty": 100.0,
+            "price": 100.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 10,
+            "stock_id": "S975K1",
+            "remark": "ROSCANI BL S975K1 G/D BRAC GLA YEL",
+            "qty": 100.0,
+            "price": 98.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 11,
+            "stock_id": "S975K5",
+            "remark": "ROSCANI BL S975K5 G/D BRAC GLA WHT",
+            "qty": 100.0,
+            "price": 98.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 12,
+            "stock_id": "S973K3",
+            "remark": "ROSCANI BL S973K3 B/K BRAC GLA BLK",
+            "qty": 100.0,
+            "price": 100.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 13,
+            "stock_id": "S/P",
+            "remark": "497450 DIAL M.O.P WHITE",
+            "qty": 100.0,
+            "price": 40.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 14,
+            "stock_id": "S/P",
+            "remark": "497529 DIAL YELLOW / RED STONE",
+            "qty": 150.0,
+            "price": 30.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 15,
+            "stock_id": "S/P",
+            "remark": "497565 DIAL WHITE / STONE & ROMAN",
+            "qty": 100.0,
+            "price": 23.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 16,
+            "stock_id": "S/P",
+            "remark": "497916 DIAL WHITE / 11 DOT & ROMAN",
+            "qty": 50.0,
+            "price": 21.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 17,
+            "stock_id": "S/P",
+            "remark": "497929 DIAL SILVER / RED STONE",
+            "qty": 50.0,
+            "price": 30.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 18,
+            "stock_id": "S/P",
+            "remark": "497 SOLID STEEL BAND",
+            "qty": 50.0,
+            "price": 75.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 23,
+            "stock_id": "S/P",
+            "remark": "498450 DIAL M.O.P. WHITE",
+            "qty": 100.0,
+            "price": 35.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 24,
+            "stock_id": "S/P",
+            "remark": "498552 YELLOW STONE",
+            "qty": 50.0,
+            "price": 30.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 25,
+            "stock_id": "S/P",
+            "remark": "498928 DIAL WHITE / BLUE STONE",
+            "qty": 50.0,
+            "price": 30.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 26,
+            "stock_id": "S/P",
+            "remark": "498929 DIAL WHITE / RED STONE",
+            "qty": 100.0,
+            "price": 30.0
+        },
+        {
+            "doc_no": "PO0089",
+            "item_no": 27,
+            "stock_id": "S/P",
+            "remark": "498965 DIAL WHITE STONE & ROMAN",
+            "qty": 50.0,
+            "price": 23.0
+        }
+    ],
+    "PO0090": [
+        {
+            "doc_no": "PO0090",
+            "item_no": 1,
+            "stock_id": "498528",
+            "remark": "ROSCANI BL 498528 G/G BRAC SPG YEL/BLK",
+            "qty": 100.0,
+            "price": 202.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 2,
+            "stock_id": "498529",
+            "remark": "ROSCANI BL 498529 G/G BRAC SPG YEL/R",
+            "qty": 200.0,
+            "price": 202.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 3,
+            "stock_id": "498729",
+            "remark": "ROSCANI BL 498729 2/T BRAC SPG YEL/R",
+            "qty": 100.0,
+            "price": 192.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 4,
+            "stock_id": "498765",
+            "remark": "ROSCANI BL 498765 2/T BRAC SPG WHT/R",
+            "qty": 50.0,
+            "price": 188.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 5,
+            "stock_id": "489450",
+            "remark": "ROSCANI BG 489450 G/G BRAC SPG SVR",
+            "qty": 50.0,
+            "price": 208.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 6,
+            "stock_id": "489529",
+            "remark": "ROSCANI BG 489529 G/G BRAC SPG YEL/R",
+            "qty": 50.0,
+            "price": 188.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 7,
+            "stock_id": "489565",
+            "remark": "ROSCANI BG 489565 G/G BRAC SPG WHT/R",
+            "qty": 50.0,
+            "price": 194.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 8,
+            "stock_id": "489928",
+            "remark": "ROSCANI BG 489928 S/S BRAC SPG WHT/B",
+            "qty": 50.0,
+            "price": 184.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 9,
+            "stock_id": "489929",
+            "remark": "ROSCANI BG 489929 S/S BRAC SPG WHT/R",
+            "qty": 50.0,
+            "price": 184.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 10,
+            "stock_id": "489965",
+            "remark": "ROSCANI BG 489965 S/S BRAC SPG WHT/R/S",
+            "qty": 50.0,
+            "price": 176.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 11,
+            "stock_id": "4589G7",
+            "remark": "ROSCANI BL 4589G7 S/S BRAC SPG GRN",
+            "qty": 100.0,
+            "price": 214.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 12,
+            "stock_id": "4586G9",
+            "remark": "ROSCANI BL 4586G9 R/S BRAC SPG RGD",
+            "qty": 100.0,
+            "price": 232.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 13,
+            "stock_id": "4587G5",
+            "remark": "ROSCANI BL 4587G5 G/S BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 240.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 14,
+            "stock_id": "S/P",
+            "remark": "S93218",
+            "qty": 2.0,
+            "price": 100.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 15,
+            "stock_id": "S/P",
+            "remark": "S93312",
+            "qty": 2.0,
+            "price": 115.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 16,
+            "stock_id": "S/P",
+            "remark": "S93513",
+            "qty": 1.0,
+            "price": 110.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 17,
+            "stock_id": "S/P",
+            "remark": "S93517",
+            "qty": 1.0,
+            "price": 110.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 18,
+            "stock_id": "S/P",
+            "remark": "S94218",
+            "qty": 2.0,
+            "price": 100.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 19,
+            "stock_id": "S/P",
+            "remark": "S94312",
+            "qty": 1.0,
+            "price": 115.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 20,
+            "stock_id": "S/P",
+            "remark": "S94316",
+            "qty": 1.0,
+            "price": 115.0
+        },
+        {
+            "doc_no": "PO0090",
+            "item_no": 21,
+            "stock_id": "S/P",
+            "remark": "S945",
+            "qty": 2.0,
+            "price": 110.0
+        }
+    ],
+    "PO0091": [
+        {
+            "doc_no": "PO0091",
+            "item_no": 1,
+            "stock_id": "S939N8",
+            "remark": "ROSCANI BL S939N8 S/S BRAC GLA BLU",
+            "qty": 98.0,
+            "price": 100.0
+        },
+        {
+            "doc_no": "PO0091",
+            "item_no": 2,
+            "stock_id": "S934N0",
+            "remark": "ROSCANI BL S934N0 R/G BRAC GLA RGD",
+            "qty": 98.0,
+            "price": 115.0
+        },
+        {
+            "doc_no": "PO0091",
+            "item_no": 3,
+            "stock_id": "S935N1",
+            "remark": "ROSCANI BL S935N1 G/D BRAC GLA YEL",
+            "qty": 99.0,
+            "price": 110.0
+        },
+        {
+            "doc_no": "PO0091",
+            "item_no": 4,
+            "stock_id": "S935N7",
+            "remark": "ROSCANI BL S935N7 G/D BRAC GLA GRN",
+            "qty": 99.0,
+            "price": 110.0
+        },
+        {
+            "doc_no": "PO0091",
+            "item_no": 5,
+            "stock_id": "S937N5",
+            "remark": "ROSCANI BL S937N5 G/S BRAC GLA WHT",
+            "qty": 100.0,
+            "price": 112.0
+        },
+        {
+            "doc_no": "PO0091",
+            "item_no": 6,
+            "stock_id": "S949T8",
+            "remark": "ROSCANI BL S949T8 S/S BRAC GLA BLU",
+            "qty": 98.0,
+            "price": 100.0
+        },
+        {
+            "doc_no": "PO0091",
+            "item_no": 7,
+            "stock_id": "S944T0",
+            "remark": "ROSCANI BL S944T0 R/G BRAC GLA RGD",
+            "qty": 99.0,
+            "price": 115.0
+        },
+        {
+            "doc_no": "PO0091",
+            "item_no": 8,
+            "stock_id": "S944T3",
+            "remark": "ROSCANI BL S944T3 R/G BRAC GLA BLK",
+            "qty": 99.0,
+            "price": 115.0
+        },
+        {
+            "doc_no": "PO0091",
+            "item_no": 9,
+            "stock_id": "S945T1",
+            "remark": "ROSCANI BL S945T1 G/D BRAC GLA YEL",
+            "qty": 99.0,
+            "price": 110.0
+        },
+        {
+            "doc_no": "PO0091",
+            "item_no": 10,
+            "stock_id": "S945T7",
+            "remark": "ROSCANI BL S945T7 G/D BRAC GLA GRN",
+            "qty": 85.0,
+            "price": 110.0
+        }
+    ],
+    "PO0092": [
+        {
+            "doc_no": "PO0092",
+            "item_no": 1,
+            "stock_id": "497728",
+            "remark": "ROSCANI BG 497728 2/T BRAC SPG YEL/BLK",
+            "qty": 50.0,
+            "price": 196.0
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 2,
+            "stock_id": "497729",
+            "remark": "ROSCANI BG 497729 2/T BRAC SPG YEL/R",
+            "qty": 50.0,
+            "price": 196.0
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 3,
+            "stock_id": "497742",
+            "remark": "ROSCANI BG 497742 2/T BRAC SPG YEL/BLK",
+            "qty": 50.0,
+            "price": 181.0
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 4,
+            "stock_id": "497752",
+            "remark": "ROSCANI BG 497752 2/T BRAC SPG YEL/S",
+            "qty": 300.0,
+            "price": 188.0
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 5,
+            "stock_id": "497765",
+            "remark": "ROSCANI BG 497765 2/T BRAC SPG WHT/R",
+            "qty": 50.0,
+            "price": 188.0
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 6,
+            "stock_id": "S/P",
+            "remark": "SAMPLE WATCH / E63226",
+            "qty": 1.0,
+            "price": 135.0
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 7,
+            "stock_id": "S/P",
+            "remark": "SAMPLE WATCH / E633",
+            "qty": 2.0,
+            "price": 147.0
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 8,
+            "stock_id": "S/P",
+            "remark": "SAMPLE WATCH / E635",
+            "qty": 2.0,
+            "price": 143.0
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 9,
+            "stock_id": "1318011",
+            "remark": "C18P CRYSTAL GLASS",
+            "qty": 200.0,
+            "price": 2.6
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 10,
+            "stock_id": "131300",
+            "remark": "C13 CRYSTAL GLASS",
+            "qty": 200.0,
+            "price": 2.2
+        },
+        {
+            "doc_no": "PO0092",
+            "item_no": 11,
+            "stock_id": "1313001",
+            "remark": "C13 CRYSTAL GLASS",
+            "qty": 300.0,
+            "price": 2.3
+        }
+    ],
+    "PO0093": [
+        {
+            "doc_no": "PO0093",
+            "item_no": 1,
+            "stock_id": "E639G3",
+            "remark": "ROSCANI BL E639G3 S/S BRAC SPG BLK",
+            "qty": 95.0,
+            "price": 135.0
+        },
+        {
+            "doc_no": "PO0093",
+            "item_no": 2,
+            "stock_id": "E634G0",
+            "remark": "ROSCANI BL E634G0 R/G BRAC SPG RGD",
+            "qty": 99.0,
+            "price": 147.0
+        },
+        {
+            "doc_no": "PO0093",
+            "item_no": 3,
+            "stock_id": "E634G5",
+            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
+            "qty": 99.0,
+            "price": 147.0
+        },
+        {
+            "doc_no": "PO0093",
+            "item_no": 4,
+            "stock_id": "E635G1",
+            "remark": "ROSCANI BL E635G1 G/D BRAC SPG YEL",
+            "qty": 99.0,
+            "price": 143.0
+        },
+        {
+            "doc_no": "PO0093",
+            "item_no": 5,
+            "stock_id": "E635G5",
+            "remark": "ROSCANI BL E635G5 G/D BRAC SPG WHT",
+            "qty": 99.0,
+            "price": 143.0
+        },
+        {
+            "doc_no": "PO0093",
+            "item_no": 6,
+            "stock_id": "S945T7",
+            "remark": "ROSCANI BL S945T7 G/D BRAC GLA GRN",
+            "qty": 14.0,
+            "price": 110.0
+        }
+    ],
+    "PO0095": [
+        {
+            "doc_no": "PO0095",
+            "item_no": 1,
+            "stock_id": "4499K8",
+            "remark": "ROSCANI BG 4499K8 S/S BRAC SPG BLU",
+            "qty": 100.0,
+            "price": 156.0
+        },
+        {
+            "doc_no": "PO0095",
+            "item_no": 2,
+            "stock_id": "4495K1",
+            "remark": "ROSCANI BG 4495K1 G/D BRAC SPG YEL",
+            "qty": 100.0,
+            "price": 184.0
+        },
+        {
+            "doc_no": "PO0095",
+            "item_no": 3,
+            "stock_id": "4493K3",
+            "remark": "ROSCANI BG 4493K3 B/K BRAC SPG BLK",
+            "qty": 98.0,
+            "price": 187.0
+        }
+    ],
+    "PO0096": [
+        {
+            "doc_no": "PO0096",
+            "item_no": 1,
+            "stock_id": "E629G7",
+            "remark": "ROSCANI BL E629G7 S/S BRAC SPG GRN",
+            "qty": 80.0,
+            "price": 155.0
+        },
+        {
+            "doc_no": "PO0096",
+            "item_no": 2,
+            "stock_id": "E624G0",
+            "remark": "ROSCANI BL E624G0 R/G BRAC SPG RGD",
+            "qty": 80.0,
+            "price": 183.0
+        },
+        {
+            "doc_no": "PO0096",
+            "item_no": 3,
+            "stock_id": "E624G3",
+            "remark": "ROSCANI BL E624G3 R/G BRAC SPG BLK",
+            "qty": 80.0,
+            "price": 183.0
+        },
+        {
+            "doc_no": "PO0096",
+            "item_no": 4,
+            "stock_id": "E625G1",
+            "remark": "ROSCANI BL E625G1 G/D BRAC SPG YEL",
+            "qty": 100.0,
+            "price": 180.0
+        },
+        {
+            "doc_no": "PO0096",
+            "item_no": 5,
+            "stock_id": "E625G5",
+            "remark": "ROSCANI BL E625G5 G/D BRAC SPG WHT",
+            "qty": 60.0,
+            "price": 180.0
+        },
+        {
+            "doc_no": "PO0096",
+            "item_no": 6,
+            "stock_id": "4709T3",
+            "remark": "ROSCANI BG 4709T3 S/S BRAC SPG BLK",
+            "qty": 100.0,
+            "price": 220.0
+        },
+        {
+            "doc_no": "PO0096",
+            "item_no": 7,
+            "stock_id": "4703T3",
+            "remark": "ROSCANI BG 4703T3 B/K BRAC SPG BLK",
+            "qty": 100.0,
+            "price": 248.0
+        },
+        {
+            "doc_no": "PO0096",
+            "item_no": 8,
+            "stock_id": "4493K3",
+            "remark": "ROSCANI BG 4493K3 B/K BRAC SPG BLK",
+            "qty": 2.0,
+            "price": 187.0
+        }
+    ],
+    "PO0301": [
+        {
+            "doc_no": "PO0301",
+            "item_no": 1,
+            "stock_id": "AF180BK",
+            "remark": "AURAFIT AM18 SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 24.0
+        },
+        {
+            "doc_no": "PO0301",
+            "item_no": 2,
+            "stock_id": "AFG60GN",
+            "remark": "AURAFIT G6 GPS SMARTWATCH GRN",
+            "qty": 60.0,
+            "price": 28.0
+        },
+        {
+            "doc_no": "PO0301",
+            "item_no": 3,
+            "stock_id": "AF350RG",
+            "remark": "AURAFIT AM35 SMARTWATCH RGD",
+            "qty": 60.0,
+            "price": 24.5
+        },
+        {
+            "doc_no": "PO0301",
+            "item_no": 4,
+            "stock_id": "AF10BBK",
+            "remark": "AURAFIT AM10B SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 24.0
+        },
+        {
+            "doc_no": "PO0301",
+            "item_no": 5,
+            "stock_id": "AF10MBK",
+            "remark": "AURAFIT A10 MINI SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 16.0
+        },
+        {
+            "doc_no": "PO0301",
+            "item_no": 6,
+            "stock_id": "S/P",
+            "remark": "20PCS DISPLAY SETS",
+            "qty": 20.0,
+            "price": 11.5
+        }
+    ],
+    "PO0303": [
+        {
+            "doc_no": "PO0303",
+            "item_no": 1,
+            "stock_id": "AF180BK",
+            "remark": "AURAFIT AM18 SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 24.0
+        },
+        {
+            "doc_no": "PO0303",
+            "item_no": 2,
+            "stock_id": "AFG60GN",
+            "remark": "AURAFIT G6 GPS SMARTWATCH GRN",
+            "qty": 60.0,
+            "price": 28.0
+        },
+        {
+            "doc_no": "PO0303",
+            "item_no": 3,
+            "stock_id": "AF350RG",
+            "remark": "AURAFIT AM35 SMARTWATCH RGD",
+            "qty": 60.0,
+            "price": 24.5
+        },
+        {
+            "doc_no": "PO0303",
+            "item_no": 4,
+            "stock_id": "AF10BBK",
+            "remark": "AURAFIT AM10B SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 24.0
+        },
+        {
+            "doc_no": "PO0303",
+            "item_no": 5,
+            "stock_id": "AF10MBK",
+            "remark": "AURAFIT A10 MINI SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 16.0
+        },
+        {
+            "doc_no": "PO0303",
+            "item_no": 6,
+            "stock_id": "S/P",
+            "remark": "DISPLAY SET",
+            "qty": 25.0,
+            "price": 11.5
+        },
+        {
+            "doc_no": "PO0303",
+            "item_no": 7,
+            "stock_id": "PARTS2",
+            "remark": "FREIGHT CHARGES",
+            "qty": 1.0,
+            "price": 418.0
+        }
+    ],
+    "PO0603": [
+        {
+            "doc_no": "PO0603",
+            "item_no": 1,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.238
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 2,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 36000.0,
+            "price": 0.139
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 3,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 58000.0,
+            "price": 0.135
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 4,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.25
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 5,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 6000.0,
+            "price": 0.33
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 6,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.373
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 8,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 12000.0,
+            "price": 0.35
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 9,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 22000.0,
+            "price": 0.251
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 10,
+            "stock_id": "3416010",
+            "remark": "RAW SR416 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.52
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 11,
+            "stock_id": "3512010",
+            "remark": "RAW SR512 SW BATTERY",
+            "qty": 100.0,
+            "price": 0.43
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 12,
+            "stock_id": "3521010",
+            "remark": "RAW SR521 SW BATTERY",
+            "qty": 5000.0,
+            "price": 0.178
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 13,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.235
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 14,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 16000.0,
+            "price": 0.145
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 15,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 32000.0,
+            "price": 0.145
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 16,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.32
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 17,
+            "stock_id": "3721010",
+            "remark": "RAW SR721 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.245
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 18,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 3000.0,
+            "price": 0.38
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 19,
+            "stock_id": "3726001",
+            "remark": "SPRON (W-Type) SR726 W BATTERY",
+            "qty": 2000.0,
+            "price": 0.41
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 20,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.385
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 21,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 10000.0,
+            "price": 0.254
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 22,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 4000.0,
+            "price": 0.344
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 23,
+            "stock_id": "3927001",
+            "remark": "[W-Type] SPRON SR927 W BATTERY",
+            "qty": 2000.0,
+            "price": 0.37
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 24,
+            "stock_id": "4202500",
+            "remark": "RAW CR2025 BATTERY",
+            "qty": 50.0,
+            "price": 0.282
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 25,
+            "stock_id": "4203200",
+            "remark": "RAW CR2032 BATTERY",
+            "qty": 2000.0,
+            "price": 0.12
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 27,
+            "stock_id": "S/P",
+            "remark": "MOVEMENT / VH63B1",
+            "qty": 10.0,
+            "price": 3.9
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 28,
+            "stock_id": "S/P",
+            "remark": "MOVEMENT / 8215-33E",
+            "qty": 5.0,
+            "price": 19.9
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 29,
+            "stock_id": "S/P",
+            "remark": "MOVEMENT / VJ22B 6H",
+            "qty": 30.0,
+            "price": 1.72
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 31,
+            "stock_id": "PARTS2",
+            "remark": "6 x 8 CM / 5000 PCS",
+            "qty": 1.0,
+            "price": 16.0
+        },
+        {
+            "doc_no": "PO0603",
+            "item_no": 32,
+            "stock_id": "9161601",
+            "remark": "SPRON CTL1616 BATTERY",
+            "qty": 100.0,
+            "price": 6.7
+        }
+    ],
+    "PO0701": [
+        {
+            "doc_no": "PO0701",
+            "item_no": 1,
+            "stock_id": "E499S8",
+            "remark": "ROSCANI BL E499S8 S/S BRAC GLA BLU",
+            "qty": 100.0,
+            "price": 74.0
+        },
+        {
+            "doc_no": "PO0701",
+            "item_no": 2,
+            "stock_id": "E494S5",
+            "remark": "ROSCANI BL E494S5 R/G BRAC GLA WHT",
+            "qty": 100.0,
+            "price": 86.0
+        },
+        {
+            "doc_no": "PO0701",
+            "item_no": 3,
+            "stock_id": "E494S9",
+            "remark": "ROSCANI BL E494S9 R/G BRAC GLA RED",
+            "qty": 100.0,
+            "price": 86.0
+        },
+        {
+            "doc_no": "PO0701",
+            "item_no": 4,
+            "stock_id": "E495S1",
+            "remark": "ROSCANI BL E495S1 G/D BRAC GLA YEL",
+            "qty": 100.0,
+            "price": 86.0
+        },
+        {
+            "doc_no": "PO0701",
+            "item_no": 5,
+            "stock_id": "E495S3",
+            "remark": "ROSCANI BL E495S3 G/D BRAC GLA BLK",
+            "qty": 100.0,
+            "price": 86.0
+        }
+    ],
+    "PO11545": [
+        {
+            "doc_no": "PO11545",
+            "item_no": 1,
+            "stock_id": "4122000",
+            "remark": "RAW CR1220 BATTERY",
+            "qty": 5000.0,
+            "price": 1.6
+        }
+    ],
+    "PO11552": [
+        {
+            "doc_no": "PO11552",
+            "item_no": 1,
+            "stock_id": "1230001",
+            "remark": "ALKALINE 12 V ( 23A ) BATTERY",
+            "qty": 3000.0,
+            "price": 1.25
+        }
+    ],
+    "PO11686": [
+        {
+            "doc_no": "PO11686",
+            "item_no": 1,
+            "stock_id": "3721010",
+            "remark": "RAW SR721 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.349
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 2,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.48
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 3,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 3000.0,
+            "price": 0.395
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 4,
+            "stock_id": "3927000",
+            "remark": "RAW SR927 W BATTERY",
+            "qty": 3000.0,
+            "price": 0.395
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 5,
+            "stock_id": "4201600",
+            "remark": "RAW CR2016 BATTERY",
+            "qty": 2000.0,
+            "price": 0.165
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 6,
+            "stock_id": "4202500",
+            "remark": "RAW CR2025 BATTERY",
+            "qty": 1899.0,
+            "price": 0.182
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 7,
+            "stock_id": "4163201",
+            "remark": "SPRON CR1632 BATTERY",
+            "qty": 800.0,
+            "price": 0.76
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 8,
+            "stock_id": "4201201",
+            "remark": "SPRON CR2012 BATTERY",
+            "qty": 100.0,
+            "price": 1.05
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 9,
+            "stock_id": "4201600",
+            "remark": "RAW CR2016 BATTERY",
+            "qty": 10400.0,
+            "price": 0.186
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 10,
+            "stock_id": "4202500",
+            "remark": "RAW CR2025 BATTERY",
+            "qty": 7200.0,
+            "price": 0.183
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 11,
+            "stock_id": "4203200",
+            "remark": "RAW CR2032 BATTERY",
+            "qty": 16000.0,
+            "price": 0.18
+        },
+        {
+            "doc_no": "PO11686",
+            "item_no": 12,
+            "stock_id": "4241201",
+            "remark": "SPRON CR2412 BATTERY",
+            "qty": 100.0,
+            "price": 2.23
+        }
+    ],
+    "PO11701": [
+        {
+            "doc_no": "PO11701",
+            "item_no": 1,
+            "stock_id": "BL#621",
+            "remark": "BLISTER # 621",
+            "qty": 30000.0,
+            "price": 0.0245
+        }
+    ],
+    "PO11708": [
+        {
+            "doc_no": "PO11708",
+            "item_no": 1,
+            "stock_id": "1270001",
+            "remark": "ALKALINE 12 V ( 27A ) BATTERY",
+            "qty": 2000.0,
+            "price": 1.8
+        }
+    ],
+    "PO11710": [
+        {
+            "doc_no": "PO11710",
+            "item_no": 1,
+            "stock_id": "BL#621",
+            "remark": "BLISTER # 621",
+            "qty": 70000.0,
+            "price": 0.0245
+        },
+        {
+            "doc_no": "PO11710",
+            "item_no": 2,
+            "stock_id": "BT#920",
+            "remark": "BLISTER # 920",
+            "qty": 25000.0,
+            "price": 0.0325
+        }
+    ],
+    "PO11745": [
+        {
+            "doc_no": "PO11745",
+            "item_no": 1,
+            "stock_id": "3512010",
+            "remark": "RAW SR512 SW BATTERY",
+            "qty": 100.0,
+            "price": 0.5
+        },
+        {
+            "doc_no": "PO11745",
+            "item_no": 2,
+            "stock_id": "3516010",
+            "remark": "RAW SR516 SW BATTERY",
+            "qty": 300.0,
+            "price": 0.3
+        },
+        {
+            "doc_no": "PO11745",
+            "item_no": 3,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.28
+        },
+        {
+            "doc_no": "PO11745",
+            "item_no": 4,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 2500.0,
+            "price": 0.42
+        },
+        {
+            "doc_no": "PO11745",
+            "item_no": 5,
+            "stock_id": "4201600",
+            "remark": "RAW CR2016 BATTERY",
+            "qty": 16000.0,
+            "price": 0.186
+        },
+        {
+            "doc_no": "PO11745",
+            "item_no": 6,
+            "stock_id": "4202500",
+            "remark": "RAW CR2025 BATTERY",
+            "qty": 10400.0,
+            "price": 0.183
+        },
+        {
+            "doc_no": "PO11745",
+            "item_no": 7,
+            "stock_id": "4203200",
+            "remark": "RAW CR2032 BATTERY",
+            "qty": 16800.0,
+            "price": 0.18
+        },
+        {
+            "doc_no": "PO11745",
+            "item_no": 8,
+            "stock_id": "4241201",
+            "remark": "SPRON CR2412 BATTERY",
+            "qty": 100.0,
+            "price": 2.23
+        }
+    ],
+    "PO11824": [
+        {
+            "doc_no": "PO11824",
+            "item_no": 1,
+            "stock_id": "3920001",
+            "remark": "[W-Type] SPRON SR920 W BATTERY",
+            "qty": 500.0,
+            "price": 0.483
+        },
+        {
+            "doc_no": "PO11824",
+            "item_no": 2,
+            "stock_id": "4122000",
+            "remark": "RAW CR1220 BATTERY",
+            "qty": 8000.0,
+            "price": 0.275
+        },
+        {
+            "doc_no": "PO11824",
+            "item_no": 3,
+            "stock_id": "4161600",
+            "remark": "RAW CR1616 BATTERY",
+            "qty": 1400.0,
+            "price": 0.285
+        },
+        {
+            "doc_no": "PO11824",
+            "item_no": 4,
+            "stock_id": "4163201",
+            "remark": "SPRON CR1632 BATTERY",
+            "qty": 500.0,
+            "price": 0.76
+        },
+        {
+            "doc_no": "PO11824",
+            "item_no": 5,
+            "stock_id": "4201201",
+            "remark": "SPRON CR2012 BATTERY",
+            "qty": 100.0,
+            "price": 1.05
+        },
+        {
+            "doc_no": "PO11824",
+            "item_no": 6,
+            "stock_id": "4201601",
+            "remark": "SPRON CR2016 BATTERY",
+            "qty": 3200.0,
+            "price": 0.186
+        },
+        {
+            "doc_no": "PO11824",
+            "item_no": 7,
+            "stock_id": "4202501",
+            "remark": "SPRON CR2025 BATTERY",
+            "qty": 7200.0,
+            "price": 0.183
+        },
+        {
+            "doc_no": "PO11824",
+            "item_no": 8,
+            "stock_id": "4203201",
+            "remark": "SPRON CR2032 BATTERY",
+            "qty": 9600.0,
+            "price": 0.18
+        }
+    ],
+    "PO11841": [
+        {
+            "doc_no": "PO11841",
+            "item_no": 1,
+            "stock_id": "1230001",
+            "remark": "ALKALINE 12 V ( 23A ) BATTERY (A)",
+            "qty": 3000.0,
+            "price": 1.25
+        }
+    ],
+    "PO11861": [
+        {
+            "doc_no": "PO11861",
+            "item_no": 1,
+            "stock_id": "4121600",
+            "remark": "RAW CR1216 BATTERY",
+            "qty": 195.0,
+            "price": 1.8
+        }
+    ],
+    "PO12071": [
+        {
+            "doc_no": "PO12071",
+            "item_no": 1,
+            "stock_id": "1230001",
+            "remark": "ALKALINE 12 V ( 23A ) BATTERY (A)",
+            "qty": 3000.0,
+            "price": 1.25
+        }
+    ],
+    "PO12246": [
+        {
+            "doc_no": "PO12246",
+            "item_no": 1,
+            "stock_id": "4121600",
+            "remark": "RAW CR1216 BATTERY",
+            "qty": 100.0,
+            "price": 1.8
+        },
+        {
+            "doc_no": "PO12246",
+            "item_no": 2,
+            "stock_id": "4122000",
+            "remark": "RAW CR1220 BATTERY",
+            "qty": 500.0,
+            "price": 2.0
+        }
+    ],
+    "PO12259": [
+        {
+            "doc_no": "PO12259",
+            "item_no": 1,
+            "stock_id": "3440010",
+            "remark": "RAW SR44 SW BATTERY",
+            "qty": 25.0,
+            "price": 9.0
+        }
+    ],
+    "PO12315": [
+        {
+            "doc_no": "PO12315",
+            "item_no": 1,
+            "stock_id": "1270001",
+            "remark": "ALKALINE 12 V ( 27A ) BATTERY (A)",
+            "qty": 2000.0,
+            "price": 1.8
+        }
+    ],
+    "PO12459": [
+        {
+            "doc_no": "PO12459",
+            "item_no": 1,
+            "stock_id": "1230001",
+            "remark": "ALKALINE 12 V ( 23A ) BATTERY (A)",
+            "qty": 3000.0,
+            "price": 1.25
+        }
+    ],
+    "PO160404": [
+        {
+            "doc_no": "PO160404",
+            "item_no": 1,
+            "stock_id": "4162000",
+            "remark": "RAW CR1620 BATTERY",
+            "qty": 200.0,
+            "price": 2.1
+        }
+    ],
+    "PO2115": [
+        {
+            "doc_no": "PO2115",
+            "item_no": 1,
+            "stock_id": "4162000",
+            "remark": "RAW CR1620 BATTERY",
+            "qty": 300.0,
+            "price": 2.5
+        }
+    ],
+    "PO241218": [
+        {
+            "doc_no": "PO241218",
+            "item_no": 1,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 10000.0,
+            "price": 0.139
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 2,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 27000.0,
+            "price": 0.135
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 4,
+            "stock_id": "3516010",
+            "remark": "RAW SR516 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.275
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 5,
+            "stock_id": "3521010",
+            "remark": "RAW SR521 SW BATTERY",
+            "qty": 3000.0,
+            "price": 0.178
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 6,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 12000.0,
+            "price": 0.145
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 7,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.32
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 8,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 5000.0,
+            "price": 0.38
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 9,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.385
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 10,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 15000.0,
+            "price": 0.254
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 11,
+            "stock_id": "7113000",
+            "remark": "RAW LR1130 BATTERY",
+            "qty": 3000.0,
+            "price": 0.06
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 12,
+            "stock_id": "7440000",
+            "remark": "RAW LR44 BATTERY",
+            "qty": 4000.0,
+            "price": 0.068
+        },
+        {
+            "doc_no": "PO241218",
+            "item_no": 13,
+            "stock_id": "S/P",
+            "remark": "SPARE PART",
+            "qty": 1.0,
+            "price": 19.0
+        }
+    ],
+    "PO2501": [
+        {
+            "doc_no": "PO2501",
+            "item_no": 1,
+            "stock_id": "S139G8",
+            "remark": "ROSCANI BL S139G8 S/S BRAC GLA BLU",
+            "qty": 100.0,
+            "price": 66.0
+        },
+        {
+            "doc_no": "PO2501",
+            "item_no": 2,
+            "stock_id": "S134G0",
+            "remark": "ROSCANI BL S134G0 R/G BRAC GLA RGD",
+            "qty": 100.0,
+            "price": 77.0
+        },
+        {
+            "doc_no": "PO2501",
+            "item_no": 3,
+            "stock_id": "S134G3",
+            "remark": "ROSCANI BL S134G3 R/G BRAC GLA BLK",
+            "qty": 100.0,
+            "price": 77.0
+        },
+        {
+            "doc_no": "PO2501",
+            "item_no": 4,
+            "stock_id": "S135G5",
+            "remark": "ROSCANI BL S135G5 G/D BRAC GLA WHT",
+            "qty": 100.0,
+            "price": 77.0
+        },
+        {
+            "doc_no": "PO2501",
+            "item_no": 5,
+            "stock_id": "S135G1",
+            "remark": "ROSCANI BL S135G1 G/D BRAC GLA YEL",
+            "qty": 100.0,
+            "price": 77.0
+        }
+    ],
+    "PO250403": [
+        {
+            "doc_no": "PO250403",
+            "item_no": 1,
+            "stock_id": "3721010",
+            "remark": "RAW SR721 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.245
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 2,
+            "stock_id": "4243001",
+            "remark": "SPRON CR2430 BATTERY",
+            "qty": 100.0,
+            "price": 0.53
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 3,
+            "stock_id": "4245001",
+            "remark": "SPRON CR2450 BATTERY",
+            "qty": 100.0,
+            "price": 0.6
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 4,
+            "stock_id": "4203201",
+            "remark": "SPRON CR2032 BATTERY",
+            "qty": 50.0,
+            "price": 0.282
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 5,
+            "stock_id": "4161600",
+            "remark": "RAW CR1616 BATTERY",
+            "qty": 1000.0,
+            "price": 0.2
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 6,
+            "stock_id": "4162000",
+            "remark": "RAW CR1620 BATTERY",
+            "qty": 1000.0,
+            "price": 0.33
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 7,
+            "stock_id": "4122000",
+            "remark": "RAW CR1220 BATTERY",
+            "qty": 5000.0,
+            "price": 0.285
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 8,
+            "stock_id": "9920001",
+            "remark": "SPRON CTL920 BATTERY",
+            "qty": 100.0,
+            "price": 8.5
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 9,
+            "stock_id": "131000",
+            "remark": "C10 CRYSTAL GLASS",
+            "qty": 690.0,
+            "price": 0.1
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 10,
+            "stock_id": "131300",
+            "remark": "C13 CRYSTAL GLASS",
+            "qty": 100.0,
+            "price": 0.12
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 11,
+            "stock_id": "131500",
+            "remark": "C15 CRYSTAL GLASS",
+            "qty": 320.0,
+            "price": 0.135
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 12,
+            "stock_id": "131801",
+            "remark": "C18P CRYSTAL GLASS",
+            "qty": 50.0,
+            "price": 0.15
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 13,
+            "stock_id": "132000",
+            "remark": "C20P CRYSTAL GLASS",
+            "qty": 560.0,
+            "price": 0.16
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 14,
+            "stock_id": "132500",
+            "remark": "C25A CRYSTAL GLASS",
+            "qty": 530.0,
+            "price": 0.2
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 15,
+            "stock_id": "133000",
+            "remark": "C30A CRYSTAL GLASS",
+            "qty": 90.0,
+            "price": 0.235
+        },
+        {
+            "doc_no": "PO250403",
+            "item_no": 16,
+            "stock_id": "151500",
+            "remark": "SC15 - SINGLE CURVE 1.5M GLASS SETS",
+            "qty": 130.0,
+            "price": 0.4
+        }
+    ],
+    "PO2505": [
+        {
+            "doc_no": "PO2505",
+            "item_no": 1,
+            "stock_id": "AF180BK",
+            "remark": "AURAFIT AM18 SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 24.0
+        },
+        {
+            "doc_no": "PO2505",
+            "item_no": 2,
+            "stock_id": "AFG60GN",
+            "remark": "AURAFIT G6 GPS SMARTWATCH GRN",
+            "qty": 60.0,
+            "price": 28.0
+        },
+        {
+            "doc_no": "PO2505",
+            "item_no": 3,
+            "stock_id": "AF10MBK",
+            "remark": "AURAFIT A10 MINI SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 16.0
+        },
+        {
+            "doc_no": "PO2505",
+            "item_no": 4,
+            "stock_id": "S/P",
+            "remark": "FREIGHT CHARGES",
+            "qty": 1.0,
+            "price": 180.0
+        }
+    ],
+    "PO250731": [
+        {
+            "doc_no": "PO250731",
+            "item_no": 1,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 14000.0,
+            "price": 0.139
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 2,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 12000.0,
+            "price": 0.135
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 3,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.32
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 4,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.41
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 5,
+            "stock_id": "3936010",
+            "remark": "RAW SR936 SW BATTERY",
+            "qty": 300.0,
+            "price": 0.51
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 6,
+            "stock_id": "4161600",
+            "remark": "RAW CR1616 BATTERY",
+            "qty": 2000.0,
+            "price": 0.2
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 8,
+            "stock_id": "4162000",
+            "remark": "RAW CR1620 BATTERY",
+            "qty": 2000.0,
+            "price": 0.33
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 9,
+            "stock_id": "4201600",
+            "remark": "RAW CR2016 BATTERY",
+            "qty": 1000.0,
+            "price": 0.128
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 10,
+            "stock_id": "4163202",
+            "remark": "JAPAN CR1632 BATTERY",
+            "qty": 200.0,
+            "price": 0.42
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 11,
+            "stock_id": "4243001",
+            "remark": "SPRON CR2430 BATTERY",
+            "qty": 500.0,
+            "price": 0.53
+        },
+        {
+            "doc_no": "PO250731",
+            "item_no": 12,
+            "stock_id": "4245001",
+            "remark": "SPRON CR2450 BATTERY",
+            "qty": 100.0,
+            "price": 0.6
+        }
+    ],
+    "PO3104": [
+        {
+            "doc_no": "PO3104",
+            "item_no": 1,
+            "stock_id": "AF180BK",
+            "remark": "AURAFIT AM18 SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 24.0
+        },
+        {
+            "doc_no": "PO3104",
+            "item_no": 2,
+            "stock_id": "AF320RN",
+            "remark": "AURAFIT AM32 SMARTWATCH ORN",
+            "qty": 60.0,
+            "price": 24.0
+        },
+        {
+            "doc_no": "PO3104",
+            "item_no": 3,
+            "stock_id": "AF10MBK",
+            "remark": "AURAFIT A10 MINI SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 16.0
+        },
+        {
+            "doc_no": "PO3104",
+            "item_no": 4,
+            "stock_id": "OTHERS",
+            "remark": "CARRIAGE INWARDS",
+            "qty": 1.0,
+            "price": 168.0
+        }
+    ],
+    "PO38397": [
+        {
+            "doc_no": "PO38397",
+            "item_no": 1,
+            "stock_id": "3516010",
+            "remark": "RAW SR516 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.22
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 2,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.238
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 3,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 28000.0,
+            "price": 0.139
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 4,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 58000.0,
+            "price": 0.135
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 5,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.25
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 6,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 6000.0,
+            "price": 0.33
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 7,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.373
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 8,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 20000.0,
+            "price": 0.251
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 9,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 12000.0,
+            "price": 0.35
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 10,
+            "stock_id": "3936010",
+            "remark": "RAW SR936 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.51
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 11,
+            "stock_id": "3516010",
+            "remark": "RAW SR516 SW BATTERY",
+            "qty": 300.0,
+            "price": 0.275
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 12,
+            "stock_id": "3521010",
+            "remark": "RAW SR521 SW BATTERY",
+            "qty": 5000.0,
+            "price": 0.178
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 13,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.235
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 14,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 12000.0,
+            "price": 0.145
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 15,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 32000.0,
+            "price": 0.145
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 16,
+            "stock_id": "3712010",
+            "remark": "RAW SR712 SW BATTERY",
+            "qty": 100.0,
+            "price": 0.51
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 17,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.32
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 18,
+            "stock_id": "3721010",
+            "remark": "RAW SR721 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.245
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 19,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.38
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 20,
+            "stock_id": "3726001",
+            "remark": "SPRON (W-Type) SR726 W BATTERY",
+            "qty": 1500.0,
+            "price": 0.41
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 21,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.385
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 22,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 9000.0,
+            "price": 0.254
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 23,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 4000.0,
+            "price": 0.344
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 24,
+            "stock_id": "3927001",
+            "remark": "[W-Type] SPRON SR927 W BATTERY",
+            "qty": 2000.0,
+            "price": 0.37
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 25,
+            "stock_id": "3936010",
+            "remark": "RAW SR936 SW BATTERY",
+            "qty": 1500.0,
+            "price": 0.51
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 26,
+            "stock_id": "4243001",
+            "remark": "SPRON CR2430 BATTERY",
+            "qty": 300.0,
+            "price": 0.53
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 27,
+            "stock_id": "4245001",
+            "remark": "SPRON CR2450 BATTERY",
+            "qty": 200.0,
+            "price": 0.6
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 28,
+            "stock_id": "4161600",
+            "remark": "RAW CR1616 BATTERY",
+            "qty": 1000.0,
+            "price": 0.2
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 29,
+            "stock_id": "4203200",
+            "remark": "RAW CR2032 BATTERY",
+            "qty": 2000.0,
+            "price": 0.128
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 30,
+            "stock_id": "9920001",
+            "remark": "SPRON CTL920 BATTERY",
+            "qty": 30.0,
+            "price": 8.5
+        },
+        {
+            "doc_no": "PO38397",
+            "item_no": 31,
+            "stock_id": "9161601",
+            "remark": "SPRON CTL1616 BATTERY",
+            "qty": 100.0,
+            "price": 6.7
+        }
+    ],
+    "PO3929": [
+        {
+            "doc_no": "PO3929",
+            "item_no": 1,
+            "stock_id": "RE/315",
+            "remark": "RENATA BATTERY  315  (SR 716 SW)",
+            "qty": 200.0,
+            "price": 0.44
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 2,
+            "stock_id": "RE/317",
+            "remark": "RENATA BATTERY  317  (SR 516 SW)",
+            "qty": 200.0,
+            "price": 0.272
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 3,
+            "stock_id": "RE/321",
+            "remark": "RENATA BATTERY  321  (SR 616 SW)",
+            "qty": 600.0,
+            "price": 0.263
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 4,
+            "stock_id": "RE/329",
+            "remark": "RENATA BATTERY  329  (SR 731 SW)",
+            "qty": 100.0,
+            "price": 0.476
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 5,
+            "stock_id": "RE/335",
+            "remark": "RENATA BATTERY  335  (SR 512 SW)",
+            "qty": 100.0,
+            "price": 0.528
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 6,
+            "stock_id": "RE/362",
+            "remark": "RENATA BATTERY  362  (SR 721 SW)",
+            "qty": 600.0,
+            "price": 0.263
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 7,
+            "stock_id": "RE/364",
+            "remark": "RENATA BATTERY  364  (SR 621 SW)",
+            "qty": 5000.0,
+            "price": 0.175
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 8,
+            "stock_id": "RE/371",
+            "remark": "RENATA BATTERY  371  (SR 920 SW)",
+            "qty": 3000.0,
+            "price": 0.293
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 9,
+            "stock_id": "RE/373",
+            "remark": "RENATA BATTERY  373  (SR 916 SW)",
+            "qty": 400.0,
+            "price": 0.527
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 10,
+            "stock_id": "RE/377",
+            "remark": "RENATA BATTERY  377  (SR 626 SW)",
+            "qty": 3000.0,
+            "price": 0.175
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 11,
+            "stock_id": "RE/379",
+            "remark": "RENATA BATTERY  379  (SR 521 SW)",
+            "qty": 500.0,
+            "price": 0.263
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 12,
+            "stock_id": "RE/390",
+            "remark": "RENATA BATTERY  390  (SR 1130 SW)",
+            "qty": 300.0,
+            "price": 0.545
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 13,
+            "stock_id": "RE/394",
+            "remark": "RENATA BATTERY  394  (SR 936 SW)",
+            "qty": 3500.0,
+            "price": 0.468
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 14,
+            "stock_id": "RE/395",
+            "remark": "RENATA BATTERY  395  (SR 927 SW)",
+            "qty": 1000.0,
+            "price": 0.36
+        },
+        {
+            "doc_no": "PO3929",
+            "item_no": 15,
+            "stock_id": "RE/397",
+            "remark": "RENATA BATTERY  397  (SR 726 SW)",
+            "qty": 400.0,
+            "price": 0.436
+        }
+    ],
+    "PO5440": [
+        {
+            "doc_no": "PO5440",
+            "item_no": 1,
+            "stock_id": "RE/315",
+            "remark": "RENATA BATTERY  315  (SR 716 SW)",
+            "qty": 300.0,
+            "price": 0.44
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 2,
+            "stock_id": "RE/317",
+            "remark": "RENATA BATTERY  317  (SR 516 SW)",
+            "qty": 300.0,
+            "price": 0.272
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 3,
+            "stock_id": "RE/321",
+            "remark": "RENATA BATTERY  321  (SR 616 SW)",
+            "qty": 1200.0,
+            "price": 0.263
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 4,
+            "stock_id": "RE/335",
+            "remark": "RENATA BATTERY  335  (SR 512 SW)",
+            "qty": 200.0,
+            "price": 0.528
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 5,
+            "stock_id": "RE/362",
+            "remark": "RENATA BATTERY  362  (SR 721 SW)",
+            "qty": 500.0,
+            "price": 0.263
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 6,
+            "stock_id": "RE/364",
+            "remark": "RENATA BATTERY  364  (SR 621 SW)",
+            "qty": 6500.0,
+            "price": 0.175
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 7,
+            "stock_id": "RE/371",
+            "remark": "RENATA BATTERY  371  (SR 920 SW)",
+            "qty": 5000.0,
+            "price": 0.293
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 8,
+            "stock_id": "RE/373",
+            "remark": "RENATA BATTERY  373  (SR 916 SW)",
+            "qty": 500.0,
+            "price": 0.527
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 9,
+            "stock_id": "RE/377",
+            "remark": "RENATA BATTERY  377  (SR 626 SW)",
+            "qty": 4000.0,
+            "price": 0.175
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 10,
+            "stock_id": "RE/379",
+            "remark": "RENATA BATTERY  379  (SR 521 SW)",
+            "qty": 600.0,
+            "price": 0.263
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 11,
+            "stock_id": "RE/390",
+            "remark": "RENATA BATTERY  390  (SR 1130 SW)",
+            "qty": 600.0,
+            "price": 0.545
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 12,
+            "stock_id": "RE/394",
+            "remark": "RENATA BATTERY  394  (SR 936 SW)",
+            "qty": 6500.0,
+            "price": 0.468
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 13,
+            "stock_id": "RE/395",
+            "remark": "RENATA BATTERY  395  (SR 927 SW)",
+            "qty": 2500.0,
+            "price": 0.36
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 14,
+            "stock_id": "RE/397",
+            "remark": "RENATA BATTERY  397  (SR 726 SW)",
+            "qty": 400.0,
+            "price": 0.436
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 15,
+            "stock_id": "RE/341",
+            "remark": "RENATA BATTERY  341  (SR 714 SW)",
+            "qty": 100.0,
+            "price": 0.605
+        },
+        {
+            "doc_no": "PO5440",
+            "item_no": 16,
+            "stock_id": "RE/346",
+            "remark": "RENATA BATTERY  346  (SR 712 SW)",
+            "qty": 100.0,
+            "price": 0.585
+        }
+    ],
+    "PO55253": [
+        {
+            "doc_no": "PO55253",
+            "item_no": 1,
+            "stock_id": "3516010",
+            "remark": "RAW SR516 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.23
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 2,
+            "stock_id": "3521010",
+            "remark": "RAW SR521 SW BATTERY",
+            "qty": 4000.0,
+            "price": 0.184
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 3,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.245
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 4,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 32000.0,
+            "price": 0.14
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 5,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 60000.0,
+            "price": 0.135
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 6,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.27
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 7,
+            "stock_id": "3721010",
+            "remark": "RAW SR721 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.26
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 8,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 7000.0,
+            "price": 0.35
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 9,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.39
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 10,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 20000.0,
+            "price": 0.255
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 11,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 9000.0,
+            "price": 0.36
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 12,
+            "stock_id": "3936010",
+            "remark": "RAW SR936 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.53
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 13,
+            "stock_id": "3113010",
+            "remark": "RAW SR1130 SW BATTERY",
+            "qty": 200.0,
+            "price": 0.65
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 14,
+            "stock_id": "3512010",
+            "remark": "RAW SR512 SW BATTERY",
+            "qty": 100.0,
+            "price": 0.435
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 15,
+            "stock_id": "3516010",
+            "remark": "RAW SR516 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.282
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 16,
+            "stock_id": "3521010",
+            "remark": "RAW SR521 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.183
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 17,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.24
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 18,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 22000.0,
+            "price": 0.146
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 19,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 40000.0,
+            "price": 0.146
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 20,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.33
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 21,
+            "stock_id": "3721010",
+            "remark": "RAW SR721 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.25
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 22,
+            "stock_id": "3726000",
+            "remark": "RAW SR726 W BATTERY",
+            "qty": 4000.0,
+            "price": 0.414
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 23,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.39
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 24,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.395
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 25,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 12000.0,
+            "price": 0.258
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 26,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.35
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 27,
+            "stock_id": "3927000",
+            "remark": "RAW SR927 W BATTERY",
+            "qty": 1000.0,
+            "price": 0.38
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 28,
+            "stock_id": "3936010",
+            "remark": "RAW SR936 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.518
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 29,
+            "stock_id": "4121600",
+            "remark": "RAW CR1216 BATTERY",
+            "qty": 500.0,
+            "price": 0.22
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 30,
+            "stock_id": "4122000",
+            "remark": "RAW CR1220 BATTERY",
+            "qty": 4000.0,
+            "price": 0.185
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 31,
+            "stock_id": "7113000",
+            "remark": "RAW LR1130 BATTERY",
+            "qty": 2000.0,
+            "price": 0.06
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 32,
+            "stock_id": "7440000",
+            "remark": "RAW LR44 BATTERY",
+            "qty": 3000.0,
+            "price": 0.068
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 33,
+            "stock_id": "9161601",
+            "remark": "SPRON CTL1616 BATTERY",
+            "qty": 40.0,
+            "price": 6.7
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 34,
+            "stock_id": "9920001",
+            "remark": "SPRON CTL920 BATTERY",
+            "qty": 20.0,
+            "price": 8.5
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 35,
+            "stock_id": "4245001",
+            "remark": "SPRON CR2450 BATTERY",
+            "qty": 100.0,
+            "price": 0.6
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 36,
+            "stock_id": "4163201",
+            "remark": "SPRON CR1632 BATTERY",
+            "qty": 200.0,
+            "price": 0.42
+        },
+        {
+            "doc_no": "PO55253",
+            "item_no": 37,
+            "stock_id": "4201201",
+            "remark": "SPRON CR2012 BATTERY",
+            "qty": 60.0,
+            "price": 0.73
+        }
+    ],
+    "PO7308": [
+        {
+            "doc_no": "PO7308",
+            "item_no": 1,
+            "stock_id": "E509G6",
+            "remark": "ROSCANI BL E509G6 S/S BRAC SPG GRY",
+            "qty": 80.0,
+            "price": 13.8
+        },
+        {
+            "doc_no": "PO7308",
+            "item_no": 2,
+            "stock_id": "E505G1",
+            "remark": "ROSCANI BL E505G1 G/D BRAC SPG YEL",
+            "qty": 85.0,
+            "price": 17.8
+        },
+        {
+            "doc_no": "PO7308",
+            "item_no": 3,
+            "stock_id": "E505G5",
+            "remark": "ROSCANI BL E505G5 G/D BRAC SPG WHT",
+            "qty": 90.0,
+            "price": 17.8
+        },
+        {
+            "doc_no": "PO7308",
+            "item_no": 4,
+            "stock_id": "E504G0",
+            "remark": "ROSCANI BL E504G0 R/G BRAC SPG RGD",
+            "qty": 70.0,
+            "price": 18.5
+        },
+        {
+            "doc_no": "PO7308",
+            "item_no": 5,
+            "stock_id": "E504G4",
+            "remark": "ROSCANI BL E504G4 R/G BRAC SPG BRN",
+            "qty": 90.0,
+            "price": 18.5
+        },
+        {
+            "doc_no": "PO7308",
+            "item_no": 6,
+            "stock_id": "E514T0",
+            "remark": "ROSCANI BL E514T0 R/G BRAC SPG RGD",
+            "qty": 50.0,
+            "price": 18.3
+        },
+        {
+            "doc_no": "PO7308",
+            "item_no": 7,
+            "stock_id": "E514T3",
+            "remark": "ROSCANI BL E514T3 R/G BRAC SPG BLK",
+            "qty": 50.0,
+            "price": 17.3
+        },
+        {
+            "doc_no": "PO7308",
+            "item_no": 8,
+            "stock_id": "E515T3",
+            "remark": "ROSCANI BL E515T3 G/D BRAC SPG BLK",
+            "qty": 60.0,
+            "price": 17.7
+        },
+        {
+            "doc_no": "PO7308",
+            "item_no": 9,
+            "stock_id": "E515T1",
+            "remark": "ROSCANI BL E515T1 G/D BRAC SPG YEL",
+            "qty": 40.0,
+            "price": 17.7
+        },
+        {
+            "doc_no": "PO7308",
+            "item_no": 10,
+            "stock_id": "E517T5",
+            "remark": "ROSCANI BL E517T5 G/S BRAC SPG WHT",
+            "qty": 85.0,
+            "price": 16.9
+        }
+    ],
+    "PO7309": [
+        {
+            "doc_no": "PO7309",
+            "item_no": 1,
+            "stock_id": "E509G6",
+            "remark": "ROSCANI BL E509G6 S/S BRAC SPG GRY",
+            "qty": 17.0,
+            "price": 13.8
+        },
+        {
+            "doc_no": "PO7309",
+            "item_no": 2,
+            "stock_id": "E505G1",
+            "remark": "ROSCANI BL E505G1 G/D BRAC SPG YEL",
+            "qty": 15.0,
+            "price": 17.8
+        },
+        {
+            "doc_no": "PO7309",
+            "item_no": 3,
+            "stock_id": "E505G5",
+            "remark": "ROSCANI BL E505G5 G/D BRAC SPG WHT",
+            "qty": 10.0,
+            "price": 17.8
+        },
+        {
+            "doc_no": "PO7309",
+            "item_no": 4,
+            "stock_id": "E504G0",
+            "remark": "ROSCANI BL E504G0 R/G BRAC SPG RGD",
+            "qty": 28.0,
+            "price": 18.5
+        },
+        {
+            "doc_no": "PO7309",
+            "item_no": 5,
+            "stock_id": "E504G4",
+            "remark": "ROSCANI BL E504G4 R/G BRAC SPG BRN",
+            "qty": 10.0,
+            "price": 18.5
+        },
+        {
+            "doc_no": "PO7309",
+            "item_no": 6,
+            "stock_id": "E514T0",
+            "remark": "ROSCANI BL E514T0 R/G BRAC SPG RGD",
+            "qty": 41.0,
+            "price": 18.3
+        },
+        {
+            "doc_no": "PO7309",
+            "item_no": 7,
+            "stock_id": "E514T3",
+            "remark": "ROSCANI BL E514T3 R/G BRAC SPG BLK",
+            "qty": 47.0,
+            "price": 17.3
+        },
+        {
+            "doc_no": "PO7309",
+            "item_no": 8,
+            "stock_id": "E515T3",
+            "remark": "ROSCANI BL E515T3 G/D BRAC SPG BLK",
+            "qty": 36.0,
+            "price": 17.7
+        },
+        {
+            "doc_no": "PO7309",
+            "item_no": 10,
+            "stock_id": "E515T1",
+            "remark": "ROSCANI BL E515T1 G/D BRAC SPG YEL",
+            "qty": 59.0,
+            "price": 17.7
+        },
+        {
+            "doc_no": "PO7309",
+            "item_no": 11,
+            "stock_id": "E517T5",
+            "remark": "ROSCANI BL E517T5 G/S BRAC SPG WHT",
+            "qty": 14.0,
+            "price": 16.9
+        }
+    ],
+    "PO7311": [
+        {
+            "doc_no": "PO7311",
+            "item_no": 1,
+            "stock_id": "E509G6",
+            "remark": "ROSCANI BL E509G6 S/S BRAC SPG GRY",
+            "qty": 3.0,
+            "price": 13.8
+        },
+        {
+            "doc_no": "PO7311",
+            "item_no": 2,
+            "stock_id": "E504G0",
+            "remark": "ROSCANI BL E504G0 R/G BRAC SPG RGD",
+            "qty": 2.0,
+            "price": 18.5
+        },
+        {
+            "doc_no": "PO7311",
+            "item_no": 3,
+            "stock_id": "E514T0",
+            "remark": "ROSCANI BL E514T0 R/G BRAC SPG RGD",
+            "qty": 9.0,
+            "price": 18.3
+        },
+        {
+            "doc_no": "PO7311",
+            "item_no": 4,
+            "stock_id": "E513T3",
+            "remark": "ROSCANI BL E513T3 R/G BRAC SPG BLK",
+            "qty": 3.0,
+            "price": 17.3
+        },
+        {
+            "doc_no": "PO7311",
+            "item_no": 5,
+            "stock_id": "E515T3",
+            "remark": "ROSCANI BL E515T3 G/D BRAC SPG BLK",
+            "qty": 4.0,
+            "price": 17.7
+        },
+        {
+            "doc_no": "PO7311",
+            "item_no": 6,
+            "stock_id": "E515T1",
+            "remark": "ROSCANI BL E515T1 G/D BRAC SPG YEL",
+            "qty": 1.0,
+            "price": 17.7
+        },
+        {
+            "doc_no": "PO7311",
+            "item_no": 7,
+            "stock_id": "E517T5",
+            "remark": "ROSCANI BL E517T5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 16.9
+        }
+    ],
+    "PO7812": [
+        {
+            "doc_no": "PO7812",
+            "item_no": 1,
+            "stock_id": "RE/315",
+            "remark": "RENATA BATTERY  315  (SR 716 SW)",
+            "qty": 100.0,
+            "price": 0.5953
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 2,
+            "stock_id": "RE/321",
+            "remark": "RENATA BATTERY  321  (SR 616 SW)",
+            "qty": 200.0,
+            "price": 0.3559
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 3,
+            "stock_id": "RE/346",
+            "remark": "RENATA BATTERY  346  (SR 712 SW)",
+            "qty": 100.0,
+            "price": 0.7912
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 4,
+            "stock_id": "RE/364",
+            "remark": "RENATA BATTERY  364  (SR 621 SW)",
+            "qty": 2000.0,
+            "price": 0.2371
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 5,
+            "stock_id": "RE/371",
+            "remark": "RENATA BATTERY  371  (SR 920 SW)",
+            "qty": 3000.0,
+            "price": 0.3965
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 6,
+            "stock_id": "RE/377",
+            "remark": "RENATA BATTERY  377  (SR 626 SW)",
+            "qty": 2000.0,
+            "price": 0.2371
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 7,
+            "stock_id": "RE/394",
+            "remark": "RENATA BATTERY  394  (SR 936 SW)",
+            "qty": 2000.0,
+            "price": 0.6329
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 8,
+            "stock_id": "RE/395",
+            "remark": "RENATA BATTERY  395  (SR 927 SW)",
+            "qty": 2000.0,
+            "price": 0.4871
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 9,
+            "stock_id": "RE/397",
+            "remark": "RENATA BATTERY  397  (SR 726 SW)",
+            "qty": 100.0,
+            "price": 0.59
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 10,
+            "stock_id": "S/P",
+            "remark": "BATTERY TESTER",
+            "qty": 6.0,
+            "price": 24.9067
+        },
+        {
+            "doc_no": "PO7812",
+            "item_no": 11,
+            "stock_id": "S/P",
+            "remark": "FRIEGHT CHARGES",
+            "qty": 1.0,
+            "price": 349.16
+        }
+    ]
+}

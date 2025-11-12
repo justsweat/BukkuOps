@@ -1,0 +1,4442 @@
+{
+    "WCT7": {
+        "id": 596,
+        "code": "WCT7",
+        "updated_on": "2025-06-06"
+    },
+    "WYMY": {
+        "id": 803,
+        "code": "WYMY",
+        "updated_on": "2025-06-06"
+    },
+    "NYMT": {
+        "id": 884,
+        "code": "NYMT",
+        "updated_on": "2025-04-30"
+    },
+    "NBLM": {
+        "id": 243,
+        "code": "NBLM",
+        "updated_on": "2025-04-30"
+    },
+    "NBLL": {
+        "id": 242,
+        "code": "NBLL",
+        "updated_on": "2025-04-14"
+    },
+    "NBLN": {
+        "id": 244,
+        "code": "NBLN",
+        "updated_on": "2025-04-14"
+    },
+    "J11S": {
+        "id": 76,
+        "code": "J11S",
+        "updated_on": "2025-06-06"
+    },
+    "OTW1": {
+        "id": 876,
+        "code": "OTW1",
+        "updated_on": "2025-04-29"
+    },
+    "JAPT": {
+        "id": 829,
+        "code": "JAPT",
+        "updated_on": "2025-04-29"
+    },
+    "JADT": {
+        "id": 78,
+        "code": "JADT",
+        "updated_on": "2025-04-14"
+    },
+    "null": {
+        "id": 900,
+        "code": null,
+        "updated_on": "2025-08-07"
+    },
+    "WMY4": {
+        "id": 691,
+        "code": "WMY4",
+        "updated_on": "2025-04-14"
+    },
+    "WMY1": {
+        "id": 689,
+        "code": "WMY1",
+        "updated_on": "2025-04-14"
+    },
+    "WMY5": {
+        "id": 697,
+        "code": "WMY5",
+        "updated_on": "2025-04-14"
+    },
+    "JAC1": {
+        "id": 77,
+        "code": "JAC1",
+        "updated_on": "2025-08-07"
+    },
+    "WACR": {
+        "id": 561,
+        "code": "WACR",
+        "updated_on": "2025-04-14"
+    },
+    "WAD1": {
+        "id": 562,
+        "code": "WAD1",
+        "updated_on": "2025-05-08"
+    },
+    "ZCKC": {
+        "id": 809,
+        "code": "ZCKC",
+        "updated_on": "2025-04-14"
+    },
+    "JAKG": {
+        "id": 80,
+        "code": "JAKG",
+        "updated_on": "2025-04-14"
+    },
+    "WAP1": {
+        "id": 569,
+        "code": "WAP1",
+        "updated_on": "2025-06-04"
+    },
+    "NAB2": {
+        "id": 239,
+        "code": "NAB2",
+        "updated_on": "2025-05-08"
+    },
+    "MALW": {
+        "id": 164,
+        "code": "MALW",
+        "updated_on": "2025-06-04"
+    },
+    "WALL": {
+        "id": 563,
+        "code": "WALL",
+        "updated_on": "2025-06-04"
+    },
+    "OALI": {
+        "id": 866,
+        "code": "OALI",
+        "updated_on": "2025-04-29"
+    },
+    "JAMZ": {
+        "id": 81,
+        "code": "JAMZ",
+        "updated_on": "2025-04-14"
+    },
+    "WAM1": {
+        "id": 564,
+        "code": "WAM1",
+        "updated_on": "2025-04-14"
+    },
+    "JAJW": {
+        "id": 79,
+        "code": "JAJW",
+        "updated_on": "2025-04-14"
+    },
+    "WANT": {
+        "id": 567,
+        "code": "WANT",
+        "updated_on": "2025-06-06"
+    },
+    "WANY": {
+        "id": 568,
+        "code": "WANY",
+        "updated_on": "2025-04-14"
+    },
+    "WCAC-C": {
+        "id": 585,
+        "code": "WCAC-C",
+        "updated_on": "2025-04-14"
+    },
+    "WCAC-T": {
+        "id": 591,
+        "code": "WCAC-T",
+        "updated_on": "2025-04-14"
+    },
+    "WCAC-F": {
+        "id": 590,
+        "code": "WCAC-F",
+        "updated_on": "2025-04-14"
+    },
+    "SAQL": {
+        "id": 405,
+        "code": "SAQL",
+        "updated_on": "2025-05-08"
+    },
+    "OAEA": {
+        "id": 865,
+        "code": "OAEA",
+        "updated_on": "2025-04-29"
+    },
+    "NTPR": {
+        "id": 347,
+        "code": "NTPR",
+        "updated_on": "2025-04-14"
+    },
+    "NTPT": {
+        "id": 348,
+        "code": "NTPT",
+        "updated_on": "2025-05-08"
+    },
+    "NTPU": {
+        "id": 349,
+        "code": "NTPU",
+        "updated_on": "2025-04-14"
+    },
+    "SATH": {
+        "id": 408,
+        "code": "SATH",
+        "updated_on": "2025-04-14"
+    },
+    "MAS1": {
+        "id": 165,
+        "code": "MAS1",
+        "updated_on": "2025-04-14"
+    },
+    "JASN": {
+        "id": 830,
+        "code": "JASN",
+        "updated_on": "2025-04-29"
+    },
+    "SASQ": {
+        "id": 406,
+        "code": "SASQ",
+        "updated_on": "2025-06-20"
+    },
+    "OADP": {
+        "id": 381,
+        "code": "OADP",
+        "updated_on": "2025-04-14"
+    },
+    "JALT": {
+        "id": 828,
+        "code": "JALT",
+        "updated_on": "2025-04-29"
+    },
+    "WAMR": {
+        "id": 565,
+        "code": "WAMR",
+        "updated_on": "2025-05-08"
+    },
+    "WAMU": {
+        "id": 566,
+        "code": "WAMU",
+        "updated_on": "2025-06-13"
+    },
+    "WBMB": {
+        "id": 573,
+        "code": "WBMB",
+        "updated_on": "2025-04-14"
+    },
+    "MBLT": {
+        "id": 166,
+        "code": "MBLT",
+        "updated_on": "2025-04-14"
+    },
+    "NBFT": {
+        "id": 240,
+        "code": "NBFT",
+        "updated_on": "2025-06-04"
+    },
+    "WBT6": {
+        "id": 579,
+        "code": "WBT6",
+        "updated_on": "2025-04-14"
+    },
+    "WBT7": {
+        "id": 580,
+        "code": "WBT7",
+        "updated_on": "2025-04-14"
+    },
+    "WBT2": {
+        "id": 575,
+        "code": "WBT2",
+        "updated_on": "2025-04-14"
+    },
+    "WBTY-C": {
+        "id": 584,
+        "code": "WBTY-C",
+        "updated_on": "2025-05-08"
+    },
+    "WBTY": {
+        "id": 583,
+        "code": "WBTY",
+        "updated_on": "2025-04-14"
+    },
+    "WBT5": {
+        "id": 578,
+        "code": "WBT5",
+        "updated_on": "2025-04-14"
+    },
+    "WBTP": {
+        "id": 581,
+        "code": "WBTP",
+        "updated_on": "2025-04-14"
+    },
+    "WBTQ": {
+        "id": 582,
+        "code": "WBTQ",
+        "updated_on": "2025-04-14"
+    },
+    "WBT1": {
+        "id": 574,
+        "code": "WBT1",
+        "updated_on": "2025-04-14"
+    },
+    "WBT3": {
+        "id": 576,
+        "code": "WBT3",
+        "updated_on": "2025-04-14"
+    },
+    "WBT4": {
+        "id": 577,
+        "code": "WBT4",
+        "updated_on": "2025-05-22"
+    },
+    "NBN2": {
+        "id": 253,
+        "code": "NBN2",
+        "updated_on": "2025-04-14"
+    },
+    "WBL1": {
+        "id": 571,
+        "code": "WBL1",
+        "updated_on": "2025-04-14"
+    },
+    "OBIM": {
+        "id": 382,
+        "code": "OBIM",
+        "updated_on": "2025-04-14"
+    },
+    "BOSS": {
+        "id": 8,
+        "code": "BOSS",
+        "updated_on": "2025-04-14"
+    },
+    "MBNT-B": {
+        "id": 173,
+        "code": "MBNT-B",
+        "updated_on": "2025-04-14"
+    },
+    "MBNT-D": {
+        "id": 175,
+        "code": "MBNT-D",
+        "updated_on": "2025-04-14"
+    },
+    "MBNT": {
+        "id": 172,
+        "code": "MBNT",
+        "updated_on": "2025-04-14"
+    },
+    "MBNT-M": {
+        "id": 176,
+        "code": "MBNT-M",
+        "updated_on": "2025-04-14"
+    },
+    "MBNT-C": {
+        "id": 174,
+        "code": "MBNT-C",
+        "updated_on": "2025-04-14"
+    },
+    "NBTZ": {
+        "id": 265,
+        "code": "NBTZ",
+        "updated_on": "2025-05-08"
+    },
+    "NBTE": {
+        "id": 256,
+        "code": "NBTE",
+        "updated_on": "2025-05-08"
+    },
+    "NBTQ": {
+        "id": 258,
+        "code": "NBTQ",
+        "updated_on": "2025-05-08"
+    },
+    "NBTY": {
+        "id": 264,
+        "code": "NBTY",
+        "updated_on": "2025-05-08"
+    },
+    "NBTG": {
+        "id": 257,
+        "code": "NBTG",
+        "updated_on": "2025-05-08"
+    },
+    "NBTV": {
+        "id": 262,
+        "code": "NBTV",
+        "updated_on": "2025-05-08"
+    },
+    "NBTA": {
+        "id": 254,
+        "code": "NBTA",
+        "updated_on": "2025-05-08"
+    },
+    "NBTR": {
+        "id": 259,
+        "code": "NBTR",
+        "updated_on": "2025-05-08"
+    },
+    "NBTW": {
+        "id": 263,
+        "code": "NBTW",
+        "updated_on": "2025-05-08"
+    },
+    "NBTU": {
+        "id": 261,
+        "code": "NBTU",
+        "updated_on": "2025-05-08"
+    },
+    "NBTT": {
+        "id": 260,
+        "code": "NBTT",
+        "updated_on": "2025-05-08"
+    },
+    "NBTB": {
+        "id": 255,
+        "code": "NBTB",
+        "updated_on": "2025-06-06"
+    },
+    "OBRI": {
+        "id": 867,
+        "code": "OBRI",
+        "updated_on": "2025-04-29"
+    },
+    "NBLP": {
+        "id": 245,
+        "code": "NBLP",
+        "updated_on": "2025-04-14"
+    },
+    "NBLW": {
+        "id": 250,
+        "code": "NBLW",
+        "updated_on": "2025-05-22"
+    },
+    "NBLY": {
+        "id": 252,
+        "code": "NBLY",
+        "updated_on": "2025-05-22"
+    },
+    "NBLS": {
+        "id": 246,
+        "code": "NBLS",
+        "updated_on": "2025-05-22"
+    },
+    "NBLT": {
+        "id": 247,
+        "code": "NBLT",
+        "updated_on": "2025-05-22"
+    },
+    "NBLU": {
+        "id": 248,
+        "code": "NBLU",
+        "updated_on": "2025-05-22"
+    },
+    "NBLV": {
+        "id": 249,
+        "code": "NBLV",
+        "updated_on": "2025-05-22"
+    },
+    "NBLX": {
+        "id": 251,
+        "code": "NBLX",
+        "updated_on": "2025-05-08"
+    },
+    "WBLL": {
+        "id": 572,
+        "code": "WBLL",
+        "updated_on": "2025-04-14"
+    },
+    "JBWA": {
+        "id": 834,
+        "code": "JBWA",
+        "updated_on": "2025-04-29"
+    },
+    "JBW1": {
+        "id": 831,
+        "code": "JBW1",
+        "updated_on": "2025-04-29"
+    },
+    "JBSK": {
+        "id": 82,
+        "code": "JBSK",
+        "updated_on": "2025-04-14"
+    },
+    "WCLB": {
+        "id": 589,
+        "code": "WCLB",
+        "updated_on": "2025-04-14"
+    },
+    "SCVT": {
+        "id": 428,
+        "code": "SCVT",
+        "updated_on": "2025-05-08"
+    },
+    "WCBL": {
+        "id": 586,
+        "code": "WCBL",
+        "updated_on": "2025-04-14"
+    },
+    "JCLP": {
+        "id": 83,
+        "code": "JCLP",
+        "updated_on": "2025-04-14"
+    },
+    "OYST": {
+        "id": 826,
+        "code": "OYST",
+        "updated_on": "2025-06-12"
+    },
+    "WYST": {
+        "id": 805,
+        "code": "WYST",
+        "updated_on": "2025-04-14"
+    },
+    "SJFE": {
+        "id": 456,
+        "code": "SJFE",
+        "updated_on": "2025-06-04"
+    },
+    "MCC1": {
+        "id": 169,
+        "code": "MCC1",
+        "updated_on": "2025-04-14"
+    },
+    "WCH4": {
+        "id": 588,
+        "code": "WCH4",
+        "updated_on": "2025-04-14"
+    },
+    "NCCS": {
+        "id": 266,
+        "code": "NCCS",
+        "updated_on": "2025-04-14"
+    },
+    "SCH4": {
+        "id": 413,
+        "code": "SCH4",
+        "updated_on": "2025-05-08"
+    },
+    "SCH2": {
+        "id": 412,
+        "code": "SCH2",
+        "updated_on": "2025-05-08"
+    },
+    "SCF1": {
+        "id": 410,
+        "code": "SCF1",
+        "updated_on": "2025-05-08"
+    },
+    "SCKS": {
+        "id": 419,
+        "code": "SCKS",
+        "updated_on": "2025-04-14"
+    },
+    "MCE1": {
+        "id": 171,
+        "code": "MCE1",
+        "updated_on": "2025-04-14"
+    },
+    "SCF1-C": {
+        "id": 411,
+        "code": "SCF1-C",
+        "updated_on": "2025-04-14"
+    },
+    "WHS2": {
+        "id": 637,
+        "code": "WHS2",
+        "updated_on": "2025-05-08"
+    },
+    "KKH2": {
+        "id": 145,
+        "code": "KKH2",
+        "updated_on": "2025-04-14"
+    },
+    "NKCN": {
+        "id": 291,
+        "code": "NKCN",
+        "updated_on": "2025-05-08"
+    },
+    "KWS1": {
+        "id": 159,
+        "code": "KWS1",
+        "updated_on": "2025-04-14"
+    },
+    "JCNT": {
+        "id": 832,
+        "code": "JCNT",
+        "updated_on": "2025-04-29"
+    },
+    "SCC1": {
+        "id": 409,
+        "code": "SCC1",
+        "updated_on": "2025-04-14"
+    },
+    "MCFK": {
+        "id": 177,
+        "code": "MCFK",
+        "updated_on": "2025-04-14"
+    },
+    "MCMK": {
+        "id": 179,
+        "code": "MCMK",
+        "updated_on": "2025-04-14"
+    },
+    "MCD1": {
+        "id": 901,
+        "code": "MCD1",
+        "updated_on": "2025-09-13"
+    },
+    "WCTR": {
+        "id": 597,
+        "code": "WCTR",
+        "updated_on": "2025-06-12"
+    },
+    "ECT2": {
+        "id": 11,
+        "code": "ECT2",
+        "updated_on": "2025-05-08"
+    },
+    "SCTL": {
+        "id": 424,
+        "code": "SCTL",
+        "updated_on": "2025-05-08"
+    },
+    "SCTM": {
+        "id": 431,
+        "code": "SCTM",
+        "updated_on": "2025-05-22"
+    },
+    "SCTS": {
+        "id": 426,
+        "code": "SCTS",
+        "updated_on": "2025-06-04"
+    },
+    "JCTS": {
+        "id": 835,
+        "code": "JCTS",
+        "updated_on": "2025-04-29"
+    },
+    "WCTE-C": {
+        "id": 604,
+        "code": "WCTE-C",
+        "updated_on": "2025-04-14"
+    },
+    "NCT3": {
+        "id": 267,
+        "code": "NCT3",
+        "updated_on": "2025-05-08"
+    },
+    "WCTE": {
+        "id": 603,
+        "code": "WCTE",
+        "updated_on": "2025-04-14"
+    },
+    "MCTT": {
+        "id": 180,
+        "code": "MCTT",
+        "updated_on": "2025-06-26"
+    },
+    "WCTW": {
+        "id": 599,
+        "code": "WCTW",
+        "updated_on": "2025-05-08"
+    },
+    "WCTV": {
+        "id": 598,
+        "code": "WCTV",
+        "updated_on": "2025-05-08"
+    },
+    "SCS1": {
+        "id": 420,
+        "code": "SCS1",
+        "updated_on": "2025-05-08"
+    },
+    "WCST": {
+        "id": 594,
+        "code": "WCST",
+        "updated_on": "2025-06-04"
+    },
+    "WCT3": {
+        "id": 595,
+        "code": "WCT3",
+        "updated_on": "2025-04-14"
+    },
+    "WCFE": {
+        "id": 587,
+        "code": "WCFE",
+        "updated_on": "2025-05-08"
+    },
+    "ECL1": {
+        "id": 16,
+        "code": "ECL1",
+        "updated_on": "2025-06-04"
+    },
+    "WCLT-C": {
+        "id": 593,
+        "code": "WCLT-C",
+        "updated_on": "2025-04-14"
+    },
+    "WCLT": {
+        "id": 592,
+        "code": "WCLT",
+        "updated_on": "2025-04-14"
+    },
+    "MCCY": {
+        "id": 170,
+        "code": "MCCY",
+        "updated_on": "2025-04-14"
+    },
+    "OCTH": {
+        "id": 384,
+        "code": "OCTH",
+        "updated_on": "2025-04-14"
+    },
+    "JCTL": {
+        "id": 84,
+        "code": "JCTL",
+        "updated_on": "2025-04-14"
+    },
+    "SCTP": {
+        "id": 425,
+        "code": "SCTP",
+        "updated_on": "2025-04-14"
+    },
+    "SCTB": {
+        "id": 423,
+        "code": "SCTB",
+        "updated_on": "2025-04-14"
+    },
+    "SCT1": {
+        "id": 421,
+        "code": "SCT1",
+        "updated_on": "2025-05-08"
+    },
+    "SCT1-P": {
+        "id": 422,
+        "code": "SCT1-P",
+        "updated_on": "2025-05-08"
+    },
+    "NCTS": {
+        "id": 268,
+        "code": "NCTS",
+        "updated_on": "2025-07-03"
+    },
+    "NCTS-P": {
+        "id": 274,
+        "code": "NCTS-P",
+        "updated_on": "2025-06-20"
+    },
+    "SDRP": {
+        "id": 432,
+        "code": "SDRP",
+        "updated_on": "2025-04-14"
+    },
+    "SDFM": {
+        "id": 429,
+        "code": "SDFM",
+        "updated_on": "2025-04-14"
+    },
+    "JDHL": {
+        "id": 833,
+        "code": "JDHL",
+        "updated_on": "2025-04-29"
+    },
+    "WDON": {
+        "id": 600,
+        "code": "WDON",
+        "updated_on": "2025-05-08"
+    },
+    "JDKS": {
+        "id": 85,
+        "code": "JDKS",
+        "updated_on": "2025-04-14"
+    },
+    "SDR1": {
+        "id": 430,
+        "code": "SDR1",
+        "updated_on": "2025-06-04"
+    },
+    "WDPS": {
+        "id": 601,
+        "code": "WDPS",
+        "updated_on": "2025-04-14"
+    },
+    "METR": {
+        "id": 181,
+        "code": "METR",
+        "updated_on": "2025-04-14"
+    },
+    "OEST": {
+        "id": 820,
+        "code": "OEST",
+        "updated_on": "2025-04-25"
+    },
+    "KECM": {
+        "id": 136,
+        "code": "KECM",
+        "updated_on": "2025-04-14"
+    },
+    "WEC1": {
+        "id": 602,
+        "code": "WEC1",
+        "updated_on": "2025-05-08"
+    },
+    "WTTD": {
+        "id": 763,
+        "code": "WTTD",
+        "updated_on": "2025-04-14"
+    },
+    "WTTE": {
+        "id": 764,
+        "code": "WTTE",
+        "updated_on": "2025-05-08"
+    },
+    "WTG3": {
+        "id": 739,
+        "code": "WTG3",
+        "updated_on": "2025-05-13"
+    },
+    "WTGN": {
+        "id": 742,
+        "code": "WTGN",
+        "updated_on": "2025-05-13"
+    },
+    "JEEM": {
+        "id": 839,
+        "code": "JEEM",
+        "updated_on": "2025-04-29"
+    },
+    "WEK2": {
+        "id": 610,
+        "code": "WEK2",
+        "updated_on": "2025-04-14"
+    },
+    "JEK2": {
+        "id": 87,
+        "code": "JEK2",
+        "updated_on": "2025-04-14"
+    },
+    "JEKF": {
+        "id": 88,
+        "code": "JEKF",
+        "updated_on": "2025-04-14"
+    },
+    "WEK1": {
+        "id": 609,
+        "code": "WEK1",
+        "updated_on": "2025-04-14"
+    },
+    "JEK1": {
+        "id": 86,
+        "code": "JEK1",
+        "updated_on": "2025-04-14"
+    },
+    "JEKO": {
+        "id": 90,
+        "code": "JEKO",
+        "updated_on": "2025-04-14"
+    },
+    "WEKR": {
+        "id": 606,
+        "code": "WEKR",
+        "updated_on": "2025-04-14"
+    },
+    "WEKO": {
+        "id": 605,
+        "code": "WEKO",
+        "updated_on": "2025-06-13"
+    },
+    "WEKS": {
+        "id": 607,
+        "code": "WEKS",
+        "updated_on": "2025-04-14"
+    },
+    "WELV": {
+        "id": 608,
+        "code": "WELV",
+        "updated_on": "2025-05-08"
+    },
+    "SELG": {
+        "id": 433,
+        "code": "SELG",
+        "updated_on": "2025-05-08"
+    },
+    "NELG": {
+        "id": 269,
+        "code": "NELG",
+        "updated_on": "2025-06-06"
+    },
+    "SSKA": {
+        "id": 510,
+        "code": "SSKA",
+        "updated_on": "2025-06-06"
+    },
+    "WEMS": {
+        "id": 611,
+        "code": "WEMS",
+        "updated_on": "2025-04-14"
+    },
+    "WEMT": {
+        "id": 612,
+        "code": "WEMT",
+        "updated_on": "2025-04-14"
+    },
+    "SPTE-C": {
+        "id": 500,
+        "code": "SPTE-C",
+        "updated_on": "2025-04-14"
+    },
+    "NFS1": {
+        "id": 271,
+        "code": "NFS1",
+        "updated_on": "2025-07-01"
+    },
+    "SFML": {
+        "id": 436,
+        "code": "SFML",
+        "updated_on": "2025-06-06"
+    },
+    "SFMM": {
+        "id": 437,
+        "code": "SFMM",
+        "updated_on": "2025-04-14"
+    },
+    "SFT3": {
+        "id": 440,
+        "code": "SFT3",
+        "updated_on": "2025-06-04"
+    },
+    "SFT3-P": {
+        "id": 441,
+        "code": "SFT3-P",
+        "updated_on": "2025-04-14"
+    },
+    "SFMS": {
+        "id": 438,
+        "code": "SFMS",
+        "updated_on": "2025-05-08"
+    },
+    "SFMS-P": {
+        "id": 439,
+        "code": "SFMS-P",
+        "updated_on": "2025-04-14"
+    },
+    "SFT4": {
+        "id": 442,
+        "code": "SFT4",
+        "updated_on": "2025-06-06"
+    },
+    "SFT4-P": {
+        "id": 443,
+        "code": "SFT4-P",
+        "updated_on": "2025-04-14"
+    },
+    "JFHT": {
+        "id": 89,
+        "code": "JFHT",
+        "updated_on": "2025-04-14"
+    },
+    "JFDX": {
+        "id": 840,
+        "code": "JFDX",
+        "updated_on": "2025-04-29"
+    },
+    "SFD1": {
+        "id": 434,
+        "code": "SFD1",
+        "updated_on": "2025-04-14"
+    },
+    "ZFKS": {
+        "id": 810,
+        "code": "ZFKS",
+        "updated_on": "2025-04-14"
+    },
+    "SFG1": {
+        "id": 435,
+        "code": "SFG1",
+        "updated_on": "2025-06-06"
+    },
+    "WFEP": {
+        "id": 613,
+        "code": "WFEP",
+        "updated_on": "2025-04-14"
+    },
+    "JFSB": {
+        "id": 827,
+        "code": "JFSB",
+        "updated_on": "2025-08-07"
+    },
+    "JFSC": {
+        "id": 96,
+        "code": "JFSC",
+        "updated_on": "2025-08-07"
+    },
+    "JFST": {
+        "id": 97,
+        "code": "JFST",
+        "updated_on": "2025-08-07"
+    },
+    "KFUK": {
+        "id": 137,
+        "code": "KFUK",
+        "updated_on": "2025-06-06"
+    },
+    "JFTT": {
+        "id": 836,
+        "code": "JFTT",
+        "updated_on": "2025-04-29"
+    },
+    "OFJ1": {
+        "id": 385,
+        "code": "OFJ1",
+        "updated_on": "2025-04-14"
+    },
+    "NFT1": {
+        "id": 272,
+        "code": "NFT1",
+        "updated_on": "2025-07-16"
+    },
+    "NGLT": {
+        "id": 273,
+        "code": "NGLT",
+        "updated_on": "2025-06-06"
+    },
+    "EGT4": {
+        "id": 19,
+        "code": "EGT4",
+        "updated_on": "2025-04-14"
+    },
+    "MGW1": {
+        "id": 185,
+        "code": "MGW1",
+        "updated_on": "2025-06-04"
+    },
+    "NGM2": {
+        "id": 276,
+        "code": "NGM2",
+        "updated_on": "2025-06-04"
+    },
+    "NGM3": {
+        "id": 277,
+        "code": "NGM3",
+        "updated_on": "2025-06-12"
+    },
+    "NGM6": {
+        "id": 280,
+        "code": "NGM6",
+        "updated_on": "2025-06-06"
+    },
+    "WGM2": {
+        "id": 619,
+        "code": "WGM2",
+        "updated_on": "2025-06-06"
+    },
+    "WGMJ": {
+        "id": 622,
+        "code": "WGMJ",
+        "updated_on": "2025-06-06"
+    },
+    "WGM1": {
+        "id": 618,
+        "code": "WGM1",
+        "updated_on": "2025-06-06"
+    },
+    "WGM4": {
+        "id": 621,
+        "code": "WGM4",
+        "updated_on": "2025-06-06"
+    },
+    "NGMG-C": {
+        "id": 282,
+        "code": "NGMG-C",
+        "updated_on": "2025-06-04"
+    },
+    "NGMG": {
+        "id": 281,
+        "code": "NGMG",
+        "updated_on": "2025-06-06"
+    },
+    "WGM3": {
+        "id": 620,
+        "code": "WGM3",
+        "updated_on": "2025-06-06"
+    },
+    "JGC1": {
+        "id": 838,
+        "code": "JGC1",
+        "updated_on": "2025-04-29"
+    },
+    "JGH1": {
+        "id": 92,
+        "code": "JGH1",
+        "updated_on": "2025-04-14"
+    },
+    "MGRT": {
+        "id": 184,
+        "code": "MGRT",
+        "updated_on": "2025-04-14"
+    },
+    "OCRN": {
+        "id": 383,
+        "code": "OCRN",
+        "updated_on": "2025-04-14"
+    },
+    "JGNC": {
+        "id": 841,
+        "code": "JGNC",
+        "updated_on": "2025-04-29"
+    },
+    "JGNT": {
+        "id": 94,
+        "code": "JGNT",
+        "updated_on": "2025-04-14"
+    },
+    "NTPZ-C": {
+        "id": 350,
+        "code": "NTPZ-C",
+        "updated_on": "2025-04-14"
+    },
+    "JGVA": {
+        "id": 95,
+        "code": "JGVA",
+        "updated_on": "2025-04-14"
+    },
+    "WGMW": {
+        "id": 623,
+        "code": "WGMW",
+        "updated_on": "2025-04-14"
+    },
+    "JGB1": {
+        "id": 837,
+        "code": "JGB1",
+        "updated_on": "2025-04-29"
+    },
+    "WGBT": {
+        "id": 615,
+        "code": "WGBT",
+        "updated_on": "2025-04-14"
+    },
+    "NGM4": {
+        "id": 278,
+        "code": "NGM4",
+        "updated_on": "2025-06-10"
+    },
+    "NGM1": {
+        "id": 275,
+        "code": "NGM1",
+        "updated_on": "2025-06-06"
+    },
+    "NGM5": {
+        "id": 279,
+        "code": "NGM5",
+        "updated_on": "2025-06-12"
+    },
+    "SGM3": {
+        "id": 445,
+        "code": "SGM3",
+        "updated_on": "2025-04-14"
+    },
+    "WGKH": {
+        "id": 617,
+        "code": "WGKH",
+        "updated_on": "2025-04-14"
+    },
+    "WGST": {
+        "id": 624,
+        "code": "WGST",
+        "updated_on": "2025-04-14"
+    },
+    "WGT1": {
+        "id": 625,
+        "code": "WGT1",
+        "updated_on": "2025-06-20"
+    },
+    "WGBL": {
+        "id": 614,
+        "code": "WGBL",
+        "updated_on": "2025-06-06"
+    },
+    "EGDH": {
+        "id": 17,
+        "code": "EGDH",
+        "updated_on": "2025-04-14"
+    },
+    "EGDS": {
+        "id": 18,
+        "code": "EGDS",
+        "updated_on": "2025-04-14"
+    },
+    "JGHD": {
+        "id": 93,
+        "code": "JGHD",
+        "updated_on": "2025-04-14"
+    },
+    "MGDS": {
+        "id": 183,
+        "code": "MGDS",
+        "updated_on": "2025-04-14"
+    },
+    "WGD1": {
+        "id": 616,
+        "code": "WGD1",
+        "updated_on": "2025-06-06"
+    },
+    "SGDT": {
+        "id": 444,
+        "code": "SGDT",
+        "updated_on": "2025-06-06"
+    },
+    "SGTH": {
+        "id": 446,
+        "code": "SGTH",
+        "updated_on": "2025-04-14"
+    },
+    "ZGRN": {
+        "id": 811,
+        "code": "ZGRN",
+        "updated_on": "2025-04-14"
+    },
+    "JGP1": {
+        "id": 842,
+        "code": "JGP1",
+        "updated_on": "2025-04-29"
+    },
+    "SGTT": {
+        "id": 447,
+        "code": "SGTT",
+        "updated_on": "2025-04-14"
+    },
+    "OGEK": {
+        "id": 890,
+        "code": "OGEK",
+        "updated_on": "2025-06-04"
+    },
+    "EHL3": {
+        "id": 23,
+        "code": "EHL3",
+        "updated_on": "2025-06-04"
+    },
+    "WHT1": {
+        "id": 639,
+        "code": "WHT1",
+        "updated_on": "2025-06-06"
+    },
+    "RHHY": {
+        "id": 396,
+        "code": "RHHY",
+        "updated_on": "2025-04-14"
+    },
+    "WHF1": {
+        "id": 632,
+        "code": "WHF1",
+        "updated_on": "2025-06-04"
+    },
+    "EHY1": {
+        "id": 25,
+        "code": "EHY1",
+        "updated_on": "2025-07-15"
+    },
+    "WYWH": {
+        "id": 807,
+        "code": "WYWH",
+        "updated_on": "2025-04-14"
+    },
+    "NHL1": {
+        "id": 284,
+        "code": "NHL1",
+        "updated_on": "2025-04-14"
+    },
+    "OHS1": {
+        "id": 868,
+        "code": "OHS1",
+        "updated_on": "2025-04-29"
+    },
+    "JHRE": {
+        "id": 98,
+        "code": "JHRE",
+        "updated_on": "2025-04-14"
+    },
+    "WGTN": {
+        "id": 628,
+        "code": "WGTN",
+        "updated_on": "2025-04-14"
+    },
+    "WGTS": {
+        "id": 629,
+        "code": "WGTS",
+        "updated_on": "2025-06-06"
+    },
+    "WGTM": {
+        "id": 627,
+        "code": "WGTM",
+        "updated_on": "2025-06-06"
+    },
+    "WGTU": {
+        "id": 631,
+        "code": "WGTU",
+        "updated_on": "2025-06-06"
+    },
+    "WGTT": {
+        "id": 630,
+        "code": "WGTT",
+        "updated_on": "2025-04-14"
+    },
+    "NHF1": {
+        "id": 283,
+        "code": "NHF1",
+        "updated_on": "2025-07-15"
+    },
+    "MHOH": {
+        "id": 188,
+        "code": "MHOH",
+        "updated_on": "2025-04-14"
+    },
+    "OHMT": {
+        "id": 870,
+        "code": "OHMT",
+        "updated_on": "2025-04-29"
+    },
+    "MHH2": {
+        "id": 187,
+        "code": "MHH2",
+        "updated_on": "2025-05-08"
+    },
+    "ZHKR": {
+        "id": 812,
+        "code": "ZHKR",
+        "updated_on": "2025-04-14"
+    },
+    "WHW2": {
+        "id": 641,
+        "code": "WHW2",
+        "updated_on": "2025-06-04"
+    },
+    "EHC1": {
+        "id": 21,
+        "code": "EHC1",
+        "updated_on": "2025-05-08"
+    },
+    "SHV1": {
+        "id": 451,
+        "code": "SHV1",
+        "updated_on": "2025-04-14"
+    },
+    "WHOL": {
+        "id": 633,
+        "code": "WHOL",
+        "updated_on": "2025-06-06"
+    },
+    "WHPE": {
+        "id": 635,
+        "code": "WHPE",
+        "updated_on": "2025-06-09"
+    },
+    "WHPP": {
+        "id": 636,
+        "code": "WHPP",
+        "updated_on": "2025-04-14"
+    },
+    "NHTM": {
+        "id": 287,
+        "code": "NHTM",
+        "updated_on": "2025-04-14"
+    },
+    "WHW1": {
+        "id": 640,
+        "code": "WHW1",
+        "updated_on": "2025-04-14"
+    },
+    "WHOW": {
+        "id": 634,
+        "code": "WHOW",
+        "updated_on": "2025-04-14"
+    },
+    "MHUK": {
+        "id": 189,
+        "code": "MHUK",
+        "updated_on": "2025-06-06"
+    },
+    "NHS2": {
+        "id": 285,
+        "code": "NHS2",
+        "updated_on": "2025-06-12"
+    },
+    "NHS2-C": {
+        "id": 286,
+        "code": "NHS2-C",
+        "updated_on": "2025-04-14"
+    },
+    "MHC1": {
+        "id": 186,
+        "code": "MHC1",
+        "updated_on": "2025-04-14"
+    },
+    "MHVT": {
+        "id": 190,
+        "code": "MHVT",
+        "updated_on": "2025-04-14"
+    },
+    "SHC1": {
+        "id": 448,
+        "code": "SHC1",
+        "updated_on": "2025-04-14"
+    },
+    "WMY2": {
+        "id": 690,
+        "code": "WMY2",
+        "updated_on": "2025-04-14"
+    },
+    "JIFN": {
+        "id": 99,
+        "code": "JIFN",
+        "updated_on": "2025-04-14"
+    },
+    "JIFR": {
+        "id": 100,
+        "code": "JIFR",
+        "updated_on": "2025-04-14"
+    },
+    "JINT": {
+        "id": 101,
+        "code": "JINT",
+        "updated_on": "2025-04-14"
+    },
+    "JITG": {
+        "id": 102,
+        "code": "JITG",
+        "updated_on": "2025-04-14"
+    },
+    "WIN2": {
+        "id": 642,
+        "code": "WIN2",
+        "updated_on": "2025-06-20"
+    },
+    "WINT": {
+        "id": 647,
+        "code": "WINT",
+        "updated_on": "2025-06-20"
+    },
+    "SJLM": {
+        "id": 458,
+        "code": "SJLM",
+        "updated_on": "2025-04-14"
+    },
+    "KJHT": {
+        "id": 141,
+        "code": "KJHT",
+        "updated_on": "2025-04-14"
+    },
+    "JKST": {
+        "id": 845,
+        "code": "JKST",
+        "updated_on": "2025-04-29"
+    },
+    "JZLR": {
+        "id": 135,
+        "code": "JZLR",
+        "updated_on": "2025-06-06"
+    },
+    "SCHZ": {
+        "id": 416,
+        "code": "SCHZ",
+        "updated_on": "2025-04-14"
+    },
+    "OJM1": {
+        "id": 386,
+        "code": "OJM1",
+        "updated_on": "2025-04-14"
+    },
+    "SJBH": {
+        "id": 455,
+        "code": "SJBH",
+        "updated_on": "2025-04-14"
+    },
+    "JJST": {
+        "id": 843,
+        "code": "JJST",
+        "updated_on": "2025-04-29"
+    },
+    "JL": {
+        "id": 104,
+        "code": "JL",
+        "updated_on": "2025-04-14"
+    },
+    "WJTU": {
+        "id": 650,
+        "code": "WJTU",
+        "updated_on": "2025-06-06"
+    },
+    "WJTA": {
+        "id": 644,
+        "code": "WJTA",
+        "updated_on": "2025-05-08"
+    },
+    "WJTT": {
+        "id": 649,
+        "code": "WJTT",
+        "updated_on": "2025-05-08"
+    },
+    "WJTA-P": {
+        "id": 645,
+        "code": "WJTA-P",
+        "updated_on": "2025-05-08"
+    },
+    "WJTG": {
+        "id": 646,
+        "code": "WJTG",
+        "updated_on": "2025-05-08"
+    },
+    "EKAS": {
+        "id": 26,
+        "code": "EKAS",
+        "updated_on": "2025-06-04"
+    },
+    "EHC2": {
+        "id": 22,
+        "code": "EHC2",
+        "updated_on": "2025-06-12"
+    },
+    "EKBU": {
+        "id": 28,
+        "code": "EKBU",
+        "updated_on": "2025-06-12"
+    },
+    "MKCU": {
+        "id": 191,
+        "code": "MKCU",
+        "updated_on": "2025-04-14"
+    },
+    "MKCW": {
+        "id": 192,
+        "code": "MKCW",
+        "updated_on": "2025-06-04"
+    },
+    "KFYB": {
+        "id": 138,
+        "code": "KFYB",
+        "updated_on": "2025-04-14"
+    },
+    "KHYW": {
+        "id": 140,
+        "code": "KHYW",
+        "updated_on": "2025-04-14"
+    },
+    "SHH4": {
+        "id": 449,
+        "code": "SHH4",
+        "updated_on": "2025-05-08"
+    },
+    "WTH1": {
+        "id": 745,
+        "code": "WTH1",
+        "updated_on": "2025-05-08"
+    },
+    "EAC1": {
+        "id": 5,
+        "code": "EAC1",
+        "updated_on": "2025-06-04"
+    },
+    "WBH1": {
+        "id": 570,
+        "code": "WBH1",
+        "updated_on": "2025-04-14"
+    },
+    "EBH1": {
+        "id": 9,
+        "code": "EBH1",
+        "updated_on": "2025-05-08"
+    },
+    "NBL1": {
+        "id": 241,
+        "code": "NBL1",
+        "updated_on": "2025-05-08"
+    },
+    "EBS1": {
+        "id": 10,
+        "code": "EBS1",
+        "updated_on": "2025-05-08"
+    },
+    "EPH1": {
+        "id": 42,
+        "code": "EPH1",
+        "updated_on": "2025-04-14"
+    },
+    "SORT": {
+        "id": 492,
+        "code": "SORT",
+        "updated_on": "2025-05-08"
+    },
+    "ESS2": {
+        "id": 54,
+        "code": "ESS2",
+        "updated_on": "2025-05-08"
+    },
+    "WSJN": {
+        "id": 722,
+        "code": "WSJN",
+        "updated_on": "2025-05-08"
+    },
+    "EET1": {
+        "id": 12,
+        "code": "EET1",
+        "updated_on": "2025-06-04"
+    },
+    "NES1": {
+        "id": 270,
+        "code": "NES1",
+        "updated_on": "2025-05-08"
+    },
+    "MFK2": {
+        "id": 182,
+        "code": "MFK2",
+        "updated_on": "2025-04-14"
+    },
+    "EGT2": {
+        "id": 15,
+        "code": "EGT2",
+        "updated_on": "2025-05-08"
+    },
+    "EGMS": {
+        "id": 24,
+        "code": "EGMS",
+        "updated_on": "2025-06-04"
+    },
+    "EGM2": {
+        "id": 20,
+        "code": "EGM2",
+        "updated_on": "2025-05-08"
+    },
+    "WHSE": {
+        "id": 638,
+        "code": "WHSE",
+        "updated_on": "2025-05-08"
+    },
+    "NITA": {
+        "id": 288,
+        "code": "NITA",
+        "updated_on": "2025-05-08"
+    },
+    "KJTS": {
+        "id": 143,
+        "code": "KJTS",
+        "updated_on": "2025-06-20"
+    },
+    "WJS3": {
+        "id": 643,
+        "code": "WJS3",
+        "updated_on": "2025-06-04"
+    },
+    "WKK1-C": {
+        "id": 654,
+        "code": "WKK1-C",
+        "updated_on": "2025-04-14"
+    },
+    "WJS3-C": {
+        "id": 648,
+        "code": "WJS3-C",
+        "updated_on": "2025-04-14"
+    },
+    "SJMS": {
+        "id": 459,
+        "code": "SJMS",
+        "updated_on": "2025-06-04"
+    },
+    "SJTS": {
+        "id": 460,
+        "code": "SJTS",
+        "updated_on": "2025-06-04"
+    },
+    "KJJ1": {
+        "id": 142,
+        "code": "KJJ1",
+        "updated_on": "2025-06-10"
+    },
+    "EKAZ": {
+        "id": 27,
+        "code": "EKAZ",
+        "updated_on": "2025-05-08"
+    },
+    "WKK1": {
+        "id": 653,
+        "code": "WKK1",
+        "updated_on": "2025-05-08"
+    },
+    "NKCE": {
+        "id": 290,
+        "code": "NKCE",
+        "updated_on": "2025-06-04"
+    },
+    "SKS1": {
+        "id": 465,
+        "code": "SKS1",
+        "updated_on": "2025-05-08"
+    },
+    "NLH1": {
+        "id": 298,
+        "code": "NLH1",
+        "updated_on": "2025-05-08"
+    },
+    "SMSM": {
+        "id": 489,
+        "code": "SMSM",
+        "updated_on": "2025-04-14"
+    },
+    "WMC1": {
+        "id": 675,
+        "code": "WMC1",
+        "updated_on": "2025-04-14"
+    },
+    "SSGA": {
+        "id": 505,
+        "code": "SSGA",
+        "updated_on": "2025-04-14"
+    },
+    "NSLG": {
+        "id": 311,
+        "code": "NSLG",
+        "updated_on": "2025-05-08"
+    },
+    "ESN1": {
+        "id": 50,
+        "code": "ESN1",
+        "updated_on": "2025-05-08"
+    },
+    "EST7": {
+        "id": 57,
+        "code": "EST7",
+        "updated_on": "2025-06-04"
+    },
+    "EST3": {
+        "id": 55,
+        "code": "EST3",
+        "updated_on": "2025-05-08"
+    },
+    "EST6": {
+        "id": 56,
+        "code": "EST6",
+        "updated_on": "2025-06-04"
+    },
+    "ESUG": {
+        "id": 58,
+        "code": "ESUG",
+        "updated_on": "2025-04-14"
+    },
+    "KSW2": {
+        "id": 152,
+        "code": "KSW2",
+        "updated_on": "2025-04-14"
+    },
+    "KSWP": {
+        "id": 154,
+        "code": "KSWP",
+        "updated_on": "2025-04-14"
+    },
+    "SSPT": {
+        "id": 514,
+        "code": "SSPT",
+        "updated_on": "2025-05-08"
+    },
+    "ESRP": {
+        "id": 53,
+        "code": "ESRP",
+        "updated_on": "2025-04-14"
+    },
+    "WTS1": {
+        "id": 756,
+        "code": "WTS1",
+        "updated_on": "2025-05-08"
+    },
+    "ETH3": {
+        "id": 64,
+        "code": "ETH3",
+        "updated_on": "2025-04-14"
+    },
+    "JTS6": {
+        "id": 819,
+        "code": "JTS6",
+        "updated_on": "2025-04-25"
+    },
+    "ETAN": {
+        "id": 61,
+        "code": "ETAN",
+        "updated_on": "2025-05-08"
+    },
+    "NTY3": {
+        "id": 357,
+        "code": "NTY3",
+        "updated_on": "2025-05-08"
+    },
+    "MTH1": {
+        "id": 219,
+        "code": "MTH1",
+        "updated_on": "2025-04-14"
+    },
+    "EWH1": {
+        "id": 69,
+        "code": "EWH1",
+        "updated_on": "2025-05-08"
+    },
+    "WWAT": {
+        "id": 772,
+        "code": "WWAT",
+        "updated_on": "2025-04-14"
+    },
+    "EWEE": {
+        "id": 68,
+        "code": "EWEE",
+        "updated_on": "2025-05-08"
+    },
+    "EWC2": {
+        "id": 67,
+        "code": "EWC2",
+        "updated_on": "2025-05-08"
+    },
+    "NWK2": {
+        "id": 363,
+        "code": "NWK2",
+        "updated_on": "2025-06-04"
+    },
+    "EWS2": {
+        "id": 72,
+        "code": "EWS2",
+        "updated_on": "2025-05-08"
+    },
+    "WWWK": {
+        "id": 794,
+        "code": "WWWK",
+        "updated_on": "2025-04-14"
+    },
+    "NYS1": {
+        "id": 379,
+        "code": "NYS1",
+        "updated_on": "2025-05-08"
+    },
+    "NZND": {
+        "id": 380,
+        "code": "NZND",
+        "updated_on": "2025-05-08"
+    },
+    "EKH3": {
+        "id": 32,
+        "code": "EKH3",
+        "updated_on": "2025-05-08"
+    },
+    "NKS1": {
+        "id": 293,
+        "code": "NKS1",
+        "updated_on": "2025-06-10"
+    },
+    "KKEN": {
+        "id": 144,
+        "code": "KKEN",
+        "updated_on": "2025-05-08"
+    },
+    "WKE1": {
+        "id": 651,
+        "code": "WKE1",
+        "updated_on": "2025-05-08"
+    },
+    "WKEP": {
+        "id": 652,
+        "code": "WKEP",
+        "updated_on": "2025-04-14"
+    },
+    "SKPN": {
+        "id": 464,
+        "code": "SKPN",
+        "updated_on": "2025-04-14"
+    },
+    "NKH3": {
+        "id": 292,
+        "code": "NKH3",
+        "updated_on": "2025-04-14"
+    },
+    "WKM6": {
+        "id": 660,
+        "code": "WKM6",
+        "updated_on": "2025-05-08"
+    },
+    "WKM2": {
+        "id": 656,
+        "code": "WKM2",
+        "updated_on": "2025-05-08"
+    },
+    "WKM4": {
+        "id": 658,
+        "code": "WKM4",
+        "updated_on": "2025-05-08"
+    },
+    "WKM8": {
+        "id": 906,
+        "code": "WKM8",
+        "updated_on": "2025-10-28"
+    },
+    "WKM1": {
+        "id": 655,
+        "code": "WKM1",
+        "updated_on": "2025-05-08"
+    },
+    "WKMT": {
+        "id": 661,
+        "code": "WKMT",
+        "updated_on": "2025-05-08"
+    },
+    "WKM5": {
+        "id": 659,
+        "code": "WKM5",
+        "updated_on": "2025-05-08"
+    },
+    "WKM7": {
+        "id": 824,
+        "code": "WKM7",
+        "updated_on": "2025-05-08"
+    },
+    "WKM3": {
+        "id": 657,
+        "code": "WKM3",
+        "updated_on": "2025-05-08"
+    },
+    "SKG1": {
+        "id": 461,
+        "code": "SKG1",
+        "updated_on": "2025-06-06"
+    },
+    "MKH1": {
+        "id": 193,
+        "code": "MKH1",
+        "updated_on": "2025-06-04"
+    },
+    "JKAM": {
+        "id": 103,
+        "code": "JKAM",
+        "updated_on": "2025-04-14"
+    },
+    "ESRA": {
+        "id": 52,
+        "code": "ESRA",
+        "updated_on": "2025-06-06"
+    },
+    "WLM1": {
+        "id": 665,
+        "code": "WLM1",
+        "updated_on": "2025-06-06"
+    },
+    "SKH2": {
+        "id": 462,
+        "code": "SKH2",
+        "updated_on": "2025-06-06"
+    },
+    "SKHP": {
+        "id": 463,
+        "code": "SKHP",
+        "updated_on": "2025-04-14"
+    },
+    "SKS3": {
+        "id": 466,
+        "code": "SKS3",
+        "updated_on": "2025-06-06"
+    },
+    "KKW1": {
+        "id": 146,
+        "code": "KKW1",
+        "updated_on": "2025-06-04"
+    },
+    "EKOK": {
+        "id": 37,
+        "code": "EKOK",
+        "updated_on": "2025-06-06"
+    },
+    "JKL1": {
+        "id": 844,
+        "code": "JKL1",
+        "updated_on": "2025-04-29"
+    },
+    "EKM1": {
+        "id": 33,
+        "code": "EKM1",
+        "updated_on": "2025-06-13"
+    },
+    "EKM2": {
+        "id": 34,
+        "code": "EKM2",
+        "updated_on": "2025-04-14"
+    },
+    "EKM4": {
+        "id": 36,
+        "code": "EKM4",
+        "updated_on": "2025-06-06"
+    },
+    "EKM3": {
+        "id": 35,
+        "code": "EKM3",
+        "updated_on": "2025-04-14"
+    },
+    "EKC4": {
+        "id": 29,
+        "code": "EKC4",
+        "updated_on": "2025-06-16"
+    },
+    "EKC5": {
+        "id": 30,
+        "code": "EKC5",
+        "updated_on": "2025-06-06"
+    },
+    "NKS4": {
+        "id": 294,
+        "code": "NKS4",
+        "updated_on": "2025-06-06"
+    },
+    "NKWY-C": {
+        "id": 295,
+        "code": "NKWY-C",
+        "updated_on": "2025-04-14"
+    },
+    "OKWY": {
+        "id": 393,
+        "code": "OKWY",
+        "updated_on": "2025-04-14"
+    },
+    "KKW3": {
+        "id": 147,
+        "code": "KKW3",
+        "updated_on": "2025-04-14"
+    },
+    "ELM1": {
+        "id": 38,
+        "code": "ELM1",
+        "updated_on": "2025-06-11"
+    },
+    "ELMK": {
+        "id": 39,
+        "code": "ELMK",
+        "updated_on": "2025-06-04"
+    },
+    "KLSH": {
+        "id": 148,
+        "code": "KLSH",
+        "updated_on": "2025-04-14"
+    },
+    "OLVS": {
+        "id": 872,
+        "code": "OLVS",
+        "updated_on": "2025-06-06"
+    },
+    "JLZD": {
+        "id": 108,
+        "code": "JLZD",
+        "updated_on": "2025-04-14"
+    },
+    "WLCT": {
+        "id": 663,
+        "code": "WLCT",
+        "updated_on": "2025-04-14"
+    },
+    "WLLK": {
+        "id": 664,
+        "code": "WLLK",
+        "updated_on": "2025-06-06"
+    },
+    "NLB1": {
+        "id": 296,
+        "code": "NLB1",
+        "updated_on": "2025-06-06"
+    },
+    "NLB1-C": {
+        "id": 297,
+        "code": "NLB1-C",
+        "updated_on": "2025-04-14"
+    },
+    "WLPB": {
+        "id": 669,
+        "code": "WLPB",
+        "updated_on": "2025-04-14"
+    },
+    "WLPM": {
+        "id": 670,
+        "code": "WLPM",
+        "updated_on": "2025-04-14"
+    },
+    "WLP3": {
+        "id": 668,
+        "code": "WLP3",
+        "updated_on": "2025-04-14"
+    },
+    "WLT1": {
+        "id": 673,
+        "code": "WLT1",
+        "updated_on": "2025-04-14"
+    },
+    "WLP2": {
+        "id": 667,
+        "code": "WLP2",
+        "updated_on": "2025-04-14"
+    },
+    "WLPP": {
+        "id": 682,
+        "code": "WLPP",
+        "updated_on": "2025-04-14"
+    },
+    "WLPS": {
+        "id": 683,
+        "code": "WLPS",
+        "updated_on": "2025-04-14"
+    },
+    "WLPT": {
+        "id": 671,
+        "code": "WLPT",
+        "updated_on": "2025-04-14"
+    },
+    "JLCE": {
+        "id": 106,
+        "code": "JLCE",
+        "updated_on": "2025-04-14"
+    },
+    "JLTH": {
+        "id": 107,
+        "code": "JLTH",
+        "updated_on": "2025-04-14"
+    },
+    "JLPK": {
+        "id": 846,
+        "code": "JLPK",
+        "updated_on": "2025-04-29"
+    },
+    "OLPK": {
+        "id": 387,
+        "code": "OLPK",
+        "updated_on": "2025-04-14"
+    },
+    "JLSL": {
+        "id": 857,
+        "code": "JLSL",
+        "updated_on": "2025-04-29"
+    },
+    "WLCD": {
+        "id": 662,
+        "code": "WLCD",
+        "updated_on": "2025-04-14"
+    },
+    "MLFB": {
+        "id": 194,
+        "code": "MLFB",
+        "updated_on": "2025-05-08"
+    },
+    "MLHE": {
+        "id": 195,
+        "code": "MLHE",
+        "updated_on": "2025-04-14"
+    },
+    "OLKS": {
+        "id": 869,
+        "code": "OLKS",
+        "updated_on": "2025-04-29"
+    },
+    "SLIM": {
+        "id": 471,
+        "code": "SLIM",
+        "updated_on": "2025-07-09"
+    },
+    "SLIP": {
+        "id": 472,
+        "code": "SLIP",
+        "updated_on": "2025-04-14"
+    },
+    "ZLCS": {
+        "id": 814,
+        "code": "ZLCS",
+        "updated_on": "2025-04-14"
+    },
+    "ZLCC": {
+        "id": 813,
+        "code": "ZLCC",
+        "updated_on": "2025-04-14"
+    },
+    "MLOH": {
+        "id": 197,
+        "code": "MLOH",
+        "updated_on": "2025-04-14"
+    },
+    "JLBR": {
+        "id": 105,
+        "code": "JLBR",
+        "updated_on": "2025-04-14"
+    },
+    "WLMN": {
+        "id": 666,
+        "code": "WLMN",
+        "updated_on": "2025-04-14"
+    },
+    "WLSU": {
+        "id": 672,
+        "code": "WLSU",
+        "updated_on": "2025-06-06"
+    },
+    "OLSG": {
+        "id": 897,
+        "code": "OLSG",
+        "updated_on": "2025-07-01"
+    },
+    "NLK1": {
+        "id": 299,
+        "code": "NLK1",
+        "updated_on": "2025-05-08"
+    },
+    "NLKP": {
+        "id": 300,
+        "code": "NLKP",
+        "updated_on": "2025-07-02"
+    },
+    "OLS1": {
+        "id": 871,
+        "code": "OLS1",
+        "updated_on": "2025-05-13"
+    },
+    "MLMT": {
+        "id": 196,
+        "code": "MLMT",
+        "updated_on": "2025-04-14"
+    },
+    "SKW2": {
+        "id": 467,
+        "code": "SKW2",
+        "updated_on": "2025-06-06"
+    },
+    "KMGT": {
+        "id": 150,
+        "code": "KMGT",
+        "updated_on": "2025-06-04"
+    },
+    "KMG2": {
+        "id": 149,
+        "code": "KMG2",
+        "updated_on": "2025-06-04"
+    },
+    "WMRT": {
+        "id": 687,
+        "code": "WMRT",
+        "updated_on": "2025-04-14"
+    },
+    "JMIC": {
+        "id": 898,
+        "code": "JMIC",
+        "updated_on": "2025-07-29"
+    },
+    "WMCT": {
+        "id": 677,
+        "code": "WMCT",
+        "updated_on": "2025-04-14"
+    },
+    "WMNT": {
+        "id": 686,
+        "code": "WMNT",
+        "updated_on": "2025-04-14"
+    },
+    "MMRD": {
+        "id": 199,
+        "code": "MMRD",
+        "updated_on": "2025-04-14"
+    },
+    "MMRN": {
+        "id": 200,
+        "code": "MMRN",
+        "updated_on": "2025-04-14"
+    },
+    "WMCC": {
+        "id": 676,
+        "code": "WMCC",
+        "updated_on": "2025-04-14"
+    },
+    "JMC1": {
+        "id": 847,
+        "code": "JMC1",
+        "updated_on": "2025-04-29"
+    },
+    "SMQE": {
+        "id": 488,
+        "code": "SMQE",
+        "updated_on": "2025-08-07"
+    },
+    "JMSC": {
+        "id": 111,
+        "code": "JMSC",
+        "updated_on": "2025-04-14"
+    },
+    "MMAT": {
+        "id": 198,
+        "code": "MMAT",
+        "updated_on": "2025-04-14"
+    },
+    "JMCP": {
+        "id": 888,
+        "code": "JMCP",
+        "updated_on": "2025-05-13"
+    },
+    "NMCC": {
+        "id": 301,
+        "code": "NMCC",
+        "updated_on": "2025-04-14"
+    },
+    "NMCC-C": {
+        "id": 302,
+        "code": "NMCC-C",
+        "updated_on": "2025-04-14"
+    },
+    "WMES": {
+        "id": 678,
+        "code": "WMES",
+        "updated_on": "2025-04-14"
+    },
+    "WMGN": {
+        "id": 680,
+        "code": "WMGN",
+        "updated_on": "2025-04-14"
+    },
+    "SMGT": {
+        "id": 475,
+        "code": "SMGT",
+        "updated_on": "2025-04-14"
+    },
+    "NMS1": {
+        "id": 304,
+        "code": "NMS1",
+        "updated_on": "2025-08-08"
+    },
+    "SMTT": {
+        "id": 494,
+        "code": "SMTT",
+        "updated_on": "2025-06-04"
+    },
+    "JMCR": {
+        "id": 109,
+        "code": "JMCR",
+        "updated_on": "2025-04-14"
+    },
+    "SMW3": {
+        "id": 490,
+        "code": "SMW3",
+        "updated_on": "2025-04-14"
+    },
+    "SMLF-C": {
+        "id": 486,
+        "code": "SMLF-C",
+        "updated_on": "2025-04-14"
+    },
+    "SMLG": {
+        "id": 487,
+        "code": "SMLG",
+        "updated_on": "2025-04-14"
+    },
+    "SMLC": {
+        "id": 483,
+        "code": "SMLC",
+        "updated_on": "2025-04-14"
+    },
+    "SMLE": {
+        "id": 484,
+        "code": "SMLE",
+        "updated_on": "2025-04-14"
+    },
+    "SML8": {
+        "id": 479,
+        "code": "SML8",
+        "updated_on": "2025-04-14"
+    },
+    "SML9": {
+        "id": 480,
+        "code": "SML9",
+        "updated_on": "2025-04-14"
+    },
+    "SML2": {
+        "id": 477,
+        "code": "SML2",
+        "updated_on": "2025-04-14"
+    },
+    "SMLB": {
+        "id": 482,
+        "code": "SMLB",
+        "updated_on": "2025-04-14"
+    },
+    "WML1": {
+        "id": 681,
+        "code": "WML1",
+        "updated_on": "2025-04-14"
+    },
+    "SMLA": {
+        "id": 481,
+        "code": "SMLA",
+        "updated_on": "2025-04-14"
+    },
+    "SML1": {
+        "id": 476,
+        "code": "SML1",
+        "updated_on": "2025-04-14"
+    },
+    "SML7": {
+        "id": 478,
+        "code": "SML7",
+        "updated_on": "2025-04-14"
+    },
+    "SMLF": {
+        "id": 485,
+        "code": "SMLF",
+        "updated_on": "2025-04-14"
+    },
+    "MMYC": {
+        "id": 203,
+        "code": "MMYC",
+        "updated_on": "2025-06-06"
+    },
+    "OMST": {
+        "id": 821,
+        "code": "OMST",
+        "updated_on": "2025-04-25"
+    },
+    "NMD4": {
+        "id": 303,
+        "code": "NMD4",
+        "updated_on": "2025-06-10"
+    },
+    "MMSL": {
+        "id": 201,
+        "code": "MMSL",
+        "updated_on": "2025-04-14"
+    },
+    "WMMT": {
+        "id": 684,
+        "code": "WMMT",
+        "updated_on": "2025-04-14"
+    },
+    "WMMW": {
+        "id": 685,
+        "code": "WMMW",
+        "updated_on": "2025-06-06"
+    },
+    "OMC1": {
+        "id": 388,
+        "code": "OMC1",
+        "updated_on": "2025-04-14"
+    },
+    "JMPG": {
+        "id": 110,
+        "code": "JMPG",
+        "updated_on": "2025-04-14"
+    },
+    "JMTD": {
+        "id": 850,
+        "code": "JMTD",
+        "updated_on": "2025-04-29"
+    },
+    "NTT4": {
+        "id": 353,
+        "code": "NTT4",
+        "updated_on": "2025-04-14"
+    },
+    "WTTF": {
+        "id": 765,
+        "code": "WTTF",
+        "updated_on": "2025-05-08"
+    },
+    "RMZL": {
+        "id": 887,
+        "code": "RMZL",
+        "updated_on": "2025-06-04"
+    },
+    "RHH2": {
+        "id": 395,
+        "code": "RHH2",
+        "updated_on": "2025-04-14"
+    },
+    "EMZY": {
+        "id": 41,
+        "code": "EMZY",
+        "updated_on": "2025-04-14"
+    },
+    "WNHL": {
+        "id": 694,
+        "code": "WNHL",
+        "updated_on": "2025-04-14"
+    },
+    "WNHP": {
+        "id": 695,
+        "code": "WNHP",
+        "updated_on": "2025-04-14"
+    },
+    "WNCT": {
+        "id": 692,
+        "code": "WNCT",
+        "updated_on": "2025-04-14"
+    },
+    "SNET": {
+        "id": 491,
+        "code": "SNET",
+        "updated_on": "2025-04-14"
+    },
+    "WNG1": {
+        "id": 693,
+        "code": "WNG1",
+        "updated_on": "2025-04-14"
+    },
+    "EMRC": {
+        "id": 40,
+        "code": "EMRC",
+        "updated_on": "2025-05-08"
+    },
+    "STAC": {
+        "id": 525,
+        "code": "STAC",
+        "updated_on": "2025-05-08"
+    },
+    "WOCN": {
+        "id": 696,
+        "code": "WOCN",
+        "updated_on": "2025-05-08"
+    },
+    "JODD": {
+        "id": 851,
+        "code": "JODD",
+        "updated_on": "2025-07-17"
+    },
+    "NONG": {
+        "id": 305,
+        "code": "NONG",
+        "updated_on": "2025-06-06"
+    },
+    "OORI": {
+        "id": 895,
+        "code": "OORI",
+        "updated_on": "2025-06-19"
+    },
+    "OORO": {
+        "id": 873,
+        "code": "OORO",
+        "updated_on": "2025-04-29"
+    },
+    "SPLA": {
+        "id": 495,
+        "code": "SPLA",
+        "updated_on": "2025-06-06"
+    },
+    "WMW1": {
+        "id": 688,
+        "code": "WMW1",
+        "updated_on": "2025-04-14"
+    },
+    "WPK7": {
+        "id": 703,
+        "code": "WPK7",
+        "updated_on": "2025-04-14"
+    },
+    "WPKT": {
+        "id": 705,
+        "code": "WPKT",
+        "updated_on": "2025-06-06"
+    },
+    "WPK2": {
+        "id": 701,
+        "code": "WPK2",
+        "updated_on": "2025-06-12"
+    },
+    "WPK4": {
+        "id": 702,
+        "code": "WPK4",
+        "updated_on": "2025-04-14"
+    },
+    "WPK1": {
+        "id": 700,
+        "code": "WPK1",
+        "updated_on": "2025-04-14"
+    },
+    "WPK9": {
+        "id": 704,
+        "code": "WPK9",
+        "updated_on": "2025-04-14"
+    },
+    "OPRE": {
+        "id": 874,
+        "code": "OPRE",
+        "updated_on": "2025-04-29"
+    },
+    "SPM1": {
+        "id": 496,
+        "code": "SPM1",
+        "updated_on": "2025-04-14"
+    },
+    "WPLM": {
+        "id": 706,
+        "code": "WPLM",
+        "updated_on": "2025-06-06"
+    },
+    "RPPP": {
+        "id": 400,
+        "code": "RPPP",
+        "updated_on": "2025-04-14"
+    },
+    "RPP2": {
+        "id": 399,
+        "code": "RPP2",
+        "updated_on": "2025-04-14"
+    },
+    "SRHA": {
+        "id": 503,
+        "code": "SRHA",
+        "updated_on": "2025-06-06"
+    },
+    "WPTC": {
+        "id": 711,
+        "code": "WPTC",
+        "updated_on": "2025-06-04"
+    },
+    "WPT8": {
+        "id": 709,
+        "code": "WPT8",
+        "updated_on": "2025-06-06"
+    },
+    "WPT1": {
+        "id": 904,
+        "code": "WPT1",
+        "updated_on": "2025-10-08"
+    },
+    "WPT5": {
+        "id": 707,
+        "code": "WPT5",
+        "updated_on": "2025-04-14"
+    },
+    "WPT7": {
+        "id": 708,
+        "code": "WPT7",
+        "updated_on": "2025-04-14"
+    },
+    "WPTB": {
+        "id": 710,
+        "code": "WPTB",
+        "updated_on": "2025-06-06"
+    },
+    "EFOO": {
+        "id": 13,
+        "code": "EFOO",
+        "updated_on": "2025-04-14"
+    },
+    "WSTS": {
+        "id": 732,
+        "code": "WSTS",
+        "updated_on": "2025-06-06"
+    },
+    "WMM1": {
+        "id": 825,
+        "code": "WMM1",
+        "updated_on": "2025-06-18"
+    },
+    "SJK2": {
+        "id": 457,
+        "code": "SJK2",
+        "updated_on": "2025-06-06"
+    },
+    "SHOC": {
+        "id": 450,
+        "code": "SHOC",
+        "updated_on": "2025-06-06"
+    },
+    "SKY1": {
+        "id": 468,
+        "code": "SKY1",
+        "updated_on": "2025-04-14"
+    },
+    "SLST": {
+        "id": 473,
+        "code": "SLST",
+        "updated_on": "2025-07-02"
+    },
+    "WLYE": {
+        "id": 674,
+        "code": "WLYE",
+        "updated_on": "2025-04-14"
+    },
+    "JMSJ": {
+        "id": 849,
+        "code": "JMSJ",
+        "updated_on": "2025-04-29"
+    },
+    "MMWH": {
+        "id": 202,
+        "code": "MMWH",
+        "updated_on": "2025-04-14"
+    },
+    "ESY4": {
+        "id": 60,
+        "code": "ESY4",
+        "updated_on": "2025-06-10"
+    },
+    "WSF3": {
+        "id": 718,
+        "code": "WSF3",
+        "updated_on": "2025-04-14"
+    },
+    "NSF2": {
+        "id": 309,
+        "code": "NSF2",
+        "updated_on": "2025-06-04"
+    },
+    "NWJ1": {
+        "id": 361,
+        "code": "NWJ1",
+        "updated_on": "2025-04-14"
+    },
+    "WWS4": {
+        "id": 778,
+        "code": "WWS4",
+        "updated_on": "2025-06-06"
+    },
+    "WPXT": {
+        "id": 712,
+        "code": "WPXT",
+        "updated_on": "2025-06-06"
+    },
+    "WPJT": {
+        "id": 699,
+        "code": "WPJT",
+        "updated_on": "2025-06-06"
+    },
+    "SPTE": {
+        "id": 499,
+        "code": "SPTE",
+        "updated_on": "2025-06-04"
+    },
+    "SPTM": {
+        "id": 501,
+        "code": "SPTM",
+        "updated_on": "2025-06-06"
+    },
+    "JPT1": {
+        "id": 858,
+        "code": "JPT1",
+        "updated_on": "2025-04-29"
+    },
+    "NPOG": {
+        "id": 307,
+        "code": "NPOG",
+        "updated_on": "2025-05-08"
+    },
+    "SPL8": {
+        "id": 493,
+        "code": "SPL8",
+        "updated_on": "2025-06-06"
+    },
+    "SPL7": {
+        "id": 823,
+        "code": "SPL7",
+        "updated_on": "2025-08-01"
+    },
+    "SPL5": {
+        "id": 822,
+        "code": "SPL5",
+        "updated_on": "2025-06-06"
+    },
+    "JPTM": {
+        "id": 852,
+        "code": "JPTM",
+        "updated_on": "2025-04-29"
+    },
+    "JPWT": {
+        "id": 863,
+        "code": "JPWT",
+        "updated_on": "2025-04-29"
+    },
+    "MPCT": {
+        "id": 204,
+        "code": "MPCT",
+        "updated_on": "2025-06-06"
+    },
+    "RPIL": {
+        "id": 397,
+        "code": "RPIL",
+        "updated_on": "2025-06-04"
+    },
+    "SPNT": {
+        "id": 497,
+        "code": "SPNT",
+        "updated_on": "2025-04-14"
+    },
+    "RPNR": {
+        "id": 398,
+        "code": "RPNR",
+        "updated_on": "2025-06-04"
+    },
+    "SPSL": {
+        "id": 498,
+        "code": "SPSL",
+        "updated_on": "2025-06-10"
+    },
+    "NPBW": {
+        "id": 306,
+        "code": "NPBW",
+        "updated_on": "2025-06-23"
+    },
+    "OPBL": {
+        "id": 885,
+        "code": "OPBL",
+        "updated_on": "2025-05-05"
+    },
+    "EWWS": {
+        "id": 74,
+        "code": "EWWS",
+        "updated_on": "2025-04-14"
+    },
+    "SCK1": {
+        "id": 417,
+        "code": "SCK1",
+        "updated_on": "2025-04-14"
+    },
+    "SCHP": {
+        "id": 414,
+        "code": "SCHP",
+        "updated_on": "2025-04-14"
+    },
+    "SCHY": {
+        "id": 415,
+        "code": "SCHY",
+        "updated_on": "2025-06-06"
+    },
+    "WQMT": {
+        "id": 713,
+        "code": "WQMT",
+        "updated_on": "2025-04-14"
+    },
+    "JRBW": {
+        "id": 853,
+        "code": "JRBW",
+        "updated_on": "2025-04-29"
+    },
+    "JRDP": {
+        "id": 854,
+        "code": "JRDP",
+        "updated_on": "2025-04-29"
+    },
+    "ORSA": {
+        "id": 883,
+        "code": "ORSA",
+        "updated_on": "2025-10-17"
+    },
+    "ZREP": {
+        "id": 815,
+        "code": "ZREP",
+        "updated_on": "2025-04-14"
+    },
+    "WRVL": {
+        "id": 714,
+        "code": "WRVL",
+        "updated_on": "2025-06-12"
+    },
+    "SREX": {
+        "id": 502,
+        "code": "SREX",
+        "updated_on": "2025-04-14"
+    },
+    "JRZN": {
+        "id": 112,
+        "code": "JRZN",
+        "updated_on": "2025-04-14"
+    },
+    "OROS": {
+        "id": 389,
+        "code": "OROS",
+        "updated_on": "2025-06-13"
+    },
+    "WSHS": {
+        "id": 720,
+        "code": "WSHS",
+        "updated_on": "2025-04-14"
+    },
+    "ESKT": {
+        "id": 49,
+        "code": "ESKT",
+        "updated_on": "2025-06-06"
+    },
+    "KH&T": {
+        "id": 139,
+        "code": "KH&T",
+        "updated_on": "2025-04-14"
+    },
+    "WSP1": {
+        "id": 727,
+        "code": "WSP1",
+        "updated_on": "2025-04-14"
+    },
+    "WSKK": {
+        "id": 724,
+        "code": "WSKK",
+        "updated_on": "2025-04-14"
+    },
+    "JSMS": {
+        "id": 855,
+        "code": "JSMS",
+        "updated_on": "2025-04-29"
+    },
+    "MSSN": {
+        "id": 208,
+        "code": "MSSN",
+        "updated_on": "2025-04-14"
+    },
+    "NSC5": {
+        "id": 308,
+        "code": "NSC5",
+        "updated_on": "2025-04-14"
+    },
+    "WSF1": {
+        "id": 717,
+        "code": "WSF1",
+        "updated_on": "2025-06-06"
+    },
+    "ESY1": {
+        "id": 59,
+        "code": "ESY1",
+        "updated_on": "2025-06-06"
+    },
+    "SSZK-C": {
+        "id": 523,
+        "code": "SSZK-C",
+        "updated_on": "2025-06-06"
+    },
+    "OSCW": {
+        "id": 391,
+        "code": "OSCW",
+        "updated_on": "2025-04-14"
+    },
+    "JSPW": {
+        "id": 856,
+        "code": "JSPW",
+        "updated_on": "2025-04-29"
+    },
+    "ESG1": {
+        "id": 46,
+        "code": "ESG1",
+        "updated_on": "2025-05-08"
+    },
+    "KSBS": {
+        "id": 151,
+        "code": "KSBS",
+        "updated_on": "2025-04-14"
+    },
+    "WSHT": {
+        "id": 721,
+        "code": "WSHT",
+        "updated_on": "2025-05-08"
+    },
+    "RSBG": {
+        "id": 402,
+        "code": "RSBG",
+        "updated_on": "2025-04-14"
+    },
+    "RSB2": {
+        "id": 401,
+        "code": "RSB2",
+        "updated_on": "2025-04-14"
+    },
+    "NSHJ": {
+        "id": 310,
+        "code": "NSHJ",
+        "updated_on": "2025-05-08"
+    },
+    "MSYT": {
+        "id": 209,
+        "code": "MSYT",
+        "updated_on": "2025-05-09"
+    },
+    "OSSC": {
+        "id": 891,
+        "code": "OSSC",
+        "updated_on": "2025-07-17"
+    },
+    "SSNU": {
+        "id": 513,
+        "code": "SSNU",
+        "updated_on": "2025-06-06"
+    },
+    "WSHN": {
+        "id": 719,
+        "code": "WSHN",
+        "updated_on": "2025-04-14"
+    },
+    "WSNW": {
+        "id": 735,
+        "code": "WSNW",
+        "updated_on": "2025-04-14"
+    },
+    "JSHP": {
+        "id": 116,
+        "code": "JSHP",
+        "updated_on": "2025-04-14"
+    },
+    "ESHU": {
+        "id": 48,
+        "code": "ESHU",
+        "updated_on": "2025-05-08"
+    },
+    "JSCC": {
+        "id": 114,
+        "code": "JSCC",
+        "updated_on": "2025-04-14"
+    },
+    "WSC2": {
+        "id": 881,
+        "code": "WSC2",
+        "updated_on": "2025-04-29"
+    },
+    "SSST": {
+        "id": 517,
+        "code": "SSST",
+        "updated_on": "2025-04-14"
+    },
+    "SSK2": {
+        "id": 509,
+        "code": "SSK2",
+        "updated_on": "2025-04-14"
+    },
+    "WSKW": {
+        "id": 725,
+        "code": "WSKW",
+        "updated_on": "2025-05-08"
+    },
+    "SSS4": {
+        "id": 516,
+        "code": "SSS4",
+        "updated_on": "2025-05-08"
+    },
+    "SSZK": {
+        "id": 522,
+        "code": "SSZK",
+        "updated_on": "2025-05-08"
+    },
+    "SSZI": {
+        "id": 521,
+        "code": "SSZI",
+        "updated_on": "2025-04-14"
+    },
+    "WSCF": {
+        "id": 716,
+        "code": "WSCF",
+        "updated_on": "2025-04-14"
+    },
+    "SSH1": {
+        "id": 506,
+        "code": "SSH1",
+        "updated_on": "2025-07-03"
+    },
+    "JSK2": {
+        "id": 117,
+        "code": "JSK2",
+        "updated_on": "2025-04-14"
+    },
+    "WSWA": {
+        "id": 733,
+        "code": "WSWA",
+        "updated_on": "2025-06-04"
+    },
+    "SSIN": {
+        "id": 508,
+        "code": "SSIN",
+        "updated_on": "2025-04-14"
+    },
+    "OSCL": {
+        "id": 390,
+        "code": "OSCL",
+        "updated_on": "2025-04-14"
+    },
+    "WSMC": {
+        "id": 726,
+        "code": "WSMC",
+        "updated_on": "2025-04-14"
+    },
+    "JSMV": {
+        "id": 118,
+        "code": "JSMV",
+        "updated_on": "2025-04-14"
+    },
+    "WSC4": {
+        "id": 715,
+        "code": "WSC4",
+        "updated_on": "2025-04-14"
+    },
+    "MSH6": {
+        "id": 207,
+        "code": "MSH6",
+        "updated_on": "2025-05-09"
+    },
+    "MSH4": {
+        "id": 206,
+        "code": "MSH4",
+        "updated_on": "2025-05-09"
+    },
+    "SSL1-C": {
+        "id": 511,
+        "code": "SSL1-C",
+        "updated_on": "2025-04-14"
+    },
+    "NSWK": {
+        "id": 313,
+        "code": "NSWK",
+        "updated_on": "2025-04-14"
+    },
+    "NSWN": {
+        "id": 314,
+        "code": "NSWN",
+        "updated_on": "2025-04-14"
+    },
+    "NSYC": {
+        "id": 316,
+        "code": "NSYC",
+        "updated_on": "2025-04-14"
+    },
+    "NSYC-C": {
+        "id": 317,
+        "code": "NSYC-C",
+        "updated_on": "2025-06-04"
+    },
+    "NSYP": {
+        "id": 318,
+        "code": "NSYP",
+        "updated_on": "2025-04-14"
+    },
+    "JSPT": {
+        "id": 120,
+        "code": "JSPT",
+        "updated_on": "2025-04-14"
+    },
+    "OSPK": {
+        "id": 875,
+        "code": "OSPK",
+        "updated_on": "2025-04-29"
+    },
+    "SSPW": {
+        "id": 515,
+        "code": "SSPW",
+        "updated_on": "2025-06-04"
+    },
+    "NSTR": {
+        "id": 312,
+        "code": "NSTR",
+        "updated_on": "2025-06-04"
+    },
+    "SSTW": {
+        "id": 524,
+        "code": "SSTW",
+        "updated_on": "2025-05-08"
+    },
+    "SSTR": {
+        "id": 520,
+        "code": "SSTR",
+        "updated_on": "2025-06-10"
+    },
+    "WSTL": {
+        "id": 731,
+        "code": "WSTL",
+        "updated_on": "2025-06-04"
+    },
+    "KSW3": {
+        "id": 153,
+        "code": "KSW3",
+        "updated_on": "2025-07-03"
+    },
+    "WSS1": {
+        "id": 729,
+        "code": "WSS1",
+        "updated_on": "2025-04-14"
+    },
+    "WSSW": {
+        "id": 730,
+        "code": "WSSW",
+        "updated_on": "2025-04-14"
+    },
+    "SSLT": {
+        "id": 512,
+        "code": "SSLT",
+        "updated_on": "2025-04-14"
+    },
+    "WSR1": {
+        "id": 728,
+        "code": "WSR1",
+        "updated_on": "2025-05-08"
+    },
+    "JSC2": {
+        "id": 119,
+        "code": "JSC2",
+        "updated_on": "2025-04-14"
+    },
+    "JSC1": {
+        "id": 113,
+        "code": "JSC1",
+        "updated_on": "2025-04-14"
+    },
+    "SSC3": {
+        "id": 504,
+        "code": "SSC3",
+        "updated_on": "2025-06-04"
+    },
+    "ESC4": {
+        "id": 44,
+        "code": "ESC4",
+        "updated_on": "2025-05-08"
+    },
+    "ESC4-C": {
+        "id": 51,
+        "code": "ESC4-C",
+        "updated_on": "2025-05-08"
+    },
+    "ESC5": {
+        "id": 45,
+        "code": "ESC5",
+        "updated_on": "2025-05-08"
+    },
+    "ESH4": {
+        "id": 47,
+        "code": "ESH4",
+        "updated_on": "2025-06-04"
+    },
+    "MSH3": {
+        "id": 205,
+        "code": "MSH3",
+        "updated_on": "2025-04-14"
+    },
+    "NSWS": {
+        "id": 315,
+        "code": "NSWS",
+        "updated_on": "2025-06-10"
+    },
+    "SST3": {
+        "id": 518,
+        "code": "SST3",
+        "updated_on": "2025-06-04"
+    },
+    "SSTP": {
+        "id": 519,
+        "code": "SSTP",
+        "updated_on": "2025-04-14"
+    },
+    "WSWU": {
+        "id": 736,
+        "code": "WSWU",
+        "updated_on": "2025-04-14"
+    },
+    "WSWG": {
+        "id": 734,
+        "code": "WSWG",
+        "updated_on": "2025-04-14"
+    },
+    "MCFT": {
+        "id": 178,
+        "code": "MCFT",
+        "updated_on": "2025-04-14"
+    },
+    "SCTT": {
+        "id": 427,
+        "code": "SCTT",
+        "updated_on": "2025-04-14"
+    },
+    "SIT1": {
+        "id": 453,
+        "code": "SIT1",
+        "updated_on": "2025-05-08"
+    },
+    "EKH1": {
+        "id": 31,
+        "code": "EKH1",
+        "updated_on": "2025-04-14"
+    },
+    "WMFA": {
+        "id": 679,
+        "code": "WMFA",
+        "updated_on": "2025-04-14"
+    },
+    "JMM1": {
+        "id": 848,
+        "code": "JMM1",
+        "updated_on": "2025-06-06"
+    },
+    "JTRS": {
+        "id": 123,
+        "code": "JTRS",
+        "updated_on": "2025-04-14"
+    },
+    "WPC2": {
+        "id": 698,
+        "code": "WPC2",
+        "updated_on": "2025-05-22"
+    },
+    "JSHA": {
+        "id": 115,
+        "code": "JSHA",
+        "updated_on": "2025-04-14"
+    },
+    "WSK1": {
+        "id": 723,
+        "code": "WSK1",
+        "updated_on": "2025-04-14"
+    },
+    "ESC3": {
+        "id": 43,
+        "code": "ESC3",
+        "updated_on": "2025-05-08"
+    },
+    "WZP2": {
+        "id": 808,
+        "code": "WZP2",
+        "updated_on": "2025-05-08"
+    },
+    "WGT5": {
+        "id": 626,
+        "code": "WGT5",
+        "updated_on": "2025-04-14"
+    },
+    "SLH3": {
+        "id": 469,
+        "code": "SLH3",
+        "updated_on": "2025-05-08"
+    },
+    "SLH3-P": {
+        "id": 470,
+        "code": "SLH3-P",
+        "updated_on": "2025-04-14"
+    },
+    "NKC1": {
+        "id": 289,
+        "code": "NKC1",
+        "updated_on": "2025-04-14"
+    },
+    "STKY": {
+        "id": 534,
+        "code": "STKY",
+        "updated_on": "2025-04-14"
+    },
+    "NTEP": {
+        "id": 321,
+        "code": "NTEP",
+        "updated_on": "2025-04-14"
+    },
+    "SITP": {
+        "id": 454,
+        "code": "SITP",
+        "updated_on": "2025-04-14"
+    },
+    "RT&A": {
+        "id": 403,
+        "code": "RT&A",
+        "updated_on": "2025-04-14"
+    },
+    "MTGW": {
+        "id": 218,
+        "code": "MTGW",
+        "updated_on": "2025-04-14"
+    },
+    "WTH3": {
+        "id": 746,
+        "code": "WTH3",
+        "updated_on": "2025-06-04"
+    },
+    "MTHT": {
+        "id": 223,
+        "code": "MTHT",
+        "updated_on": "2025-04-14"
+    },
+    "WTS7": {
+        "id": 759,
+        "code": "WTS7",
+        "updated_on": "2025-07-02"
+    },
+    "STS2": {
+        "id": 536,
+        "code": "STS2",
+        "updated_on": "2025-05-08"
+    },
+    "STS2-P": {
+        "id": 537,
+        "code": "STS2-P",
+        "updated_on": "2025-04-14"
+    },
+    "KTYW": {
+        "id": 157,
+        "code": "KTYW",
+        "updated_on": "2025-04-14"
+    },
+    "JTCL": {
+        "id": 121,
+        "code": "JTCL",
+        "updated_on": "2025-04-14"
+    },
+    "NTAY": {
+        "id": 319,
+        "code": "NTAY",
+        "updated_on": "2025-04-14"
+    },
+    "RTZ1": {
+        "id": 404,
+        "code": "RTZ1",
+        "updated_on": "2025-04-14"
+    },
+    "STHP": {
+        "id": 533,
+        "code": "STHP",
+        "updated_on": "2025-04-14"
+    },
+    "STH1": {
+        "id": 530,
+        "code": "STH1",
+        "updated_on": "2025-04-14"
+    },
+    "STHH": {
+        "id": 532,
+        "code": "STHH",
+        "updated_on": "2025-04-14"
+    },
+    "JTST": {
+        "id": 125,
+        "code": "JTST",
+        "updated_on": "2025-04-14"
+    },
+    "ZTLQ": {
+        "id": 816,
+        "code": "ZTLQ",
+        "updated_on": "2025-04-14"
+    },
+    "ETST": {
+        "id": 65,
+        "code": "ETST",
+        "updated_on": "2025-04-14"
+    },
+    "WTW2": {
+        "id": 767,
+        "code": "WTW2",
+        "updated_on": "2025-04-14"
+    },
+    "NTY1": {
+        "id": 356,
+        "code": "NTY1",
+        "updated_on": "2025-06-04"
+    },
+    "NTM1": {
+        "id": 328,
+        "code": "NTM1",
+        "updated_on": "2025-04-14"
+    },
+    "WTCL": {
+        "id": 737,
+        "code": "WTCL",
+        "updated_on": "2025-04-14"
+    },
+    "MTH4": {
+        "id": 222,
+        "code": "MTH4",
+        "updated_on": "2025-04-14"
+    },
+    "MTH3": {
+        "id": 221,
+        "code": "MTH3",
+        "updated_on": "2025-04-14"
+    },
+    "MTH2": {
+        "id": 220,
+        "code": "MTH2",
+        "updated_on": "2025-04-14"
+    },
+    "MWT1": {
+        "id": 234,
+        "code": "MWT1",
+        "updated_on": "2025-04-14"
+    },
+    "WTT4": {
+        "id": 899,
+        "code": "WTT4",
+        "updated_on": "2025-08-01"
+    },
+    "WTT3": {
+        "id": 762,
+        "code": "WTT3",
+        "updated_on": "2025-05-08"
+    },
+    "WTT1": {
+        "id": 760,
+        "code": "WTT1",
+        "updated_on": "2025-05-08"
+    },
+    "WTT2": {
+        "id": 761,
+        "code": "WTT2",
+        "updated_on": "2025-05-08"
+    },
+    "SWG1": {
+        "id": 546,
+        "code": "SWG1",
+        "updated_on": "2025-04-14"
+    },
+    "SWG3": {
+        "id": 548,
+        "code": "SWG3",
+        "updated_on": "2025-04-14"
+    },
+    "SWG3-C": {
+        "id": 560,
+        "code": "SWG3-C",
+        "updated_on": "2025-05-08"
+    },
+    "SWG4": {
+        "id": 549,
+        "code": "SWG4",
+        "updated_on": "2025-04-14"
+    },
+    "SWG2": {
+        "id": 547,
+        "code": "SWG2",
+        "updated_on": "2025-04-14"
+    },
+    "ETC1": {
+        "id": 62,
+        "code": "ETC1",
+        "updated_on": "2025-04-14"
+    },
+    "NTT2": {
+        "id": 352,
+        "code": "NTT2",
+        "updated_on": "2025-05-08"
+    },
+    "JTS8": {
+        "id": 124,
+        "code": "JTS8",
+        "updated_on": "2025-08-07"
+    },
+    "JTS1": {
+        "id": 864,
+        "code": "JTS1",
+        "updated_on": "2025-04-29"
+    },
+    "MTSS": {
+        "id": 228,
+        "code": "MTSS",
+        "updated_on": "2025-04-14"
+    },
+    "MTG2": {
+        "id": 211,
+        "code": "MTG2",
+        "updated_on": "2025-05-09"
+    },
+    "JTTK": {
+        "id": 126,
+        "code": "JTTK",
+        "updated_on": "2025-04-14"
+    },
+    "WTMT": {
+        "id": 753,
+        "code": "WTMT",
+        "updated_on": "2025-04-14"
+    },
+    "JTTE": {
+        "id": 860,
+        "code": "JTTE",
+        "updated_on": "2025-04-29"
+    },
+    "WTTM": {
+        "id": 766,
+        "code": "WTTM",
+        "updated_on": "2025-06-04"
+    },
+    "JTD1": {
+        "id": 859,
+        "code": "JTD1",
+        "updated_on": "2025-04-29"
+    },
+    "WTGX": {
+        "id": 744,
+        "code": "WTGX",
+        "updated_on": "2025-04-14"
+    },
+    "NTG9-P": {
+        "id": 325,
+        "code": "NTG9-P",
+        "updated_on": "2025-05-13"
+    },
+    "NTGA": {
+        "id": 326,
+        "code": "NTGA",
+        "updated_on": "2025-05-13"
+    },
+    "WTG6": {
+        "id": 740,
+        "code": "WTG6",
+        "updated_on": "2025-05-13"
+    },
+    "KTG2": {
+        "id": 156,
+        "code": "KTG2",
+        "updated_on": "2025-05-13"
+    },
+    "KTG1": {
+        "id": 155,
+        "code": "KTG1",
+        "updated_on": "2025-05-13"
+    },
+    "WTGM": {
+        "id": 741,
+        "code": "WTGM",
+        "updated_on": "2025-05-13"
+    },
+    "WTGO": {
+        "id": 743,
+        "code": "WTGO",
+        "updated_on": "2025-05-13"
+    },
+    "WTG1": {
+        "id": 738,
+        "code": "WTG1",
+        "updated_on": "2025-05-13"
+    },
+    "MTG6": {
+        "id": 215,
+        "code": "MTG6",
+        "updated_on": "2025-05-13"
+    },
+    "MTG3": {
+        "id": 212,
+        "code": "MTG3",
+        "updated_on": "2025-05-13"
+    },
+    "MTG4": {
+        "id": 213,
+        "code": "MTG4",
+        "updated_on": "2025-05-13"
+    },
+    "MTG5": {
+        "id": 214,
+        "code": "MTG5",
+        "updated_on": "2025-05-13"
+    },
+    "NTG1": {
+        "id": 322,
+        "code": "NTG1",
+        "updated_on": "2025-05-13"
+    },
+    "STG6": {
+        "id": 529,
+        "code": "STG6",
+        "updated_on": "2025-05-13"
+    },
+    "STG2": {
+        "id": 528,
+        "code": "STG2",
+        "updated_on": "2025-05-13"
+    },
+    "ETG4": {
+        "id": 63,
+        "code": "ETG4",
+        "updated_on": "2025-05-13"
+    },
+    "MTG9": {
+        "id": 217,
+        "code": "MTG9",
+        "updated_on": "2025-05-13"
+    },
+    "MTG8": {
+        "id": 216,
+        "code": "MTG8",
+        "updated_on": "2025-05-13"
+    },
+    "NTG1-P": {
+        "id": 323,
+        "code": "NTG1-P",
+        "updated_on": "2025-06-04"
+    },
+    "NTG3": {
+        "id": 324,
+        "code": "NTG3",
+        "updated_on": "2025-06-06"
+    },
+    "NTH1": {
+        "id": 327,
+        "code": "NTH1",
+        "updated_on": "2025-06-06"
+    },
+    "WTKR": {
+        "id": 750,
+        "code": "WTKR",
+        "updated_on": "2025-04-14"
+    },
+    "WTKP": {
+        "id": 749,
+        "code": "WTKP",
+        "updated_on": "2025-04-14"
+    },
+    "WTKS": {
+        "id": 751,
+        "code": "WTKS",
+        "updated_on": "2025-04-14"
+    },
+    "JTL1": {
+        "id": 122,
+        "code": "JTL1",
+        "updated_on": "2025-04-14"
+    },
+    "WTLT": {
+        "id": 752,
+        "code": "WTLT",
+        "updated_on": "2025-04-14"
+    },
+    "NTM9": {
+        "id": 335,
+        "code": "NTM9",
+        "updated_on": "2025-06-06"
+    },
+    "NTM3": {
+        "id": 329,
+        "code": "NTM3",
+        "updated_on": "2025-06-17"
+    },
+    "NTM7": {
+        "id": 333,
+        "code": "NTM7",
+        "updated_on": "2025-06-06"
+    },
+    "NTM6": {
+        "id": 332,
+        "code": "NTM6",
+        "updated_on": "2025-06-04"
+    },
+    "NTMT": {
+        "id": 336,
+        "code": "NTMT",
+        "updated_on": "2025-06-04"
+    },
+    "NTM4": {
+        "id": 330,
+        "code": "NTM4",
+        "updated_on": "2025-06-04"
+    },
+    "NTM5": {
+        "id": 331,
+        "code": "NTM5",
+        "updated_on": "2025-08-29"
+    },
+    "NTM8": {
+        "id": 334,
+        "code": "NTM8",
+        "updated_on": "2025-06-04"
+    },
+    "NWE2": {
+        "id": 360,
+        "code": "NWE2",
+        "updated_on": "2025-06-04"
+    },
+    "MTPC-C": {
+        "id": 227,
+        "code": "MTPC-C",
+        "updated_on": "2025-04-14"
+    },
+    "MTPC": {
+        "id": 226,
+        "code": "MTPC",
+        "updated_on": "2025-04-14"
+    },
+    "NTPH": {
+        "id": 342,
+        "code": "NTPH",
+        "updated_on": "2025-04-14"
+    },
+    "NTPE": {
+        "id": 339,
+        "code": "NTPE",
+        "updated_on": "2025-04-14"
+    },
+    "STPJ": {
+        "id": 535,
+        "code": "STPJ",
+        "updated_on": "2025-04-14"
+    },
+    "NTPF": {
+        "id": 340,
+        "code": "NTPF",
+        "updated_on": "2025-04-14"
+    },
+    "NTPG": {
+        "id": 341,
+        "code": "NTPG",
+        "updated_on": "2025-06-24"
+    },
+    "NTPL": {
+        "id": 343,
+        "code": "NTPL",
+        "updated_on": "2025-04-14"
+    },
+    "NTPM": {
+        "id": 344,
+        "code": "NTPM",
+        "updated_on": "2025-04-14"
+    },
+    "NTPP": {
+        "id": 345,
+        "code": "NTPP",
+        "updated_on": "2025-05-08"
+    },
+    "NTPP-P": {
+        "id": 346,
+        "code": "NTPP-P",
+        "updated_on": "2025-05-08"
+    },
+    "NTP5": {
+        "id": 338,
+        "code": "NTP5",
+        "updated_on": "2025-05-08"
+    },
+    "NTP4": {
+        "id": 337,
+        "code": "NTP4",
+        "updated_on": "2025-06-06"
+    },
+    "WTRB": {
+        "id": 755,
+        "code": "WTRB",
+        "updated_on": "2025-04-14"
+    },
+    "NTSQ": {
+        "id": 351,
+        "code": "NTSQ",
+        "updated_on": "2025-06-06"
+    },
+    "ETZN": {
+        "id": 66,
+        "code": "ETZN",
+        "updated_on": "2025-04-14"
+    },
+    "NTZE": {
+        "id": 358,
+        "code": "NTZE",
+        "updated_on": "2025-06-10"
+    },
+    "STTP": {
+        "id": 540,
+        "code": "STTP",
+        "updated_on": "2025-04-14"
+    },
+    "NTT6": {
+        "id": 355,
+        "code": "NTT6",
+        "updated_on": "2025-04-14"
+    },
+    "NTT5": {
+        "id": 354,
+        "code": "NTT5",
+        "updated_on": "2025-04-14"
+    },
+    "MTKT": {
+        "id": 225,
+        "code": "MTKT",
+        "updated_on": "2025-04-14"
+    },
+    "MTK1": {
+        "id": 224,
+        "code": "MTK1",
+        "updated_on": "2025-04-14"
+    },
+    "WTOL": {
+        "id": 754,
+        "code": "WTOL",
+        "updated_on": "2025-04-14"
+    },
+    "NTE1": {
+        "id": 320,
+        "code": "NTE1",
+        "updated_on": "2025-06-06"
+    },
+    "WTIT": {
+        "id": 748,
+        "code": "WTIT",
+        "updated_on": "2025-06-06"
+    },
+    "WTIT-C": {
+        "id": 757,
+        "code": "WTIT-C",
+        "updated_on": "2025-04-14"
+    },
+    "WTI2": {
+        "id": 747,
+        "code": "WTI2",
+        "updated_on": "2025-06-09"
+    },
+    "STT1": {
+        "id": 539,
+        "code": "STT1",
+        "updated_on": "2025-06-06"
+    },
+    "SASQ-C": {
+        "id": 407,
+        "code": "SASQ-C",
+        "updated_on": "2025-04-14"
+    },
+    "SSH7": {
+        "id": 889,
+        "code": "SSH7",
+        "updated_on": "2025-05-21"
+    },
+    "SLT1": {
+        "id": 474,
+        "code": "SLT1",
+        "updated_on": "2025-06-06"
+    },
+    "SSH5": {
+        "id": 507,
+        "code": "SSH5",
+        "updated_on": "2025-06-06"
+    },
+    "WTS3": {
+        "id": 758,
+        "code": "WTS3",
+        "updated_on": "2025-04-14"
+    },
+    "NWK1": {
+        "id": 362,
+        "code": "NWK1",
+        "updated_on": "2025-06-12"
+    },
+    "NYH1": {
+        "id": 372,
+        "code": "NYH1",
+        "updated_on": "2025-06-06"
+    },
+    "MYUN": {
+        "id": 238,
+        "code": "MYUN",
+        "updated_on": "2025-04-14"
+    },
+    "OU21": {
+        "id": 392,
+        "code": "OU21",
+        "updated_on": "2025-04-14"
+    },
+    "MUHE": {
+        "id": 229,
+        "code": "MUHE",
+        "updated_on": "2025-04-14"
+    },
+    "WUNP": {
+        "id": 768,
+        "code": "WUNP",
+        "updated_on": "2025-04-14"
+    },
+    "JUNV": {
+        "id": 861,
+        "code": "JUNV",
+        "updated_on": "2025-04-29"
+    },
+    "WUNV": {
+        "id": 769,
+        "code": "WUNV",
+        "updated_on": "2025-04-14"
+    },
+    "WVTM": {
+        "id": 771,
+        "code": "WVTM",
+        "updated_on": "2025-04-14"
+    },
+    "WVTM-C": {
+        "id": 779,
+        "code": "WVTM-C",
+        "updated_on": "2025-04-14"
+    },
+    "JV8T": {
+        "id": 862,
+        "code": "JV8T",
+        "updated_on": "2025-04-29"
+    },
+    "SVNT": {
+        "id": 542,
+        "code": "SVNT",
+        "updated_on": "2025-05-08"
+    },
+    "SVNT-P": {
+        "id": 543,
+        "code": "SVNT-P",
+        "updated_on": "2025-04-14"
+    },
+    "SVN2": {
+        "id": 541,
+        "code": "SVN2",
+        "updated_on": "2025-05-08"
+    },
+    "SVTH": {
+        "id": 544,
+        "code": "SVTH",
+        "updated_on": "2025-06-06"
+    },
+    "WVTC": {
+        "id": 770,
+        "code": "WVTC",
+        "updated_on": "2025-06-04"
+    },
+    "NWPN": {
+        "id": 367,
+        "code": "NWPN",
+        "updated_on": "2025-06-06"
+    },
+    "EWH2": {
+        "id": 70,
+        "code": "EWH2",
+        "updated_on": "2025-06-06"
+    },
+    "SWTY": {
+        "id": 557,
+        "code": "SWTY",
+        "updated_on": "2025-04-14"
+    },
+    "JWT1": {
+        "id": 131,
+        "code": "JWT1",
+        "updated_on": "2025-04-14"
+    },
+    "JWT3": {
+        "id": 132,
+        "code": "JWT3",
+        "updated_on": "2025-04-14"
+    },
+    "WWTA": {
+        "id": 784,
+        "code": "WWTA",
+        "updated_on": "2025-04-14"
+    },
+    "WWTB": {
+        "id": 785,
+        "code": "WWTB",
+        "updated_on": "2025-04-14"
+    },
+    "WWTG": {
+        "id": 791,
+        "code": "WWTG",
+        "updated_on": "2025-04-14"
+    },
+    "WWTD": {
+        "id": 788,
+        "code": "WWTD",
+        "updated_on": "2025-04-14"
+    },
+    "WWTE": {
+        "id": 789,
+        "code": "WWTE",
+        "updated_on": "2025-04-14"
+    },
+    "WWTC": {
+        "id": 787,
+        "code": "WWTC",
+        "updated_on": "2025-04-14"
+    },
+    "WWTF": {
+        "id": 790,
+        "code": "WWTF",
+        "updated_on": "2025-04-14"
+    },
+    "JWT4": {
+        "id": 133,
+        "code": "JWT4",
+        "updated_on": "2025-04-14"
+    },
+    "WWT4": {
+        "id": 783,
+        "code": "WWT4",
+        "updated_on": "2025-04-14"
+    },
+    "WWT1": {
+        "id": 782,
+        "code": "WWT1",
+        "updated_on": "2025-04-14"
+    },
+    "WWCF": {
+        "id": 773,
+        "code": "WWCF",
+        "updated_on": "2025-04-14"
+    },
+    "WWE1": {
+        "id": 774,
+        "code": "WWE1",
+        "updated_on": "2025-04-14"
+    },
+    "WWEG": {
+        "id": 775,
+        "code": "WWEG",
+        "updated_on": "2025-06-06"
+    },
+    "SICT": {
+        "id": 452,
+        "code": "SICT",
+        "updated_on": "2025-04-14"
+    },
+    "JWLE": {
+        "id": 127,
+        "code": "JWLE",
+        "updated_on": "2025-04-14"
+    },
+    "NWMM": {
+        "id": 364,
+        "code": "NWMM",
+        "updated_on": "2025-04-14"
+    },
+    "WWSO": {
+        "id": 781,
+        "code": "WWSO",
+        "updated_on": "2025-04-14"
+    },
+    "WWS5": {
+        "id": 780,
+        "code": "WWS5",
+        "updated_on": "2025-04-14"
+    },
+    "WWSP": {
+        "id": 786,
+        "code": "WWSP",
+        "updated_on": "2025-04-14"
+    },
+    "SWTR": {
+        "id": 556,
+        "code": "SWTR",
+        "updated_on": "2025-04-14"
+    },
+    "SWTN": {
+        "id": 555,
+        "code": "SWTN",
+        "updated_on": "2025-04-14"
+    },
+    "JWPN": {
+        "id": 130,
+        "code": "JWPN",
+        "updated_on": "2025-04-14"
+    },
+    "MWM2": {
+        "id": 886,
+        "code": "MWM2",
+        "updated_on": "2025-06-26"
+    },
+    "MTC2": {
+        "id": 210,
+        "code": "MTC2",
+        "updated_on": "2025-05-05"
+    },
+    "MWKT": {
+        "id": 231,
+        "code": "MWKT",
+        "updated_on": "2025-07-11"
+    },
+    "KWWT": {
+        "id": 162,
+        "code": "KWWT",
+        "updated_on": "2025-06-04"
+    },
+    "SWC1": {
+        "id": 545,
+        "code": "SWC1",
+        "updated_on": "2025-06-06"
+    },
+    "NWO1": {
+        "id": 366,
+        "code": "NWO1",
+        "updated_on": "2025-04-14"
+    },
+    "NWS2": {
+        "id": 368,
+        "code": "NWS2",
+        "updated_on": "2025-05-08"
+    },
+    "MWPT": {
+        "id": 233,
+        "code": "MWPT",
+        "updated_on": "2025-04-14"
+    },
+    "SWTF": {
+        "id": 551,
+        "code": "SWTF",
+        "updated_on": "2025-04-14"
+    },
+    "SWTE": {
+        "id": 550,
+        "code": "SWTE",
+        "updated_on": "2025-04-14"
+    },
+    "SWTG-C": {
+        "id": 553,
+        "code": "SWTG-C",
+        "updated_on": "2025-04-14"
+    },
+    "SWTM": {
+        "id": 554,
+        "code": "SWTM",
+        "updated_on": "2025-04-14"
+    },
+    "SWTG": {
+        "id": 552,
+        "code": "SWTG",
+        "updated_on": "2025-06-04"
+    },
+    "OWST": {
+        "id": 879,
+        "code": "OWST",
+        "updated_on": "2025-07-31"
+    },
+    "EWK1": {
+        "id": 71,
+        "code": "EWK1",
+        "updated_on": "2025-05-08"
+    },
+    "KWLN": {
+        "id": 158,
+        "code": "KWLN",
+        "updated_on": "2025-04-14"
+    },
+    "NWT4": {
+        "id": 369,
+        "code": "NWT4",
+        "updated_on": "2025-05-22"
+    },
+    "NWT7": {
+        "id": 370,
+        "code": "NWT7",
+        "updated_on": "2025-06-04"
+    },
+    "OWBT": {
+        "id": 877,
+        "code": "OWBT",
+        "updated_on": "2025-04-29"
+    },
+    "MWO1": {
+        "id": 232,
+        "code": "MWO1",
+        "updated_on": "2025-07-03"
+    },
+    "KWSP": {
+        "id": 160,
+        "code": "KWSP",
+        "updated_on": "2025-04-14"
+    },
+    "WWTN": {
+        "id": 792,
+        "code": "WWTN",
+        "updated_on": "2025-04-14"
+    },
+    "NWNT": {
+        "id": 365,
+        "code": "NWNT",
+        "updated_on": "2025-06-04"
+    },
+    "NWDT": {
+        "id": 359,
+        "code": "NWDT",
+        "updated_on": "2025-05-08"
+    },
+    "MWHH": {
+        "id": 230,
+        "code": "MWHH",
+        "updated_on": "2025-04-14"
+    },
+    "WWTS": {
+        "id": 793,
+        "code": "WWTS",
+        "updated_on": "2025-04-14"
+    },
+    "WWH5": {
+        "id": 776,
+        "code": "WWH5",
+        "updated_on": "2025-04-14"
+    },
+    "JWLS": {
+        "id": 128,
+        "code": "JWLS",
+        "updated_on": "2025-06-09"
+    },
+    "JWOP": {
+        "id": 129,
+        "code": "JWOP",
+        "updated_on": "2025-04-14"
+    },
+    "WWS2": {
+        "id": 777,
+        "code": "WWS2",
+        "updated_on": "2025-07-02"
+    },
+    "EWTG": {
+        "id": 73,
+        "code": "EWTG",
+        "updated_on": "2025-05-08"
+    },
+    "OWH1": {
+        "id": 878,
+        "code": "OWH1",
+        "updated_on": "2025-07-01"
+    },
+    "KWTM": {
+        "id": 161,
+        "code": "KWTM",
+        "updated_on": "2025-05-08"
+    },
+    "NXLE": {
+        "id": 371,
+        "code": "NXLE",
+        "updated_on": "2025-05-08"
+    },
+    "KYHT": {
+        "id": 163,
+        "code": "KYHT",
+        "updated_on": "2025-04-14"
+    },
+    "JYKE": {
+        "id": 134,
+        "code": "JYKE",
+        "updated_on": "2025-04-14"
+    },
+    "ZYHC": {
+        "id": 817,
+        "code": "ZYHC",
+        "updated_on": "2025-04-14"
+    },
+    "Joshua": {
+        "id": 892,
+        "code": "Joshua",
+        "updated_on": "2025-06-12"
+    },
+    "ZYSW": {
+        "id": 818,
+        "code": "ZYSW",
+        "updated_on": "2025-04-14"
+    },
+    "WYW9": {
+        "id": 806,
+        "code": "WYW9",
+        "updated_on": "2025-04-14"
+    },
+    "Yuna": {
+        "id": 902,
+        "code": "Yuna",
+        "updated_on": "2025-09-18"
+    },
+    "STCP": {
+        "id": 527,
+        "code": "STCP",
+        "updated_on": "2025-04-14"
+    },
+    "STC2": {
+        "id": 531,
+        "code": "STC2",
+        "updated_on": "2025-04-14"
+    },
+    "STC3-C": {
+        "id": 538,
+        "code": "STC3-C",
+        "updated_on": "2025-04-14"
+    },
+    "MYFL": {
+        "id": 235,
+        "code": "MYFL",
+        "updated_on": "2025-04-14"
+    },
+    "WYHT": {
+        "id": 795,
+        "code": "WYHT",
+        "updated_on": "2025-04-14"
+    },
+    "MYM1": {
+        "id": 236,
+        "code": "MYM1",
+        "updated_on": "2025-05-09"
+    },
+    "OYKC": {
+        "id": 880,
+        "code": "OYKC",
+        "updated_on": "2025-04-29"
+    },
+    "WYK1": {
+        "id": 796,
+        "code": "WYK1",
+        "updated_on": "2025-04-14"
+    },
+    "WYK4": {
+        "id": 799,
+        "code": "WYK4",
+        "updated_on": "2025-05-22"
+    },
+    "WYK3": {
+        "id": 798,
+        "code": "WYK3",
+        "updated_on": "2025-04-14"
+    },
+    "WYK2": {
+        "id": 797,
+        "code": "WYK2",
+        "updated_on": "2025-05-08"
+    },
+    "WYKP": {
+        "id": 800,
+        "code": "WYKP",
+        "updated_on": "2025-04-14"
+    },
+    "WYLU": {
+        "id": 801,
+        "code": "WYLU",
+        "updated_on": "2025-04-14"
+    },
+    "NYLU": {
+        "id": 375,
+        "code": "NYLU",
+        "updated_on": "2025-04-14"
+    },
+    "NYLS": {
+        "id": 373,
+        "code": "NYLS",
+        "updated_on": "2025-05-22"
+    },
+    "NYLT": {
+        "id": 374,
+        "code": "NYLT",
+        "updated_on": "2025-05-08"
+    },
+    "NYNY": {
+        "id": 378,
+        "code": "NYNY",
+        "updated_on": "2025-04-14"
+    },
+    "MYS1": {
+        "id": 237,
+        "code": "MYS1",
+        "updated_on": "2025-04-14"
+    },
+    "EYS1": {
+        "id": 75,
+        "code": "EYS1",
+        "updated_on": "2025-05-08"
+    },
+    "NYMS": {
+        "id": 377,
+        "code": "NYMS",
+        "updated_on": "2025-05-08"
+    },
+    "NYMP": {
+        "id": 376,
+        "code": "NYMP",
+        "updated_on": "2025-04-14"
+    },
+    "WYS1": {
+        "id": 804,
+        "code": "WYS1",
+        "updated_on": "2025-04-14"
+    },
+    "WYM1": {
+        "id": 802,
+        "code": "WYM1",
+        "updated_on": "2025-04-14"
+    },
+    "SYL1": {
+        "id": 558,
+        "code": "SYL1",
+        "updated_on": "2025-05-08"
+    },
+    "SZCT": {
+        "id": 559,
+        "code": "SZCT",
+        "updated_on": "2025-06-04"
+    },
+    "OZTE": {
+        "id": 394,
+        "code": "OZTE",
+        "updated_on": "2025-04-14"
+    }
+}

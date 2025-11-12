@@ -1,0 +1,425 @@
+{
+    "JE250905": [
+        {
+            "doc_no": "JE250905",
+            "item_no": 1,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "EGMS // GUA MUSANG / REPLACE RPV18/090 /",
+            "dr_amt": 795.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250905",
+            "item_no": 2,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "EGMS // GUA MUSANG / REPLACE A 19/231 /",
+            "dr_amt": 530.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250905",
+            "item_no": 3,
+            "gl_acc": "1122",
+            "gl_dept": "00",
+            "remark": "REPLACE RPV 18/090 & A 19/231 / GUA MUSANG",
+            "dr_amt": 0.0,
+            "cr_amt": 1325.0
+        }
+    ],
+    "JE250906": [
+        {
+            "doc_no": "JE250906",
+            "item_no": 1,
+            "gl_acc": "2135/20",
+            "gl_dept": "00",
+            "remark": "EGMS // GUA MUSANG / A 20/131 PARTLY",
+            "dr_amt": 888.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250906",
+            "item_no": 2,
+            "gl_acc": "2135/20",
+            "gl_dept": "00",
+            "remark": "EGM2 // GUA MUSANG / A 20/131 PARTLY",
+            "dr_amt": 275.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250906",
+            "item_no": 3,
+            "gl_acc": "1122",
+            "gl_dept": "00",
+            "remark": "TRANSFER A/C OF 1122 TO INCENTIVE A/C 2020",
+            "dr_amt": 0.0,
+            "cr_amt": 1163.0
+        },
+        {
+            "doc_no": "JE250906",
+            "item_no": 4,
+            "gl_acc": "2135/24",
+            "gl_dept": "00",
+            "remark": "WVTC // VISA CITY / A 24/086",
+            "dr_amt": 250.4,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250906",
+            "item_no": 5,
+            "gl_acc": "2135/24",
+            "gl_dept": "00",
+            "remark": "MMAT // MAX TIME / A 24/102",
+            "dr_amt": 180.6,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250906",
+            "item_no": 6,
+            "gl_acc": "1122",
+            "gl_dept": "00",
+            "remark": "TRANSFER A/C OF 1122 TO INCENTIVE A/C 2024",
+            "dr_amt": 0.0,
+            "cr_amt": 431.0
+        }
+    ],
+    "JE250907": [
+        {
+            "doc_no": "JE250907",
+            "item_no": 1,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "WVTC // VISTA CITY / RSC 24/036 /",
+            "dr_amt": 480.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 2,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "WVTC // VISTA CITY / RSC 24/173 /",
+            "dr_amt": 465.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 3,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "ECT2 // CITY BOUTIQUE / RSC 25/061 /",
+            "dr_amt": 30.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 4,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "EWH2 // WAH HING / RSC 25/067 /",
+            "dr_amt": 180.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 5,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "WAMU // AWG / RSC 25/072 /",
+            "dr_amt": 420.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 6,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "ESY4 // SENG YIAP / RSC 25/074 /",
+            "dr_amt": 75.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 7,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "WTIT // TONG YI TIME / RSC 25/080 /",
+            "dr_amt": 175.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 8,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "ECT2 // CITY BOUTIQUE / RSC 25/081 /",
+            "dr_amt": 75.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 9,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "EGM2 // GUA MUSANG  G / RSC 25/082 /",
+            "dr_amt": 75.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 10,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "EWEE // JAM WEE / RSC 25/085 /",
+            "dr_amt": 120.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 11,
+            "gl_acc": "7725",
+            "gl_dept": "00",
+            "remark": "EWTG // WTG WATCH / RSC 25/088 /",
+            "dr_amt": 225.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250907",
+            "item_no": 12,
+            "gl_acc": "1122",
+            "gl_dept": "00",
+            "remark": "TRANSFER A/C OF 1122 TO INCENTIVE A/C",
+            "dr_amt": 0.0,
+            "cr_amt": 2320.0
+        }
+    ],
+    "JE250908": [
+        {
+            "doc_no": "JE250908",
+            "item_no": 1,
+            "gl_acc": "4801",
+            "gl_dept": "02",
+            "remark": "BAT AUG ADJ",
+            "dr_amt": 297078.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250908",
+            "item_no": 2,
+            "gl_acc": "1180",
+            "gl_dept": "02",
+            "remark": "BAT AUG ADJ",
+            "dr_amt": 0.0,
+            "cr_amt": 297078.0
+        },
+        {
+            "doc_no": "JE250908",
+            "item_no": 3,
+            "gl_acc": "1180",
+            "gl_dept": "02",
+            "remark": "BAT SEPT CLOSING STOCK",
+            "dr_amt": 237930.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250908",
+            "item_no": 4,
+            "gl_acc": "4901",
+            "gl_dept": "02",
+            "remark": "BAT SEPT CLOSING STOCK",
+            "dr_amt": 0.0,
+            "cr_amt": 237930.0
+        }
+    ],
+    "JE250909": [
+        {
+            "doc_no": "JE250909",
+            "item_no": 1,
+            "gl_acc": "4801",
+            "gl_dept": "03",
+            "remark": "GLA AUG ADJ",
+            "dr_amt": 69634.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250909",
+            "item_no": 2,
+            "gl_acc": "1180",
+            "gl_dept": "03",
+            "remark": "GLA AUG ADJ",
+            "dr_amt": 0.0,
+            "cr_amt": 69634.0
+        },
+        {
+            "doc_no": "JE250909",
+            "item_no": 4,
+            "gl_acc": "1180",
+            "gl_dept": "03",
+            "remark": "GLA SEPT CLOSING STOCK",
+            "dr_amt": 68443.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250909",
+            "item_no": 5,
+            "gl_acc": "4901",
+            "gl_dept": "03",
+            "remark": "GLA SEPT CLOSING STOCK",
+            "dr_amt": 0.0,
+            "cr_amt": 68443.0
+        }
+    ],
+    "JE250910": [
+        {
+            "doc_no": "JE250910",
+            "item_no": 1,
+            "gl_acc": "4801",
+            "gl_dept": "08",
+            "remark": "ROS AUG  ADJ",
+            "dr_amt": 1955312.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250910",
+            "item_no": 2,
+            "gl_acc": "1180",
+            "gl_dept": "08",
+            "remark": "ROS AUG  ADJ",
+            "dr_amt": 0.0,
+            "cr_amt": 1955312.0
+        },
+        {
+            "doc_no": "JE250910",
+            "item_no": 3,
+            "gl_acc": "1180",
+            "gl_dept": "08",
+            "remark": "ROS SEPT CLOSING STOCK",
+            "dr_amt": 1877176.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250910",
+            "item_no": 4,
+            "gl_acc": "4901",
+            "gl_dept": "08",
+            "remark": "ROS SEPT CLOSING STOCK",
+            "dr_amt": 0.0,
+            "cr_amt": 1877176.0
+        }
+    ],
+    "JE250911": [
+        {
+            "doc_no": "JE250911",
+            "item_no": 1,
+            "gl_acc": "4801",
+            "gl_dept": "12",
+            "remark": "NTA AUG ADJ",
+            "dr_amt": 37300.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250911",
+            "item_no": 2,
+            "gl_acc": "1180",
+            "gl_dept": "12",
+            "remark": "NTA AUG ADJ",
+            "dr_amt": 0.0,
+            "cr_amt": 37300.0
+        },
+        {
+            "doc_no": "JE250911",
+            "item_no": 3,
+            "gl_acc": "1180",
+            "gl_dept": "12",
+            "remark": "NTA SEPT CLOSING STOCK",
+            "dr_amt": 29152.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250911",
+            "item_no": 4,
+            "gl_acc": "4901",
+            "gl_dept": "12",
+            "remark": "NTA SEPT CLOSING STOCK",
+            "dr_amt": 0.0,
+            "cr_amt": 29152.0
+        }
+    ],
+    "JE250912": [
+        {
+            "doc_no": "JE250912",
+            "item_no": 1,
+            "gl_acc": "4801",
+            "gl_dept": "28",
+            "remark": "AUR AUG ADJ",
+            "dr_amt": 19658.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250912",
+            "item_no": 2,
+            "gl_acc": "1180",
+            "gl_dept": "28",
+            "remark": "AUR AUG ADJ",
+            "dr_amt": 0.0,
+            "cr_amt": 19658.0
+        },
+        {
+            "doc_no": "JE250912",
+            "item_no": 3,
+            "gl_acc": "1180",
+            "gl_dept": "28",
+            "remark": "AUR SEPT CLOSING STOCK",
+            "dr_amt": 11550.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250912",
+            "item_no": 4,
+            "gl_acc": "4901",
+            "gl_dept": "00",
+            "remark": "AUR SEPT CLOSING STOCK",
+            "dr_amt": 0.0,
+            "cr_amt": 11550.0
+        }
+    ],
+    "JE250913": [
+        {
+            "doc_no": "JE250913",
+            "item_no": 1,
+            "gl_acc": "4801",
+            "gl_dept": "68",
+            "remark": "U2 AUG ADJ",
+            "dr_amt": 400932.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250913",
+            "item_no": 2,
+            "gl_acc": "1180",
+            "gl_dept": "68",
+            "remark": "U2 AUG ADJ",
+            "dr_amt": 0.0,
+            "cr_amt": 400932.0
+        },
+        {
+            "doc_no": "JE250913",
+            "item_no": 3,
+            "gl_acc": "1180",
+            "gl_dept": "68",
+            "remark": "U2 SEPT CLOSING STOCK",
+            "dr_amt": 400916.0,
+            "cr_amt": 0.0
+        },
+        {
+            "doc_no": "JE250913",
+            "item_no": 4,
+            "gl_acc": "4901",
+            "gl_dept": "68",
+            "remark": "U2 SEPT CLOSING STOCK",
+            "dr_amt": 0.0,
+            "cr_amt": 400916.0
+        }
+    ]
+}

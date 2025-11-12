@@ -1,0 +1,70 @@
+{
+    "payment_methods": {
+        "version": "2025-04-07 17:16:17",
+        "items": [
+            {
+                "id": 1,
+                "name": "Bank Transfer",
+                "slug": "bank_transfer",
+                "is_archived": false,
+                "account_id": null,
+                "fee_text": null,
+                "fee_account_id": null
+            },
+            {
+                "id": 3,
+                "name": "Cash",
+                "slug": "cash",
+                "is_archived": false,
+                "account_id": null,
+                "fee_text": null,
+                "fee_account_id": null
+            },
+            {
+                "id": 5,
+                "name": "Cheque",
+                "slug": "cheque",
+                "is_archived": false,
+                "account_id": null,
+                "fee_text": null,
+                "fee_account_id": null
+            },
+            {
+                "id": 4,
+                "name": "Credit Card",
+                "slug": "credit_card",
+                "is_archived": false,
+                "account_id": null,
+                "fee_text": null,
+                "fee_account_id": null
+            },
+            {
+                "id": 2,
+                "name": "Online Payment",
+                "slug": "online_payment",
+                "is_archived": false,
+                "account_id": null,
+                "fee_text": null,
+                "fee_account_id": null
+            },
+            {
+                "id": 6,
+                "name": "Other",
+                "slug": "other",
+                "is_archived": false,
+                "account_id": null,
+                "fee_text": null,
+                "fee_account_id": null
+            },
+            {
+                "id": 7,
+                "name": "Payment Gateway",
+                "slug": "payment_gateway",
+                "is_archived": false,
+                "account_id": null,
+                "fee_text": null,
+                "fee_account_id": null
+            }
+        ]
+    }
+}

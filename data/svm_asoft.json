@@ -1,0 +1,335 @@
+{
+    "SB75532": {
+        "doc_no": "SB75532",
+        "doc_date": "2025-11-04",
+        "card_id": "WSR1",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB75816": {
+        "doc_no": "SB75816",
+        "doc_date": "2025-11-11",
+        "card_id": "WGBL",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 57.0,
+        "invoice_type": 8
+    },
+    "SB75818": {
+        "doc_no": "SB75818",
+        "doc_date": "2025-11-03",
+        "card_id": "WPT8",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB75820": {
+        "doc_no": "SB75820",
+        "doc_date": "2025-11-11",
+        "card_id": "WGBL",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB75893": {
+        "doc_no": "SB75893",
+        "doc_date": "2025-11-04",
+        "card_id": "NKS4",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 48.0,
+        "invoice_type": 8
+    },
+    "SB76041": {
+        "doc_no": "SB76041",
+        "doc_date": "2025-11-04",
+        "card_id": "EKOK",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76042": {
+        "doc_no": "SB76042",
+        "doc_date": "2025-11-04",
+        "card_id": "EKOK",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76047": {
+        "doc_no": "SB76047",
+        "doc_date": "2025-11-11",
+        "card_id": "SKS1",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 90.0,
+        "invoice_type": 8
+    },
+    "SB76048": {
+        "doc_no": "SB76048",
+        "doc_date": "2025-11-03",
+        "card_id": "SPL8",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76116": {
+        "doc_no": "SB76116",
+        "doc_date": "2025-11-03",
+        "card_id": "WYK2",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76117": {
+        "doc_no": "SB76117",
+        "doc_date": "2025-11-06",
+        "card_id": "WEKO",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76162": {
+        "doc_no": "SB76162",
+        "doc_date": "2025-11-06",
+        "card_id": "SSTR",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76165": {
+        "doc_no": "SB76165",
+        "doc_date": "2025-11-06",
+        "card_id": "KKH2",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76167": {
+        "doc_no": "SB76167",
+        "doc_date": "2025-11-04",
+        "card_id": "KKEN",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76168": {
+        "doc_no": "SB76168",
+        "doc_date": "2025-11-04",
+        "card_id": "KTG2",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76203": {
+        "doc_no": "SB76203",
+        "doc_date": "2025-11-04",
+        "card_id": "WPK2",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76204": {
+        "doc_no": "SB76204",
+        "doc_date": "2025-11-05",
+        "card_id": "WTGN",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76205": {
+        "doc_no": "SB76205",
+        "doc_date": "2025-11-06",
+        "card_id": "WLM1",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76207": {
+        "doc_no": "SB76207",
+        "doc_date": "2025-11-11",
+        "card_id": "WLM1",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 54.0,
+        "invoice_type": 8
+    },
+    "SB76208": {
+        "doc_no": "SB76208",
+        "doc_date": "2025-11-11",
+        "card_id": "WLM1",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76211": {
+        "doc_no": "SB76211",
+        "doc_date": "2025-11-06",
+        "card_id": "WTG3",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76212": {
+        "doc_no": "SB76212",
+        "doc_date": "2025-11-07",
+        "card_id": "WAMU",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76213": {
+        "doc_no": "SB76213",
+        "doc_date": "2025-11-07",
+        "card_id": "WHS2",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76214": {
+        "doc_no": "SB76214",
+        "doc_date": "2025-11-07",
+        "card_id": "WHS2",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76215": {
+        "doc_no": "SB76215",
+        "doc_date": "2025-11-06",
+        "card_id": "WTIT",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76216": {
+        "doc_no": "SB76216",
+        "doc_date": "2025-11-07",
+        "card_id": "WTT2",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 72.0,
+        "invoice_type": 8
+    },
+    "SB76217": {
+        "doc_no": "SB76217",
+        "doc_date": "2025-11-07",
+        "card_id": "WTT2",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76218": {
+        "doc_no": "SB76218",
+        "doc_date": "2025-11-06",
+        "card_id": "WTT2",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76252": {
+        "doc_no": "SB76252",
+        "doc_date": "2025-11-06",
+        "card_id": "NBTA",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB76253": {
+        "doc_no": "SB76253",
+        "doc_date": "2025-11-07",
+        "card_id": "OYST",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 24.0,
+        "invoice_type": 8
+    },
+    "SB77043": {
+        "doc_no": "SB77043",
+        "doc_date": "2025-11-04",
+        "card_id": "OYST",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB77047": {
+        "doc_no": "SB77047",
+        "doc_date": "2025-11-04",
+        "card_id": "WCFE",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB77048": {
+        "doc_no": "SB77048",
+        "doc_date": "2025-11-06",
+        "card_id": "NBTZ",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB77049": {
+        "doc_no": "SB77049",
+        "doc_date": "2025-11-04",
+        "card_id": "NTE1",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "SB77050": {
+        "doc_no": "SB77050",
+        "doc_date": "2025-11-04",
+        "card_id": "NWT7",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 0.0,
+        "invoice_type": 8
+    },
+    "TJ22185": {
+        "doc_no": "TJ22185",
+        "doc_date": "2025-11-06",
+        "card_id": "MCC1",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 294.0,
+        "invoice_type": 8
+    },
+    "TJ22186": {
+        "doc_no": "TJ22186",
+        "doc_date": "2025-11-11",
+        "card_id": "NCTS",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "amount": 22.0,
+        "invoice_type": 8
+    }
+}

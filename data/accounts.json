@@ -1,0 +1,790 @@
+{
+    "accounts": {
+        "version": "2025-04-07 17:16:17",
+        "items": [
+            {
+                "id": 1,
+                "code": "1000",
+                "name": "Bank & Cash Accounts",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 302,
+                "type": "current_assets",
+                "parent_id": null,
+                "system_type": "bank_cash",
+                "is_locked": false,
+                "is_archived": false,
+                "children": [
+                    {
+                        "id": 2,
+                        "code": "1000-00",
+                        "name": "Cash on Hand",
+                        "currency_code": "MYR",
+                        "currency": {
+                            "code": "MYR",
+                            "symbol": "RM"
+                        },
+                        "balance": 302,
+                        "type": "current_assets",
+                        "parent_id": 1,
+                        "system_type": "bank_cash",
+                        "is_locked": false,
+                        "is_archived": false,
+                        "children": null
+                    },
+                    {
+                        "id": 3,
+                        "code": "1000-01",
+                        "name": "Bank Account",
+                        "currency_code": "MYR",
+                        "currency": {
+                            "code": "MYR",
+                            "symbol": "RM"
+                        },
+                        "balance": 0,
+                        "type": "current_assets",
+                        "parent_id": 1,
+                        "system_type": "bank_cash",
+                        "is_locked": false,
+                        "is_archived": false,
+                        "children": null
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "code": "1001",
+                "name": "Accounts Receivable",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_assets",
+                "parent_id": null,
+                "system_type": "accounts_receivable",
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 5,
+                "code": "1002",
+                "name": "Inventory",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_assets",
+                "parent_id": null,
+                "system_type": "inventory",
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 6,
+                "code": "1003",
+                "name": "Undeposited Funds",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_assets",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 7,
+                "code": "1500",
+                "name": "Property, Plant & Equipment",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "non_current_assets",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 8,
+                "code": "3000",
+                "name": "Credit Card Accounts",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "credit_card",
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 9,
+                "code": "3001",
+                "name": "Accounts Payable",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "accounts_payable",
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 10,
+                "code": "3002",
+                "name": "SST Payable",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "my_sst_payable",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 11,
+                "code": "3003",
+                "name": "SST Deferred",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "my_sst_deferred",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 12,
+                "code": "3004",
+                "name": "EPF Control",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "my_epf_control",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 13,
+                "code": "3005",
+                "name": "SOCSO Control",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "my_socso_control",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 14,
+                "code": "3006",
+                "name": "EIS Control",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "my_eis_control",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 15,
+                "code": "3007",
+                "name": "MTD Control",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "my_mtd_control",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 16,
+                "code": "3008",
+                "name": "Salary Control",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "my_salary_control",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 17,
+                "code": "3009",
+                "name": "Goods Received Not Invoiced",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "current_liabilities",
+                "parent_id": null,
+                "system_type": "goods_received_not_invoiced",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 18,
+                "code": "4000",
+                "name": "Retained Earnings",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "equity",
+                "parent_id": null,
+                "system_type": "retained_earnings",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 19,
+                "code": "4001",
+                "name": "Owner's Share Capital",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": 0,
+                "type": "equity",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 20,
+                "code": "5000",
+                "name": "Sales Income",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "income",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 21,
+                "code": "5001",
+                "name": "Discount Given",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "income",
+                "parent_id": null,
+                "system_type": "discount_given",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 22,
+                "code": "5500",
+                "name": "Interest Earned",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "other_income",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 23,
+                "code": "6000",
+                "name": "Cost of Sales",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "cost_of_sales",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 24,
+                "code": "6001",
+                "name": "Inventory Adjustment",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "cost_of_sales",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 25,
+                "code": "6500",
+                "name": "SST Expense",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": "my_sst_expense",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 26,
+                "code": "6501",
+                "name": "EPF - Employer's Contribution",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": "my_epf_expense",
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 27,
+                "code": "6502",
+                "name": "SOCSO - Employer's Contribution",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": "my_socso_expense",
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 28,
+                "code": "6503",
+                "name": "EIS - Employer's Contribution",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": "my_eis_expense",
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 29,
+                "code": "6504",
+                "name": "MTD - Employer's Contribution",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": "my_mtd_expense",
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 30,
+                "code": "6505",
+                "name": "Salaries & Wages",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": "my_salary_expense",
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 31,
+                "code": "6506",
+                "name": "Rounding Loss",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": "rounding_loss",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 32,
+                "code": "6507",
+                "name": "Exchange Loss",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": "exchange_loss",
+                "is_locked": true,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 33,
+                "code": "6508",
+                "name": "General Expense",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 34,
+                "code": "6509",
+                "name": "Interest Paid",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 35,
+                "code": "6510",
+                "name": "Bank Charges",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 36,
+                "code": "6511",
+                "name": "Advertising & Promotion",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 37,
+                "code": "6512",
+                "name": "Water & Electricity",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 38,
+                "code": "6513",
+                "name": "Telephone & Internet",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 39,
+                "code": "6514",
+                "name": "Legal Fees",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 40,
+                "code": "6515",
+                "name": "Accounting & Other Professional Fees",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 41,
+                "code": "6516",
+                "name": "Rent Expense",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 42,
+                "code": "6517",
+                "name": "Office Expense",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 43,
+                "code": "6518",
+                "name": "Printing & Stationery",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 44,
+                "code": "6519",
+                "name": "Meal & Entertainment",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 45,
+                "code": "6520",
+                "name": "Travel Expense",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            },
+            {
+                "id": 46,
+                "code": "6521",
+                "name": "Daily Commute Expense",
+                "currency_code": "MYR",
+                "currency": {
+                    "code": "MYR",
+                    "symbol": "RM"
+                },
+                "balance": null,
+                "type": "expenses",
+                "parent_id": null,
+                "system_type": null,
+                "is_locked": false,
+                "is_archived": false,
+                "children": null
+            }
+        ]
+    }
+}
