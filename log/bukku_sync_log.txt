@@ -45447,3 +45447,28 @@ Exception: Failed to fetch invoices from 2026-04-11 to 2026-04-24 on page 1 afte
 2026-04-29 15:08:22,903 - INFO - Incremental sync completed. Total synced: 99
 2026-04-29 15:08:23,021 - INFO - Successfully exported 6228 invoices to \\storage\public\Data\bukku_invoices.csv
 2026-04-29 15:08:23,022 - INFO - --- Bukku Sync Finished ---
+2026-04-29 15:23:30,588 - INFO - --- Bukku Sync Started ---
+2026-04-29 15:23:30,669 - INFO - Database has 6228 records. Initiating incremental sync.
+2026-04-29 15:23:30,671 - INFO - Incremental sync: Last invoice date in DB is 2026-04-28. Starting from 2026-04-18
+2026-04-29 15:23:30,671 - INFO - Starting sync from 2026-04-18 to 2026-04-29
+2026-04-29 15:23:31,224 - INFO - Synced 99 invoices from page 1
+2026-04-29 15:23:31,225 - INFO - Incremental sync completed. Total synced: 99
+2026-04-29 15:23:31,361 - INFO - Successfully exported 6228 invoices to \\storage\public\Data\bukku_invoices.csv
+2026-04-29 15:23:31,363 - INFO - --- Bukku Sync Finished ---
+2026-04-29 15:38:22,404 - INFO - --- Bukku Sync Started ---
+2026-04-29 15:38:22,426 - INFO - Database has 6228 records. Initiating incremental sync.
+2026-04-29 15:38:22,427 - INFO - Incremental sync: Last invoice date in DB is 2026-04-28. Starting from 2026-04-18
+2026-04-29 15:38:22,427 - INFO - Starting sync from 2026-04-18 to 2026-04-29
+2026-04-29 15:38:22,865 - INFO - Synced 99 invoices from page 1
+2026-04-29 15:38:22,865 - INFO - Incremental sync completed. Total synced: 99
+2026-04-29 15:38:22,988 - INFO - Successfully exported 6228 invoices to \\storage\public\Data\bukku_invoices.csv
+2026-04-29 15:38:22,990 - INFO - --- Bukku Sync Finished ---
+2026-04-29 15:53:22,206 - INFO - --- Bukku Sync Started ---
+2026-04-29 15:53:22,222 - INFO - Database has 6228 records. Initiating incremental sync.
+2026-04-29 15:53:22,222 - INFO - Incremental sync: Last invoice date in DB is 2026-04-28. Starting from 2026-04-18
+2026-04-29 15:53:22,222 - INFO - Starting sync from 2026-04-18 to 2026-04-29
+2026-04-29 15:53:22,786 - INFO - Synced 100 invoices from page 1
+2026-04-29 15:53:23,155 - INFO - Synced 12 invoices from page 2
+2026-04-29 15:53:23,155 - INFO - Incremental sync completed. Total synced: 112
+2026-04-29 15:53:23,278 - INFO - Successfully exported 6241 invoices to \\storage\public\Data\bukku_invoices.csv
+2026-04-29 15:53:23,279 - INFO - --- Bukku Sync Finished ---
