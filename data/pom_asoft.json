@@ -98,6 +98,105 @@
         "amount_rm": 64650.87,
         "remark": ""
     },
+    "PO0097": {
+        "doc_no": "PO0097",
+        "doc_date": "2025-12-08",
+        "card_id": "OLVS",
+        "currency_id": "HKD",
+        "currency_rate": 0.5384,
+        "status": "M",
+        "amount": 1460.0,
+        "amount_rm": 786.06,
+        "remark": ""
+    },
+    "PO0098": {
+        "doc_no": "PO0098",
+        "doc_date": "2025-12-01",
+        "card_id": "OLVS",
+        "currency_id": "HKD",
+        "currency_rate": 0.5384,
+        "status": "M",
+        "amount": 187130.0,
+        "amount_rm": 100750.78,
+        "remark": ""
+    },
+    "PO0099": {
+        "doc_no": "PO0099",
+        "doc_date": "2025-12-11",
+        "card_id": "OLVS",
+        "currency_id": "HKD",
+        "currency_rate": 0.5384,
+        "status": "M",
+        "amount": 160330.0,
+        "amount_rm": 86321.67,
+        "remark": ""
+    },
+    "PO0100": {
+        "doc_no": "PO0100",
+        "doc_date": "2026-01-14",
+        "card_id": "OLVS",
+        "currency_id": "HKD",
+        "currency_rate": 0.5273,
+        "status": "M",
+        "amount": 1108.0,
+        "amount_rm": 584.25,
+        "remark": ""
+    },
+    "PO0101": {
+        "doc_no": "PO0101",
+        "doc_date": "2026-01-13",
+        "card_id": "OLVS",
+        "currency_id": "HKD",
+        "currency_rate": 0.5273,
+        "status": "M",
+        "amount": 89657.0,
+        "amount_rm": 47276.13,
+        "remark": ""
+    },
+    "PO0102": {
+        "doc_no": "PO0102",
+        "doc_date": "2026-01-28",
+        "card_id": "OLVS",
+        "currency_id": "HKD",
+        "currency_rate": 0.5273,
+        "status": "M",
+        "amount": 12400.0,
+        "amount_rm": 6538.52,
+        "remark": ""
+    },
+    "PO0103": {
+        "doc_no": "PO0103",
+        "doc_date": "2026-01-22",
+        "card_id": "OLVS",
+        "currency_id": "HKD",
+        "currency_rate": 0.5266,
+        "status": "M",
+        "amount": 128320.0,
+        "amount_rm": 67573.32,
+        "remark": ""
+    },
+    "PO0104": {
+        "doc_no": "PO0104",
+        "doc_date": "2026-02-06",
+        "card_id": "OLVS",
+        "currency_id": "HKD",
+        "currency_rate": 0.5241,
+        "status": "M",
+        "amount": 57896.0,
+        "amount_rm": 30343.3,
+        "remark": ""
+    },
+    "PO0105": {
+        "doc_no": "PO0105",
+        "doc_date": "2026-02-09",
+        "card_id": "OLVS",
+        "currency_id": "HKD",
+        "currency_rate": 0.5241,
+        "status": "M",
+        "amount": 4704.0,
+        "amount_rm": 2465.36,
+        "remark": ""
+    },
     "PO0301": {
         "doc_no": "PO0301",
         "doc_date": "2025-04-07",
@@ -129,6 +228,17 @@
         "status": "M",
         "amount": 42961.2,
         "amount_rm": 181889.12,
+        "remark": ""
+    },
+    "PO0606": {
+        "doc_no": "PO0606",
+        "doc_date": "2026-01-23",
+        "card_id": "OSSC",
+        "currency_id": "USD",
+        "currency_rate": 4.1011,
+        "status": "M",
+        "amount": 5270.0,
+        "amount_rm": 21612.8,
         "remark": ""
     },
     "PO0701": {
@@ -252,6 +362,28 @@
         "amount_rm": 351.0,
         "remark": ""
     },
+    "PO11870": {
+        "doc_no": "PO11870",
+        "doc_date": "2026-01-22",
+        "card_id": "OWH1",
+        "currency_id": "USD",
+        "currency_rate": 4.1011,
+        "status": "M",
+        "amount": 8047.3,
+        "amount_rm": 33002.77,
+        "remark": ""
+    },
+    "PO11878": {
+        "doc_no": "PO11878",
+        "doc_date": "2026-03-03",
+        "card_id": "OWH1",
+        "currency_id": "USD",
+        "currency_rate": 3.9462,
+        "status": "M",
+        "amount": 13454.2,
+        "amount_rm": 53092.96,
+        "remark": ""
+    },
     "PO12071": {
         "doc_no": "PO12071",
         "doc_date": "2025-07-15",
@@ -307,6 +439,72 @@
         "amount_rm": 3750.0,
         "remark": ""
     },
+    "PO12704": {
+        "doc_no": "PO12704",
+        "doc_date": "2026-01-27",
+        "card_id": "JODD",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "amount": 495.0,
+        "amount_rm": 495.0,
+        "remark": ""
+    },
+    "PO12741": {
+        "doc_no": "PO12741",
+        "doc_date": "2026-02-06",
+        "card_id": "JODD",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "amount": 3750.0,
+        "amount_rm": 3750.0,
+        "remark": ""
+    },
+    "PO12801": {
+        "doc_no": "PO12801",
+        "doc_date": "2026-03-05",
+        "card_id": "JODD",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "amount": 1050.0,
+        "amount_rm": 1050.0,
+        "remark": ""
+    },
+    "PO12815": {
+        "doc_no": "PO12815",
+        "doc_date": "2026-03-06",
+        "card_id": "JODD",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "amount": 3660.0,
+        "amount_rm": 3660.0,
+        "remark": ""
+    },
+    "PO1314": {
+        "doc_no": "PO1314",
+        "doc_date": "2025-12-09",
+        "card_id": "OWST",
+        "currency_id": "USD",
+        "currency_rate": 4.2369,
+        "status": "M",
+        "amount": 9434.3,
+        "amount_rm": 39972.18,
+        "remark": ""
+    },
+    "PO1320": {
+        "doc_no": "PO1320",
+        "doc_date": "2026-02-04",
+        "card_id": "OWST",
+        "currency_id": "USD",
+        "currency_rate": 4.1002,
+        "status": "M",
+        "amount": 5862.0,
+        "amount_rm": 24035.37,
+        "remark": ""
+    },
     "PO160404": {
         "doc_no": "PO160404",
         "doc_date": "2025-03-12",
@@ -329,6 +527,28 @@
         "amount_rm": 750.0,
         "remark": ""
     },
+    "PO2317": {
+        "doc_no": "PO2317",
+        "doc_date": "2025-12-11",
+        "card_id": "OWST",
+        "currency_id": "USD",
+        "currency_rate": 4.2369,
+        "status": "M",
+        "amount": 3537.7,
+        "amount_rm": 14988.89,
+        "remark": ""
+    },
+    "PO2322": {
+        "doc_no": "PO2322",
+        "doc_date": "2026-02-23",
+        "card_id": "OWST",
+        "currency_id": "USD",
+        "currency_rate": 3.9849,
+        "status": "M",
+        "amount": 3358.0,
+        "amount_rm": 13381.3,
+        "remark": ""
+    },
     "PO241218": {
         "doc_no": "PO241218",
         "doc_date": "2025-01-06",
@@ -340,6 +560,17 @@
         "amount_rm": 64193.84,
         "remark": ""
     },
+    "PO2416": {
+        "doc_no": "PO2416",
+        "doc_date": "2026-03-13",
+        "card_id": "OEFG",
+        "currency_id": "EUR",
+        "currency_rate": 4.605,
+        "status": "M",
+        "amount": 14649.9,
+        "amount_rm": 67462.8,
+        "remark": ""
+    },
     "PO2501": {
         "doc_no": "PO2501",
         "doc_date": "2025-04-14",
@@ -349,6 +580,17 @@
         "status": "M",
         "amount": 37400.0,
         "amount_rm": 23351.83,
+        "remark": ""
+    },
+    "PO25025": {
+        "doc_no": "PO25025",
+        "doc_date": "2026-02-27",
+        "card_id": "OPFT",
+        "currency_id": "CNY",
+        "currency_rate": 0.5682,
+        "status": "M",
+        "amount": 111900.0,
+        "amount_rm": 63581.58,
         "remark": ""
     },
     "PO250403": {
@@ -439,6 +681,50 @@
         "amount_rm": 197952.82,
         "remark": ""
     },
+    "PO55426": {
+        "doc_no": "PO55426",
+        "doc_date": "2025-12-29",
+        "card_id": "OLSG",
+        "currency_id": "USD",
+        "currency_rate": 4.0879,
+        "status": "M",
+        "amount": 15777.25,
+        "amount_rm": 64495.83,
+        "remark": ""
+    },
+    "PO55536": {
+        "doc_no": "PO55536",
+        "doc_date": "2026-03-16",
+        "card_id": "OLSG",
+        "currency_id": "USD",
+        "currency_rate": 3.9326,
+        "status": "M",
+        "amount": 25186.0,
+        "amount_rm": 99046.48,
+        "remark": ""
+    },
+    "PO6454": {
+        "doc_no": "PO6454",
+        "doc_date": "2026-03-18",
+        "card_id": "JMM1",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "amount": 2635.0,
+        "amount_rm": 2635.0,
+        "remark": ""
+    },
+    "PO6736": {
+        "doc_no": "PO6736",
+        "doc_date": "2026-04-06",
+        "card_id": "JMM1",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "amount": 45.0,
+        "amount_rm": 45.0,
+        "remark": ""
+    },
     "PO7308": {
         "doc_no": "PO7308",
         "doc_date": "2025-07-30",
@@ -481,6 +767,17 @@
         "status": "M",
         "amount": 5145.33,
         "amount_rm": 21711.74,
+        "remark": ""
+    },
+    "PO9845": {
+        "doc_no": "PO9845",
+        "doc_date": "2026-02-12",
+        "card_id": "ORSA",
+        "currency_id": "USD",
+        "currency_rate": 3.9776,
+        "status": "M",
+        "amount": 8503.31,
+        "amount_rm": 33822.78,
         "remark": ""
     }
 }

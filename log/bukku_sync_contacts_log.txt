@@ -1,0 +1,16 @@
+2026-04-17 11:52:01,911 - INFO - --- Bukku Contacts Sync Started ---
+2026-04-17 11:52:01,922 - INFO - Starting full contacts sync
+2026-04-17 11:52:02,468 - INFO - Synced 100 contacts from page 1
+2026-04-17 11:52:02,942 - INFO - Synced 100 contacts from page 2
+2026-04-17 11:52:03,376 - INFO - Synced 100 contacts from page 3
+2026-04-17 11:52:03,808 - INFO - Synced 100 contacts from page 4
+2026-04-17 11:52:04,240 - INFO - Synced 100 contacts from page 5
+2026-04-17 11:52:04,677 - INFO - Synced 100 contacts from page 6
+2026-04-17 11:52:05,313 - INFO - Synced 100 contacts from page 7
+2026-04-17 11:52:05,776 - INFO - Synced 100 contacts from page 8
+2026-04-17 11:52:06,288 - INFO - Synced 100 contacts from page 9
+2026-04-17 11:52:06,782 - INFO - Synced 100 contacts from page 10
+2026-04-17 11:52:07,523 - INFO - Synced 90 contacts from page 11
+2026-04-17 11:52:07,523 - INFO - Full sync completed. Total synced: 1090
+2026-04-17 11:52:07,549 - INFO - Successfully exported 1090 contacts to \\storage\public\Data\bukku_contacts.csv
+2026-04-17 11:52:07,550 - INFO - --- Bukku Contacts Sync Finished ---

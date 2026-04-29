@@ -4,3 +4,4 @@ api_headers = {
     "Company-Subdomain": "jlsb",
     "Accept": "application/json",
 }
+subdomain = "jlsb"

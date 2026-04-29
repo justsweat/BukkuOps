@@ -204,6 +204,9 @@ def bulk_update_products(asoft_products):
         updated_on_asoft = asoft_products[product]["updated_on"]
         updated_on_bukku = products[product_sku]["updated_on"]
 
+        if updated_on_asoft is None:
+            continue
+
         # Skip products that has no changes
         if updated_on_bukku >= updated_on_asoft:
             continue

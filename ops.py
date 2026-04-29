@@ -58,6 +58,7 @@ def read_tlist(category):
         "sales_orders": "sales/orders",
         "delivery_orders": "sales/delivery_orders",
         "invoices": "sales/invoices",
+        "invoices_last_14_days": "sales/invoices",
         "credit_notes": "sales/credit_notes",
         "purchase_orders": "purchases/orders",
         "goods_receiveds": "purchases/goods_received_notes",

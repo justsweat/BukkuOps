@@ -2947,5 +2947,2213 @@
             "gr_itemno": 8,
             "ref_do": "0096"
         }
+    ],
+    "APS25/030": [
+        {
+            "seq_no": "APS25/030",
+            "item_no": 1,
+            "stock_id": "4639S7",
+            "remark": "ROSCANI BG 4639S7 S/S BRAC SPG GRN",
+            "qty": 70.0,
+            "price": 160.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 1,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 2,
+            "stock_id": "4636S5",
+            "remark": "ROSCANI BG 4636S5 R/S BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 180.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 2,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 3,
+            "stock_id": "4637S5",
+            "remark": "ROSCANI BG 4637S5 G/S BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 177.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 3,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 4,
+            "stock_id": "4634S3",
+            "remark": "ROSCANI BG 4634S3 R/G BRAC SPG BLK",
+            "qty": 95.0,
+            "price": 190.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 4,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 5,
+            "stock_id": "4635S1",
+            "remark": "ROSCANI BG 4635S1 G/D BRAC SPG YEL",
+            "qty": 95.0,
+            "price": 185.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 5,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 6,
+            "stock_id": "4649G7",
+            "remark": "ROSCANI BL 4649G7 S/S BRAC SPG GRN",
+            "qty": 95.0,
+            "price": 159.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 6,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 7,
+            "stock_id": "4646G5",
+            "remark": "ROSCANI BL 4646G5 R/S BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 179.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 7,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 8,
+            "stock_id": "4647G5",
+            "remark": "ROSCANI BL 4647G5 G/S BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 176.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 8,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 9,
+            "stock_id": "4644G3",
+            "remark": "ROSCANI BL 4644G3 R/G BRAC SPG BLK",
+            "qty": 100.0,
+            "price": 189.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 9,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 10,
+            "stock_id": "4645G1",
+            "remark": "ROSCANI BL 4645G1 G/D BRAC SPG YEL",
+            "qty": 95.0,
+            "price": 184.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 10,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 11,
+            "stock_id": "E629G7",
+            "remark": "ROSCANI BL E629G7 S/S BRAC SPG GRN",
+            "qty": 20.0,
+            "price": 155.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 11,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 12,
+            "stock_id": "E624G0",
+            "remark": "ROSCANI BL E624G0 R/G BRAC SPG RGD",
+            "qty": 20.0,
+            "price": 183.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 12,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 13,
+            "stock_id": "E624G3",
+            "remark": "ROSCANI BL E624G3 R/G BRAC SPG BLK",
+            "qty": 20.0,
+            "price": 183.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 13,
+            "ref_do": "PO0098"
+        },
+        {
+            "seq_no": "APS25/030",
+            "item_no": 14,
+            "stock_id": "E625G5",
+            "remark": "ROSCANI BL E625G5 G/D BRAC SPG WHT",
+            "qty": 40.0,
+            "price": 180.0,
+            "gr_no": "SGR0098",
+            "gr_itemno": 14,
+            "ref_do": "PO0098"
+        }
+    ],
+    "APS25/031": [
+        {
+            "seq_no": "APS25/031",
+            "item_no": 1,
+            "stock_id": "S/P",
+            "remark": "8 PCS SAMPLE WACTH\r\n",
+            "qty": 8.0,
+            "price": 182.5,
+            "gr_no": "SGR0097",
+            "gr_itemno": 1,
+            "ref_do": "PO0097"
+        }
+    ],
+    "APS25/032": [
+        {
+            "seq_no": "APS25/032",
+            "item_no": 1,
+            "stock_id": "S14952",
+            "remark": "ROSCANI BL S14952 S/S BRAC GLA Pink",
+            "qty": 90.0,
+            "price": 9.9,
+            "gr_no": "SGR1314",
+            "gr_itemno": 1,
+            "ref_do": "PO1314"
+        },
+        {
+            "seq_no": "APS25/032",
+            "item_no": 2,
+            "stock_id": "S14459",
+            "remark": "ROSCANI BL S14459 R/G BRAC GLA RED",
+            "qty": 85.0,
+            "price": 13.5,
+            "gr_no": "SGR1314",
+            "gr_itemno": 2,
+            "ref_do": "PO1314"
+        },
+        {
+            "seq_no": "APS25/032",
+            "item_no": 3,
+            "stock_id": "S14754",
+            "remark": "ROSCANI BL S14754 B/N BRAC GLA BRN",
+            "qty": 50.0,
+            "price": 13.5,
+            "gr_no": "SGR1314",
+            "gr_itemno": 3,
+            "ref_do": "PO1314"
+        },
+        {
+            "seq_no": "APS25/032",
+            "item_no": 4,
+            "stock_id": "S14353",
+            "remark": "ROSCANI BL S14353 B/K BRAC GLA BLK",
+            "qty": 70.0,
+            "price": 13.5,
+            "gr_no": "SGR1314",
+            "gr_itemno": 4,
+            "ref_do": "PO1314"
+        },
+        {
+            "seq_no": "APS25/032",
+            "item_no": 5,
+            "stock_id": "S14453",
+            "remark": "ROSCANI BL S14453 R/G BRAC GLA BLK",
+            "qty": 79.0,
+            "price": 13.5,
+            "gr_no": "SGR1314",
+            "gr_itemno": 5,
+            "ref_do": "PO1314"
+        },
+        {
+            "seq_no": "APS25/032",
+            "item_no": 6,
+            "stock_id": "S14455",
+            "remark": "ROSCANI BL S14455 R/G BRAC GLA WHT",
+            "qty": 88.0,
+            "price": 13.5,
+            "gr_no": "SGR1314",
+            "gr_itemno": 6,
+            "ref_do": "PO1314"
+        },
+        {
+            "seq_no": "APS25/032",
+            "item_no": 7,
+            "stock_id": "S14450",
+            "remark": "ROSCANI BL S14450 R/G BRAC GLA RGD",
+            "qty": 75.0,
+            "price": 13.5,
+            "gr_no": "SGR1314",
+            "gr_itemno": 7,
+            "ref_do": "PO1314"
+        },
+        {
+            "seq_no": "APS25/032",
+            "item_no": 8,
+            "stock_id": "S14555",
+            "remark": "ROSCANI BL S14555 G/D BRAC GLA WHT",
+            "qty": 96.0,
+            "price": 12.8,
+            "gr_no": "SGR1314",
+            "gr_itemno": 8,
+            "ref_do": "PO1314"
+        },
+        {
+            "seq_no": "APS25/032",
+            "item_no": 9,
+            "stock_id": "S14551",
+            "remark": "ROSCANI BL S14551 G/D BRAC GLA YEL",
+            "qty": 100.0,
+            "price": 12.8,
+            "gr_no": "SGR1314",
+            "gr_itemno": 9,
+            "ref_do": "PO1314"
+        }
+    ],
+    "APS25/033": [
+        {
+            "seq_no": "APS25/033",
+            "item_no": 1,
+            "stock_id": "S14952",
+            "remark": "ROSCANI BL S14952 S/S BRAC GLA Pink",
+            "qty": 10.0,
+            "price": 9.9,
+            "gr_no": "SGR2317",
+            "gr_itemno": 1,
+            "ref_do": "2317"
+        },
+        {
+            "seq_no": "APS25/033",
+            "item_no": 2,
+            "stock_id": "S14459",
+            "remark": "ROSCANI BL S14459 R/G BRAC GLA RED",
+            "qty": 35.0,
+            "price": 13.5,
+            "gr_no": "SGR2317",
+            "gr_itemno": 2,
+            "ref_do": "2317"
+        },
+        {
+            "seq_no": "APS25/033",
+            "item_no": 3,
+            "stock_id": "S14754",
+            "remark": "ROSCANI BL S14754 B/N BRAC GLA BRN",
+            "qty": 50.0,
+            "price": 13.5,
+            "gr_no": "SGR2317",
+            "gr_itemno": 3,
+            "ref_do": "2317"
+        },
+        {
+            "seq_no": "APS25/033",
+            "item_no": 4,
+            "stock_id": "S14353",
+            "remark": "ROSCANI BL S14353 B/K BRAC GLA BLK",
+            "qty": 30.0,
+            "price": 13.5,
+            "gr_no": "SGR2317",
+            "gr_itemno": 4,
+            "ref_do": "2317"
+        },
+        {
+            "seq_no": "APS25/033",
+            "item_no": 5,
+            "stock_id": "S14453",
+            "remark": "ROSCANI BL S14453 R/G BRAC GLA BLK",
+            "qty": 21.0,
+            "price": 13.5,
+            "gr_no": "SGR2317",
+            "gr_itemno": 5,
+            "ref_do": "2317"
+        },
+        {
+            "seq_no": "APS25/033",
+            "item_no": 6,
+            "stock_id": "S14455",
+            "remark": "ROSCANI BL S14455 R/G BRAC GLA WHT",
+            "qty": 32.0,
+            "price": 13.5,
+            "gr_no": "SGR2317",
+            "gr_itemno": 6,
+            "ref_do": "2317"
+        },
+        {
+            "seq_no": "APS25/033",
+            "item_no": 7,
+            "stock_id": "S14450",
+            "remark": "ROSCANI BL S14450 R/G BRAC GLA RGD",
+            "qty": 45.0,
+            "price": 13.5,
+            "gr_no": "SGR2317",
+            "gr_itemno": 7,
+            "ref_do": "2317"
+        },
+        {
+            "seq_no": "APS25/033",
+            "item_no": 8,
+            "stock_id": "S14555",
+            "remark": "ROSCANI BL S14555 G/D BRAC GLA WHT",
+            "qty": 24.0,
+            "price": 12.8,
+            "gr_no": "SGR2317",
+            "gr_itemno": 8,
+            "ref_do": "2317"
+        },
+        {
+            "seq_no": "APS25/033",
+            "item_no": 9,
+            "stock_id": "S14551",
+            "remark": "ROSCANI BL S14551 G/D BRAC GLA YEL",
+            "qty": 20.0,
+            "price": 12.8,
+            "gr_no": "SGR2317",
+            "gr_itemno": 9,
+            "ref_do": "2317"
+        }
+    ],
+    "APS25/034": [
+        {
+            "seq_no": "APS25/034",
+            "item_no": 1,
+            "stock_id": "4689G8",
+            "remark": "ROSCANI BL 4689G8 S/S BRAC SPG BLU",
+            "qty": 100.0,
+            "price": 248.0,
+            "gr_no": "SGR0099",
+            "gr_itemno": 1,
+            "ref_do": "0099"
+        },
+        {
+            "seq_no": "APS25/034",
+            "item_no": 2,
+            "stock_id": "4686G0",
+            "remark": "ROSCANI BL 4686G0 R/S BRAC SPG RGD",
+            "qty": 100.0,
+            "price": 272.0,
+            "gr_no": "SGR0099",
+            "gr_itemno": 2,
+            "ref_do": "0099"
+        },
+        {
+            "seq_no": "APS25/034",
+            "item_no": 3,
+            "stock_id": "4686G7",
+            "remark": "ROSCANI BL 4686G7 R/S BRAC SPG GRN",
+            "qty": 100.0,
+            "price": 268.0,
+            "gr_no": "SGR0099",
+            "gr_itemno": 3,
+            "ref_do": "0099"
+        },
+        {
+            "seq_no": "APS25/034",
+            "item_no": 4,
+            "stock_id": "4686G9",
+            "remark": "ROSCANI BL 4686G9 R/S BRAC SPG Red",
+            "qty": 100.0,
+            "price": 268.0,
+            "gr_no": "SGR0099",
+            "gr_itemno": 4,
+            "ref_do": "0099"
+        },
+        {
+            "seq_no": "APS25/034",
+            "item_no": 5,
+            "stock_id": "4687G5",
+            "remark": "ROSCANI BL 4687G5 G/S BRAC SPG WHT",
+            "qty": 99.0,
+            "price": 270.0,
+            "gr_no": "SGR0099",
+            "gr_itemno": 5,
+            "ref_do": "0099"
+        },
+        {
+            "seq_no": "APS25/034",
+            "item_no": 6,
+            "stock_id": "4685G5",
+            "remark": "ROSCANI BL 4685G5 G/D BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 280.0,
+            "gr_no": "SGR0099",
+            "gr_itemno": 6,
+            "ref_do": "0099"
+        }
+    ],
+    "APS25/035": [
+        {
+            "seq_no": "APS25/035",
+            "item_no": 1,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 28000.0,
+            "price": 0.135,
+            "gr_no": "SGR55426",
+            "gr_itemno": 1,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 2,
+            "stock_id": "3416010",
+            "remark": "RAW SR416 SW BATTERY",
+            "qty": 300.0,
+            "price": 0.53,
+            "gr_no": "SGR55426",
+            "gr_itemno": 2,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 3,
+            "stock_id": "3521010",
+            "remark": "RAW SR521 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.183,
+            "gr_no": "SGR55426",
+            "gr_itemno": 3,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 4,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.24,
+            "gr_no": "SGR55426",
+            "gr_itemno": 4,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 5,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 10000.0,
+            "price": 0.146,
+            "gr_no": "SGR55426",
+            "gr_itemno": 5,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 6,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 30000.0,
+            "price": 0.146,
+            "gr_no": "SGR55426",
+            "gr_itemno": 6,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 7,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.33,
+            "gr_no": "SGR55426",
+            "gr_itemno": 7,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 8,
+            "stock_id": "3721010",
+            "remark": "RAW SR721 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.25,
+            "gr_no": "SGR55426",
+            "gr_itemno": 8,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 9,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.415,
+            "gr_no": "SGR55426",
+            "gr_itemno": 9,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 10,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 8000.0,
+            "price": 0.258,
+            "gr_no": "SGR55426",
+            "gr_itemno": 10,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 11,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 4000.0,
+            "price": 0.425,
+            "gr_no": "SGR55426",
+            "gr_itemno": 11,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 12,
+            "stock_id": "4243001",
+            "remark": "SPRON CR2430 BATTERY",
+            "qty": 200.0,
+            "price": 0.53,
+            "gr_no": "SGR55426",
+            "gr_itemno": 12,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 13,
+            "stock_id": "4245001",
+            "remark": "SPRON CR2450 BATTERY",
+            "qty": 100.0,
+            "price": 0.6,
+            "gr_no": "SGR55426",
+            "gr_itemno": 13,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 14,
+            "stock_id": "9161601",
+            "remark": "SPRON CTL1616 BATTERY",
+            "qty": 30.0,
+            "price": 6.8,
+            "gr_no": "SGR55426",
+            "gr_itemno": 14,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 15,
+            "stock_id": "9920001",
+            "remark": "SPRON CTL920 BATTERY",
+            "qty": 20.0,
+            "price": 8.5,
+            "gr_no": "SGR55426",
+            "gr_itemno": 15,
+            "ref_do": "55426"
+        },
+        {
+            "seq_no": "APS25/035",
+            "item_no": 16,
+            "stock_id": "S/P",
+            "remark": "VJ12B31 3H ",
+            "qty": 15.0,
+            "price": 1.75,
+            "gr_no": "SGR55426",
+            "gr_itemno": 16,
+            "ref_do": "55426"
+        }
+    ],
+    "APS26/001": [
+        {
+            "seq_no": "APS26/001",
+            "item_no": 1,
+            "stock_id": "4609L6",
+            "remark": "ROSCANI BL 4609L6 S/S BRAC GLA WHT",
+            "qty": 100.0,
+            "price": 100.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 1,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 2,
+            "stock_id": "4603L3",
+            "remark": "ROSCANI BL 4603L3 B/K BRAC GLA BLK",
+            "qty": 100.0,
+            "price": 130.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 2,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 3,
+            "stock_id": "4579G7",
+            "remark": "ROSCANI BG 4579G7 S/S BRAC SPG GRN",
+            "qty": 100.0,
+            "price": 178.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 3,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 4,
+            "stock_id": "4576G9",
+            "remark": "ROSCANI BG 4576G9 R/S BRAC SPG RGD",
+            "qty": 100.0,
+            "price": 200.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 4,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 5,
+            "stock_id": "4577G5",
+            "remark": "ROSCANI BG 4577G5 G/S BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 205.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 5,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 6,
+            "stock_id": "4639S7",
+            "remark": "ROSCANI BG 4639S7 S/S BRAC SPG GRN",
+            "qty": 30.0,
+            "price": 160.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 6,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 7,
+            "stock_id": "4634S3",
+            "remark": "ROSCANI BG 4634S3 R/G BRAC SPG BLK",
+            "qty": 5.0,
+            "price": 190.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 7,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 8,
+            "stock_id": "4635S1",
+            "remark": "ROSCANI BG 4635S1 G/D BRAC SPG YEL",
+            "qty": 4.0,
+            "price": 185.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 8,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 9,
+            "stock_id": "4649G7",
+            "remark": "ROSCANI BL 4649G7 S/S BRAC SPG GRN",
+            "qty": 4.0,
+            "price": 159.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 9,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 10,
+            "stock_id": "4645G1",
+            "remark": "ROSCANI BL 4645G1 G/D BRAC SPG YEL",
+            "qty": 4.0,
+            "price": 184.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 10,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 11,
+            "stock_id": "S/P",
+            "remark": "R489 SAPPHIRE GLASS\r\n",
+            "qty": 10.0,
+            "price": 21.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 11,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 12,
+            "stock_id": "S/P",
+            "remark": "R497 SAPPHIRE GLASS",
+            "qty": 5.0,
+            "price": 25.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 12,
+            "ref_do": "0101"
+        },
+        {
+            "seq_no": "APS26/001",
+            "item_no": 13,
+            "stock_id": "S/P",
+            "remark": "R498 SAPPHIRE GLASS\r\n",
+            "qty": 10.0,
+            "price": 16.0,
+            "gr_no": "SGR0101",
+            "gr_itemno": 13,
+            "ref_do": "0101"
+        }
+    ],
+    "APS26/002": [
+        {
+            "seq_no": "APS26/002",
+            "item_no": 1,
+            "stock_id": "S/P",
+            "remark": "SAMPLE WATCH E612 / 613 / 615\r\n",
+            "qty": 4.0,
+            "price": 196.0,
+            "gr_no": "SGR0100",
+            "gr_itemno": 1,
+            "ref_do": "PO0100"
+        },
+        {
+            "seq_no": "APS26/002",
+            "item_no": 2,
+            "stock_id": "S/P",
+            "remark": "SAMPLE WACTH E615",
+            "qty": 1.0,
+            "price": 200.0,
+            "gr_no": "SGR0100",
+            "gr_itemno": 2,
+            "ref_do": "PO0100"
+        },
+        {
+            "seq_no": "APS26/002",
+            "item_no": 3,
+            "stock_id": "S/P",
+            "remark": "E612 STRAP",
+            "qty": 1.0,
+            "price": 22.0,
+            "gr_no": "SGR0100",
+            "gr_itemno": 3,
+            "ref_do": "PO0100"
+        },
+        {
+            "seq_no": "APS26/002",
+            "item_no": 4,
+            "stock_id": "S/P",
+            "remark": "E613 STRAP",
+            "qty": 2.0,
+            "price": 26.0,
+            "gr_no": "SGR0100",
+            "gr_itemno": 4,
+            "ref_do": "PO0100"
+        },
+        {
+            "seq_no": "APS26/002",
+            "item_no": 5,
+            "stock_id": "S/P",
+            "remark": "E615 STRAP\r\n\r\n",
+            "qty": 2.0,
+            "price": 25.0,
+            "gr_no": "SGR0100",
+            "gr_itemno": 5,
+            "ref_do": "PO0100"
+        }
+    ],
+    "APS26/003": [
+        {
+            "seq_no": "APS26/003",
+            "item_no": 1,
+            "stock_id": "4122000",
+            "remark": "RAW CR1220 BATTERY",
+            "qty": 3500.0,
+            "price": 0.275,
+            "gr_no": "SGR11870",
+            "gr_itemno": 1,
+            "ref_do": "11870"
+        },
+        {
+            "seq_no": "APS26/003",
+            "item_no": 2,
+            "stock_id": "4162000",
+            "remark": "RAW CR1620 BATTERY",
+            "qty": 3000.0,
+            "price": 0.38,
+            "gr_no": "SGR11870",
+            "gr_itemno": 2,
+            "ref_do": "11870"
+        },
+        {
+            "seq_no": "APS26/003",
+            "item_no": 3,
+            "stock_id": "4163201",
+            "remark": "SPRON CR1632 BATTERY",
+            "qty": 900.0,
+            "price": 0.76,
+            "gr_no": "SGR11870",
+            "gr_itemno": 3,
+            "ref_do": "11870"
+        },
+        {
+            "seq_no": "APS26/003",
+            "item_no": 4,
+            "stock_id": "4201600",
+            "remark": "RAW CR2016 BATTERY",
+            "qty": 9600.0,
+            "price": 0.186,
+            "gr_no": "SGR11870",
+            "gr_itemno": 4,
+            "ref_do": "11870"
+        },
+        {
+            "seq_no": "APS26/003",
+            "item_no": 5,
+            "stock_id": "4202500",
+            "remark": "RAW CR2025 BATTERY",
+            "qty": 6400.0,
+            "price": 0.183,
+            "gr_no": "SGR11870",
+            "gr_itemno": 5,
+            "ref_do": "11870"
+        },
+        {
+            "seq_no": "APS26/003",
+            "item_no": 6,
+            "stock_id": "4203200",
+            "remark": "RAW CR2032 BATTERY",
+            "qty": 12800.0,
+            "price": 0.18,
+            "gr_no": "SGR11870",
+            "gr_itemno": 6,
+            "ref_do": "11870"
+        }
+    ],
+    "APS26/004": [
+        {
+            "seq_no": "APS26/004",
+            "item_no": 1,
+            "stock_id": "AF180BK",
+            "remark": "AURAFIT AM18 SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 24.0,
+            "gr_no": "SGR0606",
+            "gr_itemno": 1,
+            "ref_do": "PO0606"
+        },
+        {
+            "seq_no": "APS26/004",
+            "item_no": 2,
+            "stock_id": "AFG60GN",
+            "remark": "AURAFIT G6 GPS SMARTWATCH GRN",
+            "qty": 60.0,
+            "price": 28.0,
+            "gr_no": "SGR0606",
+            "gr_itemno": 2,
+            "ref_do": "PO0606"
+        },
+        {
+            "seq_no": "APS26/004",
+            "item_no": 3,
+            "stock_id": "AFU6PWT",
+            "remark": "AURAFIT UB6 PRO SMARTWATCH WHT",
+            "qty": 60.0,
+            "price": 16.0,
+            "gr_no": "SGR0606",
+            "gr_itemno": 3,
+            "ref_do": "PO0606"
+        },
+        {
+            "seq_no": "APS26/004",
+            "item_no": 4,
+            "stock_id": "AF11MBK",
+            "remark": "AURAFIT A11 MINI SMARTWATCH BLK",
+            "qty": 60.0,
+            "price": 16.0,
+            "gr_no": "SGR0606",
+            "gr_itemno": 4,
+            "ref_do": "PO0606"
+        },
+        {
+            "seq_no": "APS26/004",
+            "item_no": 5,
+            "stock_id": "S/P",
+            "remark": "FREIGHT CHARGES",
+            "qty": 1.0,
+            "price": 230.0,
+            "gr_no": "SGR0606",
+            "gr_itemno": 5,
+            "ref_do": "PO0606"
+        }
+    ],
+    "APS26/005": [
+        {
+            "seq_no": "APS26/005",
+            "item_no": 1,
+            "stock_id": "E619G2",
+            "remark": "ROSCANI BL E619G2 S/S BRAC SPG PNK",
+            "qty": 100.0,
+            "price": 174.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 1,
+            "ref_do": "0103"
+        },
+        {
+            "seq_no": "APS26/005",
+            "item_no": 2,
+            "stock_id": "E614G5",
+            "remark": "ROSCANI BL E614G5 R/G BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 205.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 2,
+            "ref_do": "0103"
+        },
+        {
+            "seq_no": "APS26/005",
+            "item_no": 3,
+            "stock_id": "E614G9",
+            "remark": "ROSCANI BL E614G9 R/G BRAC SPG RED",
+            "qty": 100.0,
+            "price": 205.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 3,
+            "ref_do": "0103"
+        },
+        {
+            "seq_no": "APS26/005",
+            "item_no": 4,
+            "stock_id": "E615G1",
+            "remark": "ROSCANI BL E615G1 G/D BRAC SPG YEL",
+            "qty": 100.0,
+            "price": 200.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 4,
+            "ref_do": "0103"
+        },
+        {
+            "seq_no": "APS26/005",
+            "item_no": 5,
+            "stock_id": "E615G7",
+            "remark": "ROSCANI BL E615G7 G/D BRAC SPG GRN",
+            "qty": 100.0,
+            "price": 200.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 5,
+            "ref_do": "0103"
+        },
+        {
+            "seq_no": "APS26/005",
+            "item_no": 6,
+            "stock_id": "4509L8",
+            "remark": "ROSCANI BG 4509L8 S/S BRAC GLA BLU",
+            "qty": 100.0,
+            "price": 84.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 6,
+            "ref_do": "0103"
+        },
+        {
+            "seq_no": "APS26/005",
+            "item_no": 7,
+            "stock_id": "S979N2",
+            "remark": "ROSCANI BL S979N2 S/S BRAC GLA PNK",
+            "qty": 100.0,
+            "price": 85.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 7,
+            "ref_do": "0103"
+        },
+        {
+            "seq_no": "APS26/005",
+            "item_no": 8,
+            "stock_id": "S/P",
+            "remark": "E6121 STRAPS",
+            "qty": 105.0,
+            "price": 22.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 8,
+            "ref_do": "0103"
+        },
+        {
+            "seq_no": "APS26/005",
+            "item_no": 9,
+            "stock_id": "S/P",
+            "remark": "E613\r\n",
+            "qty": 210.0,
+            "price": 26.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 9,
+            "ref_do": "0103"
+        },
+        {
+            "seq_no": "APS26/005",
+            "item_no": 10,
+            "stock_id": "S/P",
+            "remark": "E615\r\n\r\n",
+            "qty": 210.0,
+            "price": 25.0,
+            "gr_no": "SGR0103",
+            "gr_itemno": 10,
+            "ref_do": "0103"
+        }
+    ],
+    "APS26/006": [
+        {
+            "seq_no": "APS26/006",
+            "item_no": 1,
+            "stock_id": "4121600",
+            "remark": "RAW CR1216 BATTERY",
+            "qty": 200.0,
+            "price": 1.8,
+            "gr_no": "SGR12704",
+            "gr_itemno": 1,
+            "ref_do": "12704"
+        },
+        {
+            "seq_no": "APS26/006",
+            "item_no": 2,
+            "stock_id": "3440010",
+            "remark": "RAW SR44 SW BATTERY",
+            "qty": 15.0,
+            "price": 9.0,
+            "gr_no": "SGR12704",
+            "gr_itemno": 2,
+            "ref_do": "12704"
+        }
+    ],
+    "APS26/007": [
+        {
+            "seq_no": "APS26/007",
+            "item_no": 1,
+            "stock_id": "S/P",
+            "remark": "E455 & 456 DIAL\r\n",
+            "qty": 400.0,
+            "price": 17.0,
+            "gr_no": "SGR0102",
+            "gr_itemno": 1,
+            "ref_do": "0102"
+        },
+        {
+            "seq_no": "APS26/007",
+            "item_no": 2,
+            "stock_id": "S/P",
+            "remark": "E64 DIAL\r\n",
+            "qty": 300.0,
+            "price": 15.0,
+            "gr_no": "SGR0102",
+            "gr_itemno": 2,
+            "ref_do": "0102"
+        },
+        {
+            "seq_no": "APS26/007",
+            "item_no": 3,
+            "stock_id": "S/P",
+            "remark": "S457217 GENT DIAL",
+            "qty": 50.0,
+            "price": 22.0,
+            "gr_no": "SGR0102",
+            "gr_itemno": 3,
+            "ref_do": "0102"
+        }
+    ],
+    "APS26/008": [
+        {
+            "seq_no": "APS26/008",
+            "item_no": 1,
+            "stock_id": "E524G0",
+            "remark": "ROSCANI BL E524G0 R/G BRAC SPG RGD",
+            "qty": 44.0,
+            "price": 18.8,
+            "gr_no": "SGR1320",
+            "gr_itemno": 1,
+            "ref_do": "1320"
+        },
+        {
+            "seq_no": "APS26/008",
+            "item_no": 2,
+            "stock_id": "E524G5",
+            "remark": "ROSCANI BL E524G5 R/G BRAC SPG WHT",
+            "qty": 48.0,
+            "price": 18.8,
+            "gr_no": "SGR1320",
+            "gr_itemno": 2,
+            "ref_do": "1320"
+        },
+        {
+            "seq_no": "APS26/008",
+            "item_no": 3,
+            "stock_id": "E526G5",
+            "remark": "ROSCANI BL E526G5 R/S BRAC SPG WHT",
+            "qty": 79.0,
+            "price": 18.4,
+            "gr_no": "SGR1320",
+            "gr_itemno": 3,
+            "ref_do": "1320"
+        },
+        {
+            "seq_no": "APS26/008",
+            "item_no": 4,
+            "stock_id": "E525G1",
+            "remark": "ROSCANI BL E525G1 G/D BRAC SPG YEL",
+            "qty": 70.0,
+            "price": 18.1,
+            "gr_no": "SGR1320",
+            "gr_itemno": 4,
+            "ref_do": "1320"
+        },
+        {
+            "seq_no": "APS26/008",
+            "item_no": 5,
+            "stock_id": "E525G5",
+            "remark": "ROSCANI BL E525G5 G/D BRAC SPG WHT",
+            "qty": 78.0,
+            "price": 18.1,
+            "gr_no": "SGR1320",
+            "gr_itemno": 5,
+            "ref_do": "1320"
+        }
+    ],
+    "APS26/009": [
+        {
+            "seq_no": "APS26/009",
+            "item_no": 1,
+            "stock_id": "1230001",
+            "remark": "ALKALINE 12 V ( 23A ) BATTERY (A)",
+            "qty": 3000.0,
+            "price": 1.25,
+            "gr_no": "SGR12741",
+            "gr_itemno": 1,
+            "ref_do": "12741"
+        }
+    ],
+    "APS26/010": [
+        {
+            "seq_no": "APS26/010",
+            "item_no": 1,
+            "stock_id": "4509L6",
+            "remark": "ROSCANI BG 4509L6 S/S BRAC GLA WHT",
+            "qty": 100.0,
+            "price": 100.0,
+            "gr_no": "SGR0104",
+            "gr_itemno": 1,
+            "ref_do": "0104"
+        },
+        {
+            "seq_no": "APS26/010",
+            "item_no": 2,
+            "stock_id": "4503L3",
+            "remark": "ROSCANI BG 4503L3 B/K BRAC GLA BLK",
+            "qty": 100.0,
+            "price": 130.0,
+            "gr_no": "SGR0104",
+            "gr_itemno": 2,
+            "ref_do": "0104"
+        },
+        {
+            "seq_no": "APS26/010",
+            "item_no": 3,
+            "stock_id": "S974N0",
+            "remark": "ROSCANI BL S974N0 R/G BRAC GLA RGD",
+            "qty": 100.0,
+            "price": 100.0,
+            "gr_no": "SGR0104",
+            "gr_itemno": 3,
+            "ref_do": "0104"
+        },
+        {
+            "seq_no": "APS26/010",
+            "item_no": 4,
+            "stock_id": "S974N3",
+            "remark": "ROSCANI BL S974N3 R/G BRAC GLA BLK",
+            "qty": 100.0,
+            "price": 100.0,
+            "gr_no": "SGR0104",
+            "gr_itemno": 4,
+            "ref_do": "0104"
+        },
+        {
+            "seq_no": "APS26/010",
+            "item_no": 5,
+            "stock_id": "S975N1",
+            "remark": "ROSCANI BL S975N1 G/D BRAC GLA YEL",
+            "qty": 76.0,
+            "price": 98.0,
+            "gr_no": "SGR0104",
+            "gr_itemno": 5,
+            "ref_do": "0104"
+        },
+        {
+            "seq_no": "APS26/010",
+            "item_no": 6,
+            "stock_id": "S975N5",
+            "remark": "ROSCANI BL S975N5 G/D BRAC GLA WHT",
+            "qty": 76.0,
+            "price": 98.0,
+            "gr_no": "SGR0104",
+            "gr_itemno": 6,
+            "ref_do": "0104"
+        }
+    ],
+    "APS26/011": [
+        {
+            "seq_no": "APS26/011",
+            "item_no": 1,
+            "stock_id": "S975N1",
+            "remark": "ROSCANI BL S975N1 G/D BRAC GLA YEL",
+            "qty": 24.0,
+            "price": 98.0,
+            "gr_no": "SGR0105",
+            "gr_itemno": 1,
+            "ref_do": "0105"
+        },
+        {
+            "seq_no": "APS26/011",
+            "item_no": 2,
+            "stock_id": "S975N5",
+            "remark": "ROSCANI BL S975N5 G/D BRAC GLA WHT",
+            "qty": 24.0,
+            "price": 98.0,
+            "gr_no": "SGR0105",
+            "gr_itemno": 2,
+            "ref_do": "0105"
+        }
+    ],
+    "APS26/012": [
+        {
+            "seq_no": "APS26/012",
+            "item_no": 1,
+            "stock_id": "RE/315",
+            "remark": "RENATA BATTERY  315  (SR 716 SW)",
+            "qty": 200.0,
+            "price": 0.5953,
+            "gr_no": "SGR9845",
+            "gr_itemno": 1,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 2,
+            "stock_id": "RE/317",
+            "remark": "RENATA BATTERY  317  (SR 516 SW)",
+            "qty": 100.0,
+            "price": 0.3682,
+            "gr_no": "SGR9845",
+            "gr_itemno": 2,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 3,
+            "stock_id": "RE/319",
+            "remark": "RENATA BATTERY  319  (SR 527 SW)",
+            "qty": 100.0,
+            "price": 0.5494,
+            "gr_no": "SGR9845",
+            "gr_itemno": 3,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 4,
+            "stock_id": "RE/321",
+            "remark": "RENATA BATTERY  321  (SR 616 SW)",
+            "qty": 600.0,
+            "price": 0.3559,
+            "gr_no": "SGR9845",
+            "gr_itemno": 4,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 5,
+            "stock_id": "RE/329",
+            "remark": "RENATA BATTERY  329  (SR 731 SW)",
+            "qty": 100.0,
+            "price": 0.6441,
+            "gr_no": "SGR9845",
+            "gr_itemno": 5,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 6,
+            "stock_id": "RE/341",
+            "remark": "RENATA BATTERY  341  (SR 714 SW)",
+            "qty": 100.0,
+            "price": 0.8182,
+            "gr_no": "SGR9845",
+            "gr_itemno": 6,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 7,
+            "stock_id": "RE/346",
+            "remark": "RENATA BATTERY  346  (SR 712 SW)",
+            "qty": 100.0,
+            "price": 0.7912,
+            "gr_no": "SGR9845",
+            "gr_itemno": 7,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 8,
+            "stock_id": "RE/362",
+            "remark": "RENATA BATTERY  362  (SR 721 SW)",
+            "qty": 200.0,
+            "price": 0.3559,
+            "gr_no": "SGR9845",
+            "gr_itemno": 8,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 9,
+            "stock_id": "RE/364",
+            "remark": "RENATA BATTERY  364  (SR 621 SW)",
+            "qty": 4000.0,
+            "price": 0.2371,
+            "gr_no": "SGR9845",
+            "gr_itemno": 9,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 10,
+            "stock_id": "RE/371",
+            "remark": "RENATA BATTERY  371  (SR 920 SW)",
+            "qty": 3500.0,
+            "price": 0.3965,
+            "gr_no": "SGR9845",
+            "gr_itemno": 10,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 11,
+            "stock_id": "RE/373",
+            "remark": "RENATA BATTERY  373  (SR 916 SW)",
+            "qty": 100.0,
+            "price": 0.7129,
+            "gr_no": "SGR9845",
+            "gr_itemno": 11,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 12,
+            "stock_id": "RE/377",
+            "remark": "RENATA BATTERY  377  (SR 626 SW)",
+            "qty": 2000.0,
+            "price": 0.2371,
+            "gr_no": "SGR9845",
+            "gr_itemno": 12,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 13,
+            "stock_id": "RE/379",
+            "remark": "RENATA BATTERY  379  (SR 521 SW)",
+            "qty": 500.0,
+            "price": 0.3559,
+            "gr_no": "SGR9845",
+            "gr_itemno": 13,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 14,
+            "stock_id": "RE/390",
+            "remark": "RENATA BATTERY  390  (SR 1130 SW)",
+            "qty": 600.0,
+            "price": 0.7371,
+            "gr_no": "SGR9845",
+            "gr_itemno": 14,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 15,
+            "stock_id": "RE/394",
+            "remark": "RENATA BATTERY  394  (SR 936 SW)",
+            "qty": 5000.0,
+            "price": 0.6329,
+            "gr_no": "SGR9845",
+            "gr_itemno": 15,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 16,
+            "stock_id": "RE/395",
+            "remark": "RENATA BATTERY  395  (SR 927 SW)",
+            "qty": 1000.0,
+            "price": 0.4871,
+            "gr_no": "SGR9845",
+            "gr_itemno": 16,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 17,
+            "stock_id": "RE/397",
+            "remark": "RENATA BATTERY  397  (SR 726 SW)",
+            "qty": 500.0,
+            "price": 0.59,
+            "gr_no": "SGR9845",
+            "gr_itemno": 17,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 18,
+            "stock_id": "S/P",
+            "remark": "BATTERY TESTER",
+            "qty": 2.0,
+            "price": 25.185,
+            "gr_no": "SGR9845",
+            "gr_itemno": 18,
+            "ref_do": "9845"
+        },
+        {
+            "seq_no": "APS26/012",
+            "item_no": 19,
+            "stock_id": "S/P",
+            "remark": "FREIGHT CHARGES",
+            "qty": 1.0,
+            "price": 283.6,
+            "gr_no": "SGR9845",
+            "gr_itemno": 19,
+            "ref_do": "9845"
+        }
+    ],
+    "APS26/013": [
+        {
+            "seq_no": "APS26/013",
+            "item_no": 1,
+            "stock_id": "E524G0",
+            "remark": "ROSCANI BL E524G0 R/G BRAC SPG RGD",
+            "qty": 56.0,
+            "price": 18.8,
+            "gr_no": "SGR2322",
+            "gr_itemno": 1,
+            "ref_do": "2322"
+        },
+        {
+            "seq_no": "APS26/013",
+            "item_no": 2,
+            "stock_id": "E524G5",
+            "remark": "ROSCANI BL E524G5 R/G BRAC SPG WHT",
+            "qty": 52.0,
+            "price": 18.8,
+            "gr_no": "SGR2322",
+            "gr_itemno": 2,
+            "ref_do": "2322"
+        },
+        {
+            "seq_no": "APS26/013",
+            "item_no": 3,
+            "stock_id": "E526G5",
+            "remark": "ROSCANI BL E526G5 R/S BRAC SPG WHT",
+            "qty": 21.0,
+            "price": 18.4,
+            "gr_no": "SGR2322",
+            "gr_itemno": 3,
+            "ref_do": "2322"
+        },
+        {
+            "seq_no": "APS26/013",
+            "item_no": 4,
+            "stock_id": "E525G1",
+            "remark": "ROSCANI BL E525G1 G/D BRAC SPG YEL",
+            "qty": 30.0,
+            "price": 18.1,
+            "gr_no": "SGR2322",
+            "gr_itemno": 4,
+            "ref_do": "2322"
+        },
+        {
+            "seq_no": "APS26/013",
+            "item_no": 5,
+            "stock_id": "E525G5",
+            "remark": "ROSCANI BL E525G5 G/D BRAC SPG WHT",
+            "qty": 22.0,
+            "price": 18.1,
+            "gr_no": "SGR2322",
+            "gr_itemno": 5,
+            "ref_do": "2322"
+        }
+    ],
+    "APS26/014": [
+        {
+            "seq_no": "APS26/014",
+            "item_no": 1,
+            "stock_id": "E539G5",
+            "remark": "ROSCANI BL E539G5 S/S BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 138.0,
+            "gr_no": "SGR25025",
+            "gr_itemno": 1,
+            "ref_do": "25025"
+        },
+        {
+            "seq_no": "APS26/014",
+            "item_no": 2,
+            "stock_id": "E535G1",
+            "remark": "ROSCANI BL E535G1 G/D BRAC SPG YEL",
+            "qty": 100.0,
+            "price": 151.5,
+            "gr_no": "SGR25025",
+            "gr_itemno": 2,
+            "ref_do": "25025"
+        },
+        {
+            "seq_no": "APS26/014",
+            "item_no": 3,
+            "stock_id": "E537G7",
+            "remark": "ROSCANI BL E537G7 G/D BRAC SPG GRN",
+            "qty": 100.0,
+            "price": 152.0,
+            "gr_no": "SGR25025",
+            "gr_itemno": 3,
+            "ref_do": "25025"
+        },
+        {
+            "seq_no": "APS26/014",
+            "item_no": 4,
+            "stock_id": "E534G5",
+            "remark": "ROSCANI BL E534G5 R/G BRAC SPG WHT",
+            "qty": 100.0,
+            "price": 154.0,
+            "gr_no": "SGR25025",
+            "gr_itemno": 4,
+            "ref_do": "25025"
+        },
+        {
+            "seq_no": "APS26/014",
+            "item_no": 5,
+            "stock_id": "E534G4",
+            "remark": "ROSCANI BL E534G4 R/G BRAC SPG BRN",
+            "qty": 100.0,
+            "price": 154.0,
+            "gr_no": "SGR25025",
+            "gr_itemno": 5,
+            "ref_do": "25025"
+        },
+        {
+            "seq_no": "APS26/014",
+            "item_no": 6,
+            "stock_id": "S155K1",
+            "remark": "ROSCANI BL S155K1 G/D BRAC GLA YEL",
+            "qty": 100.0,
+            "price": 71.5,
+            "gr_no": "SGR25025",
+            "gr_itemno": 6,
+            "ref_do": "25025"
+        },
+        {
+            "seq_no": "APS26/014",
+            "item_no": 7,
+            "stock_id": "S155K2",
+            "remark": "ROSCANI BL S155K2 G/D BRAC GLA PPL",
+            "qty": 100.0,
+            "price": 71.5,
+            "gr_no": "SGR25025",
+            "gr_itemno": 7,
+            "ref_do": "25025"
+        },
+        {
+            "seq_no": "APS26/014",
+            "item_no": 8,
+            "stock_id": "S154K0",
+            "remark": "ROSCANI BL S154K0 R/G BRAC GLA RGD",
+            "qty": 100.0,
+            "price": 75.5,
+            "gr_no": "SGR25025",
+            "gr_itemno": 8,
+            "ref_do": "25025"
+        },
+        {
+            "seq_no": "APS26/014",
+            "item_no": 9,
+            "stock_id": "S158K8",
+            "remark": "ROSCANI BL S158K8 B/L BRAC GLA BLU",
+            "qty": 100.0,
+            "price": 75.5,
+            "gr_no": "SGR25025",
+            "gr_itemno": 9,
+            "ref_do": "25025"
+        },
+        {
+            "seq_no": "APS26/014",
+            "item_no": 10,
+            "stock_id": "S153K4",
+            "remark": "ROSCANI BL S153K4 G/Y BRAC GLA GRY",
+            "qty": 100.0,
+            "price": 75.5,
+            "gr_no": "SGR25025",
+            "gr_itemno": 10,
+            "ref_do": "25025"
+        }
+    ],
+    "APS26/015": [
+        {
+            "seq_no": "APS26/015",
+            "item_no": 1,
+            "stock_id": "4161600",
+            "remark": "RAW CR1616 BATTERY",
+            "qty": 500.0,
+            "price": 1.6,
+            "gr_no": "SGR12801",
+            "gr_itemno": 1,
+            "ref_do": "12801"
+        },
+        {
+            "seq_no": "APS26/015",
+            "item_no": 2,
+            "stock_id": "3440010",
+            "remark": "RAW SR44 SW BATTERY",
+            "qty": 20.0,
+            "price": 9.0,
+            "gr_no": "SGR12801",
+            "gr_itemno": 2,
+            "ref_do": "12801"
+        },
+        {
+            "seq_no": "APS26/015",
+            "item_no": 3,
+            "stock_id": "4161200",
+            "remark": "RAW CR1612 BATTERY",
+            "qty": 10.0,
+            "price": 7.0,
+            "gr_no": "SGR12801",
+            "gr_itemno": 3,
+            "ref_do": "12801"
+        }
+    ],
+    "APS26/016": [
+        {
+            "seq_no": "APS26/016",
+            "item_no": 1,
+            "stock_id": "3516010",
+            "remark": "RAW SR516 SW BATTERY",
+            "qty": 300.0,
+            "price": 0.435,
+            "gr_no": "SGR11878",
+            "gr_itemno": 1,
+            "ref_do": "11878"
+        },
+        {
+            "seq_no": "APS26/016",
+            "item_no": 2,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 4700.0,
+            "price": 0.796,
+            "gr_no": "SGR11878",
+            "gr_itemno": 2,
+            "ref_do": "11878"
+        },
+        {
+            "seq_no": "APS26/016",
+            "item_no": 3,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.835,
+            "gr_no": "SGR11878",
+            "gr_itemno": 3,
+            "ref_do": "11878"
+        },
+        {
+            "seq_no": "APS26/016",
+            "item_no": 4,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 10000.0,
+            "price": 0.592,
+            "gr_no": "SGR11878",
+            "gr_itemno": 4,
+            "ref_do": "11878"
+        },
+        {
+            "seq_no": "APS26/016",
+            "item_no": 5,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 2000.0,
+            "price": 1.15,
+            "gr_no": "SGR11878",
+            "gr_itemno": 5,
+            "ref_do": "11878"
+        },
+        {
+            "seq_no": "APS26/016",
+            "item_no": 6,
+            "stock_id": "3936010",
+            "remark": "RAW SR936 SW BATTERY",
+            "qty": 500.0,
+            "price": 1.89,
+            "gr_no": "SGR11878",
+            "gr_itemno": 6,
+            "ref_do": "11878"
+        }
+    ],
+    "APS26/017": [
+        {
+            "seq_no": "APS26/017",
+            "item_no": 1,
+            "stock_id": "1270001",
+            "remark": "ALKALINE 12 V ( 27A ) BATTERY (A)",
+            "qty": 2000.0,
+            "price": 1.8,
+            "gr_no": "SGR12815",
+            "gr_itemno": 1,
+            "ref_do": "12815"
+        },
+        {
+            "seq_no": "APS26/017",
+            "item_no": 2,
+            "stock_id": "7410000",
+            "remark": "RAW LR41 BATTERY",
+            "qty": 100.0,
+            "price": 0.6,
+            "gr_no": "SGR12815",
+            "gr_itemno": 2,
+            "ref_do": "12815"
+        }
+    ],
+    "APS26/018": [
+        {
+            "seq_no": "APS26/018",
+            "item_no": 1,
+            "stock_id": "3521010",
+            "remark": "RAW SR521 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.184,
+            "gr_no": "SGR55536",
+            "gr_itemno": 1,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 2,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.28,
+            "gr_no": "SGR55536",
+            "gr_itemno": 2,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 3,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 20000.0,
+            "price": 0.194,
+            "gr_no": "SGR55536",
+            "gr_itemno": 3,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 4,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 10000.0,
+            "price": 0.192,
+            "gr_no": "SGR55536",
+            "gr_itemno": 4,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 5,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.38,
+            "gr_no": "SGR55536",
+            "gr_itemno": 5,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 6,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 6000.0,
+            "price": 0.405,
+            "gr_no": "SGR55536",
+            "gr_itemno": 6,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 7,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 10000.0,
+            "price": 0.338,
+            "gr_no": "SGR55536",
+            "gr_itemno": 7,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 8,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.415,
+            "gr_no": "SGR55536",
+            "gr_itemno": 8,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 9,
+            "stock_id": "3516010",
+            "remark": "RAW SR516 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.282,
+            "gr_no": "SGR55536",
+            "gr_itemno": 9,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 10,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.29,
+            "gr_no": "SGR55536",
+            "gr_itemno": 10,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 11,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 6000.0,
+            "price": 0.209,
+            "gr_no": "SGR55536",
+            "gr_itemno": 11,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 12,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 6000.0,
+            "price": 0.207,
+            "gr_no": "SGR55536",
+            "gr_itemno": 12,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 13,
+            "stock_id": "3726001",
+            "remark": "SPRON (W-Type) SR726 W BATTERY",
+            "qty": 3000.0,
+            "price": 0.47,
+            "gr_no": "SGR55536",
+            "gr_itemno": 13,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 14,
+            "stock_id": "3726010",
+            "remark": "RAW SR726 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.415,
+            "gr_no": "SGR55536",
+            "gr_itemno": 14,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 15,
+            "stock_id": "3920010",
+            "remark": "RAW SR920 SW BATTERY",
+            "qty": 4000.0,
+            "price": 0.35,
+            "gr_no": "SGR55536",
+            "gr_itemno": 15,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 16,
+            "stock_id": "3927001",
+            "remark": "[W-Type] SPRON SR927 W BATTERY",
+            "qty": 2000.0,
+            "price": 0.495,
+            "gr_no": "SGR55536",
+            "gr_itemno": 16,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 17,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 2000.0,
+            "price": 0.425,
+            "gr_no": "SGR55536",
+            "gr_itemno": 17,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 18,
+            "stock_id": "3936010",
+            "remark": "RAW SR936 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.8,
+            "gr_no": "SGR55536",
+            "gr_itemno": 18,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 19,
+            "stock_id": "4121600",
+            "remark": "RAW CR1216 BATTERY",
+            "qty": 400.0,
+            "price": 0.22,
+            "gr_no": "SGR55536",
+            "gr_itemno": 19,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 20,
+            "stock_id": "4122000",
+            "remark": "RAW CR1220 BATTERY",
+            "qty": 4000.0,
+            "price": 0.185,
+            "gr_no": "SGR55536",
+            "gr_itemno": 20,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 21,
+            "stock_id": "4201600",
+            "remark": "RAW CR2016 BATTERY",
+            "qty": 2000.0,
+            "price": 0.128,
+            "gr_no": "SGR55536",
+            "gr_itemno": 21,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 22,
+            "stock_id": "4202500",
+            "remark": "RAW CR2025 BATTERY",
+            "qty": 2000.0,
+            "price": 0.128,
+            "gr_no": "SGR55536",
+            "gr_itemno": 22,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 23,
+            "stock_id": "4203200",
+            "remark": "RAW CR2032 BATTERY",
+            "qty": 2000.0,
+            "price": 0.128,
+            "gr_no": "SGR55536",
+            "gr_itemno": 23,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 24,
+            "stock_id": "4163201",
+            "remark": "SPRON CR1632 BATTERY",
+            "qty": 500.0,
+            "price": 0.75,
+            "gr_no": "SGR55536",
+            "gr_itemno": 24,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 25,
+            "stock_id": "9161601",
+            "remark": "SPRON CTL1616 BATTERY",
+            "qty": 80.0,
+            "price": 6.8,
+            "gr_no": "SGR55536",
+            "gr_itemno": 25,
+            "ref_do": "55536"
+        },
+        {
+            "seq_no": "APS26/018",
+            "item_no": 26,
+            "stock_id": "9920001",
+            "remark": "SPRON CTL920 BATTERY",
+            "qty": 30.0,
+            "price": 8.5,
+            "gr_no": "SGR55536",
+            "gr_itemno": 26,
+            "ref_do": "55536"
+        }
+    ],
+    "APS26/019": [
+        {
+            "seq_no": "APS26/019",
+            "item_no": 1,
+            "stock_id": "4243001",
+            "remark": "SPRON CR2430 BATTERY",
+            "qty": 350.0,
+            "price": 4.5,
+            "gr_no": "SGR6454",
+            "gr_itemno": 1,
+            "ref_do": "6454"
+        },
+        {
+            "seq_no": "APS26/019",
+            "item_no": 2,
+            "stock_id": "4245001",
+            "remark": "SPRON CR2450 BATTERY",
+            "qty": 200.0,
+            "price": 5.3,
+            "gr_no": "SGR6454",
+            "gr_itemno": 2,
+            "ref_do": "6454"
+        }
+    ],
+    "APS26/020": [
+        {
+            "seq_no": "APS26/020",
+            "item_no": 1,
+            "stock_id": "3516010",
+            "remark": "RAW SR516 SW BATTERY",
+            "qty": 600.0,
+            "price": 0.35,
+            "gr_no": "SGR2416",
+            "gr_itemno": 1,
+            "ref_do": "2416"
+        },
+        {
+            "seq_no": "APS26/020",
+            "item_no": 2,
+            "stock_id": "3616010",
+            "remark": "RAW SR616 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.35,
+            "gr_no": "SGR2416",
+            "gr_itemno": 2,
+            "ref_do": "2416"
+        },
+        {
+            "seq_no": "APS26/020",
+            "item_no": 3,
+            "stock_id": "3716010",
+            "remark": "RAW SR716 SW BATTERY",
+            "qty": 600.0,
+            "price": 0.43,
+            "gr_no": "SGR2416",
+            "gr_itemno": 3,
+            "ref_do": "2416"
+        },
+        {
+            "seq_no": "APS26/020",
+            "item_no": 4,
+            "stock_id": "3721010",
+            "remark": "RAW SR721 SW BATTERY",
+            "qty": 600.0,
+            "price": 0.35,
+            "gr_no": "SGR2416",
+            "gr_itemno": 4,
+            "ref_do": "2416"
+        },
+        {
+            "seq_no": "APS26/020",
+            "item_no": 5,
+            "stock_id": "3916010",
+            "remark": "RAW SR916 SW BATTERY",
+            "qty": 500.0,
+            "price": 0.53,
+            "gr_no": "SGR2416",
+            "gr_itemno": 5,
+            "ref_do": "2416"
+        },
+        {
+            "seq_no": "APS26/020",
+            "item_no": 6,
+            "stock_id": "3927010",
+            "remark": "RAW SR927 SW BATTERY",
+            "qty": 8000.0,
+            "price": 0.43,
+            "gr_no": "SGR2416",
+            "gr_itemno": 6,
+            "ref_do": "2416"
+        },
+        {
+            "seq_no": "APS26/020",
+            "item_no": 7,
+            "stock_id": "3936010",
+            "remark": "RAW SR936 SW BATTERY",
+            "qty": 1000.0,
+            "price": 0.77,
+            "gr_no": "SGR2416",
+            "gr_itemno": 7,
+            "ref_do": "2416"
+        },
+        {
+            "seq_no": "APS26/020",
+            "item_no": 8,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 30000.0,
+            "price": 0.155,
+            "gr_no": "SGR2416",
+            "gr_itemno": 8,
+            "ref_do": "2416"
+        },
+        {
+            "seq_no": "APS26/020",
+            "item_no": 9,
+            "stock_id": "3626010",
+            "remark": "RAW SR626 SW BATTERY",
+            "qty": 14000.0,
+            "price": 0.155,
+            "gr_no": "SGR2416",
+            "gr_itemno": 9,
+            "ref_do": "2416"
+        },
+        {
+            "seq_no": "APS26/020",
+            "item_no": 10,
+            "stock_id": "3621010",
+            "remark": "RAW SR621 SW BATTERY",
+            "qty": 12700.0,
+            "price": 0.197,
+            "gr_no": "SGR2416",
+            "gr_itemno": 10,
+            "ref_do": "2416"
+        }
     ]
 }

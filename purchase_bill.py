@@ -29,7 +29,7 @@ def get_classification_code(currency_id):
     if currency_id == 'MYR':
         return '022'
 
-    if currency_id in ["USD", "HKD", "CNY"]:
+    if currency_id in ["USD", "HKD", "CNY", "EUR"]:
         return '034'
 
 

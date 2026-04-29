@@ -1,2684 +1,3318 @@
 {
-    "CN25/1022": [
+    "CN26/0401": [
         {
-            "doc_no": "CN25/1022",
+            "doc_no": "CN26/0401",
             "item_no": 1,
             "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503338",
-            "qty": 1.0,
-            "price": 194.2
-        }
-    ],
-    "CN25/1023": [
-        {
-            "doc_no": "CN25/1023",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503290",
-            "qty": 1.0,
-            "price": 98.6
-        },
-        {
-            "doc_no": "CN25/1023",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503289",
-            "qty": 1.0,
-            "price": 318.4
-        },
-        {
-            "doc_no": "CN25/1023",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503834",
-            "qty": 1.0,
-            "price": 58.2
-        },
-        {
-            "doc_no": "CN25/1023",
-            "item_no": 4,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503835",
-            "qty": 1.0,
-            "price": 177.8
-        }
-    ],
-    "CN25/1029": [
-        {
-            "doc_no": "CN25/1029",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503269",
-            "qty": 1.0,
-            "price": 35.8
-        }
-    ],
-    "CN25/1030": [
-        {
-            "doc_no": "CN25/1030",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503928",
-            "qty": 1.0,
-            "price": 208.4
-        }
-    ],
-    "CN25/1037": [
-        {
-            "doc_no": "CN25/1037",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504218",
-            "qty": 1.0,
-            "price": 23.9
-        },
-        {
-            "doc_no": "CN25/1037",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504217",
-            "qty": 1.0,
-            "price": 202.1
-        }
-    ],
-    "CN25/1040": [
-        {
-            "doc_no": "CN25/1040",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502683",
-            "qty": 1.0,
-            "price": 382.22
-        },
-        {
-            "doc_no": "CN25/1040",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502684",
-            "qty": 1.0,
-            "price": 212.28
-        }
-    ],
-    "CN25/1041": [
-        {
-            "doc_no": "CN25/1041",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502194",
-            "qty": 1.0,
-            "price": 113.0
-        },
-        {
-            "doc_no": "CN25/1041",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502195\r\n",
-            "qty": 1.0,
-            "price": 223.9
-        }
-    ],
-    "CN25/1042": [
-        {
-            "doc_no": "CN25/1042",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503043",
-            "qty": 1.0,
-            "price": 67.3
-        }
-    ],
-    "CN25/1047": [
-        {
-            "doc_no": "CN25/1047",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503972",
-            "qty": 1.0,
-            "price": 222.4
-        }
-    ],
-    "CN25/1048": [
-        {
-            "doc_no": "CN25/1048",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503950",
-            "qty": 1.0,
-            "price": 152.0
-        }
-    ],
-    "CN25/1049": [
-        {
-            "doc_no": "CN25/1049",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504395",
-            "qty": 1.0,
-            "price": 45.3
-        }
-    ],
-    "CN25/1050": [
-        {
-            "doc_no": "CN25/1050",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504381",
-            "qty": 1.0,
-            "price": 134.9
-        }
-    ],
-    "CN25/1051": [
-        {
-            "doc_no": "CN25/1051",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503070",
-            "qty": 1.0,
-            "price": 72.8
-        }
-    ],
-    "CN25/1052": [
-        {
-            "doc_no": "CN25/1052",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504134",
-            "qty": 1.0,
-            "price": 5.5
-        }
-    ],
-    "CN25/1053": [
-        {
-            "doc_no": "CN25/1053",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503763",
-            "qty": 1.0,
-            "price": 47.8
-        },
-        {
-            "doc_no": "CN25/1053",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504035",
-            "qty": 1.0,
-            "price": 149.6
-        }
-    ],
-    "CN25/1054": [
-        {
-            "doc_no": "CN25/1054",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2500752",
-            "qty": 1.0,
-            "price": 112.26
-        }
-    ],
-    "CN25/1055": [
-        {
-            "doc_no": "CN25/1055",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504012",
-            "qty": 1.0,
-            "price": 257.4
-        }
-    ],
-    "CN25/1056": [
-        {
-            "doc_no": "CN25/1056",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2500858",
-            "qty": 1.0,
-            "price": 334.95
-        },
-        {
-            "doc_no": "CN25/1056",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2500863",
-            "qty": 1.0,
-            "price": 382.66
-        },
-        {
-            "doc_no": "CN25/1056",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2500864",
-            "qty": 1.0,
-            "price": 734.7
-        },
-        {
-            "doc_no": "CN25/1056",
-            "item_no": 4,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2501289",
-            "qty": 1.0,
-            "price": 92.22
-        },
-        {
-            "doc_no": "CN25/1056",
-            "item_no": 5,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2501368",
-            "qty": 1.0,
-            "price": 111.65
-        },
-        {
-            "doc_no": "CN25/1056",
-            "item_no": 6,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2501605",
-            "qty": 1.0,
-            "price": 134.71
-        },
-        {
-            "doc_no": "CN25/1056",
-            "item_no": 7,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502688",
-            "qty": 1.0,
-            "price": 120.5
-        },
-        {
-            "doc_no": "CN25/1056",
-            "item_no": 8,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502689",
-            "qty": 1.0,
-            "price": 287.1
-        }
-    ],
-    "CN25/1057": [
-        {
-            "doc_no": "CN25/1057",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504003",
-            "qty": 1.0,
-            "price": 49.3
-        },
-        {
-            "doc_no": "CN25/1057",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504002",
-            "qty": 1.0,
-            "price": 147.4
-        }
-    ],
-    "CN25/1058": [
-        {
-            "doc_no": "CN25/1058",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503407",
-            "qty": 1.0,
-            "price": 41.3
-        },
-        {
-            "doc_no": "CN25/1058",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503406",
-            "qty": 1.0,
-            "price": 74.7
-        }
-    ],
-    "CN25/1059": [
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 64.07
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 66.62
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 96.69
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 4,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 148.61
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 5,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 67.03
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 6,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 56.35
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 7,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 48.81
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 8,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 63.15
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 9,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 56.93
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 10,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 57.01
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 11,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 79.2
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 12,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 81.15
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 13,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 71.54
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 14,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 59.7
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 15,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 57.93
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 16,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 57.93
-        },
-        {
-            "doc_no": "CN25/1059",
-            "item_no": 17,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 57.26
-        }
-    ],
-    "CN25/1060": [
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 113.24
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 105.81
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 121.72
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 4,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 98.7
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 5,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 70.06
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 6,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 70.06
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 7,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 96.49
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 8,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 78.79
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 9,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 133.57
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 10,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 100.81
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 11,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 88.72
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 12,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 74.2
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 13,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 110.1
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 14,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 73.7
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 15,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 130.44
-        },
-        {
-            "doc_no": "CN25/1060",
-            "item_no": 16,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 66.42
-        }
-    ],
-    "CN25/1061": [
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 111.43
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 122.71
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 152.37
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 4,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 119.62
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 5,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 127.3
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 6,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 106.23
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 7,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 125.29
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 8,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 118.41
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 9,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 138.92
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 10,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 116.46
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 11,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 63.79
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 12,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 74.2
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 13,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 67.76
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 14,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 108.13
-        },
-        {
-            "doc_no": "CN25/1061",
-            "item_no": 15,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 70.41
-        }
-    ],
-    "CN25/1062": [
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 78.55
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 76.98
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 95.07
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 4,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 61.75
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 5,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 71.18
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 6,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 135.81
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 7,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 75.55
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 8,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 70.85
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 9,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 79.84
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 10,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 95.34
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 11,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 64.21
-        },
-        {
-            "doc_no": "CN25/1062",
-            "item_no": 12,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 59.46
-        }
-    ],
-    "CN25/1063": [
-        {
-            "doc_no": "CN25/1063",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 63.51
-        },
-        {
-            "doc_no": "CN25/1063",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 74.2
-        },
-        {
-            "doc_no": "CN25/1063",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 82.66
-        },
-        {
-            "doc_no": "CN25/1063",
-            "item_no": 4,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 86.59
-        },
-        {
-            "doc_no": "CN25/1063",
-            "item_no": 5,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 107.22
-        },
-        {
-            "doc_no": "CN25/1063",
-            "item_no": 6,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 99.0
-        },
-        {
-            "doc_no": "CN25/1063",
-            "item_no": 7,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 59.05
-        },
-        {
-            "doc_no": "CN25/1063",
-            "item_no": 8,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 68.82
-        }
-    ],
-    "CN25/1064": [
-        {
-            "doc_no": "CN25/1064",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502344",
-            "qty": 1.0,
-            "price": 159.0
-        },
-        {
-            "doc_no": "CN25/1064",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502343",
-            "qty": 1.0,
-            "price": 840.1
-        }
-    ],
-    "CN25/1065": [
-        {
-            "doc_no": "CN25/1065",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502837",
-            "qty": 1.0,
-            "price": 88.0
-        },
-        {
-            "doc_no": "CN25/1065",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503055",
-            "qty": 1.0,
-            "price": 242.6
-        },
-        {
-            "doc_no": "CN25/1065",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503054",
-            "qty": 1.0,
-            "price": 34.3
-        }
-    ],
-    "CN25/1066": [
-        {
-            "doc_no": "CN25/1066",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503053",
-            "qty": 1.0,
-            "price": 98.1
-        },
-        {
-            "doc_no": "CN25/1066",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503541",
-            "qty": 1.0,
-            "price": 107.5
-        },
-        {
-            "doc_no": "CN25/1066",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503542",
-            "qty": 1.0,
-            "price": 82.1
-        }
-    ],
-    "CN25/1067": [
-        {
-            "doc_no": "CN25/1067",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503723",
-            "qty": 1.0,
-            "price": 275.2
-        },
-        {
-            "doc_no": "CN25/1067",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503726",
-            "qty": 1.0,
-            "price": 17.9
-        }
-    ],
-    "CN25/1068": [
-        {
-            "doc_no": "CN25/1068",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503158",
-            "qty": 1.0,
-            "price": 639.02
-        },
-        {
-            "doc_no": "CN25/1068",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503157",
-            "qty": 1.0,
-            "price": 147.32
-        }
-    ],
-    "CN25/1069": [
-        {
-            "doc_no": "CN25/1069",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503621",
-            "qty": 1.0,
-            "price": 207.9
-        },
-        {
-            "doc_no": "CN25/1069",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503617",
-            "qty": 1.0,
-            "price": 237.5
-        },
-        {
-            "doc_no": "CN25/1069",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503629",
-            "qty": 1.0,
-            "price": 360.6
-        },
-        {
-            "doc_no": "CN25/1069",
-            "item_no": 4,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503628",
-            "qty": 1.0,
-            "price": 410.6
-        },
-        {
-            "doc_no": "CN25/1069",
-            "item_no": 5,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503618",
-            "qty": 1.0,
-            "price": 427.2
-        },
-        {
-            "doc_no": "CN25/1069",
-            "item_no": 6,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503620",
-            "qty": 1.0,
-            "price": 552.9
-        },
-        {
-            "doc_no": "CN25/1069",
-            "item_no": 7,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503619",
-            "qty": 1.0,
-            "price": 565.5
-        }
-    ],
-    "CN25/1070": [
-        {
-            "doc_no": "CN25/1070",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503976",
-            "qty": 1.0,
-            "price": 23.9
-        },
-        {
-            "doc_no": "CN25/1070",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503975",
-            "qty": 1.0,
-            "price": 77.2
-        }
-    ],
-    "CN25/1071": [
-        {
-            "doc_no": "CN25/1071",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503652",
-            "qty": 1.0,
-            "price": 299.3
-        },
-        {
-            "doc_no": "CN25/1071",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503653",
-            "qty": 1.0,
-            "price": 47.7
-        }
-    ],
-    "CN25/1072": [
-        {
-            "doc_no": "CN25/1072",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503877",
-            "qty": 1.0,
-            "price": 141.9
-        }
-    ],
-    "CN25/1073": [
-        {
-            "doc_no": "CN25/1073",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503272",
-            "qty": 1.0,
-            "price": 290.0
-        }
-    ],
-    "CN25/1074": [
-        {
-            "doc_no": "CN25/1074",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503994",
-            "qty": 1.0,
-            "price": 81.1
-        }
-    ],
-    "CN25/1076": [
-        {
-            "doc_no": "CN25/1076",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503755",
-            "qty": 1.0,
-            "price": 252.2
-        },
-        {
-            "doc_no": "CN25/1076",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503754",
-            "qty": 1.0,
-            "price": 98.6
-        }
-    ],
-    "CN25/1077": [
-        {
-            "doc_no": "CN25/1077",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502869",
-            "qty": 1.0,
-            "price": 86.6
-        }
-    ],
-    "CN25/1078": [
-        {
-            "doc_no": "CN25/1078",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502872",
-            "qty": 1.0,
-            "price": 76.6
-        },
-        {
-            "doc_no": "CN25/1078",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502873",
-            "qty": 1.0,
-            "price": 63.6
-        }
-    ],
-    "CN25/1079": [
-        {
-            "doc_no": "CN25/1079",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503447",
-            "qty": 1.0,
-            "price": 145.2
-        },
-        {
-            "doc_no": "CN25/1079",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503446",
-            "qty": 1.0,
-            "price": 167.9
-        }
-    ],
-    "CN25/1080": [
-        {
-            "doc_no": "CN25/1080",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503704",
-            "qty": 1.0,
-            "price": 110.5
-        }
-    ],
-    "CN25/1081": [
-        {
-            "doc_no": "CN25/1081",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503758",
-            "qty": 1.0,
-            "price": 134.8
-        }
-    ],
-    "CN25/1082": [
-        {
-            "doc_no": "CN25/1082",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503706",
-            "qty": 1.0,
-            "price": 104.0
-        },
-        {
-            "doc_no": "CN25/1082",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503707",
-            "qty": 1.0,
-            "price": 37.8
-        }
-    ],
-    "CN25/1083": [
-        {
-            "doc_no": "CN25/1083",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502522",
-            "qty": 1.0,
-            "price": 70.2
-        },
-        {
-            "doc_no": "CN25/1083",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502521",
-            "qty": 1.0,
-            "price": 210.7
-        },
-        {
-            "doc_no": "CN25/1083",
-            "item_no": 3,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503467",
+            "remark": "CASH DISCOUNT / INV 2505589\r\n",
             "qty": 1.0,
             "price": 25.4
         },
         {
-            "doc_no": "CN25/1083",
-            "item_no": 4,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503466",
-            "qty": 1.0,
-            "price": 85.7
-        }
-    ],
-    "CN25/1084": [
-        {
-            "doc_no": "CN25/1084",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503304",
-            "qty": 1.0,
-            "price": 73.66
-        },
-        {
-            "doc_no": "CN25/1084",
+            "doc_no": "CN26/0401",
             "item_no": 2,
             "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503303",
+            "remark": "CASH DISCOUNT / INV 2505588",
             "qty": 1.0,
-            "price": 627.13
-        }
-    ],
-    "CN25/1085": [
-        {
-            "doc_no": "CN25/1085",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503574\r\n",
-            "qty": 1.0,
-            "price": 597.5
-        }
-    ],
-    "CN25/1086": [
-        {
-            "doc_no": "CN25/1086",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2504525",
-            "qty": 1.0,
-            "price": 517.8
-        }
-    ],
-    "CN25/1087": [
-        {
-            "doc_no": "CN25/1087",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2405732",
-            "qty": 1.0,
-            "price": 51.8
+            "price": 177.9
         },
         {
-            "doc_no": "CN25/1087",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2405769",
-            "qty": 1.0,
-            "price": 79.2
-        }
-    ],
-    "CN25/1088": [
-        {
-            "doc_no": "CN25/1088",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2405770",
-            "qty": 1.0,
-            "price": 79.2
-        }
-    ],
-    "CN25/1089": [
-        {
-            "doc_no": "CN25/1089",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2405771",
-            "qty": 1.0,
-            "price": 79.2
-        }
-    ],
-    "CN25/1090": [
-        {
-            "doc_no": "CN25/1090",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2405772\r\n",
-            "qty": 1.0,
-            "price": 88.0
-        }
-    ],
-    "CN25/1091": [
-        {
-            "doc_no": "CN25/1091",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503811",
-            "qty": 1.0,
-            "price": 65.6
-        },
-        {
-            "doc_no": "CN25/1091",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503810\r\n",
-            "qty": 1.0,
-            "price": 116.4
-        }
-    ],
-    "CN25/1092": [
-        {
-            "doc_no": "CN25/1092",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503719",
-            "qty": 1.0,
-            "price": 182.7
-        }
-    ],
-    "CN25/1093": [
-        {
-            "doc_no": "CN25/1093",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503677",
-            "qty": 1.0,
-            "price": 102.5
-        }
-    ],
-    "CN25/1101": [
-        {
-            "doc_no": "CN25/1101",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503744",
-            "qty": 1.0,
-            "price": 112.7
-        },
-        {
-            "doc_no": "CN25/1101",
+            "doc_no": "CN26/0401",
             "item_no": 3,
             "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503872",
+            "remark": "CASH DISCOUNT / INV 2505731",
             "qty": 1.0,
-            "price": 61.6
+            "price": 173.4
         },
         {
-            "doc_no": "CN25/1101",
+            "doc_no": "CN26/0401",
             "item_no": 4,
             "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503871",
+            "remark": "CASH DISCOUNT / INV 2505701",
             "qty": 1.0,
-            "price": 147.13
+            "price": 857.8
         },
         {
-            "doc_no": "CN25/1101",
+            "doc_no": "CN26/0401",
             "item_no": 5,
             "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503978",
+            "remark": "CASH DISCOUNT / INV 2505981",
+            "qty": 1.0,
+            "price": 119.2
+        }
+    ],
+    "CN26/0402": [
+        {
+            "doc_no": "CN26/0402",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600542",
+            "qty": 1.0,
+            "price": 50.3
+        }
+    ],
+    "CN26/0403": [
+        {
+            "doc_no": "CN26/0403",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600522",
+            "qty": 1.0,
+            "price": 145.2
+        },
+        {
+            "doc_no": "CN26/0403",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600694",
+            "qty": 1.0,
+            "price": 47.8
+        },
+        {
+            "doc_no": "CN26/0403",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600869",
+            "qty": 1.0,
+            "price": 52.2
+        }
+    ],
+    "CN26/0404": [
+        {
+            "doc_no": "CN26/0404",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600045",
             "qty": 1.0,
             "price": 57.56
         },
         {
-            "doc_no": "CN25/1101",
+            "doc_no": "CN26/0404",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600255",
+            "qty": 1.0,
+            "price": 42.77
+        },
+        {
+            "doc_no": "CN26/0404",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600533",
+            "qty": 1.0,
+            "price": 64.29
+        }
+    ],
+    "CN26/0405": [
+        {
+            "doc_no": "CN26/0405",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600142",
+            "qty": 1.0,
+            "price": 308.24
+        }
+    ],
+    "CN26/0406": [
+        {
+            "doc_no": "CN26/0406",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600184",
+            "qty": 1.0,
+            "price": 398.9
+        },
+        {
+            "doc_no": "CN26/0406",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600183",
+            "qty": 1.0,
+            "price": 450.54
+        }
+    ],
+    "CN26/0407": [
+        {
+            "doc_no": "CN26/0407",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600192",
+            "qty": 1.0,
+            "price": 176.44
+        },
+        {
+            "doc_no": "CN26/0407",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600191",
+            "qty": 1.0,
+            "price": 316.31
+        },
+        {
+            "doc_no": "CN26/0407",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600423",
+            "qty": 1.0,
+            "price": 121.85
+        }
+    ],
+    "CN26/0408": [
+        {
+            "doc_no": "CN26/0408",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600326",
+            "qty": 1.0,
+            "price": 257.14
+        },
+        {
+            "doc_no": "CN26/0408",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600327",
+            "qty": 1.0,
+            "price": 424.99
+        }
+    ],
+    "CN26/0409": [
+        {
+            "doc_no": "CN26/0409",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600328",
+            "qty": 1.0,
+            "price": 176.44
+        },
+        {
+            "doc_no": "CN26/0409",
+            "item_no": 7,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600329",
+            "qty": 1.0,
+            "price": 471.78
+        }
+    ],
+    "CN26/0410": [
+        {
+            "doc_no": "CN26/0410",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600348",
+            "qty": 1.0,
+            "price": 352.9
+        },
+        {
+            "doc_no": "CN26/0410",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600451",
+            "qty": 1.0,
+            "price": 156.54
+        },
+        {
+            "doc_no": "CN26/0410",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600452",
+            "qty": 1.0,
+            "price": 213.84
+        }
+    ],
+    "CN26/0411": [
+        {
+            "doc_no": "CN26/0411",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600417",
+            "qty": 1.0,
+            "price": 241.28
+        }
+    ],
+    "CN26/0412": [
+        {
+            "doc_no": "CN26/0412",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600442",
+            "qty": 1.0,
+            "price": 176.44
+        }
+    ],
+    "CN26/0413": [
+        {
+            "doc_no": "CN26/0413",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504580",
+            "qty": 1.0,
+            "price": 39.9
+        },
+        {
+            "doc_no": "CN26/0413",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504579",
+            "qty": 1.0,
+            "price": 318.0
+        }
+    ],
+    "CN26/0414": [
+        {
+            "doc_no": "CN26/0414",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601303",
+            "qty": 1.0,
+            "price": 108.0
+        }
+    ],
+    "CN26/0415": [
+        {
+            "doc_no": "CN26/0415",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600084",
+            "qty": 1.0,
+            "price": 139.6
+        }
+    ],
+    "CN26/0416": [
+        {
+            "doc_no": "CN26/0416",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505714",
+            "qty": 1.0,
+            "price": 69.8
+        },
+        {
+            "doc_no": "CN26/0416",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505713",
+            "qty": 1.0,
+            "price": 94.4
+        }
+    ],
+    "CN26/0417": [
+        {
+            "doc_no": "CN26/0417",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505312",
+            "qty": 1.0,
+            "price": 367.0
+        },
+        {
+            "doc_no": "CN26/0417",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505498",
+            "qty": 1.0,
+            "price": 103.24
+        },
+        {
+            "doc_no": "CN26/0417",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505497",
+            "qty": 1.0,
+            "price": 882.33
+        },
+        {
+            "doc_no": "CN26/0417",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505717",
+            "qty": 1.0,
+            "price": 32.46
+        },
+        {
+            "doc_no": "CN26/0417",
+            "item_no": 5,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505679",
+            "qty": 1.0,
+            "price": 105.56
+        },
+        {
+            "doc_no": "CN26/0417",
             "item_no": 6,
             "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503979",
+            "remark": "CASH DISCOUNT / INV 2505716",
             "qty": 1.0,
-            "price": 144.45
+            "price": 230.41
         }
     ],
-    "CN25/1102": [
+    "CN26/0418": [
         {
-            "doc_no": "CN25/1102",
+            "doc_no": "CN26/0418",
             "item_no": 1,
             "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503675",
+            "remark": "CASH DISCOUNT / INV 2600601",
             "qty": 1.0,
-            "price": 171.07
+            "price": 16.4
         },
         {
-            "doc_no": "CN25/1102",
+            "doc_no": "CN26/0418",
             "item_no": 2,
             "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503676",
+            "remark": "CASH DISCOUNT / INV 2600600",
             "qty": 1.0,
-            "price": 872.55
-        }
-    ],
-    "CN25/1103": [
-        {
-            "doc_no": "CN25/1103",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503703\r\n",
-            "qty": 1.0,
-            "price": 260.91
-        }
-    ],
-    "CN25/1104": [
-        {
-            "doc_no": "CN25/1104",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503746",
-            "qty": 1.0,
-            "price": 214.11
-        }
-    ],
-    "CN25/1105": [
-        {
-            "doc_no": "CN25/1105",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503802",
-            "qty": 1.0,
-            "price": 205.77
+            "price": 52.3
         },
         {
-            "doc_no": "CN25/1105",
+            "doc_no": "CN26/0418",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600640",
+            "qty": 1.0,
+            "price": 99.2
+        }
+    ],
+    "CN26/0419": [
+        {
+            "doc_no": "CN26/0419",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504754",
+            "qty": 1.0,
+            "price": 147.32
+        }
+    ],
+    "CN26/0420": [
+        {
+            "doc_no": "CN26/0420",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506210",
+            "qty": 1.0,
+            "price": 81.2
+        }
+    ],
+    "CN26/0421": [
+        {
+            "doc_no": "CN26/0421",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601112",
+            "qty": 1.0,
+            "price": 68.37
+        },
+        {
+            "doc_no": "CN26/0421",
             "item_no": 2,
             "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503803",
+            "remark": "CASH DISCOUNT / INV 2601114",
             "qty": 1.0,
-            "price": 808.27
-        }
-    ],
-    "CN25/1106": [
-        {
-            "doc_no": "CN25/1106",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503806",
-            "qty": 1.0,
-            "price": 623.76
-        }
-    ],
-    "CN25/1107": [
-        {
-            "doc_no": "CN25/1107",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503828",
-            "qty": 1.0,
-            "price": 681.04
-        }
-    ],
-    "CN25/1108": [
-        {
-            "doc_no": "CN25/1108",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503632",
-            "qty": 1.0,
-            "price": 33.4
+            "price": 67.47
         },
         {
-            "doc_no": "CN25/1108",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503633",
-            "qty": 1.0,
-            "price": 70.2
-        }
-    ],
-    "CN25/1109": [
-        {
-            "doc_no": "CN25/1109",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2502581",
-            "qty": 1.0,
-            "price": 20.5
-        }
-    ],
-    "CN25/1110": [
-        {
-            "doc_no": "CN25/1110",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT / INV 2503375",
-            "qty": 1.0,
-            "price": 66.7
-        }
-    ],
-    "CN25/1111": [
-        {
-            "doc_no": "CN25/1111",
-            "item_no": 1,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 16.16
-        },
-        {
-            "doc_no": "CN25/1111",
-            "item_no": 2,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 20.22
-        },
-        {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 3,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 20.47
+            "price": 56.39
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 4,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 41.43
+            "price": 42.07
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 5,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 47.77
+            "price": 68.07
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 6,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 44.84
+            "price": 56.81
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 7,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 56.87
+            "price": 72.08
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 8,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 43.4
+            "price": 49.82
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 9,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 29.13
+            "price": 49.82
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 10,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 22.09
+            "price": 69.41
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 11,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 49.98
+            "price": 132.32
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 12,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 55.71
+            "price": 111.4
         },
         {
-            "doc_no": "CN25/1111",
+            "doc_no": "CN26/0421",
             "item_no": 13,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 26.18
-        },
-        {
-            "doc_no": "CN25/1111",
-            "item_no": 14,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 46.92
-        },
-        {
-            "doc_no": "CN25/1111",
-            "item_no": 15,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 19.47
-        },
-        {
-            "doc_no": "CN25/1111",
-            "item_no": 16,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 54.11
-        },
-        {
-            "doc_no": "CN25/1111",
-            "item_no": 17,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 20.58
-        },
-        {
-            "doc_no": "CN25/1111",
-            "item_no": 18,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 27.44
+            "price": 42.07
         }
     ],
-    "CN25/1112": [
+    "CN26/0421A": [
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421A",
             "item_no": 1,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 119.62
+            "price": 61.78
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421A",
             "item_no": 2,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 108.18
+            "price": 67.37
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421A",
             "item_no": 3,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 117.68
+            "price": 65.49
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421A",
             "item_no": 4,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 116.89
+            "price": 67.4
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421A",
             "item_no": 5,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 74.2
+            "price": 40.82
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421A",
             "item_no": 6,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 78.95
+            "price": 42.16
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421A",
             "item_no": 7,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 87.51
+            "price": 56.14
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421A",
             "item_no": 8,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 96.07
+            "price": 42.07
+        }
+    ],
+    "CN26/0421B": [
+        {
+            "doc_no": "CN26/0421B",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 60.83
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421B",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 59.33
+        },
+        {
+            "doc_no": "CN26/0421B",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 110.81
+        },
+        {
+            "doc_no": "CN26/0421B",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 60.83
+        },
+        {
+            "doc_no": "CN26/0421B",
+            "item_no": 5,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 65.8
+        },
+        {
+            "doc_no": "CN26/0421B",
+            "item_no": 6,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 72.08
+        },
+        {
+            "doc_no": "CN26/0421B",
+            "item_no": 7,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 66.27
+        },
+        {
+            "doc_no": "CN26/0421B",
+            "item_no": 8,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 68.07
+        },
+        {
+            "doc_no": "CN26/0421B",
             "item_no": 9,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 159.82
+            "price": 67.54
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421B",
             "item_no": 10,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 70.06
+            "price": 60.73
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421B",
             "item_no": 11,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 113.4
+            "price": 113.27
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421B",
             "item_no": 12,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 114.4
+            "price": 68.07
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421B",
             "item_no": 13,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 59.12
+            "price": 68.07
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421B",
             "item_no": 14,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 110.55
+            "price": 80.63
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421B",
             "item_no": 15,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 106.98
+            "price": 49.82
+        }
+    ],
+    "CN26/0421C": [
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 83.53
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0421C",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 69.41
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 68.37
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 48.34
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 5,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 166.58
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 6,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 60.51
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 7,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 57.7
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 8,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 61.98
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 9,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 64.82
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 10,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 68.07
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 11,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 69.41
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 12,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 57.08
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 13,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 58.58
+        },
+        {
+            "doc_no": "CN26/0421C",
+            "item_no": 14,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 73.38
+        }
+    ],
+    "CN26/0421D": [
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 66.8
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 82.9
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 96.46
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 78.59
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 5,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 100.18
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 6,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 320.94
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 7,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 71.39
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 8,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 115.14
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 9,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 133.03
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 10,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 94.6
+        },
+        {
+            "doc_no": "CN26/0421D",
+            "item_no": 11,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 79.57
+        }
+    ],
+    "CN26/0422": [
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 120.68
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 150.49
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 133.43
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 78.65
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 5,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 108.87
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 6,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 120.23
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 7,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 113.79
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 8,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 94.12
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 9,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 176.86
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 10,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 126.92
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 11,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 162.07
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 12,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 98.72
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 13,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 132.19
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 14,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 68.78
+        },
+        {
+            "doc_no": "CN26/0422",
+            "item_no": 15,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 101.14
+        },
+        {
+            "doc_no": "CN26/0422",
             "item_no": 16,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 99.85
+            "price": 156.9
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0422",
             "item_no": 17,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 110.66
+            "price": 169.02
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0422",
             "item_no": 18,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 73.15
+            "price": 160.95
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0422",
             "item_no": 19,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 102.14
+            "price": 277.28
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0422",
             "item_no": 20,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 114.11
+            "price": 135.63
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0422",
             "item_no": 21,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 88.13
+            "price": 388.94
         },
         {
-            "doc_no": "CN25/1112",
+            "doc_no": "CN26/0422",
             "item_no": 22,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 73.05
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 23,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 103.05
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 24,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 74.61
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 25,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 100.67
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 26,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 82.29
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 27,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 87.97
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 28,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 79.78
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 29,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 194.2
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 30,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 111.97
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 31,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 87.01
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 32,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 62.19
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 33,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 108.88
-        },
-        {
-            "doc_no": "CN25/1112",
-            "item_no": 34,
-            "stock_id": "DIS-CASH",
-            "remark": "CASH DISCOUNT",
-            "qty": 1.0,
-            "price": 73.33
+            "price": 102.01
         }
     ],
-    "CN25/1113": [
+    "CN26/0422A": [
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 1,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 75.24
+            "price": 112.3
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 2,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 57.27
+            "price": 122.69
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 3,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 59.98
+            "price": 154.75
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 4,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 90.5
+            "price": 106.07
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 5,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 104.78
+            "price": 161.0
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 6,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 84.27
+            "price": 119.65
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 7,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 65.13
+            "price": 99.33
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 8,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 75.69
+            "price": 128.27
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 9,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 145.0
+            "price": 85.19
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 10,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 70.06
+            "price": 85.8
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 11,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 70.06
+            "price": 136.59
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 12,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 106.98
+            "price": 80.26
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 13,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 72.28
+            "price": 163.27
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 14,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 95.34
+            "price": 139.48
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 15,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 94.59
+            "price": 92.37
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 16,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 66.9
+            "price": 159.48
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 17,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 66.9
+            "price": 281.61
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 18,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 84.74
+            "price": 190.09
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 19,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 88.86
+            "price": 139.07
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 20,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 79.78
+            "price": 78.53
         },
         {
-            "doc_no": "CN25/1113",
+            "doc_no": "CN26/0422A",
             "item_no": 21,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 59.98
+            "price": 113.03
         }
     ],
-    "CN25/1114": [
+    "CN26/0422B": [
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 1,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 66.9
+            "price": 112.3
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 2,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 80.81
+            "price": 99.98
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 3,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 125.29
+            "price": 96.1
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 4,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 93.47
+            "price": 82.77
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 5,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 57.27
+            "price": 100.26
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 6,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 125.29
+            "price": 118.05
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 7,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 63.13
+            "price": 92.59
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 8,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 75.69
+            "price": 89.45
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 9,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 138.37
+            "price": 93.5
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 10,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 82.12
+            "price": 91.04
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 11,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 132.74
+            "price": 87.2
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 12,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 132.74
+            "price": 101.07
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 13,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 118.9
+            "price": 110.37
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 14,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 82.52
+            "price": 78.53
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 15,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 103.7
+            "price": 90.93
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 16,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 118.73
+            "price": 146.85
         },
         {
-            "doc_no": "CN25/1114",
+            "doc_no": "CN26/0422B",
             "item_no": 17,
             "stock_id": "DIS-CASH",
             "remark": "CASH DISCOUNT",
             "qty": 1.0,
-            "price": 104.37
-        }
-    ],
-    "GR06945": [
-        {
-            "doc_no": "GR06945",
-            "item_no": 1,
-            "stock_id": "E305T1",
-            "remark": "ROSCANI BL E305T1 G/G BRAC GLA YEL\r\nINV NO 1904758 04/11/19",
-            "qty": 1.0,
-            "price": 249.0
+            "price": 105.11
         },
         {
-            "doc_no": "GR06945",
+            "doc_no": "CN26/0422B",
+            "item_no": 18,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 101.28
+        },
+        {
+            "doc_no": "CN26/0422B",
+            "item_no": 19,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 175.29
+        }
+    ],
+    "CN26/0422C": [
+        {
+            "doc_no": "CN26/0422C",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT",
+            "qty": 1.0,
+            "price": 108.21
+        }
+    ],
+    "CN26/0423": [
+        {
+            "doc_no": "CN26/0423",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504687\r\n",
+            "qty": 1.0,
+            "price": 17.5
+        }
+    ],
+    "CN26/0424": [
+        {
+            "doc_no": "CN26/0424",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600903",
+            "qty": 1.0,
+            "price": 29.4
+        },
+        {
+            "doc_no": "CN26/0424",
             "item_no": 2,
-            "stock_id": "E309T8",
-            "remark": "ROSCANI BL E309T8 S/S BRAC GLA BLU\r\nINV NO 1905131 25/11/19",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600818",
             "qty": 1.0,
-            "price": 209.0
+            "price": 29.4
         },
         {
-            "doc_no": "GR06945",
+            "doc_no": "CN26/0424",
             "item_no": 3,
-            "stock_id": "E13553",
-            "remark": "ROSCANI BL E13553 G/G BRAC GLA BLK\r\nINV NO 1801679 18/04/18",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600817",
             "qty": 1.0,
-            "price": 244.0
-        }
-    ],
-    "GR06946": [
-        {
-            "doc_no": "GR06946",
-            "item_no": 1,
-            "stock_id": "963806",
-            "remark": "ROSCANI CG 963806 S/S STRAP SPG WHT CHRO\r\nINV NO 2403313 24/07/24",
-            "qty": 1.0,
-            "price": 199.0
+            "price": 41.8
         },
         {
-            "doc_no": "GR06946",
-            "item_no": 3,
-            "stock_id": "405435",
-            "remark": "ROSCANI BG 405435 R/G BRAC GLA WHT\r\nINV NO 2504465 25/09/25",
-            "qty": 1.0,
-            "price": 199.0
-        }
-    ],
-    "GR06947": [
-        {
-            "doc_no": "GR06947",
-            "item_no": 1,
-            "stock_id": "E284G3",
-            "remark": "ROSCANI BL E284G3 R/G BRAC GLA BLK\r\nINV NO 1905158 25/11/19",
-            "qty": 1.0,
-            "price": 254.0
-        },
-        {
-            "doc_no": "GR06947",
-            "item_no": 2,
-            "stock_id": "S06069",
-            "remark": "ROSCANI CL S06069 R/D STRAP GLA RED\r\nINV NO 2301367 03/04/23",
-            "qty": 1.0,
-            "price": 159.0
-        },
-        {
-            "doc_no": "GR06947",
-            "item_no": 3,
-            "stock_id": "E425G1",
-            "remark": "ROSCANI BL E425G1 G/D BRAC SPG GLD\r\nINV NO 2206117 01/11/22",
-            "qty": 1.0,
-            "price": 299.0
-        },
-        {
-            "doc_no": "GR06947",
+            "doc_no": "CN26/0424",
             "item_no": 4,
-            "stock_id": "E425G5",
-            "remark": "ROSCANI BL E425G5 G/D BRAC SPG WHT\r\nINV NO 2206117 01/11/22",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600904",
             "qty": 1.0,
-            "price": 299.0
+            "price": 50.8
+        }
+    ],
+    "CN26/0425": [
+        {
+            "doc_no": "CN26/0425",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600710\r\n",
+            "qty": 1.0,
+            "price": 280.0
         },
         {
-            "doc_no": "GR06947",
+            "doc_no": "CN26/0425",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600864",
+            "qty": 1.0,
+            "price": 88.0
+        }
+    ],
+    "CN26/0426": [
+        {
+            "doc_no": "CN26/0426",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600862",
+            "qty": 1.0,
+            "price": 25.4
+        },
+        {
+            "doc_no": "CN26/0426",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600863",
+            "qty": 1.0,
+            "price": 175.9
+        }
+    ],
+    "CN26/0427": [
+        {
+            "doc_no": "CN26/0427",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504207\r\n",
+            "qty": 1.0,
+            "price": 297.69
+        }
+    ],
+    "CN26/0428": [
+        {
+            "doc_no": "CN26/0428",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506303",
+            "qty": 1.0,
+            "price": 81.0
+        },
+        {
+            "doc_no": "CN26/0428",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506302\r\n",
+            "qty": 1.0,
+            "price": 88.2
+        },
+        {
+            "doc_no": "CN26/0428",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600055",
+            "qty": 1.0,
+            "price": 145.1
+        }
+    ],
+    "CN26/0429": [
+        {
+            "doc_no": "CN26/0429",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600443",
+            "qty": 1.0,
+            "price": 145.1
+        }
+    ],
+    "CN26/0430": [
+        {
+            "doc_no": "CN26/0430",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2502253\r\n",
+            "qty": 1.0,
+            "price": 95.6
+        },
+        {
+            "doc_no": "CN26/0430",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504164\r\n",
+            "qty": 1.0,
+            "price": 191.1
+        }
+    ],
+    "CN26/0431": [
+        {
+            "doc_no": "CN26/0431",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504865\r\n",
+            "qty": 1.0,
+            "price": 43.8
+        },
+        {
+            "doc_no": "CN26/0431",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504866",
+            "qty": 1.0,
+            "price": 50.7
+        },
+        {
+            "doc_no": "CN26/0431",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505682\r\n",
+            "qty": 1.0,
+            "price": 201.8
+        }
+    ],
+    "CN26/0432": [
+        {
+            "doc_no": "CN26/0432",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600692",
+            "qty": 1.0,
+            "price": 194.9
+        }
+    ],
+    "CN26/0433": [
+        {
+            "doc_no": "CN26/0433",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504752",
+            "qty": 1.0,
+            "price": 687.8
+        }
+    ],
+    "CN26/0434": [
+        {
+            "doc_no": "CN26/0434",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600232",
+            "qty": 1.0,
+            "price": 140.6
+        }
+    ],
+    "CN26/0435": [
+        {
+            "doc_no": "CN26/0435",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601296\r\n",
+            "qty": 1.0,
+            "price": 238.0
+        }
+    ],
+    "CN26/0436": [
+        {
+            "doc_no": "CN26/0436",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600961",
+            "qty": 1.0,
+            "price": 34.8
+        }
+    ],
+    "CN26/0437": [
+        {
+            "doc_no": "CN26/0437",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505879",
+            "qty": 1.0,
+            "price": 516.3
+        }
+    ],
+    "CN26/0438": [
+        {
+            "doc_no": "CN26/0438",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505648",
+            "qty": 1.0,
+            "price": 232.2
+        },
+        {
+            "doc_no": "CN26/0438",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505942",
+            "qty": 1.0,
+            "price": 40.4
+        }
+    ],
+    "CN26/0439": [
+        {
+            "doc_no": "CN26/0439",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601471",
+            "qty": 1.0,
+            "price": 147.9
+        },
+        {
+            "doc_no": "CN26/0439",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601470",
+            "qty": 1.0,
+            "price": 212.9
+        }
+    ],
+    "CN26/0440": [
+        {
+            "doc_no": "CN26/0440",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600799",
+            "qty": 1.0,
+            "price": 68.7
+        },
+        {
+            "doc_no": "CN26/0440",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600798",
+            "qty": 1.0,
+            "price": 223.3
+        },
+        {
+            "doc_no": "CN26/0440",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601017",
+            "qty": 1.0,
+            "price": 47.8
+        }
+    ],
+    "CN26/0441": [
+        {
+            "doc_no": "CN26/0441",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600769",
+            "qty": 1.0,
+            "price": 53.51
+        },
+        {
+            "doc_no": "CN26/0441",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600768",
+            "qty": 1.0,
+            "price": 288.84
+        }
+    ],
+    "CN26/0442": [
+        {
+            "doc_no": "CN26/0442",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505982",
+            "qty": 1.0,
+            "price": 81.0
+        }
+    ],
+    "CN26/0443": [
+        {
+            "doc_no": "CN26/0443",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600676",
+            "qty": 1.0,
+            "price": 71.7
+        },
+        {
+            "doc_no": "CN26/0443",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT /  INV 2600675",
+            "qty": 1.0,
+            "price": 94.7
+        }
+    ],
+    "CN26/0444": [
+        {
+            "doc_no": "CN26/0444",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600186",
+            "qty": 1.0,
+            "price": 186.9
+        },
+        {
+            "doc_no": "CN26/0444",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600185",
+            "qty": 1.0,
+            "price": 243.2
+        }
+    ],
+    "CN26/0445": [
+        {
+            "doc_no": "CN26/0445",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600182",
+            "qty": 1.0,
+            "price": 145.1
+        },
+        {
+            "doc_no": "CN26/0445",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600181",
+            "qty": 1.0,
+            "price": 202.9
+        }
+    ],
+    "CN26/0446": [
+        {
+            "doc_no": "CN26/0446",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600706",
+            "qty": 1.0,
+            "price": 36.9
+        },
+        {
+            "doc_no": "CN26/0446",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600705",
+            "qty": 1.0,
+            "price": 101.6
+        }
+    ],
+    "CN26/0447": [
+        {
+            "doc_no": "CN26/0447",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600728",
+            "qty": 1.0,
+            "price": 247.5
+        },
+        {
+            "doc_no": "CN26/0447",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600729",
+            "qty": 1.0,
+            "price": 273.5
+        }
+    ],
+    "CN26/0448": [
+        {
+            "doc_no": "CN26/0448",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600003",
+            "qty": 1.0,
+            "price": 555.5
+        },
+        {
+            "doc_no": "CN26/0448",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600511",
+            "qty": 1.0,
+            "price": 104.5
+        }
+    ],
+    "CN26/0449": [
+        {
+            "doc_no": "CN26/0449",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505984",
+            "qty": 1.0,
+            "price": 476.1
+        }
+    ],
+    "CN26/0450": [
+        {
+            "doc_no": "CN26/0450",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600421",
+            "qty": 1.0,
+            "price": 74.8
+        },
+        {
+            "doc_no": "CN26/0450",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600422",
+            "qty": 1.0,
+            "price": 98.4
+        }
+    ],
+    "CN26/0451": [
+        {
+            "doc_no": "CN26/0451",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600775",
+            "qty": 1.0,
+            "price": 13.9
+        },
+        {
+            "doc_no": "CN26/0451",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600774",
+            "qty": 1.0,
+            "price": 525.3
+        }
+    ],
+    "CN26/0452": [
+        {
+            "doc_no": "CN26/0452",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504429",
+            "qty": 1.0,
+            "price": 22.4
+        },
+        {
+            "doc_no": "CN26/0452",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504430",
+            "qty": 1.0,
+            "price": 73.2
+        }
+    ],
+    "CN26/0453": [
+        {
+            "doc_no": "CN26/0453",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600475",
+            "qty": 1.0,
+            "price": 145.1
+        },
+        {
+            "doc_no": "CN26/0453",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600476",
+            "qty": 1.0,
+            "price": 189.4
+        }
+    ],
+    "CN26/0454": [
+        {
+            "doc_no": "CN26/0454",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600715",
+            "qty": 1.0,
+            "price": 23.9
+        },
+        {
+            "doc_no": "CN26/0454",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600714",
+            "qty": 1.0,
+            "price": 58.8
+        },
+        {
+            "doc_no": "CN26/0454",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600891",
+            "qty": 1.0,
+            "price": 26.4
+        },
+        {
+            "doc_no": "CN26/0454",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600892",
+            "qty": 1.0,
+            "price": 34.4
+        }
+    ],
+    "CN26/0455": [
+        {
+            "doc_no": "CN26/0455",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505733",
+            "qty": 1.0,
+            "price": 291.0
+        },
+        {
+            "doc_no": "CN26/0455",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505960",
+            "qty": 1.0,
+            "price": 297.2
+        }
+    ],
+    "CN26/0456": [
+        {
+            "doc_no": "CN26/0456",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600779",
+            "qty": 1.0,
+            "price": 114.8
+        },
+        {
+            "doc_no": "CN26/0456",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600778",
+            "qty": 1.0,
+            "price": 182.7
+        }
+    ],
+    "CN26/0457": [
+        {
+            "doc_no": "CN26/0457",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600788",
+            "qty": 1.0,
+            "price": 88.0
+        },
+        {
+            "doc_no": "CN26/0457",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600874",
+            "qty": 1.0,
+            "price": 156.8
+        },
+        {
+            "doc_no": "CN26/0457",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600873",
+            "qty": 1.0,
+            "price": 242.2
+        },
+        {
+            "doc_no": "CN26/0457",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600973",
+            "qty": 1.0,
+            "price": 60.2
+        }
+    ],
+    "CN26/0458": [
+        {
+            "doc_no": "CN26/0458",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600789",
+            "qty": 1.0,
+            "price": 88.0
+        },
+        {
+            "doc_no": "CN26/0458",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600855",
+            "qty": 1.0,
+            "price": 200.6
+        }
+    ],
+    "CN26/0459": [
+        {
+            "doc_no": "CN26/0459",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601339",
+            "qty": 1.0,
+            "price": 34.8
+        },
+        {
+            "doc_no": "CN26/0459",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601338",
+            "qty": 1.0,
+            "price": 56.2
+        },
+        {
+            "doc_no": "CN26/0459",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601352",
+            "qty": 1.0,
+            "price": 50.8
+        }
+    ],
+    "CN26/0460": [
+        {
+            "doc_no": "CN26/0460",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601344",
+            "qty": 1.0,
+            "price": 129.0
+        },
+        {
+            "doc_no": "CN26/0460",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600174",
+            "qty": 1.0,
+            "price": 31.4
+        },
+        {
+            "doc_no": "CN26/0460",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600173",
+            "qty": 1.0,
+            "price": 155.2
+        },
+        {
+            "doc_no": "CN26/0460",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600867",
+            "qty": 1.0,
+            "price": 52.2
+        },
+        {
+            "doc_no": "CN26/0460",
             "item_no": 5,
-            "stock_id": "S06262",
-            "remark": "ROSCANI BL S06262 R/P BRAC GLA PPL\r\nINV NO 230248 26/06/23",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601343",
             "qty": 1.0,
-            "price": 159.0
+            "price": 25.4
         }
     ],
-    "GR06948": [
+    "CN26/0461": [
         {
-            "doc_no": "GR06948",
+            "doc_no": "CN26/0461",
             "item_no": 1,
-            "stock_id": "E15655",
-            "remark": "ROSCANI BL E15655 R/G BRAC GLA WHT\r\nINV NO 1800489 24/01/18",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600616",
             "qty": 1.0,
-            "price": 259.0
-        }
-    ],
-    "GR06987": [
-        {
-            "doc_no": "GR06987",
-            "item_no": 1,
-            "stock_id": "497916",
-            "remark": "ROSCANI BG 497916 S/S BRAC SPG WHT/D\r\nINV NO 2503781 13/08/25",
-            "qty": 1.0,
-            "price": 224.0
+            "price": 215.2
         },
         {
-            "doc_no": "GR06987",
-            "item_no": 3,
-            "stock_id": "498916",
-            "remark": "ROSCANI BL 498916 S/S BRAC SPG WHT/D\r\nINV NO 2503781 13/08/25",
-            "qty": 1.0,
-            "price": 224.0
-        },
-        {
-            "doc_no": "GR06987",
-            "item_no": 4,
-            "stock_id": "4505L3",
-            "remark": "ROSCANI BG 4505L3 G/D BRAC GLA BLK\r\nINV NO 2503780 13/08/25",
-            "qty": 1.0,
-            "price": 199.0
-        },
-        {
-            "doc_no": "GR06987",
-            "item_no": 5,
-            "stock_id": "4605L3",
-            "remark": "ROSCANI BL 4605L3 G/D BRAC GLA BLK\r\nINV NO 2503780 13/08/25",
-            "qty": 1.0,
-            "price": 199.0
-        }
-    ],
-    "GR06988": [
-        {
-            "doc_no": "GR06988",
-            "item_no": 1,
-            "stock_id": "E98516",
-            "remark": "ROSCANI CL E98516 G/G STRAP GLA WHT\r\nINV NO 2505037 20/12/23",
-            "qty": 2.0,
-            "price": 164.0
-        }
-    ],
-    "GR06989": [
-        {
-            "doc_no": "GR06989",
-            "item_no": 1,
-            "stock_id": "E931K6",
-            "remark": "ROSCANI BL E931K6 B/L BRAC GLA WHT\r\nINV NO 1863661 26/12/18",
-            "qty": 1.0,
-            "price": 309.0
-        }
-    ],
-    "GR06990": [
-        {
-            "doc_no": "GR06990",
-            "item_no": 1,
-            "stock_id": "447946",
-            "remark": "ROSCANI BG 447946 S/S BRAC SPG WHT\r\nINV NO 2301438 06/04/23",
-            "qty": 1.0,
-            "price": 249.0
-        },
-        {
-            "doc_no": "GR06990",
+            "doc_no": "CN26/0461",
             "item_no": 2,
-            "stock_id": "448946",
-            "remark": "ROSCANI BL 448946 S/S BRAC SPG WHT\r\nINV NO 2301438 06/04/23",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600865",
             "qty": 1.0,
-            "price": 249.0
+            "price": 88.0
+        }
+    ],
+    "CN26/0462": [
+        {
+            "doc_no": "CN26/0462",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600764",
+            "qty": 1.0,
+            "price": 159.5
+        }
+    ],
+    "CN26/0463": [
+        {
+            "doc_no": "CN26/0463",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2605341",
+            "qty": 1.0,
+            "price": 495.9
         },
         {
-            "doc_no": "GR06990",
+            "doc_no": "CN26/0463",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505342",
+            "qty": 1.0,
+            "price": 983.4
+        }
+    ],
+    "CN26/0464": [
+        {
+            "doc_no": "CN26/0464",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600175",
+            "qty": 1.0,
+            "price": 145.1
+        },
+        {
+            "doc_no": "CN26/0464",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600472",
+            "qty": 1.0,
+            "price": 25.4
+        },
+        {
+            "doc_no": "CN26/0464",
             "item_no": 3,
-            "stock_id": "E78553",
-            "remark": "ROSCANI BL E78553 G/D BRAC GLA BLK\r\nINV NO 2301440 06/04/23",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600518",
             "qty": 1.0,
-            "price": 254.0
+            "price": 101.6
         },
         {
-            "doc_no": "GR06990",
+            "doc_no": "CN26/0464",
             "item_no": 4,
-            "stock_id": "E85436",
-            "remark": "ROSCANI BL E85436 R/G BRAC GLA SVR\r\nINV NO 2301440 06/04/23",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600794",
             "qty": 1.0,
-            "price": 264.0
+            "price": 88.0
         },
         {
-            "doc_no": "GR06990",
+            "doc_no": "CN26/0464",
+            "item_no": 5,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600868\r\n",
+            "qty": 1.0,
+            "price": 88.0
+        },
+        {
+            "doc_no": "CN26/0464",
             "item_no": 6,
-            "stock_id": "E404N3",
-            "remark": "ROSCANI BL E404N3 R/G BRAC SPG BLK\r\nINV NO 2301436 06/04/23",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601335",
             "qty": 1.0,
-            "price": 334.0
+            "price": 157.9
+        }
+    ],
+    "CN26/0465": [
+        {
+            "doc_no": "CN26/0465",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505866",
+            "qty": 1.0,
+            "price": 29.4
+        }
+    ],
+    "CN26/0466": [
+        {
+            "doc_no": "CN26/0466",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2503471",
+            "qty": 1.0,
+            "price": 49.3
         },
         {
-            "doc_no": "GR06990",
+            "doc_no": "CN26/0466",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2503470\r\n",
+            "qty": 1.0,
+            "price": 70.1
+        },
+        {
+            "doc_no": "CN26/0466",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2503745",
+            "qty": 1.0,
+            "price": 52.2
+        },
+        {
+            "doc_no": "CN26/0466",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504482",
+            "qty": 1.0,
+            "price": 113.5
+        },
+        {
+            "doc_no": "CN26/0466",
+            "item_no": 5,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2504483",
+            "qty": 1.0,
+            "price": 104.4
+        }
+    ],
+    "CN26/0467": [
+        {
+            "doc_no": "CN26/0467",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601097",
+            "qty": 1.0,
+            "price": 32.8
+        },
+        {
+            "doc_no": "CN26/0467",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601098",
+            "qty": 1.0,
+            "price": 52.3
+        },
+        {
+            "doc_no": "CN26/0467",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601229",
+            "qty": 1.0,
+            "price": 16.4
+        }
+    ],
+    "CN26/0468": [
+        {
+            "doc_no": "CN26/0468",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600634",
+            "qty": 1.0,
+            "price": 62.3
+        }
+    ],
+    "CN26/0469": [
+        {
+            "doc_no": "CN26/0469",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600568",
+            "qty": 1.0,
+            "price": 73.7
+        },
+        {
+            "doc_no": "CN26/0469",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600567",
+            "qty": 1.0,
+            "price": 187.6
+        }
+    ],
+    "CN26/0470": [
+        {
+            "doc_no": "CN26/0470",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600791",
+            "qty": 1.0,
+            "price": 88.0
+        }
+    ],
+    "CN26/0471": [
+        {
+            "doc_no": "CN26/0471",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600790",
+            "qty": 1.0,
+            "price": 88.0
+        },
+        {
+            "doc_no": "CN26/0471",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601015",
+            "qty": 1.0,
+            "price": 88.0
+        },
+        {
+            "doc_no": "CN26/0471",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601565",
+            "qty": 1.0,
+            "price": 132.8
+        }
+    ],
+    "CN26/0472": [
+        {
+            "doc_no": "CN26/0472",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2501561",
+            "qty": 1.0,
+            "price": 112.6
+        }
+    ],
+    "CN26/0473": [
+        {
+            "doc_no": "CN26/0473",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601569",
+            "qty": 1.0,
+            "price": 99.6
+        }
+    ],
+    "CN26/0474": [
+        {
+            "doc_no": "CN26/0474",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601522",
+            "qty": 1.0,
+            "price": 25.4
+        },
+        {
+            "doc_no": "CN26/0474",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601521",
+            "qty": 1.0,
+            "price": 100.1
+        }
+    ],
+    "CN26/0475": [
+        {
+            "doc_no": "CN26/0475",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601509",
+            "qty": 1.0,
+            "price": 192.2
+        }
+    ],
+    "CN26/0476": [
+        {
+            "doc_no": "CN26/0476",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506048",
+            "qty": 1.0,
+            "price": 322.9
+        }
+    ],
+    "CN26/0477": [
+        {
+            "doc_no": "CN26/0477",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600360",
+            "qty": 1.0,
+            "price": 236.2
+        },
+        {
+            "doc_no": "CN26/0477",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600359",
+            "qty": 1.0,
+            "price": 247.0
+        }
+    ],
+    "CN26/0478": [
+        {
+            "doc_no": "CN26/0478",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600689",
+            "qty": 1.0,
+            "price": 56.7
+        },
+        {
+            "doc_no": "CN26/0478",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600690",
+            "qty": 1.0,
+            "price": 250.1
+        }
+    ],
+    "CN26/0479": [
+        {
+            "doc_no": "CN26/0479",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601030",
+            "qty": 1.0,
+            "price": 69.3
+        }
+    ],
+    "CN26/0480": [
+        {
+            "doc_no": "CN26/0480",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600613",
+            "qty": 1.0,
+            "price": 63.1
+        },
+        {
+            "doc_no": "CN26/0480",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600615",
+            "qty": 1.0,
+            "price": 350.3
+        }
+    ],
+    "CN26/0481": [
+        {
+            "doc_no": "CN26/0481",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601034",
+            "qty": 1.0,
+            "price": 97.2
+        }
+    ],
+    "CN26/0482": [
+        {
+            "doc_no": "CN26/0482",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601100",
+            "qty": 1.0,
+            "price": 249.6
+        }
+    ],
+    "CN26/0483": [
+        {
+            "doc_no": "CN26/0483",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600647",
+            "qty": 1.0,
+            "price": 32.8
+        },
+        {
+            "doc_no": "CN26/0483",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600646",
+            "qty": 1.0,
+            "price": 267.1
+        }
+    ],
+    "CN26/0484": [
+        {
+            "doc_no": "CN26/0484",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505668",
+            "qty": 1.0,
+            "price": 114.6
+        }
+    ],
+    "CN26/0485": [
+        {
+            "doc_no": "CN26/0485",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505998",
+            "qty": 1.0,
+            "price": 92.0
+        },
+        {
+            "doc_no": "CN26/0485",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506161",
+            "qty": 1.0,
+            "price": 375.5
+        },
+        {
+            "doc_no": "CN26/0485",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506162",
+            "qty": 1.0,
+            "price": 52.6
+        },
+        {
+            "doc_no": "CN26/0485",
+            "item_no": 4,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506298",
+            "qty": 1.0,
+            "price": 334.5
+        },
+        {
+            "doc_no": "CN26/0485",
+            "item_no": 5,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506296",
+            "qty": 1.0,
+            "price": 482.0
+        },
+        {
+            "doc_no": "CN26/0485",
+            "item_no": 6,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506297",
+            "qty": 1.0,
+            "price": 530.8
+        },
+        {
+            "doc_no": "CN26/0485",
             "item_no": 7,
-            "stock_id": "4426E0",
-            "remark": "ROSCANI BL 4426E0 R/S BRAC SPG BRN\r\nINV NO 2402438 04/06/24",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506299",
             "qty": 1.0,
-            "price": 370.0
+            "price": 264.6
         },
         {
-            "doc_no": "GR06990",
+            "doc_no": "CN26/0485",
             "item_no": 8,
-            "stock_id": "E435G1",
-            "remark": "ROSCANI BL E435G1 G/D BRAC SPG YEL\r\nINV NO 2304242 06/11/23",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600373",
             "qty": 1.0,
-            "price": 304.0
+            "price": 117.7
         },
         {
-            "doc_no": "GR06990",
+            "doc_no": "CN26/0485",
             "item_no": 9,
-            "stock_id": "E435G3",
-            "remark": "ROSCANI BL E435G3 G/D BRAC SPG BLK\r\nINV NO 2304242 06/11/23",
-            "qty": 1.0,
-            "price": 304.0
-        },
-        {
-            "doc_no": "GR06990",
-            "item_no": 10,
-            "stock_id": "E725G7",
-            "remark": "ROSCANI BL E725G7 G/D BRAC SPG GRN\r\nINV NO 2301437 06/04/23",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600625",
             "qty": 1.0,
             "price": 319.0
         },
         {
-            "doc_no": "GR06990",
-            "item_no": 11,
-            "stock_id": "E720G9",
-            "remark": "ROSCANI BL E720G9 B/N BRAC SPG RGD\r\nINV NO 2301437 06/04/23",
-            "qty": 1.0,
-            "price": 324.0
-        }
-    ],
-    "GR06991": [
-        {
-            "doc_no": "GR06991",
-            "item_no": 1,
-            "stock_id": "S12553",
-            "remark": "ROSCANI BL S12553 G/D BRAC GLA BLK",
-            "qty": 1.0,
-            "price": 164.0
-        },
-        {
-            "doc_no": "GR06991",
-            "item_no": 2,
-            "stock_id": "S12453",
-            "remark": "ROSCANI BL S12453 R/G BRAC GLA BLK",
-            "qty": 1.0,
-            "price": 164.0
-        },
-        {
-            "doc_no": "GR06991",
-            "item_no": 3,
-            "stock_id": "S12455",
-            "remark": "ROSCANI BL S12455 R/G BRAC GLA WHT",
-            "qty": 1.0,
-            "price": 164.0
-        },
-        {
-            "doc_no": "GR06991",
-            "item_no": 9,
-            "stock_id": "S12551",
-            "remark": "ROSCANI BL S12551 G/D BRAC GLA YEL",
-            "qty": 1.0,
-            "price": 164.0
-        },
-        {
-            "doc_no": "GR06991",
+            "doc_no": "CN26/0485",
             "item_no": 10,
-            "stock_id": "S12353",
-            "remark": "ROSCANI BL S12353 B/K BRAC GLA BLK",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600814",
             "qty": 1.0,
-            "price": 164.0
+            "price": 176.0
         },
         {
-            "doc_no": "GR06991",
+            "doc_no": "CN26/0485",
             "item_no": 11,
-            "stock_id": "S12858",
-            "remark": "ROSCANI BL S12858 B/L BRAC GLA BLU",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600815",
             "qty": 1.0,
-            "price": 164.0
+            "price": 241.0
         },
         {
-            "doc_no": "GR06991",
+            "doc_no": "CN26/0485",
             "item_no": 12,
-            "stock_id": "S12953",
-            "remark": "ROSCANI BL S12953 S/S BRAC GLA BLK",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2601084",
             "qty": 1.0,
-            "price": 139.0
-        },
-        {
-            "doc_no": "GR06991",
-            "item_no": 13,
-            "stock_id": "S12952",
-            "remark": "ROSCANI BL S12952 S/S BRAC GLA PPL",
-            "qty": 1.0,
-            "price": 139.0
+            "price": 238.4
         }
     ],
-    "GR07009": [
+    "CN26/0486": [
         {
-            "doc_no": "GR07009",
+            "doc_no": "CN26/0486",
             "item_no": 1,
-            "stock_id": "498916",
-            "remark": "ROSCANI BL 498916 S/S BRAC SPG WHT/D\r\nINV NO 2504305 17/09/25",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2506204",
             "qty": 1.0,
-            "price": 442.29
+            "price": 121.0
         }
     ],
-    "GR07010": [
+    "CN26/0487": [
         {
-            "doc_no": "GR07010",
+            "doc_no": "CN26/0487",
             "item_no": 1,
-            "stock_id": "B95496",
-            "remark": "ROSCANI BL B95496 G/G BRAC GLA WHT\r\nINV NO 1402042 20/03/24",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600395",
             "qty": 1.0,
-            "price": 294.0
+            "price": 161.0
         },
         {
-            "doc_no": "GR07010",
+            "doc_no": "CN26/0487",
             "item_no": 2,
-            "stock_id": "B93551",
-            "remark": "ROSCANI BL B93551 G/G BRAC GLA YEL\r\nINV NO 1402042 20/03/24",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600396",
             "qty": 1.0,
-            "price": 279.0
+            "price": 91.6
         }
     ],
-    "GR07011": [
+    "CN26/0488": [
         {
-            "doc_no": "GR07011",
+            "doc_no": "CN26/0488",
             "item_no": 1,
-            "stock_id": "E304T3",
-            "remark": "ROSCANI BL E304T3 R/G BRAC GLA BLK\r\nINV NO 1904851 05/11/19",
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600433",
+            "qty": 1.0,
+            "price": 287.54
+        },
+        {
+            "doc_no": "CN26/0488",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600434",
+            "qty": 1.0,
+            "price": 287.97
+        }
+    ],
+    "CN26/0489": [
+        {
+            "doc_no": "CN26/0489",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600436\r\n",
+            "qty": 1.0,
+            "price": 71.49
+        },
+        {
+            "doc_no": "CN26/0489",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600435",
+            "qty": 1.0,
+            "price": 362.79
+        }
+    ],
+    "CN26/0490": [
+        {
+            "doc_no": "CN26/0490",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600787",
+            "qty": 1.0,
+            "price": 88.0
+        }
+    ],
+    "CN26/0491": [
+        {
+            "doc_no": "CN26/0491",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600719",
+            "qty": 1.0,
+            "price": 95.0
+        }
+    ],
+    "CN26/0492": [
+        {
+            "doc_no": "CN26/0492",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600016",
+            "qty": 1.0,
+            "price": 654.7
+        },
+        {
+            "doc_no": "CN26/0492",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600017",
+            "qty": 1.0,
+            "price": 349.0
+        }
+    ],
+    "CN26/0493": [
+        {
+            "doc_no": "CN26/0493",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600693",
+            "qty": 1.0,
+            "price": 124.0
+        }
+    ],
+    "CN26/0494": [
+        {
+            "doc_no": "CN26/0494",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600630",
+            "qty": 1.0,
+            "price": 94.7
+        }
+    ],
+    "CN26/0495": [
+        {
+            "doc_no": "CN26/0495",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600709",
+            "qty": 1.0,
+            "price": 88.0
+        },
+        {
+            "doc_no": "CN26/0495",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600708",
+            "qty": 1.0,
+            "price": 231.2
+        },
+        {
+            "doc_no": "CN26/0495",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600872",
+            "qty": 1.0,
+            "price": 35.8
+        }
+    ],
+    "CN26/0496": [
+        {
+            "doc_no": "CN26/0496",
+            "item_no": 1,
+            "stock_id": "CADJ",
+            "remark": "CUSTOMER ADUSTMENT / INV 2600840",
+            "qty": 1.0,
+            "price": 52.2
+        }
+    ],
+    "CN26/0497": [
+        {
+            "doc_no": "CN26/0497",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600738",
+            "qty": 1.0,
+            "price": 233.6
+        },
+        {
+            "doc_no": "CN26/0497",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600739",
+            "qty": 1.0,
+            "price": 44.8
+        },
+        {
+            "doc_no": "CN26/0497",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600842\r\n",
+            "qty": 1.0,
+            "price": 70.1
+        }
+    ],
+    "CN26/0498": [
+        {
+            "doc_no": "CN26/0498",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600624",
+            "qty": 1.0,
+            "price": 79.5
+        },
+        {
+            "doc_no": "CN26/0498",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600623",
+            "qty": 1.0,
+            "price": 250.7
+        },
+        {
+            "doc_no": "CN26/0498",
+            "item_no": 3,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2600871",
+            "qty": 1.0,
+            "price": 117.9
+        }
+    ],
+    "CN26/0499": [
+        {
+            "doc_no": "CN26/0499",
+            "item_no": 1,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505163",
+            "qty": 1.0,
+            "price": 158.4
+        },
+        {
+            "doc_no": "CN26/0499",
+            "item_no": 2,
+            "stock_id": "DIS-CASH",
+            "remark": "CASH DISCOUNT / INV 2505272",
+            "qty": 1.0,
+            "price": 228.3
+        }
+    ],
+    "GR07057": [
+        {
+            "doc_no": "GR07057",
+            "item_no": 1,
+            "stock_id": "E38592",
+            "remark": "ROSCANI BL E38592 G/D BRAC GLA GLD\r\nINV NO 2300903 27/02/23",
+            "qty": 1.0,
+            "price": 269.0
+        },
+        {
+            "doc_no": "GR07057",
+            "item_no": 2,
+            "stock_id": "E09563",
+            "remark": "ROSCANI BL E09563 G/G BRAC GLA BLK\r\nINV NO 1705998 15/12/17",
+            "qty": 1.0,
+            "price": 214.0
+        },
+        {
+            "doc_no": "GR07057",
+            "item_no": 3,
+            "stock_id": "E38496",
+            "remark": "ROSCANI BL E38496 R/G BRAC GLA WHT\r\nINV NO 2300903 27/02/23",
+            "qty": 1.0,
+            "price": 274.0
+        },
+        {
+            "doc_no": "GR07057",
+            "item_no": 4,
+            "stock_id": "E76553",
+            "remark": "ROSCANI BL E76553 G/D BRAC GLA BLK\r\nINV NO 2204600 28/07/22",
+            "qty": 1.0,
+            "price": 244.0
+        },
+        {
+            "doc_no": "GR07057",
+            "item_no": 5,
+            "stock_id": "E874G9",
+            "remark": "ROSCANI BL E874G9 R/G BRAC SPG RGD\r\nINV NO 2203712 02/06/22",
+            "qty": 1.0,
+            "price": 314.0
+        },
+        {
+            "doc_no": "GR07057",
+            "item_no": 6,
+            "stock_id": "E874G3",
+            "remark": "ROSCANI BL E874G3 R/G BRAC SPG BLK\r\nINV NO 2203712 02/06/22",
+            "qty": 1.0,
+            "price": 314.0
+        }
+    ],
+    "GR07058": [
+        {
+            "doc_no": "GR07058",
+            "item_no": 1,
+            "stock_id": "497593",
+            "remark": "ROSCANI BG 497593 G/G BRAC SPG BLK\r\nINV NO 2502047 24/04/25",
+            "qty": 1.0,
+            "price": 254.0
+        },
+        {
+            "doc_no": "GR07058",
+            "item_no": 2,
+            "stock_id": "498593",
+            "remark": "ROSCANI BL 498593 G/G BRAC SPG BLK3\r\nINV NO 2502047 24/04/25",
             "qty": 1.0,
             "price": 254.0
         }
     ],
-    "GR07012": [
+    "GR07059": [
         {
-            "doc_no": "GR07012",
+            "doc_no": "GR07059",
             "item_no": 1,
-            "stock_id": "E884G6",
-            "remark": "ROSCANI BL E884G6 R/G BRAC GLA RGD\r\nINV NO 2104397 02/12/21",
+            "stock_id": "166993",
+            "remark": "ROSCANI BL 166993 S/S BRAC GLA BLK\r\nINV 270943 12/08/09",
+            "qty": 1.0,
+            "price": 199.0
+        },
+        {
+            "doc_no": "GR07059",
+            "item_no": 2,
+            "stock_id": "147993",
+            "remark": "ROSCANI BL 147993 S/S BRAC GLA BLK\r\nINV NO 274842 21/01/10",
+            "qty": 1.0,
+            "price": 164.0
+        }
+    ],
+    "GR07060": [
+        {
+            "doc_no": "GR07060",
+            "item_no": 1,
+            "stock_id": "S14353",
+            "remark": "ROSCANI BL S14353 B/K BRAC GLA BLK\r\nINV NO 2600475 22/01/26",
+            "qty": 1.0,
+            "price": 164.0
+        }
+    ],
+    "GR07130": [
+        {
+            "doc_no": "GR07130",
+            "item_no": 1,
+            "stock_id": "RE/321",
+            "remark": "RENATA BATTERY  321  (SR 616 SW)\r\nINV 2601203 27/02/26",
+            "qty": 18.0,
+            "price": 3.05
+        }
+    ],
+    "GR07131": [
+        {
+            "doc_no": "GR07131",
+            "item_no": 1,
+            "stock_id": "S945T7",
+            "remark": "ROSCANI BL S945T7 G/D BRAC GLA GRN\r\nINV NO 2601587 17/03/26",
+            "qty": 1.0,
+            "price": 194.0
+        },
+        {
+            "doc_no": "GR07131",
+            "item_no": 2,
+            "stock_id": "S944T3",
+            "remark": "ROSCANI BL S944T3 R/G BRAC GLA BLK\r\nINV NO 2601587 17/03/26",
+            "qty": 1.0,
+            "price": 194.0
+        }
+    ],
+    "GR07132": [
+        {
+            "doc_no": "GR07132",
+            "item_no": 1,
+            "stock_id": "620383",
+            "remark": "ROSCANI BL 620383 S/S BRAC GLA BLK\r\nINV NO 249051 06/11/06",
+            "qty": 1.0,
+            "price": 239.0
+        }
+    ],
+    "GR07133": [
+        {
+            "doc_no": "GR07133",
+            "item_no": 1,
+            "stock_id": "964203",
+            "remark": "ROSCANI CG 964203 B/K STRAP GLA BLK/WHT MULT\r\nINV NO 2404170 18/09/24",
+            "qty": 1.0,
+            "price": 149.0
+        }
+    ],
+    "GR07134": [
+        {
+            "doc_no": "GR07134",
+            "item_no": 1,
+            "stock_id": "E619G2",
+            "remark": "ROSCANI BL E619G2 S/S BRAC SPG PNK\r\nINV NO 2600764 06/02/06",
+            "qty": 1.0,
+            "price": 299.0
+        },
+        {
+            "doc_no": "GR07134",
+            "item_no": 2,
+            "stock_id": "E615G1",
+            "remark": "ROSCANI BL E615G1 G/D BRAC SPG YEL\r\nINV NO 2600764 06/02/26",
+            "qty": 1.0,
+            "price": 324.0
+        },
+        {
+            "doc_no": "GR07134",
+            "item_no": 3,
+            "stock_id": "E615G7",
+            "remark": "ROSCANI BL E615G7 G/D BRAC SPG GRN\r\nINV NO 2600764 06/02/26",
+            "qty": 1.0,
+            "price": 324.0
+        }
+    ],
+    "GR07135": [
+        {
+            "doc_no": "GR07135",
+            "item_no": 1,
+            "stock_id": "B75865",
+            "remark": "ROSCANI BL B75865 P/T BRAC GLA WHT\r\nINV NO 1702402 11/05/17",
+            "qty": 1.0,
+            "price": 284.0
+        },
+        {
+            "doc_no": "GR07135",
+            "item_no": 2,
+            "stock_id": "B67995",
+            "remark": "ROSCANI BL B67995 S/S BRAC GLA WHT\r\nINV NO 1702402 11/05/17",
+            "qty": 1.0,
+            "price": 244.0
+        },
+        {
+            "doc_no": "GR07135",
+            "item_no": 3,
+            "stock_id": "E77553",
+            "remark": "ROSCANI BL E77553 G/D BRAC GLA BLK\r\nINV NO 2300208 06/01/23",
+            "qty": 1.0,
+            "price": 234.0
+        },
+        {
+            "doc_no": "GR07135",
+            "item_no": 4,
+            "stock_id": "E06965",
+            "remark": "ROSCANI CL E06965 S/S STRAP GLA WHT/RGD\r\nINV NO 1702403 11/05/17",
             "qty": 1.0,
             "price": 289.0
-        }
-    ],
-    "GR07013": [
+        },
         {
-            "doc_no": "GR07013",
-            "item_no": 1,
-            "stock_id": "S06469",
-            "remark": "ROSCANI BL S06469 R/G BRAC GLA RED\r\nINV NO 2302887 21/07/23",
+            "doc_no": "GR07135",
+            "item_no": 5,
+            "stock_id": "E06465",
+            "remark": "ROSCANI CL E06465 R/G STRAP GLA WHT\r\nINV NO 1603514 29/06/16",
             "qty": 1.0,
-            "price": 159.0
+            "price": 309.0
+        },
+        {
+            "doc_no": "GR07135",
+            "item_no": 6,
+            "stock_id": "555915",
+            "remark": "ROSCANI BG 555915 S/S BRAC GLA WHT\r\nINV NO 1600114 06/01/16",
+            "qty": 1.0,
+            "price": 244.0
+        },
+        {
+            "doc_no": "GR07135",
+            "item_no": 7,
+            "stock_id": "556915",
+            "remark": "ROSCANI BL 556915 S/S BRAC GLA WHT\r\nINV NO 1604108 05/08/16",
+            "qty": 1.0,
+            "price": 244.0
+        },
+        {
+            "doc_no": "GR07135",
+            "item_no": 8,
+            "stock_id": "E07656",
+            "remark": "ROSCANI BL E07656 RGS BRAC GLA RGD/WHT\r\nINV NO 1702400 11/05/17",
+            "qty": 1.0,
+            "price": 304.0
+        },
+        {
+            "doc_no": "GR07135",
+            "item_no": 9,
+            "stock_id": "E08943",
+            "remark": "ROSCANI BL E08943 S/S BRAC GLA BLK\r\nINV NO 1702397 11/05/17",
+            "qty": 1.0,
+            "price": 254.0
+        },
+        {
+            "doc_no": "GR07135",
+            "item_no": 10,
+            "stock_id": "B66555",
+            "remark": "ROSCANI BL B66555 G/G BRAC GLA WHT\r\nINV NO 1702402 11/05/17",
+            "qty": 1.0,
+            "price": 249.0
         }
     ],
-    "GR07014": [
+    "GR07136": [
         {
-            "doc_no": "GR07014",
+            "doc_no": "GR07136",
             "item_no": 1,
-            "stock_id": "AFG60GN",
-            "remark": "AURAFIT G6 GPS SMARTWATCH GRN",
+            "stock_id": "B95530",
+            "remark": "ROSCANI BL B95530 G/G STRAP GLA WHT/PINK\r\nINV NO 1700882 13/02/17",
+            "qty": 1.0,
+            "price": 229.0
+        }
+    ],
+    "GR07159": [
+        {
+            "doc_no": "GR07159",
+            "item_no": 1,
+            "stock_id": "405443",
+            "remark": "ROSCANI BG 405443 R/G BRAC GLA BLK\r\nINV NO 2004031 16/11/20",
+            "qty": 1.0,
+            "price": 279.0
+        },
+        {
+            "doc_no": "GR07159",
+            "item_no": 2,
+            "stock_id": "406443",
+            "remark": "ROSCANI BL 406443 R/G BRAC GLA BLK\r\nINV NO 2004031 16/11/20",
+            "qty": 1.0,
+            "price": 279.0
+        }
+    ],
+    "GR07160": [
+        {
+            "doc_no": "GR07160",
+            "item_no": 1,
+            "stock_id": "469LM2",
+            "remark": "ROSCANI BG 469LM2 B/K STRP SPG RED AUTO\r\nINV NO 2402571 10/06/24",
+            "qty": 1.0,
+            "price": 1199.0
+        },
+        {
+            "doc_no": "GR07160",
+            "item_no": 2,
+            "stock_id": "469LM1",
+            "remark": "ROSCANI BG 469LM1 R/G STRP SPG BLK AUTO\r\nINV NO 2402571 10/06/24",
+            "qty": 1.0,
+            "price": 1199.0
+        },
+        {
+            "doc_no": "GR07160",
+            "item_no": 3,
+            "stock_id": "469LM3",
+            "remark": "ROSCANI BG 469LM3 S/S STRP SPG BLK AUTO\r\nINV NO 2402571 10/06/24",
+            "qty": 1.0,
+            "price": 1124.0
+        }
+    ],
+    "GR07161": [
+        {
+            "doc_no": "GR07161",
+            "item_no": 1,
+            "stock_id": "E734K6",
+            "remark": "ROSCANI BL E734K6 R/G BRAC SPG WHT\r\nINV NO 2505596 28/11/25",
+            "qty": 1.0,
+            "price": 314.0
+        }
+    ],
+    "GR07217": [
+        {
+            "doc_no": "GR07217",
+            "item_no": 1,
+            "stock_id": "3516011",
+            "remark": "SPRON SR516 SW BATTERY",
+            "qty": 20.0,
+            "price": 3.2
+        },
+        {
+            "doc_no": "GR07217",
+            "item_no": 2,
+            "stock_id": "3616011",
+            "remark": "SPRON SR616 SW BATTERY",
+            "qty": 20.0,
+            "price": 3.4
+        },
+        {
+            "doc_no": "GR07217",
+            "item_no": 3,
+            "stock_id": "3621011",
+            "remark": "SPRON SR621 SW BATTERY",
+            "qty": 50.0,
+            "price": 2.3
+        },
+        {
+            "doc_no": "GR07217",
+            "item_no": 4,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 920.0,
+            "price": 2.2
+        },
+        {
+            "doc_no": "GR07217",
+            "item_no": 6,
+            "stock_id": "3721011",
+            "remark": "SPRON SR721 SW BATTERY",
+            "qty": 20.0,
+            "price": 3.5
+        },
+        {
+            "doc_no": "GR07217",
+            "item_no": 7,
+            "stock_id": "3927011",
+            "remark": "SPRON SR927 SW BATTERY",
+            "qty": 20.0,
+            "price": 4.7
+        },
+        {
+            "doc_no": "GR07217",
+            "item_no": 8,
+            "stock_id": "4161601",
+            "remark": "SPRON CR1616 BATTERY",
+            "qty": 10.0,
+            "price": 3.5
+        }
+    ],
+    "GR07218": [
+        {
+            "doc_no": "GR07218",
+            "item_no": 1,
+            "stock_id": "B95506",
+            "remark": "ROSCANI BL B95506 G/G STRAP GLA WHT\r\nINV NO 2601385 09/03/26",
+            "qty": 1.0,
+            "price": 395.61
+        }
+    ],
+    "GR07219": [
+        {
+            "doc_no": "GR07219",
+            "item_no": 1,
+            "stock_id": "405435",
+            "remark": "ROSCANI BG 405435 R/G BRAC GLA WHT\r\nINV 2601371 06/03/26",
+            "qty": 1.0,
+            "price": 553.19
+        }
+    ],
+    "GR07220": [
+        {
+            "doc_no": "GR07220",
+            "item_no": 1,
+            "stock_id": "451LM2",
+            "remark": "ROSCANI BG 451LM2 B/N BRAC SPG BRN CHRO\r\nINV 2601280 03/03/26",
+            "qty": 1.0,
+            "price": 810.37
+        }
+    ],
+    "GR07221": [
+        {
+            "doc_no": "GR07221",
+            "item_no": 1,
+            "stock_id": "Z",
+            "remark": "ROS 423 DIAL",
+            "qty": 1.0,
+            "price": 30.0
+        }
+    ],
+    "GR07222": [
+        {
+            "doc_no": "GR07222",
+            "item_no": 1,
+            "stock_id": "3621012",
+            "remark": "SII SR621 SW BATTERY",
+            "qty": 100.0,
+            "price": 1.55
+        },
+        {
+            "doc_no": "GR07222",
+            "item_no": 2,
+            "stock_id": "3626012",
+            "remark": "SII SR626 SW BATTERY",
+            "qty": 100.0,
+            "price": 1.5
+        },
+        {
+            "doc_no": "GR07222",
+            "item_no": 3,
+            "stock_id": "3726002",
+            "remark": "(W-Type) SII SR726 W BATTERY",
+            "qty": 100.0,
+            "price": 5.25
+        },
+        {
+            "doc_no": "GR07222",
+            "item_no": 4,
+            "stock_id": "3920012",
+            "remark": "SII SR920 SW BATTERY",
+            "qty": 100.0,
+            "price": 2.8
+        },
+        {
+            "doc_no": "GR07222",
+            "item_no": 5,
+            "stock_id": "4201602",
+            "remark": "JAPAN CR2016 BATTERY",
+            "qty": 50.0,
+            "price": 1.4
+        },
+        {
+            "doc_no": "GR07222",
+            "item_no": 6,
+            "stock_id": "4203202",
+            "remark": "JAPAN CR2032 BATTERY",
+            "qty": 50.0,
+            "price": 1.4
+        },
+        {
+            "doc_no": "GR07222",
+            "item_no": 7,
+            "stock_id": "4241202",
+            "remark": "JAPAN CR2412 BATTERY",
             "qty": 2.0,
-            "price": 221.4
-        }
-    ],
-    "GR07015": [
+            "price": 14.2
+        },
         {
-            "doc_no": "GR07015",
-            "item_no": 1,
-            "stock_id": "E414G3",
-            "remark": "ROSCANI BL E414G3 R/G BRAC SPG BLK\r\nINV NO 2205829 12/10/22",
-            "qty": 1.0,
-            "price": 294.0
-        }
-    ],
-    "GR07016": [
-        {
-            "doc_no": "GR07016",
-            "item_no": 1,
-            "stock_id": "S07764",
-            "remark": "ROSCANI BL S07764 B/N BRAC GLA BRN\r\nINV NO 2504072 02/09/25",
-            "qty": 1.0,
-            "price": 287.0
-        }
-    ],
-    "GR07017": [
-        {
-            "doc_no": "GR07017",
-            "item_no": 1,
-            "stock_id": "E494S9",
-            "remark": "ROSCANI BL E494S9 R/G BRAC GLA RED\r\nINV NO 2504790 13/10/25",
-            "qty": 1.0,
-            "price": 326.67
-        }
-    ],
-    "GR07018": [
-        {
-            "doc_no": "GR07018",
-            "item_no": 1,
-            "stock_id": "498597",
-            "remark": "ROSCANI BL 498597 G/G BRAC SPG GRN\r\nINV NO 2504731 10/10/25",
-            "qty": 1.0,
-            "price": 437.58
-        }
-    ],
-    "GR07019": [
-        {
-            "doc_no": "GR07019",
-            "item_no": 1,
-            "stock_id": "428715",
-            "remark": "ROSCANI BL 428715 2/T BRAC SPG WHT\r\nINV NO 2504869 17/10/25",
-            "qty": 1.0,
-            "price": 354.46
-        }
-    ],
-    "GR07020": [
-        {
-            "doc_no": "GR07020",
-            "item_no": 1,
-            "stock_id": "E35908",
-            "remark": "ROSCANI BL E35908 S/S BRAC GLA BLU\r\nINV NO 2504802 14/10/25",
-            "qty": 1.0,
-            "price": 340.75
+            "doc_no": "GR07222",
+            "item_no": 8,
+            "stock_id": "4245002",
+            "remark": "JAPAN CR2450 BATTERY",
+            "qty": 2.0,
+            "price": 6.5
         }
     ]
 }

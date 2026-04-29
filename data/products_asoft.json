@@ -16,7 +16,7 @@
             6
         ],
         "remark": "Promo code not yet created",
-        "updated_on": "2020-05-13",
+        "updated_on": "2026-02-25",
         "bin_location": "101431-101401"
     },
     "101435": {
@@ -2903,12 +2903,12 @@
         "sku": "1230001",
         "name": "ALKALINE 12 V ( 23A ) BATTERY (A)",
         "classification_code": "022",
-        "dealer_price": 2.2,
+        "dealer_price": 2.65,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 1.3,
+        "wmm1_price": 1.75,
         "50_Off_price": 0.0,
-        "nong_price": 1.5,
+        "nong_price": 1.95,
         "purchase_price": 1.25,
         "group": "Battery",
         "group_ids": [
@@ -2922,12 +2922,12 @@
         "sku": "1230002",
         "name": "ALKALINE 12 V ( 23A ) BATTERY (B)",
         "classification_code": "022",
-        "dealer_price": 1.5,
+        "dealer_price": 1.95,
         "retail_price": 0.0,
-        "wholesale_price": 1.3,
-        "wmm1_price": 1.3,
+        "wholesale_price": 0.0,
+        "wmm1_price": 1.75,
         "50_Off_price": 0.0,
-        "nong_price": 1.5,
+        "nong_price": 1.95,
         "purchase_price": 1.05,
         "group": "Battery",
         "group_ids": [
@@ -3301,12 +3301,12 @@
         "sku": "1270001",
         "name": "ALKALINE 12 V ( 27A ) BATTERY (A)",
         "classification_code": "022",
-        "dealer_price": 2.6,
+        "dealer_price": 3.3,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 1.7,
+        "wmm1_price": 2.4,
         "50_Off_price": 0.0,
-        "nong_price": 1.9,
+        "nong_price": 2.6,
         "purchase_price": 1.8,
         "group": "Battery",
         "group_ids": [
@@ -3320,12 +3320,12 @@
         "sku": "1270002",
         "name": "ALKALINE 12 V ( 27A ) BATTERY (B)",
         "classification_code": "022",
-        "dealer_price": 1.9,
+        "dealer_price": 2.6,
         "retail_price": 0.0,
-        "wholesale_price": 1.7,
-        "wmm1_price": 1.7,
+        "wholesale_price": 0.0,
+        "wmm1_price": 2.4,
         "50_Off_price": 0.0,
-        "nong_price": 1.9,
+        "nong_price": 2.6,
         "purchase_price": 1.8,
         "group": "Battery",
         "group_ids": [
@@ -38699,12 +38699,12 @@
         "sku": "3112011",
         "name": "SPRON SR1120 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 4.8,
+        "dealer_price": 5.8,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 4.05,
+        "wmm1_price": 5.05,
         "50_Off_price": 0.0,
-        "nong_price": 4.25,
+        "nong_price": 5.25,
         "purchase_price": 2.59,
         "group": "Battery",
         "group_ids": [
@@ -38719,12 +38719,12 @@
         "sku": "3112012",
         "name": "JAPAN SR1120 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 4.25,
+        "dealer_price": 5.25,
         "retail_price": 0.0,
-        "wholesale_price": 4.05,
-        "wmm1_price": 4.05,
+        "wholesale_price": 0.0,
+        "wmm1_price": 5.05,
         "50_Off_price": 0.0,
-        "nong_price": 4.25,
+        "nong_price": 5.25,
         "purchase_price": 2.95,
         "group": "Battery",
         "group_ids": [
@@ -38779,12 +38779,12 @@
         "sku": "3113011",
         "name": "SPRON SR1130 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 6.6,
+        "dealer_price": 7.8,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 5.6,
+        "wmm1_price": 6.8,
         "50_Off_price": 0.0,
-        "nong_price": 5.8,
+        "nong_price": 7.0,
         "purchase_price": 3.56,
         "group": "Battery",
         "group_ids": [
@@ -38799,12 +38799,12 @@
         "sku": "3113012",
         "name": "SII SR1130 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 5.8,
+        "dealer_price": 7.0,
         "retail_price": 0.0,
-        "wholesale_price": 5.6,
-        "wmm1_price": 5.6,
+        "wholesale_price": 0.0,
+        "wmm1_price": 6.8,
         "50_Off_price": 0.0,
-        "nong_price": 5.8,
+        "nong_price": 7.0,
         "purchase_price": 4.4,
         "group": "Battery",
         "group_ids": [
@@ -42538,12 +42538,12 @@
         "sku": "3410001",
         "name": "[W-Type] SPRON SR41 W BATTERY",
         "classification_code": "022",
-        "dealer_price": 4.1,
+        "dealer_price": 4.9,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.6,
+        "wmm1_price": 3.4,
         "50_Off_price": 0.0,
-        "nong_price": 2.8,
+        "nong_price": 3.6,
         "purchase_price": 0.978,
         "group": "Battery",
         "group_ids": [
@@ -42558,12 +42558,12 @@
         "sku": "3410002",
         "name": "[W-Type] JAPAN SR41 W BATTERY",
         "classification_code": "022",
-        "dealer_price": 2.8,
+        "dealer_price": 3.6,
         "retail_price": 0.0,
-        "wholesale_price": 2.6,
-        "wmm1_price": 2.6,
+        "wholesale_price": 0.0,
+        "wmm1_price": 3.4,
         "50_Off_price": 0.0,
-        "nong_price": 0.0,
+        "nong_price": 3.6,
         "purchase_price": 2.0,
         "group": "Battery",
         "group_ids": [
@@ -42620,7 +42620,7 @@
         "classification_code": "022",
         "dealer_price": 4.5,
         "retail_price": 0.0,
-        "wholesale_price": 4.3,
+        "wholesale_price": 0.0,
         "wmm1_price": 4.3,
         "50_Off_price": 0.0,
         "nong_price": 4.5,
@@ -43057,7 +43057,7 @@
         "sku": "3440011",
         "name": "SPRON SR44 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 12.5,
+        "dealer_price": 12.9,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
         "wmm1_price": 9.3,
@@ -43079,7 +43079,7 @@
         "classification_code": "022",
         "dealer_price": 9.5,
         "retail_price": 0.0,
-        "wholesale_price": 9.3,
+        "wholesale_price": 0.0,
         "wmm1_price": 9.3,
         "50_Off_price": 0.0,
         "nong_price": 9.5,
@@ -43759,7 +43759,7 @@
         "classification_code": "022",
         "dealer_price": 3.7,
         "retail_price": 0.0,
-        "wholesale_price": 3.5,
+        "wholesale_price": 0.0,
         "wmm1_price": 3.5,
         "50_Off_price": 0.0,
         "nong_price": 3.7,
@@ -43822,7 +43822,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.07,
+        "purchase_price": 1.28,
         "group": "Battery",
         "group_ids": [
             2,
@@ -43858,7 +43858,7 @@
         "classification_code": "022",
         "dealer_price": 2.5,
         "retail_price": 0.0,
-        "wholesale_price": 2.3,
+        "wholesale_price": 0.0,
         "wmm1_price": 2.3,
         "50_Off_price": 0.0,
         "nong_price": 2.5,
@@ -44001,7 +44001,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 0.78,
+        "purchase_price": 0.75,
         "group": "Battery",
         "group_ids": [
             2,
@@ -44037,7 +44037,7 @@
         "classification_code": "022",
         "dealer_price": 1.75,
         "retail_price": 0.0,
-        "wholesale_price": 1.55,
+        "wholesale_price": 0.0,
         "wmm1_price": 1.55,
         "50_Off_price": 0.0,
         "nong_price": 1.75,
@@ -44136,7 +44136,7 @@
         "classification_code": "022",
         "dealer_price": 2.7,
         "retail_price": 0.0,
-        "wholesale_price": 2.5,
+        "wholesale_price": 0.0,
         "wmm1_price": 2.5,
         "50_Off_price": 0.0,
         "nong_price": 2.7,
@@ -44600,7 +44600,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.03,
+        "purchase_price": 1.16,
         "group": "Battery",
         "group_ids": [
             2,
@@ -44614,12 +44614,12 @@
         "sku": "3616011",
         "name": "SPRON SR616 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.1,
+        "dealer_price": 3.4,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.15,
+        "wmm1_price": 2.45,
         "50_Off_price": 0.0,
-        "nong_price": 2.35,
+        "nong_price": 2.65,
         "purchase_price": 1.21,
         "group": "Battery",
         "group_ids": [
@@ -44634,12 +44634,12 @@
         "sku": "3616012",
         "name": "SII SR616 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 2.35,
+        "dealer_price": 2.65,
         "retail_price": 0.0,
-        "wholesale_price": 2.15,
-        "wmm1_price": 2.15,
+        "wholesale_price": 0.0,
+        "wmm1_price": 2.45,
         "50_Off_price": 0.0,
-        "nong_price": 2.35,
+        "nong_price": 2.65,
         "purchase_price": 1.37,
         "group": "Battery",
         "group_ids": [
@@ -44719,7 +44719,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 0.61,
+        "purchase_price": 0.77,
         "group": "Battery",
         "group_ids": [
             2,
@@ -44733,12 +44733,12 @@
         "sku": "3621011",
         "name": "SPRON SR621 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 2.05,
+        "dealer_price": 2.3,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 1.1,
+        "wmm1_price": 1.35,
         "50_Off_price": 0.0,
-        "nong_price": 1.3,
+        "nong_price": 1.55,
         "purchase_price": 0.75,
         "group": "Battery",
         "group_ids": [
@@ -44753,12 +44753,12 @@
         "sku": "3621012",
         "name": "SII SR621 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 1.3,
+        "dealer_price": 1.55,
         "retail_price": 0.0,
-        "wholesale_price": 1.1,
-        "wmm1_price": 1.1,
+        "wholesale_price": 0.0,
+        "wmm1_price": 1.35,
         "50_Off_price": 0.0,
-        "nong_price": 1.3,
+        "nong_price": 1.55,
         "purchase_price": 0.83,
         "group": "Battery",
         "group_ids": [
@@ -44778,7 +44778,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 0.59,
+        "purchase_price": 0.7,
         "group": "Battery",
         "group_ids": [
             2,
@@ -44792,12 +44792,12 @@
         "sku": "3626011",
         "name": "SPRON SR626 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 1.95,
+        "dealer_price": 2.2,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 1.05,
+        "wmm1_price": 1.3,
         "50_Off_price": 0.0,
-        "nong_price": 1.25,
+        "nong_price": 1.5,
         "purchase_price": 0.63,
         "group": "Battery",
         "group_ids": [
@@ -44812,12 +44812,12 @@
         "sku": "3626012",
         "name": "SII SR626 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 1.25,
+        "dealer_price": 1.5,
         "retail_price": 0.0,
-        "wholesale_price": 1.05,
-        "wmm1_price": 1.05,
+        "wholesale_price": 0.0,
+        "wmm1_price": 1.3,
         "50_Off_price": 0.0,
-        "nong_price": 1.25,
+        "nong_price": 1.5,
         "purchase_price": 0.67,
         "group": "Battery",
         "group_ids": [
@@ -45396,7 +45396,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.99,
+        "purchase_price": 4.5,
         "group": "Battery",
         "group_ids": [
             2,
@@ -45432,7 +45432,7 @@
         "classification_code": "022",
         "dealer_price": 7.0,
         "retail_price": 0.0,
-        "wholesale_price": 6.8,
+        "wholesale_price": 0.0,
         "wmm1_price": 6.8,
         "50_Off_price": 0.0,
         "nong_price": 7.0,
@@ -45456,7 +45456,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.25,
+        "purchase_price": 1.52,
         "group": "Battery",
         "group_ids": [
             2,
@@ -45470,12 +45470,12 @@
         "sku": "3716011",
         "name": "SPRON SR716 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.8,
+        "dealer_price": 4.15,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.8,
+        "wmm1_price": 3.15,
         "50_Off_price": 0.0,
-        "nong_price": 3.0,
+        "nong_price": 3.35,
         "purchase_price": 1.097,
         "group": "Battery",
         "group_ids": [
@@ -45490,12 +45490,12 @@
         "sku": "3716012",
         "name": "SII SR716 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.0,
+        "dealer_price": 3.35,
         "retail_price": 0.0,
-        "wholesale_price": 2.8,
-        "wmm1_price": 2.8,
+        "wholesale_price": 0.0,
+        "wmm1_price": 3.15,
         "50_Off_price": 0.0,
-        "nong_price": 3.0,
+        "nong_price": 3.35,
         "purchase_price": 1.4,
         "group": "Battery",
         "group_ids": [
@@ -45655,7 +45655,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.05,
+        "purchase_price": 1.2,
         "group": "Battery",
         "group_ids": [
             2,
@@ -45669,12 +45669,12 @@
         "sku": "3721011",
         "name": "SPRON SR721 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.2,
+        "dealer_price": 3.5,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.35,
+        "wmm1_price": 2.65,
         "50_Off_price": 0.0,
-        "nong_price": 2.55,
+        "nong_price": 2.85,
         "purchase_price": 0.759,
         "group": "Battery",
         "group_ids": [
@@ -45689,12 +45689,12 @@
         "sku": "3721012",
         "name": "SII SR721 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 2.55,
+        "dealer_price": 2.85,
         "retail_price": 0.0,
-        "wholesale_price": 2.35,
-        "wmm1_price": 2.35,
+        "wholesale_price": 0.0,
+        "wmm1_price": 2.65,
         "50_Off_price": 0.0,
-        "nong_price": 2.55,
+        "nong_price": 2.85,
         "purchase_price": 1.46,
         "group": "Battery",
         "group_ids": [
@@ -45721,39 +45721,39 @@
             10
         ],
         "remark": null,
-        "updated_on": "2025-08-29",
+        "updated_on": "2025-12-16",
         "bin_location": "SR726W"
     },
     "3726001": {
         "sku": "3726001",
         "name": "SPRON (W-Type) SR726 W BATTERY",
         "classification_code": "022",
-        "dealer_price": 4.3,
+        "dealer_price": 6.55,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.8,
+        "wmm1_price": 5.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.0,
-        "purchase_price": 1.71,
+        "nong_price": 5.25,
+        "purchase_price": 1.83,
         "group": "Battery",
         "group_ids": [
             2,
             8
         ],
         "remark": "",
-        "updated_on": "2022-06-16",
+        "updated_on": "2025-12-16",
         "bin_location": "SR726W"
     },
     "3726002": {
         "sku": "3726002",
         "name": "(W-Type) SII SR726 W BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.0,
+        "dealer_price": 5.25,
         "retail_price": 0.0,
-        "wholesale_price": 2.8,
-        "wmm1_price": 2.8,
+        "wholesale_price": 0.0,
+        "wmm1_price": 5.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.0,
+        "nong_price": 5.25,
         "purchase_price": 1.55,
         "group": "Battery",
         "group_ids": [
@@ -45773,7 +45773,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.54,
+        "purchase_price": 1.6,
         "group": "Battery",
         "group_ids": [
             2,
@@ -45787,12 +45787,12 @@
         "sku": "3726011",
         "name": "SPRON SR726 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.6,
+        "dealer_price": 5.6,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.6,
+        "wmm1_price": 4.6,
         "50_Off_price": 0.0,
-        "nong_price": 2.8,
+        "nong_price": 4.8,
         "purchase_price": 1.2,
         "group": "Battery",
         "group_ids": [
@@ -45807,12 +45807,12 @@
         "sku": "3726012",
         "name": "SII SR726 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 2.8,
+        "dealer_price": 4.8,
         "retail_price": 0.0,
-        "wholesale_price": 2.6,
-        "wmm1_price": 2.6,
+        "wholesale_price": 0.0,
+        "wmm1_price": 4.6,
         "50_Off_price": 0.0,
-        "nong_price": 2.8,
+        "nong_price": 4.8,
         "purchase_price": 1.55,
         "group": "Battery",
         "group_ids": [
@@ -47992,7 +47992,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.66,
+        "purchase_price": 2.29,
         "group": "Battery",
         "group_ids": [
             2,
@@ -48006,12 +48006,12 @@
         "sku": "3916011",
         "name": "SPRON SR916 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.8,
+        "dealer_price": 4.0,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.7,
+        "wmm1_price": 2.9,
         "50_Off_price": 0.0,
-        "nong_price": 2.9,
+        "nong_price": 3.1,
         "purchase_price": 1.161,
         "group": "Battery",
         "group_ids": [
@@ -48026,12 +48026,12 @@
         "sku": "3916012",
         "name": "SII SR916 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 2.9,
+        "dealer_price": 3.1,
         "retail_price": 0.0,
-        "wholesale_price": 2.7,
-        "wmm1_price": 2.7,
+        "wholesale_price": 0.0,
+        "wmm1_price": 2.9,
         "50_Off_price": 0.0,
-        "nong_price": 2.9,
+        "nong_price": 3.1,
         "purchase_price": 1.75,
         "group": "Battery",
         "group_ids": [
@@ -48085,12 +48085,12 @@
         "sku": "3920001",
         "name": "[W-Type] SPRON SR920 W BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.8,
+        "dealer_price": 4.6,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.6,
+        "wmm1_price": 3.4,
         "50_Off_price": 0.0,
-        "nong_price": 2.8,
+        "nong_price": 3.6,
         "purchase_price": 1.85,
         "group": "Battery",
         "group_ids": [
@@ -48105,12 +48105,12 @@
         "sku": "3920002",
         "name": "[W-Type] JAPAN SR920 W BATTERY",
         "classification_code": "022",
-        "dealer_price": 2.8,
+        "dealer_price": 3.6,
         "retail_price": 0.0,
-        "wholesale_price": 2.6,
-        "wmm1_price": 2.6,
+        "wholesale_price": 0.0,
+        "wmm1_price": 3.4,
         "50_Off_price": 0.0,
-        "nong_price": 0.0,
+        "nong_price": 3.6,
         "purchase_price": 1.74,
         "group": "Battery",
         "group_ids": [
@@ -48131,7 +48131,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.08,
+        "purchase_price": 1.47,
         "group": "Battery",
         "group_ids": [
             2,
@@ -48145,12 +48145,12 @@
         "sku": "3920011",
         "name": "SPRON SR920 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.1,
+        "dealer_price": 3.6,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.1,
+        "wmm1_price": 2.6,
         "50_Off_price": 0.0,
-        "nong_price": 2.3,
+        "nong_price": 2.8,
         "purchase_price": 1.25,
         "group": "Battery",
         "group_ids": [
@@ -48165,12 +48165,12 @@
         "sku": "3920012",
         "name": "SII SR920 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 2.3,
+        "dealer_price": 2.8,
         "retail_price": 0.0,
-        "wholesale_price": 2.1,
-        "wmm1_price": 2.1,
+        "wholesale_price": 0.0,
+        "wmm1_price": 2.6,
         "50_Off_price": 0.0,
-        "nong_price": 2.3,
+        "nong_price": 2.8,
         "purchase_price": 1.18,
         "group": "Battery",
         "group_ids": [
@@ -48204,13 +48204,13 @@
         "sku": "3927001",
         "name": "[W-Type] SPRON SR927 W BATTERY",
         "classification_code": "022",
-        "dealer_price": 4.35,
+        "dealer_price": 5.05,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 3.3,
+        "wmm1_price": 4.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.5,
-        "purchase_price": 1.56,
+        "nong_price": 4.2,
+        "purchase_price": 1.95,
         "group": "Battery",
         "group_ids": [
             2,
@@ -48224,12 +48224,12 @@
         "sku": "3927002",
         "name": "[W-Type] SII SR927 W BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.5,
+        "dealer_price": 4.2,
         "retail_price": 0.0,
-        "wholesale_price": 3.3,
-        "wmm1_price": 3.3,
+        "wholesale_price": 0.0,
+        "wmm1_price": 4.0,
         "50_Off_price": 0.0,
-        "nong_price": 0.0,
+        "nong_price": 4.2,
         "purchase_price": 2.28,
         "group": "Battery",
         "group_ids": [
@@ -48249,7 +48249,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.54,
+        "purchase_price": 1.81,
         "group": "Battery",
         "group_ids": [
             2,
@@ -48263,12 +48263,12 @@
         "sku": "3927011",
         "name": "SPRON SR927 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 4.3,
+        "dealer_price": 4.7,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 3.1,
+        "wmm1_price": 3.5,
         "50_Off_price": 0.0,
-        "nong_price": 3.3,
+        "nong_price": 3.7,
         "purchase_price": 2.48,
         "group": "Battery",
         "group_ids": [
@@ -48283,12 +48283,12 @@
         "sku": "3927012",
         "name": "SII SR927 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.3,
+        "dealer_price": 3.7,
         "retail_price": 0.0,
-        "wholesale_price": 3.1,
-        "wmm1_price": 3.1,
+        "wholesale_price": 0.0,
+        "wmm1_price": 3.5,
         "50_Off_price": 0.0,
-        "nong_price": 3.3,
+        "nong_price": 3.7,
         "purchase_price": 2.23,
         "group": "Battery",
         "group_ids": [
@@ -48328,7 +48328,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 2.22,
+        "purchase_price": 3.5,
         "group": "Battery",
         "group_ids": [
             2,
@@ -48342,12 +48342,12 @@
         "sku": "3936011",
         "name": "SPRON SR936 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 5.9,
+        "dealer_price": 7.15,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 4.6,
+        "wmm1_price": 5.85,
         "50_Off_price": 0.0,
-        "nong_price": 4.8,
+        "nong_price": 6.05,
         "purchase_price": 1.613,
         "group": "Battery",
         "group_ids": [
@@ -48362,12 +48362,12 @@
         "sku": "3936012",
         "name": "SII SR936 SW BATTERY",
         "classification_code": "022",
-        "dealer_price": 4.8,
+        "dealer_price": 6.05,
         "retail_price": 0.0,
-        "wholesale_price": 4.6,
-        "wmm1_price": 4.6,
+        "wholesale_price": 0.0,
+        "wmm1_price": 5.85,
         "50_Off_price": 0.0,
-        "nong_price": 4.8,
+        "nong_price": 6.05,
         "purchase_price": 3.12,
         "group": "Battery",
         "group_ids": [
@@ -52747,7 +52747,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 0.93,
+        "purchase_price": 0.87,
         "group": "Battery",
         "group_ids": [
             2,
@@ -52783,7 +52783,7 @@
         "classification_code": "022",
         "dealer_price": 2.9,
         "retail_price": 0.0,
-        "wholesale_price": 2.7,
+        "wholesale_price": 0.0,
         "wmm1_price": 2.7,
         "50_Off_price": 0.0,
         "nong_price": 2.9,
@@ -52807,7 +52807,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.17,
+        "purchase_price": 0.73,
         "group": "Battery",
         "group_ids": [
             2,
@@ -52843,7 +52843,7 @@
         "classification_code": "022",
         "dealer_price": 2.35,
         "retail_price": 0.0,
-        "wholesale_price": 2.15,
+        "wholesale_price": 0.0,
         "wmm1_price": 2.15,
         "50_Off_price": 0.0,
         "nong_price": 2.35,
@@ -53447,7 +53447,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 5.61,
+        "purchase_price": 7.0,
         "group": "Battery",
         "group_ids": [
             2,
@@ -53483,7 +53483,7 @@
         "classification_code": "022",
         "dealer_price": 7.8,
         "retail_price": 0.0,
-        "wholesale_price": 7.6,
+        "wholesale_price": 0.0,
         "wmm1_price": 7.6,
         "50_Off_price": 0.0,
         "nong_price": 7.8,
@@ -53507,7 +53507,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.12,
+        "purchase_price": 1.36,
         "group": "Battery",
         "group_ids": [
             2,
@@ -53543,7 +53543,7 @@
         "classification_code": "022",
         "dealer_price": 2.35,
         "retail_price": 0.0,
-        "wholesale_price": 2.15,
+        "wholesale_price": 0.0,
         "wmm1_price": 2.15,
         "50_Off_price": 0.0,
         "nong_price": 2.35,
@@ -53567,7 +53567,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 1.4,
+        "purchase_price": 1.51,
         "group": "Battery",
         "group_ids": [
             2,
@@ -53581,12 +53581,12 @@
         "sku": "4162001",
         "name": "SPRON CR1620 BATTERY",
         "classification_code": "022",
-        "dealer_price": 3.6,
+        "dealer_price": 3.8,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 2.4,
+        "wmm1_price": 2.6,
         "50_Off_price": 0.0,
-        "nong_price": 2.6,
+        "nong_price": 2.8,
         "purchase_price": 1.445,
         "group": "Battery",
         "group_ids": [
@@ -53601,12 +53601,12 @@
         "sku": "4162002",
         "name": "JAPAN CR1620 BATTERY",
         "classification_code": "022",
-        "dealer_price": 2.6,
+        "dealer_price": 2.8,
         "retail_price": 0.0,
-        "wholesale_price": 2.4,
-        "wmm1_price": 2.4,
+        "wholesale_price": 0.0,
+        "wmm1_price": 2.6,
         "50_Off_price": 0.0,
-        "nong_price": 2.6,
+        "nong_price": 2.8,
         "purchase_price": 1.29,
         "group": "Battery",
         "group_ids": [
@@ -53621,13 +53621,13 @@
         "sku": "4163201",
         "name": "SPRON CR1632 BATTERY",
         "classification_code": "022",
-        "dealer_price": 5.8,
+        "dealer_price": 6.1,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 4.7,
+        "wmm1_price": 5.0,
         "50_Off_price": 0.0,
-        "nong_price": 4.9,
-        "purchase_price": 2.9,
+        "nong_price": 5.2,
+        "purchase_price": 3.0,
         "group": "Battery",
         "group_ids": [
             2,
@@ -53641,12 +53641,12 @@
         "sku": "4163202",
         "name": "JAPAN CR1632 BATTERY",
         "classification_code": "022",
-        "dealer_price": 4.9,
+        "dealer_price": 5.2,
         "retail_price": 0.0,
-        "wholesale_price": 4.7,
-        "wmm1_price": 4.7,
+        "wholesale_price": 0.0,
+        "wmm1_price": 5.0,
         "50_Off_price": 0.0,
-        "nong_price": 4.9,
+        "nong_price": 5.2,
         "purchase_price": 1.28,
         "group": "Battery",
         "group_ids": [
@@ -54021,12 +54021,12 @@
         "sku": "4201201",
         "name": "SPRON CR2012 BATTERY",
         "classification_code": "022",
-        "dealer_price": 7.5,
+        "dealer_price": 8.0,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 6.3,
+        "wmm1_price": 6.8,
         "50_Off_price": 0.0,
-        "nong_price": 6.5,
+        "nong_price": 7.0,
         "purchase_price": 4.11,
         "group": "Battery",
         "group_ids": [
@@ -54041,12 +54041,12 @@
         "sku": "4201202",
         "name": "JAPAN CR2012 BATTERY",
         "classification_code": "022",
-        "dealer_price": 6.5,
+        "dealer_price": 7.0,
         "retail_price": 0.0,
-        "wholesale_price": 6.3,
-        "wmm1_price": 6.3,
+        "wholesale_price": 0.0,
+        "wmm1_price": 6.8,
         "50_Off_price": 0.0,
-        "nong_price": 6.5,
+        "nong_price": 7.0,
         "purchase_price": 4.06,
         "group": "Battery",
         "group_ids": [
@@ -54067,7 +54067,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 0.77,
+        "purchase_price": 0.7,
         "group": "Battery",
         "group_ids": [
             2,
@@ -54103,7 +54103,7 @@
         "classification_code": "022",
         "dealer_price": 1.4,
         "retail_price": 0.0,
-        "wholesale_price": 1.2,
+        "wholesale_price": 0.0,
         "wmm1_price": 1.2,
         "50_Off_price": 0.0,
         "nong_price": 1.4,
@@ -54127,7 +54127,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 0.79,
+        "purchase_price": 0.6,
         "group": "Battery",
         "group_ids": [
             2,
@@ -54163,7 +54163,7 @@
         "classification_code": "022",
         "dealer_price": 1.4,
         "retail_price": 0.0,
-        "wholesale_price": 1.2,
+        "wholesale_price": 0.0,
         "wmm1_price": 1.2,
         "50_Off_price": 0.0,
         "nong_price": 1.4,
@@ -54187,7 +54187,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 0.74,
+        "purchase_price": 0.69,
         "group": "Battery",
         "group_ids": [
             2,
@@ -54223,7 +54223,7 @@
         "classification_code": "022",
         "dealer_price": 1.4,
         "retail_price": 0.0,
-        "wholesale_price": 1.2,
+        "wholesale_price": 0.0,
         "wmm1_price": 1.2,
         "50_Off_price": 0.0,
         "nong_price": 1.4,
@@ -55552,12 +55552,12 @@
         "sku": "4241201",
         "name": "SPRON CR2412 BATTERY",
         "classification_code": "022",
-        "dealer_price": 13.5,
+        "dealer_price": 15.2,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 12.3,
+        "wmm1_price": 14.0,
         "50_Off_price": 0.0,
-        "nong_price": 12.5,
+        "nong_price": 14.2,
         "purchase_price": 9.76,
         "group": "Battery",
         "group_ids": [
@@ -55572,12 +55572,12 @@
         "sku": "4241202",
         "name": "JAPAN CR2412 BATTERY",
         "classification_code": "022",
-        "dealer_price": 12.5,
+        "dealer_price": 14.2,
         "retail_price": 0.0,
-        "wholesale_price": 12.3,
-        "wmm1_price": 12.3,
+        "wholesale_price": 0.0,
+        "wmm1_price": 14.0,
         "50_Off_price": 0.0,
-        "nong_price": 12.5,
+        "nong_price": 14.2,
         "purchase_price": 6.84,
         "group": "Battery",
         "group_ids": [
@@ -55598,7 +55598,7 @@
         "wmm1_price": 5.3,
         "50_Off_price": 0.0,
         "nong_price": 5.5,
-        "purchase_price": 2.26,
+        "purchase_price": 4.17,
         "group": "Battery",
         "group_ids": [
             2,
@@ -55614,7 +55614,7 @@
         "classification_code": "022",
         "dealer_price": 5.5,
         "retail_price": 0.0,
-        "wholesale_price": 5.3,
+        "wholesale_price": 0.0,
         "wmm1_price": 5.3,
         "50_Off_price": 0.0,
         "nong_price": 5.5,
@@ -55678,7 +55678,7 @@
         "wmm1_price": 6.3,
         "50_Off_price": 0.0,
         "nong_price": 6.5,
-        "purchase_price": 2.64,
+        "purchase_price": 5.3,
         "group": "Battery",
         "group_ids": [
             2,
@@ -55694,7 +55694,7 @@
         "classification_code": "022",
         "dealer_price": 6.5,
         "retail_price": 0.0,
-        "wholesale_price": 6.3,
+        "wholesale_price": 0.0,
         "wmm1_price": 6.3,
         "50_Off_price": 0.0,
         "nong_price": 6.5,
@@ -57071,7 +57071,7 @@
             7
         ],
         "remark": null,
-        "updated_on": "2022-03-09",
+        "updated_on": "2025-12-23",
         "bin_location": "4304K5-430405"
     },
     "430409": {
@@ -58769,6 +58769,66 @@
         "updated_on": "2019-12-06",
         "bin_location": "4389S3-438903"
     },
+    "4399N7": {
+        "sku": "4399N7",
+        "name": "ROSCANI BG 4399N7 S/S BRAC SPG GRN",
+        "classification_code": "022",
+        "dealer_price": 379.0,
+        "retail_price": 632.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 758.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
+        "bin_location": null
+    },
+    "4399N8": {
+        "sku": "4399N8",
+        "name": "ROSCANI BG 4399N8 S/S BRAC SPG BLU",
+        "classification_code": "022",
+        "dealer_price": 379.0,
+        "retail_price": 632.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 758.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
+        "bin_location": null
+    },
+    "4399N9": {
+        "sku": "4399N9",
+        "name": "ROSCANI BG 4399N9 S/S BRAC SPG BRN",
+        "classification_code": "022",
+        "dealer_price": 379.0,
+        "retail_price": 632.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 758.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
+        "bin_location": null
+    },
     "440993": {
         "sku": "440993",
         "name": "ROSCANI BG 440993 S/S BRAC GLA BLK/BLU",
@@ -60426,7 +60486,7 @@
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "4495K1": {
@@ -60446,7 +60506,7 @@
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "4499K8": {
@@ -60466,7 +60526,7 @@
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "450240": {
@@ -60539,14 +60599,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 428.0,
         "nong_price": 0.0,
-        "purchase_price": 79.58,
+        "purchase_price": 68.13,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2024-06-13",
+        "updated_on": "2026-02-24",
         "bin_location": null
     },
     "4503T3": {
@@ -61009,6 +61069,26 @@
         "updated_on": "2024-08-12",
         "bin_location": null
     },
+    "4509L6": {
+        "sku": "4509L6",
+        "name": "ROSCANI BG 4509L6 S/S BRAC GLA WHT",
+        "classification_code": "022",
+        "dealer_price": 174.0,
+        "retail_price": 290.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 348.0,
+        "nong_price": 0.0,
+        "purchase_price": 52.41,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
+        "bin_location": null
+    },
     "4509L8": {
         "sku": "4509L8",
         "name": "ROSCANI BG 4509L8 S/S BRAC GLA BLU",
@@ -61019,7 +61099,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 348.0,
         "nong_price": 0.0,
-        "purchase_price": 61.22,
+        "purchase_price": 44.23,
         "group": "Roscani",
         "group_ids": [
             1,
@@ -61449,6 +61529,26 @@
         "updated_on": "2023-08-30",
         "bin_location": null
     },
+    "4557K8": {
+        "sku": "4557K8",
+        "name": "ROSCANI BG 4557K8 G/S BRAC SPG BLU",
+        "classification_code": "022",
+        "dealer_price": 264.0,
+        "retail_price": 440.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 528.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-03-31",
+        "bin_location": null
+    },
     "4557T1": {
         "sku": "4557T1",
         "name": "ROSCANI BG 4557T1 G/S BRAC SPG YEL",
@@ -61487,6 +61587,46 @@
         ],
         "remark": null,
         "updated_on": "2024-12-13",
+        "bin_location": null
+    },
+    "4559K7": {
+        "sku": "4559K7",
+        "name": "ROSCANI BG 4559K7 S/S BRAC SPG GRN",
+        "classification_code": "022",
+        "dealer_price": 249.0,
+        "retail_price": 415.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 498.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-03-24",
+        "bin_location": null
+    },
+    "4559K8": {
+        "sku": "4559K8",
+        "name": "ROSCANI BG 4559K8 S/S BRAC SPG BLU",
+        "classification_code": "022",
+        "dealer_price": 249.0,
+        "retail_price": 415.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 498.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-03-24",
         "bin_location": null
     },
     "4559T3": {
@@ -61529,6 +61669,26 @@
         "updated_on": "2024-12-13",
         "bin_location": null
     },
+    "4567K8": {
+        "sku": "4567K8",
+        "name": "ROSCANI BL 4567K8 G/S BRAC SPG BLU",
+        "classification_code": "022",
+        "dealer_price": 264.0,
+        "retail_price": 440.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 528.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-03-31",
+        "bin_location": null
+    },
     "4567T1": {
         "sku": "4567T1",
         "name": "ROSCANI BL 4567T1 G/S BRAC SPG YEL",
@@ -61567,6 +61727,46 @@
         ],
         "remark": null,
         "updated_on": "2024-12-13",
+        "bin_location": null
+    },
+    "4569K7": {
+        "sku": "4569K7",
+        "name": "ROSCANI BL 4569K7 S/S BRAC SPG GRN",
+        "classification_code": "022",
+        "dealer_price": 249.0,
+        "retail_price": 415.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 498.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-03-24",
+        "bin_location": null
+    },
+    "4569K8": {
+        "sku": "4569K8",
+        "name": "ROSCANI BL 4569K8 S/S BRAC SPG BLU",
+        "classification_code": "022",
+        "dealer_price": 249.0,
+        "retail_price": 415.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 498.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-03-24",
         "bin_location": null
     },
     "4569T3": {
@@ -61619,7 +61819,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 678.0,
         "nong_price": 0.0,
-        "purchase_price": 118.17,
+        "purchase_price": 106.07,
         "group": "Roscani",
         "group_ids": [
             1,
@@ -61659,7 +61859,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 688.0,
         "nong_price": 0.0,
-        "purchase_price": 121.12,
+        "purchase_price": 107.83,
         "group": "Roscani",
         "group_ids": [
             1,
@@ -61679,7 +61879,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 608.0,
         "nong_price": 0.0,
-        "purchase_price": 105.08,
+        "purchase_price": 93.75,
         "group": "Roscani",
         "group_ids": [
             1,
@@ -61707,6 +61907,26 @@
         ],
         "remark": null,
         "updated_on": "2025-01-03",
+        "bin_location": null
+    },
+    "4586G7": {
+        "sku": "4586G7",
+        "name": "ROSCANI BL 4586G7 R/S BRAC SPG GRN",
+        "classification_code": "022",
+        "dealer_price": 359.0,
+        "retail_price": 599.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 718.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
         "bin_location": null
     },
     "4586G9": {
@@ -61918,7 +62138,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 428.0,
         "nong_price": 0.0,
-        "purchase_price": 79.63,
+        "purchase_price": 68.55,
         "group": "Roscani",
         "group_ids": [
             1,
@@ -62363,6 +62583,26 @@
         "updated_on": "2024-08-12",
         "bin_location": null
     },
+    "4609L6": {
+        "sku": "4609L6",
+        "name": "ROSCANI BL 4609L6 S/S BRAC GLA WHT",
+        "classification_code": "022",
+        "dealer_price": 174.0,
+        "retail_price": 290.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 348.0,
+        "nong_price": 0.0,
+        "purchase_price": 52.73,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-01-27",
+        "bin_location": null
+    },
     "4609L8": {
         "sku": "4609L8",
         "name": "ROSCANI BL 4609L8 S/S BRAC GLA BLU",
@@ -62523,6 +62763,126 @@
         "updated_on": "2016-05-30",
         "bin_location": null
     },
+    "4624T4": {
+        "sku": "4624T4",
+        "name": "ROSCANI BL 4624T4 R/G BRAC SPG BRN",
+        "classification_code": "022",
+        "dealer_price": 359.0,
+        "retail_price": 599.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 718.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
+        "bin_location": null
+    },
+    "4625T5": {
+        "sku": "4625T5",
+        "name": "ROSCANI BL 4625T5 G/D BRAC SPG WHT",
+        "classification_code": "022",
+        "dealer_price": 359.0,
+        "retail_price": 599.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 718.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
+        "bin_location": null
+    },
+    "4626T5": {
+        "sku": "4626T5",
+        "name": "ROSCANI BL 4626T5 R/S BRAC SPG WHT",
+        "classification_code": "022",
+        "dealer_price": 359.0,
+        "retail_price": 599.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 718.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
+        "bin_location": null
+    },
+    "4626T7": {
+        "sku": "4626T7",
+        "name": "ROSCANI BL 4626T7 R/S BRAC SPG GRN",
+        "classification_code": "022",
+        "dealer_price": 359.0,
+        "retail_price": 599.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 718.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
+        "bin_location": null
+    },
+    "4627T1": {
+        "sku": "4627T1",
+        "name": "ROSCANI BL 4627T1 G/S BRAC SPG YEL",
+        "classification_code": "022",
+        "dealer_price": 359.0,
+        "retail_price": 599.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 718.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
+        "bin_location": null
+    },
+    "4629T2": {
+        "sku": "4629T2",
+        "name": "ROSCANI BL 4629T2 S/S BRAC SPG PPL",
+        "classification_code": "022",
+        "dealer_price": 334.0,
+        "retail_price": 557.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 668.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-28",
+        "bin_location": null
+    },
     "4634S3": {
         "sku": "4634S3",
         "name": "ROSCANI BG 4634S3 R/G BRAC SPG BLK",
@@ -62533,14 +62893,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 588.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 102.08,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4635S1": {
@@ -62553,14 +62913,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 588.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 99.33,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4636S5": {
@@ -62573,14 +62933,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 588.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 96.91,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4637S5": {
@@ -62593,14 +62953,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 588.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 95.3,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4639S7": {
@@ -62613,14 +62973,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 558.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 84.1,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4644G3": {
@@ -62633,14 +62993,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 588.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 101.76,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4645G1": {
@@ -62653,14 +63013,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 588.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 98.7,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4646G5": {
@@ -62673,14 +63033,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 588.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 96.37,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4647G5": {
@@ -62693,14 +63053,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 588.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 94.76,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4649G7": {
@@ -62713,14 +63073,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 558.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 84.82,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-13",
         "bin_location": null
     },
     "4657T5": {
@@ -62913,14 +63273,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 808.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 150.75,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-02",
         "bin_location": null
     },
     "4686G0": {
@@ -62933,14 +63293,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 808.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 146.44,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-02",
         "bin_location": null
     },
     "4686G7": {
@@ -62953,14 +63313,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 808.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 144.29,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-02",
         "bin_location": null
     },
     "4686G9": {
@@ -62973,14 +63333,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 808.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 144.29,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-02",
         "bin_location": null
     },
     "4687G5": {
@@ -62993,14 +63353,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 808.0,
         "nong_price": 0.0,
-        "purchase_price": 0.0,
+        "purchase_price": 145.37,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-01-02",
         "bin_location": null
     },
     "4689G8": {
@@ -63013,6 +63373,26 @@
         "wmm1_price": 0.0,
         "50_Off_price": 768.0,
         "nong_price": 0.0,
+        "purchase_price": 133.52,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-01-02",
+        "bin_location": null
+    },
+    "469L01": {
+        "sku": "469L01",
+        "name": "ROSCANI BG 469L01 R/G STRP SPG BLK",
+        "classification_code": "022",
+        "dealer_price": 999.0,
+        "retail_price": 1998.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
         "purchase_price": 0.0,
         "group": "Roscani",
         "group_ids": [
@@ -63020,7 +63400,47 @@
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2026-03-24",
+        "bin_location": null
+    },
+    "469L02": {
+        "sku": "469L02",
+        "name": "ROSCANI BG 469L02 B/K STRP SPG RED",
+        "classification_code": "022",
+        "dealer_price": 999.0,
+        "retail_price": 1998.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-03-24",
+        "bin_location": null
+    },
+    "469L03": {
+        "sku": "469L03",
+        "name": "ROSCANI BG 469L03 S/S STRP SPG BLK",
+        "classification_code": "022",
+        "dealer_price": 939.0,
+        "retail_price": 1878.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 0.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-03-24",
         "bin_location": null
     },
     "469LM1": {
@@ -63100,7 +63520,7 @@
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "4709T3": {
@@ -63120,7 +63540,7 @@
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "489450": {
@@ -80428,7 +80848,7 @@
             7
         ],
         "remark": null,
-        "updated_on": "2025-04-22",
+        "updated_on": "2025-12-31",
         "bin_location": "570343-570303"
     },
     "570343": {
@@ -99345,7 +99765,7 @@
         "dealer_price": 1.3,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 0.9,
+        "wmm1_price": 0.8,
         "50_Off_price": 0.0,
         "nong_price": 1.0,
         "purchase_price": 0.29,
@@ -99364,7 +99784,7 @@
         "classification_code": "022",
         "dealer_price": 1.0,
         "retail_price": 0.0,
-        "wholesale_price": 0.9,
+        "wholesale_price": 0.0,
         "wmm1_price": 0.9,
         "50_Off_price": 0.0,
         "nong_price": 1.0,
@@ -99487,7 +99907,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 0.48,
+        "purchase_price": 0.6,
         "group": "Battery",
         "group_ids": [
             2,
@@ -99504,7 +99924,7 @@
         "dealer_price": 1.3,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 0.9,
+        "wmm1_price": 0.8,
         "50_Off_price": 0.0,
         "nong_price": 1.0,
         "purchase_price": 0.41,
@@ -99523,7 +99943,7 @@
         "classification_code": "022",
         "dealer_price": 1.0,
         "retail_price": 0.0,
-        "wholesale_price": 0.9,
+        "wholesale_price": 0.0,
         "wmm1_price": 0.9,
         "50_Off_price": 0.0,
         "nong_price": 1.0,
@@ -99662,7 +100082,7 @@
         "dealer_price": 1.3,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 0.9,
+        "wmm1_price": 0.8,
         "50_Off_price": 0.0,
         "nong_price": 1.0,
         "purchase_price": 0.192,
@@ -99681,7 +100101,7 @@
         "classification_code": "022",
         "dealer_price": 1.0,
         "retail_price": 0.0,
-        "wholesale_price": 0.9,
+        "wholesale_price": 0.0,
         "wmm1_price": 0.9,
         "50_Off_price": 0.0,
         "nong_price": 1.0,
@@ -124710,8 +125130,8 @@
             1
         ],
         "remark": null,
-        "updated_on": "2025-04-17",
-        "bin_location": "-902066"
+        "updated_on": "2026-03-02",
+        "bin_location": "902066-902066"
     },
     "902063": {
         "sku": "902063",
@@ -124750,7 +125170,7 @@
             6
         ],
         "remark": null,
-        "updated_on": "2016-11-17",
+        "updated_on": "2026-03-02",
         "bin_location": "902066-902006"
     },
     "902069": {
@@ -128040,10 +128460,10 @@
         "dealer_price": 45.0,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 0.0,
+        "wmm1_price": 37.8,
         "50_Off_price": 0.0,
         "nong_price": 38.0,
-        "purchase_price": 28.91,
+        "purchase_price": 27.26,
         "group": "Battery",
         "group_ids": [
             2,
@@ -128060,7 +128480,7 @@
         "dealer_price": 38.0,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 0.0,
+        "wmm1_price": 37.8,
         "50_Off_price": 0.0,
         "nong_price": 38.0,
         "purchase_price": 31.3,
@@ -140758,10 +141178,10 @@
         "dealer_price": 55.0,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 0.0,
+        "wmm1_price": 47.8,
         "50_Off_price": 0.0,
         "nong_price": 48.0,
-        "purchase_price": 37.58,
+        "purchase_price": 34.4,
         "group": "Battery",
         "group_ids": [
             2,
@@ -140778,7 +141198,7 @@
         "dealer_price": 48.0,
         "retail_price": 0.0,
         "wholesale_price": 0.0,
-        "wmm1_price": 0.0,
+        "wmm1_price": 47.8,
         "50_Off_price": 0.0,
         "nong_price": 48.0,
         "purchase_price": 40.85,
@@ -151953,6 +152373,44 @@
         "updated_on": "2025-09-30",
         "bin_location": "AA2188-AA2108"
     },
+    "AF11MBK": {
+        "sku": "AF11MBK",
+        "name": "AURAFIT A11 MINI SMARTWATCH BLK",
+        "classification_code": "022",
+        "dealer_price": 119.4,
+        "retail_price": 199.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 65.52,
+        "group": "Aurafit",
+        "group_ids": [
+            18
+        ],
+        "remark": null,
+        "updated_on": "2026-01-30",
+        "bin_location": "AA2188-AA2108"
+    },
+    "AF11MBKD": {
+        "sku": "AF11MBKD",
+        "name": "[DEMO UNIT] AURAFIT A11 MINI SMARTWATCH BLK",
+        "classification_code": "022",
+        "dealer_price": 79.6,
+        "retail_price": 199.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 73.6,
+        "group": "Aurafit",
+        "group_ids": [
+            18
+        ],
+        "remark": null,
+        "updated_on": "2026-01-23",
+        "bin_location": "AA2188-AA2108"
+    },
     "AF180BK": {
         "sku": "AF180BK",
         "name": "AURAFIT AM18 SMARTWATCH BLK",
@@ -151963,7 +152421,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 100.5,
+        "purchase_price": 98.06,
         "group": "Aurafit",
         "group_ids": [
             18
@@ -152077,7 +152535,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 0.0,
-        "purchase_price": 121.97,
+        "purchase_price": 110.7,
         "group": "Aurafit",
         "group_ids": [
             18
@@ -152103,6 +152561,44 @@
         ],
         "remark": null,
         "updated_on": "2025-09-30",
+        "bin_location": "AA2188-AA2108"
+    },
+    "AFU6PWT": {
+        "sku": "AFU6PWT",
+        "name": "AURAFIT UB6 PRO SMARTWATCH WHT",
+        "classification_code": "022",
+        "dealer_price": 119.4,
+        "retail_price": 199.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 65.52,
+        "group": "Aurafit",
+        "group_ids": [
+            18
+        ],
+        "remark": null,
+        "updated_on": "2026-01-30",
+        "bin_location": "AA2188-AA2108"
+    },
+    "AFU6PWTD": {
+        "sku": "AFU6PWTD",
+        "name": "[DEMO UNIT] AURAFIT UB6 PRO SMARTWATCH WHT",
+        "classification_code": "022",
+        "dealer_price": 79.6,
+        "retail_price": 199.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 73.6,
+        "group": "Aurafit",
+        "group_ids": [
+            18
+        ],
+        "remark": null,
+        "updated_on": "2026-01-23",
         "bin_location": "AA2188-AA2108"
     },
     "B01531": {
@@ -174456,6 +174952,26 @@
         "updated_on": "2019-07-17",
         "bin_location": null
     },
+    "E27605": {
+        "sku": "E27605",
+        "name": "ROSCANI BL E27605 RGS BRAC GLA WHT",
+        "classification_code": "022",
+        "dealer_price": 149.0,
+        "retail_price": 298.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 91.29,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            7
+        ],
+        "remark": null,
+        "updated_on": "2026-01-19",
+        "bin_location": "E276S5-E27605"
+    },
     "E276S5": {
         "sku": "E276S5",
         "name": "ROSCANI BL E276S5 RGS BRAC GLA WHT",
@@ -174473,7 +174989,7 @@
             6
         ],
         "remark": null,
-        "updated_on": "2019-07-17",
+        "updated_on": "2026-01-19",
         "bin_location": null
     },
     "E27903": {
@@ -178276,6 +178792,306 @@
         "updated_on": "2025-07-30",
         "bin_location": null
     },
+    "E524G0": {
+        "sku": "E524G0",
+        "name": "ROSCANI BL E524G0 R/G BRAC SPG RGD",
+        "classification_code": "022",
+        "dealer_price": 244.0,
+        "retail_price": 407.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 488.0,
+        "nong_price": 0.0,
+        "purchase_price": 75.32,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
+        "bin_location": null
+    },
+    "E524G5": {
+        "sku": "E524G5",
+        "name": "ROSCANI BL E524G5 R/G BRAC SPG WHT",
+        "classification_code": "022",
+        "dealer_price": 244.0,
+        "retail_price": 407.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 488.0,
+        "nong_price": 0.0,
+        "purchase_price": 75.43,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
+        "bin_location": null
+    },
+    "E525G1": {
+        "sku": "E525G1",
+        "name": "ROSCANI BL E525G1 G/D BRAC SPG YEL",
+        "classification_code": "022",
+        "dealer_price": 239.0,
+        "retail_price": 399.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 478.0,
+        "nong_price": 0.0,
+        "purchase_price": 73.13,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
+        "bin_location": null
+    },
+    "E525G5": {
+        "sku": "E525G5",
+        "name": "ROSCANI BL E525G5 G/D BRAC SPG WHT",
+        "classification_code": "022",
+        "dealer_price": 239.0,
+        "retail_price": 399.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 478.0,
+        "nong_price": 0.0,
+        "purchase_price": 73.48,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
+        "bin_location": null
+    },
+    "E526G5": {
+        "sku": "E526G5",
+        "name": "ROSCANI BL E526G5 R/S BRAC SPG WHT",
+        "classification_code": "022",
+        "dealer_price": 239.0,
+        "retail_price": 399.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 478.0,
+        "nong_price": 0.0,
+        "purchase_price": 74.69,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
+        "bin_location": null
+    },
+    "E534G4": {
+        "sku": "E534G4",
+        "name": "ROSCANI BL E534G4 R/G BRAC SPG BRN",
+        "classification_code": "022",
+        "dealer_price": 289.0,
+        "retail_price": 482.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 578.0,
+        "nong_price": 0.0,
+        "purchase_price": 87.5,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
+    "E534G5": {
+        "sku": "E534G5",
+        "name": "ROSCANI BL E534G5 R/G BRAC SPG WHT",
+        "classification_code": "022",
+        "dealer_price": 289.0,
+        "retail_price": 482.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 578.0,
+        "nong_price": 0.0,
+        "purchase_price": 87.5,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
+    "E535G1": {
+        "sku": "E535G1",
+        "name": "ROSCANI BL E535G1 G/D BRAC SPG YEL",
+        "classification_code": "022",
+        "dealer_price": 289.0,
+        "retail_price": 482.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 578.0,
+        "nong_price": 0.0,
+        "purchase_price": 86.08,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
+    "E537G7": {
+        "sku": "E537G7",
+        "name": "ROSCANI BL E537G7 G/D BRAC SPG GRN",
+        "classification_code": "022",
+        "dealer_price": 289.0,
+        "retail_price": 482.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 578.0,
+        "nong_price": 0.0,
+        "purchase_price": 86.37,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
+    "E539G5": {
+        "sku": "E539G5",
+        "name": "ROSCANI BL E539G5 S/S BRAC SPG WHT",
+        "classification_code": "022",
+        "dealer_price": 279.0,
+        "retail_price": 465.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 558.0,
+        "nong_price": 0.0,
+        "purchase_price": 78.41,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
+    "E614G5": {
+        "sku": "E614G5",
+        "name": "ROSCANI BL E614G5 R/G BRAC SPG WHT",
+        "classification_code": "022",
+        "dealer_price": 324.0,
+        "retail_price": 540.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 648.0,
+        "nong_price": 0.0,
+        "purchase_price": 107.95,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-09",
+        "bin_location": null
+    },
+    "E614G9": {
+        "sku": "E614G9",
+        "name": "ROSCANI BL E614G9 R/G BRAC SPG RED",
+        "classification_code": "022",
+        "dealer_price": 324.0,
+        "retail_price": 540.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 648.0,
+        "nong_price": 0.0,
+        "purchase_price": 107.95,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-09",
+        "bin_location": null
+    },
+    "E615G1": {
+        "sku": "E615G1",
+        "name": "ROSCANI BL E615G1 G/D BRAC SPG YEL",
+        "classification_code": "022",
+        "dealer_price": 324.0,
+        "retail_price": 540.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 648.0,
+        "nong_price": 0.0,
+        "purchase_price": 105.32,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-09",
+        "bin_location": null
+    },
+    "E615G7": {
+        "sku": "E615G7",
+        "name": "ROSCANI BL E615G7 G/D BRAC SPG GRN",
+        "classification_code": "022",
+        "dealer_price": 324.0,
+        "retail_price": 540.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 648.0,
+        "nong_price": 0.0,
+        "purchase_price": 105.32,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-09",
+        "bin_location": null
+    },
+    "E619G2": {
+        "sku": "E619G2",
+        "name": "ROSCANI BL E619G2 S/S BRAC SPG PNK",
+        "classification_code": "022",
+        "dealer_price": 299.0,
+        "retail_price": 499.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 598.0,
+        "nong_price": 0.0,
+        "purchase_price": 91.63,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-09",
+        "bin_location": null
+    },
     "E624G0": {
         "sku": "E624G0",
         "name": "ROSCANI BL E624G0 R/G BRAC SPG RGD",
@@ -178286,14 +179102,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 598.0,
         "nong_price": 0.0,
-        "purchase_price": 100.56,
+        "purchase_price": 99.75,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "E624G3": {
@@ -178306,14 +179122,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 598.0,
         "nong_price": 0.0,
-        "purchase_price": 100.56,
+        "purchase_price": 99.75,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "E625G1": {
@@ -178333,7 +179149,7 @@
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "E625G5": {
@@ -178346,14 +179162,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 598.0,
         "nong_price": 0.0,
-        "purchase_price": 98.91,
+        "purchase_price": 97.13,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "E629G7": {
@@ -178366,14 +179182,14 @@
         "wmm1_price": 0.0,
         "50_Off_price": 558.0,
         "nong_price": 0.0,
-        "purchase_price": 85.17,
+        "purchase_price": 84.48,
         "group": "Roscani",
         "group_ids": [
             1,
             6
         ],
         "remark": null,
-        "updated_on": "2025-10-07",
+        "updated_on": "2025-11-26",
         "bin_location": null
     },
     "E634G0": {
@@ -178616,6 +179432,26 @@
         "updated_on": "2025-02-06",
         "bin_location": null
     },
+    "E644N0": {
+        "sku": "E644N0",
+        "name": "ROSCANI BL E644N0 R/G BRAC SPG RGD",
+        "classification_code": "022",
+        "dealer_price": 229.0,
+        "retail_price": 382.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 458.0,
+        "nong_price": 0.0,
+        "purchase_price": 89.0,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-13",
+        "bin_location": null
+    },
     "E645G1": {
         "sku": "E645G1",
         "name": "ROSCANI BL E645G1 G/D BRAC SPG YEL",
@@ -178656,6 +179492,26 @@
         "updated_on": "2025-02-06",
         "bin_location": null
     },
+    "E645N1": {
+        "sku": "E645N1",
+        "name": "ROSCANI BL E645N1 G/D BRAC SPG YEL",
+        "classification_code": "022",
+        "dealer_price": 224.0,
+        "retail_price": 374.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 448.0,
+        "nong_price": 0.0,
+        "purchase_price": 85.99,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-13",
+        "bin_location": null
+    },
     "E647G5": {
         "sku": "E647G5",
         "name": "ROSCANI BL E647G5 G/S BRAC SPG WHT",
@@ -178674,6 +179530,26 @@
         ],
         "remark": null,
         "updated_on": "2025-02-06",
+        "bin_location": null
+    },
+    "E647N5": {
+        "sku": "E647N5",
+        "name": "ROSCANI BL E647N5 G/S BRAC SPG WHT",
+        "classification_code": "022",
+        "dealer_price": 224.0,
+        "retail_price": 374.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 448.0,
+        "nong_price": 0.0,
+        "purchase_price": 85.99,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-13",
         "bin_location": null
     },
     "E654G0": {
@@ -184468,12 +185344,12 @@
         "sku": "RE/1632",
         "name": "RENATA BATTERY 1632 (CR 1632)",
         "classification_code": "022",
-        "dealer_price": 7.0,
+        "dealer_price": 7.5,
         "retail_price": 0.0,
-        "wholesale_price": 5.25,
+        "wholesale_price": 5.65,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 5.25,
+        "nong_price": 5.65,
         "purchase_price": 3.13,
         "group": "Renata",
         "group_ids": [
@@ -184594,13 +185470,13 @@
         "sku": "RE/315",
         "name": "RENATA BATTERY  315  (SR 716 SW)",
         "classification_code": "022",
-        "dealer_price": 4.1,
+        "dealer_price": 4.5,
         "retail_price": 0.0,
-        "wholesale_price": 3.1,
+        "wholesale_price": 3.4,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.1,
-        "purchase_price": 2.4,
+        "nong_price": 3.4,
+        "purchase_price": 2.37,
         "group": "Renata",
         "group_ids": [
             13
@@ -184612,13 +185488,13 @@
         "sku": "RE/317",
         "name": "RENATA BATTERY  317  (SR 516 SW)",
         "classification_code": "022",
-        "dealer_price": 4.05,
+        "dealer_price": 4.4,
         "retail_price": 0.0,
-        "wholesale_price": 3.05,
+        "wholesale_price": 3.3,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.05,
-        "purchase_price": 1.45,
+        "nong_price": 3.3,
+        "purchase_price": 1.46,
         "group": "Renata",
         "group_ids": [
             13
@@ -184630,13 +185506,13 @@
         "sku": "RE/319",
         "name": "RENATA BATTERY  319  (SR 527 SW)",
         "classification_code": "022",
-        "dealer_price": 4.6,
+        "dealer_price": 5.0,
         "retail_price": 0.0,
-        "wholesale_price": 3.45,
+        "wholesale_price": 3.75,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.45,
-        "purchase_price": 2.3,
+        "nong_price": 3.75,
+        "purchase_price": 2.18,
         "group": "Renata",
         "group_ids": [
             13
@@ -184654,7 +185530,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 3.05,
-        "purchase_price": 1.43,
+        "purchase_price": 1.41,
         "group": "Renata",
         "group_ids": [
             13
@@ -184666,13 +185542,13 @@
         "sku": "RE/329",
         "name": "RENATA BATTERY  329  (SR 731 SW)",
         "classification_code": "022",
-        "dealer_price": 4.6,
+        "dealer_price": 5.05,
         "retail_price": 0.0,
-        "wholesale_price": 3.45,
+        "wholesale_price": 3.8,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.45,
-        "purchase_price": 2.46,
+        "nong_price": 3.8,
+        "purchase_price": 2.57,
         "group": "Renata",
         "group_ids": [
             13
@@ -184702,12 +185578,12 @@
         "sku": "RE/335",
         "name": "RENATA BATTERY  335  (SR 512 SW)",
         "classification_code": "022",
-        "dealer_price": 6.7,
+        "dealer_price": 7.05,
         "retail_price": 0.0,
-        "wholesale_price": 5.05,
+        "wholesale_price": 5.3,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 5.05,
+        "nong_price": 5.3,
         "purchase_price": 2.8,
         "group": "Renata",
         "group_ids": [
@@ -184720,13 +185596,13 @@
         "sku": "RE/341",
         "name": "RENATA BATTERY  341  (SR 714 SW)",
         "classification_code": "022",
-        "dealer_price": 10.1,
+        "dealer_price": 10.55,
         "retail_price": 0.0,
-        "wholesale_price": 7.6,
+        "wholesale_price": 7.9,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 7.6,
-        "purchase_price": 3.3,
+        "nong_price": 7.9,
+        "purchase_price": 3.26,
         "group": "Renata",
         "group_ids": [
             13
@@ -184756,13 +185632,13 @@
         "sku": "RE/346",
         "name": "RENATA BATTERY  346  (SR 712 SW)",
         "classification_code": "022",
-        "dealer_price": 10.1,
+        "dealer_price": 10.4,
         "retail_price": 0.0,
-        "wholesale_price": 7.6,
+        "wholesale_price": 7.8,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 7.6,
-        "purchase_price": 3.34,
+        "nong_price": 7.8,
+        "purchase_price": 3.14,
         "group": "Renata",
         "group_ids": [
             13
@@ -184780,7 +185656,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 2.8,
-        "purchase_price": 1.38,
+        "purchase_price": 1.42,
         "group": "Renata",
         "group_ids": [
             13
@@ -184798,7 +185674,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 2.95,
-        "purchase_price": 0.96,
+        "purchase_price": 0.94,
         "group": "Renata",
         "group_ids": [
             13
@@ -184816,7 +185692,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 3.3,
-        "purchase_price": 1.64,
+        "purchase_price": 1.58,
         "group": "Renata",
         "group_ids": [
             13
@@ -184828,13 +185704,13 @@
         "sku": "RE/373",
         "name": "RENATA BATTERY  373  (SR 916 SW)",
         "classification_code": "022",
-        "dealer_price": 4.8,
+        "dealer_price": 5.25,
         "retail_price": 0.0,
-        "wholesale_price": 3.6,
+        "wholesale_price": 3.95,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.6,
-        "purchase_price": 2.81,
+        "nong_price": 3.95,
+        "purchase_price": 2.82,
         "group": "Renata",
         "group_ids": [
             13
@@ -184852,7 +185728,7 @@
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
         "nong_price": 2.6,
-        "purchase_price": 0.97,
+        "purchase_price": 0.95,
         "group": "Renata",
         "group_ids": [
             13
@@ -184864,13 +185740,13 @@
         "sku": "RE/379",
         "name": "RENATA BATTERY  379  (SR 521 SW)",
         "classification_code": "022",
-        "dealer_price": 3.7,
+        "dealer_price": 4.0,
         "retail_price": 0.0,
-        "wholesale_price": 2.8,
+        "wholesale_price": 3.0,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 2.8,
-        "purchase_price": 1.39,
+        "nong_price": 3.0,
+        "purchase_price": 1.42,
         "group": "Renata",
         "group_ids": [
             13
@@ -184882,12 +185758,12 @@
         "sku": "RE/381",
         "name": "RENATA BATTERY  381  (SR 1120 SW)",
         "classification_code": "022",
-        "dealer_price": 8.3,
+        "dealer_price": 12.5,
         "retail_price": 0.0,
-        "wholesale_price": 6.05,
+        "wholesale_price": 9.4,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 6.05,
+        "nong_price": 9.4,
         "purchase_price": 6.13,
         "group": "Renata",
         "group_ids": [
@@ -184900,12 +185776,12 @@
         "sku": "RE/384",
         "name": "RENATA BATTERY  384  (SR 41 SW)",
         "classification_code": "022",
-        "dealer_price": 5.8,
+        "dealer_price": 8.6,
         "retail_price": 0.0,
-        "wholesale_price": 4.0,
+        "wholesale_price": 6.45,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 4.0,
+        "nong_price": 6.45,
         "purchase_price": 3.31,
         "group": "Renata",
         "group_ids": [
@@ -184918,13 +185794,13 @@
         "sku": "RE/390",
         "name": "RENATA BATTERY  390  (SR 1130 SW)",
         "classification_code": "022",
-        "dealer_price": 5.5,
+        "dealer_price": 5.8,
         "retail_price": 0.0,
-        "wholesale_price": 3.75,
+        "wholesale_price": 4.35,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.75,
-        "purchase_price": 2.92,
+        "nong_price": 4.35,
+        "purchase_price": 2.93,
         "group": "Renata",
         "group_ids": [
             13
@@ -184972,13 +185848,13 @@
         "sku": "RE/394",
         "name": "RENATA BATTERY  394  (SR 936 SW)",
         "classification_code": "022",
-        "dealer_price": 5.7,
+        "dealer_price": 6.0,
         "retail_price": 0.0,
-        "wholesale_price": 4.3,
+        "wholesale_price": 4.5,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 4.3,
-        "purchase_price": 2.6,
+        "nong_price": 4.5,
+        "purchase_price": 2.51,
         "group": "Renata",
         "group_ids": [
             13
@@ -184990,13 +185866,13 @@
         "sku": "RE/395",
         "name": "RENATA BATTERY  395  (SR 927 SW)",
         "classification_code": "022",
-        "dealer_price": 4.6,
+        "dealer_price": 5.0,
         "retail_price": 0.0,
-        "wholesale_price": 3.45,
+        "wholesale_price": 3.75,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.45,
-        "purchase_price": 2.02,
+        "nong_price": 3.75,
+        "purchase_price": 1.97,
         "group": "Renata",
         "group_ids": [
             13
@@ -185008,12 +185884,12 @@
         "sku": "RE/396",
         "name": "RENATA BATTERY  396  (SR 726 W)",
         "classification_code": "022",
-        "dealer_price": 5.0,
+        "dealer_price": 5.4,
         "retail_price": 0.0,
-        "wholesale_price": 3.75,
+        "wholesale_price": 4.05,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.4,
+        "nong_price": 4.05,
         "purchase_price": 2.18,
         "group": "Renata",
         "group_ids": [
@@ -185026,13 +185902,13 @@
         "sku": "RE/397",
         "name": "RENATA BATTERY  397  (SR 726 SW)",
         "classification_code": "022",
-        "dealer_price": 4.5,
+        "dealer_price": 4.95,
         "retail_price": 0.0,
-        "wholesale_price": 3.4,
+        "wholesale_price": 3.7,
         "wmm1_price": 0.0,
         "50_Off_price": 0.0,
-        "nong_price": 3.4,
-        "purchase_price": 2.37,
+        "nong_price": 3.7,
+        "purchase_price": 2.35,
         "group": "Renata",
         "group_ids": [
             13
@@ -189314,6 +190190,286 @@
         "updated_on": "2025-06-04",
         "bin_location": null
     },
+    "S14353": {
+        "sku": "S14353",
+        "name": "ROSCANI BL S14353 B/K BRAC GLA BLK",
+        "classification_code": "022",
+        "dealer_price": 164.0,
+        "retail_price": 328.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 57.2,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-09",
+        "bin_location": null
+    },
+    "S14450": {
+        "sku": "S14450",
+        "name": "ROSCANI BL S14450 R/G BRAC GLA RGD",
+        "classification_code": "022",
+        "dealer_price": 164.0,
+        "retail_price": 328.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 57.2,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-09",
+        "bin_location": null
+    },
+    "S14453": {
+        "sku": "S14453",
+        "name": "ROSCANI BL S14453 R/G BRAC GLA BLK",
+        "classification_code": "022",
+        "dealer_price": 164.0,
+        "retail_price": 328.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 57.2,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-09",
+        "bin_location": null
+    },
+    "S14455": {
+        "sku": "S14455",
+        "name": "ROSCANI BL S14455 R/G BRAC GLA WHT",
+        "classification_code": "022",
+        "dealer_price": 164.0,
+        "retail_price": 328.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 57.2,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-09",
+        "bin_location": null
+    },
+    "S14459": {
+        "sku": "S14459",
+        "name": "ROSCANI BL S14459 R/G BRAC GLA RED",
+        "classification_code": "022",
+        "dealer_price": 164.0,
+        "retail_price": 328.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 57.2,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-09",
+        "bin_location": null
+    },
+    "S14551": {
+        "sku": "S14551",
+        "name": "ROSCANI BL S14551 G/D BRAC GLA YEL",
+        "classification_code": "022",
+        "dealer_price": 164.0,
+        "retail_price": 328.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 54.23,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-09",
+        "bin_location": null
+    },
+    "S14555": {
+        "sku": "S14555",
+        "name": "ROSCANI BL S14555 G/D BRAC GLA WHT",
+        "classification_code": "022",
+        "dealer_price": 164.0,
+        "retail_price": 328.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 54.23,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-09",
+        "bin_location": null
+    },
+    "S14754": {
+        "sku": "S14754",
+        "name": "ROSCANI BL S14754 B/N BRAC GLA BRN",
+        "classification_code": "022",
+        "dealer_price": 164.0,
+        "retail_price": 328.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 57.2,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-09",
+        "bin_location": null
+    },
+    "S14952": {
+        "sku": "S14952",
+        "name": "ROSCANI BL S14952 S/S BRAC GLA PNK",
+        "classification_code": "022",
+        "dealer_price": 139.0,
+        "retail_price": 278.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 0.0,
+        "nong_price": 0.0,
+        "purchase_price": 41.95,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-26",
+        "bin_location": null
+    },
+    "S153K4": {
+        "sku": "S153K4",
+        "name": "ROSCANI BL S153K4 G/Y BRAC GLA GRY",
+        "classification_code": "022",
+        "dealer_price": 194.0,
+        "retail_price": 324.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 388.0,
+        "nong_price": 0.0,
+        "purchase_price": 42.9,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
+    "S154K0": {
+        "sku": "S154K0",
+        "name": "ROSCANI BL S154K0 R/G BRAC GLA RGD",
+        "classification_code": "022",
+        "dealer_price": 194.0,
+        "retail_price": 324.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 388.0,
+        "nong_price": 0.0,
+        "purchase_price": 42.9,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
+    "S155K1": {
+        "sku": "S155K1",
+        "name": "ROSCANI BL S155K1 G/D BRAC GLA YEL",
+        "classification_code": "022",
+        "dealer_price": 194.0,
+        "retail_price": 324.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 388.0,
+        "nong_price": 0.0,
+        "purchase_price": 40.63,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
+    "S155K2": {
+        "sku": "S155K2",
+        "name": "ROSCANI BL S155K2 G/D BRAC GLA PPL",
+        "classification_code": "022",
+        "dealer_price": 194.0,
+        "retail_price": 324.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 388.0,
+        "nong_price": 0.0,
+        "purchase_price": 40.63,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
+    "S158K8": {
+        "sku": "S158K8",
+        "name": "ROSCANI BL S158K8 B/L BRAC GLA BLU",
+        "classification_code": "022",
+        "dealer_price": 194.0,
+        "retail_price": 324.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 388.0,
+        "nong_price": 0.0,
+        "purchase_price": 42.9,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-04-15",
+        "bin_location": null
+    },
     "S934N0": {
         "sku": "S934N0",
         "name": "ROSCANI BL S934N0 R/G BRAC GLA RGD",
@@ -190054,6 +191210,46 @@
         "updated_on": "2025-06-09",
         "bin_location": null
     },
+    "S974N0": {
+        "sku": "S974N0",
+        "name": "ROSCANI BL S974N0 R/G BRAC GLA RGD",
+        "classification_code": "022",
+        "dealer_price": 179.0,
+        "retail_price": 299.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 358.0,
+        "nong_price": 0.0,
+        "purchase_price": 52.41,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
+        "bin_location": null
+    },
+    "S974N3": {
+        "sku": "S974N3",
+        "name": "ROSCANI BL S974N3 R/G BRAC GLA BLK",
+        "classification_code": "022",
+        "dealer_price": 179.0,
+        "retail_price": 299.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 358.0,
+        "nong_price": 0.0,
+        "purchase_price": 52.41,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
+        "bin_location": null
+    },
     "S974S9": {
         "sku": "S974S9",
         "name": "ROSCANI BL S974S9 R/G BRAC GLA RGD",
@@ -190152,6 +191348,46 @@
         ],
         "remark": null,
         "updated_on": "2025-06-09",
+        "bin_location": null
+    },
+    "S975N1": {
+        "sku": "S975N1",
+        "name": "ROSCANI BL S975N1 G/D BRAC GLA YEL",
+        "classification_code": "022",
+        "dealer_price": 179.0,
+        "retail_price": 299.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 358.0,
+        "nong_price": 0.0,
+        "purchase_price": 51.36,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
+        "bin_location": null
+    },
+    "S975N5": {
+        "sku": "S975N5",
+        "name": "ROSCANI BL S975N5 G/D BRAC GLA WHT",
+        "classification_code": "022",
+        "dealer_price": 179.0,
+        "retail_price": 299.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 358.0,
+        "nong_price": 0.0,
+        "purchase_price": 51.36,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2026-02-24",
         "bin_location": null
     },
     "S975S1": {
@@ -190272,6 +191508,26 @@
         ],
         "remark": null,
         "updated_on": "2025-06-09",
+        "bin_location": null
+    },
+    "S979N2": {
+        "sku": "S979N2",
+        "name": "ROSCANI BL S979N2 S/S BRAC GLA PNK",
+        "classification_code": "022",
+        "dealer_price": 164.0,
+        "retail_price": 274.0,
+        "wholesale_price": 0.0,
+        "wmm1_price": 0.0,
+        "50_Off_price": 328.0,
+        "nong_price": 0.0,
+        "purchase_price": 44.76,
+        "group": "Roscani",
+        "group_ids": [
+            1,
+            6
+        ],
+        "remark": null,
+        "updated_on": "2025-12-26",
         "bin_location": null
     },
     "S979S2": {

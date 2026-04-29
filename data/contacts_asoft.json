@@ -973,7 +973,7 @@
     "EPHT": {
         "code": "EPHT",
         "name": "**** A/C CLOSED 26/04/17 **** P H TIME",
-        "city": null,
+        "city": "Kuantan",
         "postcode": "25000",
         "state": "Pahang",
         "country": "",
@@ -985,7 +985,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2019-01-04",
+        "updated_on": "2026-03-11",
         "address": "**** A/C CLOSED - DO NOT SEND **** Lot 1-31, Berjaya Megamall, Jalan Tun Ismail, Sri Dagangan"
     },
     "ESC3": {
@@ -1243,7 +1243,7 @@
     "EST1": {
         "code": "EST1",
         "name": "**** A/C CLOSED 21/06/17 **** KEDAI JAM SISTEM [ HQ ]",
-        "city": null,
+        "city": "Kuantan",
         "postcode": "25000",
         "state": "Pahang",
         "country": "",
@@ -1255,13 +1255,13 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2019-01-04",
+        "updated_on": "2026-03-11",
         "address": "**** A/C CLOSED - DO NOT SEND **** 241, Lorong Tun Ismail 1"
     },
     "EST2": {
         "code": "EST2",
         "name": "**** A/C CLOSED17/01/2022 **** KEDAI JAM SISTEM MEGAMALL",
-        "city": null,
+        "city": "Kuantan",
         "postcode": "25000",
         "state": "Pahang",
         "country": "",
@@ -1273,7 +1273,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2022-01-20",
+        "updated_on": "2026-03-11",
         "address": "**** A/C CLOSED - DO NOT SEND **** Lot G62, Ground Floor, Berjaya Megamall, Jalan Tun Ismail"
     },
     "EST3": {
@@ -1314,7 +1314,7 @@
     },
     "EST6": {
         "code": "EST6",
-        "name": "KEDAI JAM SISTEM TUN ISMAIL",
+        "name": "**** A/C CLOSED 09/02/2026 **** KEDAI JAM SISTEM TUN ISMAIL",
         "city": "Kuantan",
         "postcode": "25000",
         "state": "Pahang",
@@ -1323,12 +1323,12 @@
         "phone_num": "6095156867",
         "contact": "LEN VOON SANG",
         "agent": "Lim",
-        "remark": "UPDATE EMAIL ADD. ON 13/7/22 BY  :  WINNIE\r\n",
+        "remark": "**** A/C CLOSED 09/01/2026 CONFIRM BY LCS****\r\n\r\n\r\n\r\nUPDATE EMAIL ADD. ON 13/7/22 BY  :  WINNIE\r\n",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
-        "status": "A",
-        "updated_on": "2025-04-11",
-        "address": "241, Lorong Tun Ismail 1"
+        "status": "C",
+        "updated_on": "2026-01-09",
+        "address": "****A/C CLOSED - DO NOT SEND **** 241, Lorong Tun Ismail 1"
     },
     "EST7": {
         "code": "EST7",
@@ -1549,7 +1549,7 @@
     "ETG3": {
         "code": "ETG3",
         "name": "**** A/C CLOSED 30/08/2022 **** TIME GALERIE (M) SDN BHD  (E16)",
-        "city": null,
+        "city": "Kota Bharu",
         "postcode": "15050",
         "state": "Kelantan",
         "country": "",
@@ -1561,7 +1561,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2022-08-30",
+        "updated_on": "2026-03-11",
         "address": "**** A/C CLOSED - DO NOT SEND **** GF, G 47, KB Mall, PT 101 & 102, Jalan Hamzah, Section 16"
     },
     "ETG4": {
@@ -3292,19 +3292,19 @@
     "JMIC": {
         "code": "JMIC",
         "name": "MALAYSIAN INDIAN CONGRESS",
-        "city": null,
+        "city": "Kuala Lumpur",
         "postcode": "50350",
         "state": "Wilayah Persekutuan Kuala Lumpur",
         "country": "",
         "territory": "SHOP",
-        "phone_num": "",
+        "phone_num": "60340424377",
         "contact": "Mr",
         "agent": "Yap",
         "remark": null,
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-07-18",
+        "updated_on": "2026-03-11",
         "address": "6th Floor, Jalan Rahmat, Manara Manickavasagam"
     },
     "JMLH": {
@@ -3881,6 +3881,24 @@
         "status": "A",
         "updated_on": "2013-07-01",
         "address": "523, Jalan Tuanku Abdul Rahman"
+    },
+    "JSWG": {
+        "code": "JSWG",
+        "name": "THE SWATCH GROUP (MALAYSIA) SDN BHD ",
+        "city": null,
+        "postcode": "50200",
+        "state": "Wilayah Persekutuan Kuala Lumpur",
+        "country": "",
+        "territory": "SHOP",
+        "phone_num": "60320508888",
+        "contact": "Mr",
+        "agent": "Lim",
+        "remark": "J3 N3",
+        "entity_type": "MALAYSIAN_COMPANY",
+        "contact_type": "C",
+        "status": "A",
+        "updated_on": "2026-04-17",
+        "address": "Level 22, Wisma Goldhill 67, Jalan Raja Chulan"
     },
     "JTCL": {
         "code": "JTCL",
@@ -5897,24 +5915,6 @@
         "updated_on": "2017-05-02",
         "address": "13, Jalan Pantai"
     },
-    "MCFT": {
-        "code": "MCFT",
-        "name": "SYARIKAT CF TIME PIECE",
-        "city": "Sandakan",
-        "postcode": "90000",
-        "state": "Sabah",
-        "country": "MY",
-        "territory": "SHOP",
-        "phone_num": "60188860178",
-        "contact": "AH WAH",
-        "agent": "Kee",
-        "remark": "J3 G1\r\n[ ] BOX SEND WITH ORDER\r\n\r\n**Internal Reference Only**\r\n23-Oct-15 : Winnie - FORMER NAME KNOWN AS  ( M-SM2 ) SAN MAY\r\n\r\n*** EDIT BY KIMI [18/3/22] CHANGE ADRESS\r\nOLD ADRESS : Ground Floor, Lot 4B,Block 15, Lebuh Dua,90000 Sandakan, SABAH",
-        "entity_type": "MALAYSIAN_COMPANY",
-        "contact_type": "C",
-        "status": "A",
-        "updated_on": "2025-04-11",
-        "address": "Lot 10B, Block 14, 2nd Avenue"
-    },
     "MCH1": {
         "code": "MCH1",
         "name": "**** A/C CLOSED 26/04/17 **** CHIONG HIN WATCH MAKER",
@@ -6851,6 +6851,24 @@
         "updated_on": "2025-04-07",
         "address": "Unit 1.34 ,Imperial Mall & Court"
     },
+    "MPL1": {
+        "code": "MPL1",
+        "name": "POLISHING WATCH DEALER",
+        "city": null,
+        "postcode": "94700",
+        "state": "Sarawak",
+        "country": "",
+        "territory": "SHOP",
+        "phone_num": "60194695577",
+        "contact": "Mr",
+        "agent": "Kee",
+        "remark": "J3",
+        "entity_type": "MALAYSIAN_COMPANY",
+        "contact_type": "C",
+        "status": "A",
+        "updated_on": "2026-01-30",
+        "address": "170, Serian Bazaar"
+    },
     "MS&T": {
         "code": "MS&T",
         "name": "**** A/C CLOSED 26/04/17 **** SIA & TANG WATCH C/O LIONG YAW KAN *MLYK",
@@ -7255,14 +7273,14 @@
         "state": "Sarawak",
         "country": "",
         "territory": "MALL",
-        "phone_num": "",
+        "phone_num": "6082263888",
         "contact": "Mr",
         "agent": "Kee",
         "remark": "[ ] BOX SEND WITH ORDER",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2024-09-09",
+        "updated_on": "2026-03-11",
         "address": "Vivacity Kuching,  L1-059, Vivacity Megamall,  Jalan Wan Alwi"
     },
     "MTG8": {
@@ -7499,6 +7517,24 @@
         "updated_on": "2017-03-31",
         "address": "P.O.Box 11947"
     },
+    "MTSS": {
+        "code": "MTSS",
+        "name": "THONG SIN ENTERPRISE SDN BHD",
+        "city": "Kota Kinabalu",
+        "postcode": "88450",
+        "state": "Sabah",
+        "country": "MY",
+        "territory": "SHOP",
+        "phone_num": "6088427830",
+        "contact": "MS TRACY",
+        "agent": "Kee",
+        "remark": "J3 G3\r\n[ ] BOX SEND WITH ORDER",
+        "entity_type": "MALAYSIAN_COMPANY",
+        "contact_type": "C",
+        "status": "A",
+        "updated_on": "2026-01-14",
+        "address": "1st Floor, Lot 61, Jalan Kilang, Sedco Industrial Estate"
+    },
     "MTTS": {
         "code": "MTTS",
         "name": "**** A/C CLOSED 26/04/17 **** TIEH TING SIONG         * T.FER : MBLT *",
@@ -7672,12 +7708,12 @@
         "phone_num": "6088273832",
         "contact": "Mr",
         "agent": "Kee",
-        "remark": "J3 \r\n22/12/20\r\nMTC2 change customer to MWM2\r\n",
+        "remark": "J3 \r\n22/12/20\r\nMTC2 change customer to MWM2\r\n\r\nOLD ADDRESS\r\nLot G41 & G42, Ground FlooR, Suria Sabah Shopping Mall, 1, Jalan Tun Fuad Stephens,88000 Kota Kinabalu, SABAH\r\n",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-05-05",
-        "address": "Lot G41 & G42, Ground Floor, Suria Sabah Shopping Mall, 1, Jalan Tun Fuad Stephens"
+        "updated_on": "2026-03-09",
+        "address": "Lot G45 & G46, Ground Floor, Suria Sabah Shopping Mall, 1, Jalan Tun Fuad Stephens"
     },
     "MWO1": {
         "code": "MWO1",
@@ -7843,7 +7879,7 @@
     },
     "MYS1": {
         "code": "MYS1",
-        "name": "YONG SENG",
+        "name": "YONG SENG WATCH DEALER SDN BHD",
         "city": "Kota Kinabalu",
         "postcode": "88000",
         "state": "Sabah",
@@ -7856,7 +7892,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2017-05-02",
+        "updated_on": "2026-03-12",
         "address": "37, Jalan Pantai"
     },
     "MYUN": {
@@ -8309,6 +8345,24 @@
         "updated_on": "2025-09-19",
         "address": "GF - P4, Kompleks Amanjaya,  Jalan Jati 1"
     },
+    "NBTN": {
+        "code": "NBTN",
+        "name": "BOSTON TIME SQUARE SDN BHD (KANGAR JAYA MALL)",
+        "city": null,
+        "postcode": "01000",
+        "state": "Perlis",
+        "country": "",
+        "territory": "MALL",
+        "phone_num": "60175684868",
+        "contact": "Mr",
+        "agent": "Yap",
+        "remark": "J3 N3 [4/4/22]\r\n\r\n1.open D/O - Dealer\r\n2.INV - Post to (NTAY)\r\n\r\n[25/5/22] DO NOT SEND PENDING BATTERY ORDER\r\n\r\nMR KU  TEL : 012-5889273 ( INCENTIVE & CAMPAIGN )  BY : WINNIE 3/1/2017\r\n\r\nMR WOON  TEL : 012-5360479  /  EMAIL : TYCORPSB@GMAIL.COM  BY : WINNIE 25/1/2017\r\n******************\r\nMR KU INCHARGE PAYMENT\r\nMR WOON INCHARGE BOOKEEPING  ---  WINNIE 13/4/18\r\n",
+        "entity_type": "MALAYSIAN_COMPANY",
+        "contact_type": "C",
+        "status": "A",
+        "updated_on": "2025-12-01",
+        "address": "G20, GF Kangar Jaya Mall, Lot 20683, Jalan Kangar Jaya 21, Kangar Jaya, 01000 Kangar PERLIS"
+    },
     "NBTP": {
         "code": "NBTP",
         "name": "**** A/C CLOSED 26/04/17 **** BEAUTY CLOCK HOUSE  (PREMIUM)",
@@ -8500,11 +8554,11 @@
         "phone_num": "6055263233",
         "contact": "Mr",
         "agent": "Yap",
-        "remark": "J3 N3 [4/4/22]\r\n\r\n1.open D/O - Dealer\r\n2.INV - Post to (NTAY)\r\n\r\n[25/5/22] DO NOT SEND PENDING BATTERY ORDER\r\n\r\nNBTZ -  FOR ROSCANI ONLY (NEW OUTLET, TRANSFER ROS TO OPPOSITE OF NBTW)\r\n     ( TIME STATION )\r\nNBTW - FOR U2\r\n\r\n\r\nEDIT DEALER'S NAME ON 22/04/22 BY WINNIE\r\n\r\n\t",
+        "remark": "J3 N3 [4/4/22]\r\nROSCANI \r\n1.open D/O - Dealer\r\n2.INV - Post to (NTAY)\r\n\r\n[25/5/22] DO NOT SEND PENDING BATTERY ORDER\r\n\r\nNBTZ -  FOR ROSCANI ONLY (NEW OUTLET, TRANSFER ROS TO OPPOSITE OF NBTW)\r\n     ( TIME STATION )\r\nNBTW - FOR U2\r\n\r\n\r\nEDIT DEALER'S NAME ON 22/04/22 BY WINNIE\r\n\r\n\t",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-09-19",
+        "updated_on": "2026-04-15",
         "address": "F-22, First Floor, Mydin Mall Meru Raya, PT 229412, Jalan Meru Jaya Bestari B2, Bandar Meru Raya, Mukim Hulu Kinta"
     },
     "NCAL": {
@@ -8662,11 +8716,11 @@
         "phone_num": "60165985963",
         "contact": "CHONG CHEE YOON",
         "agent": "Yap",
-        "remark": "Old Address:\r\nAngsana Mall (Greentown Mall), Lot UM11, Tingkat Bawah, Jalan Hospital, 30450, Ipoh, PERAK\r\n\r\nOld Address :\r\nc/o The Store (Kampar Road) S/B, 203 Ground Floor, Jalan Kampar,30250 Ipoh, PERAK\r\nTel : 05-2435639",
+        "remark": "**** WHITE PRICE TAG ****\r\n\r\nOld Address:\r\nAngsana Mall (Greentown Mall), Lot UM11, Tingkat Bawah, Jalan Hospital, 30450, Ipoh, PERAK\r\n\r\nOld Address :\r\nc/o The Store (Kampar Road) S/B, 203 Ground Floor, Jalan Kampar,30250 Ipoh, PERAK\r\nTel : 05-2435639",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-04-11",
+        "updated_on": "2025-12-12",
         "address": "Lot F18, First Floor, Ipoh Parade, 105, Jalan Sultan Abdul Jalil, Greentown"
     },
     "NELP": {
@@ -8731,14 +8785,14 @@
         "state": "Pulau Pinang",
         "country": "MY",
         "territory": "SHOP",
-        "phone_num": "6042610495",
+        "phone_num": "60122050668",
         "contact": "CHIN MUNG KEW",
         "agent": "Yap",
-        "remark": "* Every Tuesday can not be shipped",
+        "remark": "*Can post on [ Wednesday, Thursday and Friday] ONLY",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2019-02-19",
+        "updated_on": "2026-04-22",
         "address": "469, Jalan Penang"
     },
     "NFT1": {
@@ -8965,14 +9019,14 @@
         "state": "Perak",
         "country": "MY",
         "territory": "MALL",
-        "phone_num": "",
+        "phone_num": "60123950602",
         "contact": "Mr",
         "agent": "Yap",
         "remark": null,
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-04-11",
+        "updated_on": "2025-12-31",
         "address": "Lot G39, Aeon Ipoh Station 18, 2, Susunan Stesen 18, Station 18"
     },
     "NGM6": {
@@ -9788,7 +9842,7 @@
     "NMYW": {
         "code": "NMYW",
         "name": "**** A/C CLOSED 04/04/2023 **** MY WATCH (SUNWAY CARNIVAL MALL)",
-        "city": null,
+        "city": "Seberang Jaya",
         "postcode": "13700",
         "state": "Pulau Pinang",
         "country": "",
@@ -9800,7 +9854,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2023-04-04",
+        "updated_on": "2026-03-11",
         "address": "**** A/C CLOSED - DO NOT SEND **** F-43, Sunway Carnival Mall, 3068, Jalan Todak, Pusat Bandar Seberang Jaya"
     },
     "NMYX": {
@@ -10120,11 +10174,11 @@
         "phone_num": "6047334577",
         "contact": "Mr",
         "agent": "Yap",
-        "remark": "J3 \r\nOrder 1000pcs Batt FOC JAPAN SR626SW - 100pcs (3626013)\r\n\r\n16/10/18 Change of Address to 493-E Jln Langgar. (Aman Central CLOSED)",
+        "remark": "J3 N3\r\n\r\nOrder 1000pcs Batt FOC JAPAN SR626SW - 100pcs (3626013)\r\n\r\n16/10/18 Change of Address to 493-E Jln Langgar. (Aman Central CLOSED)",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-04-11",
+        "updated_on": "2026-04-02",
         "address": "493-G, Jalan Langgar"
     },
     "NSLG": {
@@ -10336,11 +10390,11 @@
         "phone_num": "6042627313",
         "contact": "OOI CHEE THOR",
         "agent": "Yap",
-        "remark": "J3 G3",
+        "remark": "J3 N3 G3",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2016-11-02",
+        "updated_on": "2026-04-14",
         "address": "1.03G, Tun Abdul Razak Complex, Jalan Ria"
     },
     "NTEP": {
@@ -10508,7 +10562,7 @@
     "NTG7-P": {
         "code": "NTG7-P",
         "name": "TIME GALERIE (M) TESCO PENANG (N16)",
-        "city": null,
+        "city": "Bandar Jelutong",
         "postcode": "11700",
         "state": "Pulau Pinang",
         "country": "",
@@ -10520,7 +10574,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2023-09-06",
+        "updated_on": "2026-03-11",
         "address": "1st Floor, Lot 13, Tesco Penang, 1, Lebuh Tengku Kudin 1, Bandar Jelutong"
     },
     "NTG8-P": {
@@ -11462,7 +11516,7 @@
     "NWAG": {
         "code": "NWAG",
         "name": "**** A/C CLOSED 23/10/20 **** WHITE ANGEL ENTERPRISE",
-        "city": null,
+        "city": "Bukit Mertajam",
         "postcode": "14000",
         "state": "Pulau Pinang",
         "country": "",
@@ -11474,7 +11528,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2020-11-03",
+        "updated_on": "2026-03-11",
         "address": "**** A/C CLOSED - DO NOT SEND **** G 30, The Summit, B.M Plaza, Jalan Arumugam Pillai"
     },
     "NWDT": {
@@ -11713,7 +11767,7 @@
     },
     "NWT4": {
         "code": "NWT4",
-        "name": "WIN TIME GALLERY  ( IPOH )",
+        "name": "**** A/C CLOSED 25/03/26 **** WIN TIME GALLERY  ( IPOH )",
         "city": "Ipoh",
         "postcode": "31650",
         "state": "Perak",
@@ -11722,12 +11776,12 @@
         "phone_num": "6053231622",
         "contact": "Y T KHONG",
         "agent": "Yap",
-        "remark": "2/2/17 Change Address\r\nLot G-06, Grd Flr CHANGE TO Lot G-04  ",
+        "remark": "**** A/C CLOSED 25/03/26 CONFIRM BT YAP****\r\n\r\n\r\n\r\n2/2/17 Change Address\r\nLot G-06, Grd Flr CHANGE TO Lot G-04  ",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
-        "status": "A",
-        "updated_on": "2025-04-14",
-        "address": "Lot G-04, Grd Flr, Tesco Station 18, 1, Medan Stesen 19/9, Sec 18"
+        "status": "C",
+        "updated_on": "2026-03-25",
+        "address": "**** A/C CLOSED - DO NOT SEND **** Lot G-04, Grd Flr, Tesco Station 18, 1, Medan Stesen 19/9, Sec 18"
     },
     "NWT5": {
         "code": "NWT5",
@@ -11776,12 +11830,12 @@
         "phone_num": "6058048227",
         "contact": "Mr",
         "agent": "Yap",
-        "remark": null,
+        "remark": "OLD ADDRESS : \r\nLot F38, Pusat  Beli-Belah Aeon, Lot 8576 & 8577, Jalan Kamunting, 34000 Taiping, PERAK",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-04-14",
-        "address": "Lot F38, Pusat  Beli-Belah Aeon, Lot 8576 & 8577, Jalan Kamunting"
+        "updated_on": "2025-12-29",
+        "address": "Lot F31B & 31C, Pusat  Beli-Belah Aeon, Lot 8576 & 8577, Jalan Kamunting"
     },
     "NWTG": {
         "code": "NWTG",
@@ -12305,6 +12359,24 @@
         "updated_on": "2014-03-19",
         "address": "Jalan Kenneison Brothers, Off Jalan Batu Caves"
     },
+    "OEFG": {
+        "code": "OEFG",
+        "name": "ERNST & FRIENDS GMBH",
+        "city": null,
+        "postcode": "",
+        "state": "",
+        "country": "EUROPE",
+        "territory": "-",
+        "phone_num": "49041518794672",
+        "contact": "Mr",
+        "agent": "-",
+        "remark": null,
+        "entity_type": "MALAYSIAN_COMPANY",
+        "contact_type": "S",
+        "status": "A",
+        "updated_on": "2026-03-24",
+        "address": "D21493 ELMENHORST BEI HAMBURG"
+    },
     "OEST": {
         "code": "OEST",
         "name": "EASYTIME HOROLOGICAL COMPANY LIMITED",
@@ -12610,6 +12682,24 @@
         "status": "A",
         "updated_on": "2025-05-05"
     },
+    "OPFT": {
+        "code": "OPFT",
+        "name": "PERFECTIME WATCH CO., LIMITED ",
+        "city": null,
+        "postcode": "",
+        "state": "",
+        "country": "",
+        "territory": "-",
+        "phone_num": "",
+        "contact": "Mr",
+        "agent": "-",
+        "remark": null,
+        "entity_type": "MALAYSIAN_COMPANY",
+        "contact_type": "S",
+        "status": "A",
+        "updated_on": "2026-02-27",
+        "address": "FLAT / RM 1205 12/F TAI SANG BANK BUILDI 130-132 DES VOEUX ROAD CENTRAL  HONG KONG"
+    },
     "OPRE": {
         "code": "OPRE",
         "name": "PAKRAY ENTERPRISES LTD",
@@ -12632,18 +12722,19 @@
         "code": "OROS",
         "name": "ROSCANI WEBSITE SALE",
         "city": null,
-        "postcode": "",
-        "state": "",
-        "country": "",
-        "territory": "-",
-        "phone_num": "",
-        "contact": "Mr",
+        "postcode": "56000",
+        "state": "Wilayah Persekutuan Kuala Lumpur",
+        "country": "MY",
+        "territory": "OFFC",
+        "phone_num": "60391308288",
+        "contact": "03-91308288",
         "agent": "101",
         "remark": null,
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2023-09-20"
+        "updated_on": "2025-11-26",
+        "address": "78, Jalan Nadchatiram 1, Taman Taynton View, Cheras, KUALA LUMPUR"
     },
     "ORSA": {
         "code": "ORSA",
@@ -13204,7 +13295,7 @@
     "SAQL": {
         "code": "SAQL",
         "name": "AQUILA TIME",
-        "city": null,
+        "city": "Melaka",
         "postcode": "75460",
         "state": "Melaka",
         "country": "MY",
@@ -13216,7 +13307,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-05-29",
+        "updated_on": "2026-03-11",
         "address": "Lotus Melaka Cheng (Mall Dept), F06, 1st Floor, No.1, Jalan Inang 3, Taman Paya Rumput Utama"
     },
     "SASQ": {
@@ -13320,11 +13411,11 @@
         "phone_num": "6076639228",
         "contact": "THAM SEK",
         "agent": "Kee",
-        "remark": "ALAN : H/P 019-7792899",
+        "remark": "J3 ALAN : H/P 019-7792899",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2019-02-19",
+        "updated_on": "2025-12-01",
         "address": "24, Lorong Ismail"
     },
     "SCF1-C": {
@@ -13560,24 +13651,6 @@
         "status": "C",
         "updated_on": "2017-05-04",
         "address": "**** A/C CLOSED - DO NOT SEND **** c/o Plaza Arisun (SPG. RENGAM) 2-10, Jalan Air Hitam"
-    },
-    "SCS1": {
-        "code": "SCS1",
-        "name": "CLASSIC HOUR SDN BHD  (2)",
-        "city": "Batu Pahat",
-        "postcode": "83000",
-        "state": "Johor",
-        "country": "MY",
-        "territory": "MALL",
-        "phone_num": "6074330211",
-        "contact": "MR.TOH",
-        "agent": "Kee",
-        "remark": null,
-        "entity_type": "MALAYSIAN_COMPANY",
-        "contact_type": "C",
-        "status": "A",
-        "updated_on": "2025-08-12",
-        "address": "G 33, Batu Pahat Mall, Lot 2566, Jalan Kluang"
     },
     "SCS2": {
         "code": "SCS2",
@@ -14230,7 +14303,7 @@
     "SFT2": {
         "code": "SFT2",
         "name": "**** A/C CLOSED 05/04/17 **** FAMOSA TIME CENTRE  (BRANCH)",
-        "city": null,
+        "city": "Ayer Keroh",
         "postcode": "75450",
         "state": "Melaka",
         "country": "",
@@ -14242,7 +14315,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2020-07-27",
+        "updated_on": "2026-03-11",
         "address": "**** A/C CLOSED - DO NOT SEND **** Lot G11, Ground Floor, Kompleks Melaka Mall, Lebuh Ayer Keroh, 75450 MELAKA"
     },
     "SFT3": {
@@ -14397,14 +14470,14 @@
         "state": "Johor",
         "country": "MY",
         "territory": "MALL",
-        "phone_num": "6073356126",
+        "phone_num": "60127368777",
         "contact": "JEFFREY PEK",
         "agent": "Kee",
         "remark": null,
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2022-09-15",
+        "updated_on": "2025-11-17",
         "address": "Pelangi Leisure Mall, Lot 1.09 Level 1, Jalan Serampang, Taman Pelangi"
     },
     "SGM4": {
@@ -15184,7 +15257,7 @@
     "SKW1-C": {
         "code": "SKW1-C",
         "name": "***DO NOT SEND*** M.S.LEE HOLDINGS SDN BHD",
-        "city": null,
+        "city": "Melaka",
         "postcode": "75000",
         "state": "Melaka",
         "country": "",
@@ -15196,13 +15269,13 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2019-06-17",
+        "updated_on": "2026-03-11",
         "address": "Lot F 65, 1st Floor, Mahkota Parade, Jalan Merdeka"
     },
     "SKW2": {
         "code": "SKW2",
         "name": "M.S.LEE HOLDINGS SDN BHD",
-        "city": null,
+        "city": "Melaka",
         "postcode": "75100",
         "state": "Melaka",
         "country": "MY",
@@ -15214,7 +15287,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-05-29",
+        "updated_on": "2026-03-11",
         "address": "100, Jalan Munshi Abdullah"
     },
     "SKW3-C": {
@@ -17218,7 +17291,7 @@
     "STG2": {
         "code": "STG2",
         "name": "TIME GALERIE (M) SDN BHD  (S47)",
-        "city": null,
+        "city": "Melaka",
         "postcode": "75450",
         "state": "Melaka",
         "country": "MY",
@@ -17230,7 +17303,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-05-29",
+        "updated_on": "2026-03-11",
         "address": "1st Floor, AEON Departmental Store,  AEON Bandaraya Melaka Shopping Centre, 2, Jalan Lagenda, Taman 1-Lagenda"
     },
     "STG3": {
@@ -19066,7 +19139,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2023-12-14",
+        "updated_on": "2026-03-05",
         "address": "Lot G24, Ground Floor,  AEON Big Seksyen 23, No 10, Jalan Dividen 23/6, SS23"
     },
     "WCH4": {
@@ -20484,12 +20557,12 @@
         "phone_num": "60377841564",
         "contact": "Mr",
         "agent": "Lim",
-        "remark": "BY HAND SEND WITH BOX\r\nROSC",
+        "remark": "BY HAND SEND WITH BOX\r\nROSC\r\n\r\nOLD ADDRESS:\r\n77, Jalan 1/12,46000 Petaling Jaya, SELANGOR",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-04-11",
-        "address": "77, Jalan 1/12"
+        "updated_on": "2026-01-06",
+        "address": "65, Jalan 3/14, Jalan Othman"
     },
     "WHF2": {
         "code": "WHF2",
@@ -20619,7 +20692,7 @@
     },
     "WHS2": {
         "code": "WHS2",
-        "name": "CHOP HWA SING",
+        "name": "KEDAI JAM HWA SING",
         "city": "Klang",
         "postcode": "41000",
         "state": "Selangor",
@@ -20632,7 +20705,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2023-12-14",
+        "updated_on": "2026-01-06",
         "address": "10, Jalan Stesen"
     },
     "WHS3": {
@@ -20760,6 +20833,24 @@
         "status": "A",
         "updated_on": "2025-04-11",
         "address": "Lot 14, Lotus's Rimbayu,  Jalan Rimbayu 1, Bandar Rimbayu,  Teluk Panglima Garang"
+    },
+    "WINT": {
+        "code": "WINT",
+        "name": "INTIME RETAIL CHAINS GLOBAL (PKNS)",
+        "city": "Shah Alam",
+        "postcode": "40000",
+        "state": "Selangor",
+        "country": "MY",
+        "territory": "MALL",
+        "phone_num": "601112231838",
+        "contact": "Mr",
+        "agent": "Kee",
+        "remark": "Clock Family Branch\r\nROSC",
+        "entity_type": "MALAYSIAN_COMPANY",
+        "contact_type": "C",
+        "status": "A",
+        "updated_on": "2026-02-26",
+        "address": "Lot G-56, Tingkat Bawah,  Kompleks PKNS Shah Alam,  Persiaran Tasik Seksyen 14"
     },
     "WJBB": {
         "code": "WJBB",
@@ -21003,14 +21094,14 @@
         "state": "Wilayah Persekutuan Kuala Lumpur",
         "country": "MY",
         "territory": "MALL",
-        "phone_num": "",
+        "phone_num": "60163330910",
         "contact": "MR. KENT",
         "agent": "Yap",
         "remark": "J3 N3\r\n[ ]BY HAND\r\nROSC\r\n\r\nDELETE PHONE NO : 03-21423867 BY WINNIE ON 07/03/23\r\n",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2023-12-14",
+        "updated_on": "2026-03-11",
         "address": "UD-3, Pudu Plaza, Jalan Davis"
     },
     "WKEP": {
@@ -21264,6 +21355,24 @@
         "status": "A",
         "updated_on": "2025-10-27",
         "address": "GK-05, Ground FLoor, Lot 1, Jalan SS 7/26a"
+    },
+    "WKM9": {
+        "code": "WKM9",
+        "name": "KIM TIME SDN BHD (KLIA)",
+        "city": null,
+        "postcode": "",
+        "state": "",
+        "country": "",
+        "territory": "MALL",
+        "phone_num": "",
+        "contact": "Mr",
+        "agent": "Yap",
+        "remark": null,
+        "entity_type": "MALAYSIAN_COMPANY",
+        "contact_type": "C",
+        "status": "A",
+        "updated_on": "2025-12-23",
+        "address": "K15, GRD FLR, MITSUI OUTLET PARK PERSIARAN KOMERSIAL"
     },
     "WKMP": {
         "code": "WKMP",
@@ -22618,7 +22727,7 @@
     "WPK5": {
         "code": "WPK5",
         "name": "**** A/C CLOSED 06/09/2022 **** P.K.TIME SDN BHD (MIDVALLEY)",
-        "city": null,
+        "city": "Kuala Lumpur",
         "postcode": "58000",
         "state": "Wilayah Persekutuan Kuala Lumpur",
         "country": "",
@@ -22630,7 +22739,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2022-09-06",
+        "updated_on": "2026-03-11",
         "address": "**** A/C CLOSED - DO NOT SEND **** Lot LG-080, Lower Ground Floor, Mid Valley Megamall, Mid Valley City"
     },
     "WPK6": {
@@ -22960,7 +23069,7 @@
     "WPT3": {
         "code": "WPT3",
         "name": "PEARL TIME (PEARL POINT)",
-        "city": null,
+        "city": "Kuala Lumpur",
         "postcode": "58000",
         "state": "Wilayah Persekutuan Kuala Lumpur",
         "country": "",
@@ -22972,13 +23081,13 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2025-01-06",
+        "updated_on": "2026-03-11",
         "address": "Pearl Point Shopping Mall, 1.0.43, Grd.Flr., Jalan Klang Lama"
     },
     "WPT4": {
         "code": "WPT4",
         "name": "PEARL TIME (ENDAH PARADE)",
-        "city": null,
+        "city": "Sri Petaling",
         "postcode": "57000",
         "state": "Wilayah Persekutuan Kuala Lumpur",
         "country": "",
@@ -22990,7 +23099,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2025-01-06",
+        "updated_on": "2026-03-11",
         "address": "G002, Ground Floor, Endah Parade, 1, Jalan 1/149E, Bandar Baru Sri Petaling"
     },
     "WPT5": {
@@ -23014,7 +23123,7 @@
     "WPT7": {
         "code": "WPT7",
         "name": "PEARL TIME (QUILL CITY MALL)",
-        "city": "KUALA LUMPUR",
+        "city": "Kuala Lumpur",
         "postcode": "50250",
         "state": "Wilayah Persekutuan Kuala Lumpur",
         "country": "MY",
@@ -23026,7 +23135,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2016-05-11",
+        "updated_on": "2026-03-11",
         "address": "Lot 1-17, 1st Floor, Quill City Mall, 1018, Jalan Sultan Ismail"
     },
     "WPT8": {
@@ -23050,7 +23159,7 @@
     "WPT9": {
         "code": "WPT9",
         "name": "**** A/C CLOSED 12/08/22 **** PEARL TIME (BERJAYA - LG)",
-        "city": null,
+        "city": "Kuala Lumpur",
         "postcode": "55100",
         "state": "Wilayah Persekutuan Kuala Lumpur",
         "country": "",
@@ -23062,7 +23171,7 @@
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2022-08-12",
+        "updated_on": "2026-03-11",
         "address": "**** A/C CLOSED - DO NOT SEND **** Lot LG-38-39, Lower Ground Floor, Berjaya Times Square, Jalan Imbi"
     },
     "WPTA": {
@@ -23571,7 +23680,7 @@
     },
     "WSKW": {
         "code": "WSKW",
-        "name": "SIN KONG WAH TRADING",
+        "name": "**** A/C CLOSED 25/03/26 **** SIN KONG WAH TRADING",
         "city": "Batu Caves",
         "postcode": "68100",
         "state": "Selangor",
@@ -23580,12 +23689,12 @@
         "phone_num": "60361898353",
         "contact": "K.K.LIM",
         "agent": "Lim",
-        "remark": "BY HAND",
+        "remark": "****A/C CLOSED 25/03/26 CONFIRM BY LCS ****\r\n\r\nBY HAND",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
-        "status": "A",
-        "updated_on": "2025-04-11",
-        "address": "6, SG 1/5, Taman Seri Gombak, Jalan Batu Caves"
+        "status": "C",
+        "updated_on": "2026-03-25",
+        "address": "**** A/C CLOSED - DO NOT SEND **** 6, SG 1/5, Taman Seri Gombak, Jalan Batu Caves"
     },
     "WSL1": {
         "code": "WSL1",
@@ -23994,12 +24103,12 @@
         "phone_num": "60123041907",
         "contact": "Mr",
         "agent": "Yap",
-        "remark": "ROSC\r\n",
+        "remark": "ROSC\r\n OLD ADDRESS: G53, Ground Floor,Klang Parade, Jalan Meru,41050 Klang, SELANGOR",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-04-11",
-        "address": "G53, Ground Floor, Klang Parade, Jalan Meru"
+        "updated_on": "2026-04-03",
+        "address": "G68, Ground Floor, Klang Parade, Jalan Meru"
     },
     "WSTS": {
         "code": "WSTS",
@@ -24400,19 +24509,19 @@
     "WTGB": {
         "code": "WTGB",
         "name": "TIME GALERIE (M) SDN BHD  (C25)",
-        "city": null,
+        "city": "Kepong",
         "postcode": "52100",
         "state": "Wilayah Persekutuan Kuala Lumpur",
         "country": "",
         "territory": "GROC",
-        "phone_num": "",
+        "phone_num": "60126997250",
         "contact": "Mr",
         "agent": "102",
         "remark": "- Print before setup (TEMPORARY FOR TG )\r\n\r\n[YY-230906] INACTIVE Account. Temporarily close to avoid parcel being deliver to wrong account.",
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "C",
-        "updated_on": "2023-09-06",
+        "updated_on": "2026-03-11",
         "address": "1st Floor, AEON Metro Prima, Jalan Metro Prima, Taman Kepong"
     },
     "WTGC": {
@@ -25228,19 +25337,19 @@
     "WTT4": {
         "code": "WTT4",
         "name": "THE TIME SHOP (CENTRAL I-CITY)",
-        "city": null,
+        "city": "Shah Alam",
         "postcode": "40000",
         "state": "Selangor",
         "country": "",
         "territory": "MALL",
-        "phone_num": "",
+        "phone_num": "60361252233",
         "contact": "Mr",
         "agent": "Lim",
         "remark": null,
         "entity_type": "MALAYSIAN_COMPANY",
         "contact_type": "C",
         "status": "A",
-        "updated_on": "2025-07-30",
+        "updated_on": "2026-03-11",
         "address": "LOT G-K01 Ground Floor, Central I-City Shopping Centre,  1,Persiaran Multimedia,I-city Seksyen 7"
     },
     "WTTC": {

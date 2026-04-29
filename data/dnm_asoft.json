@@ -1,66 +1,40 @@
 {
-    "DN25/0802": {
-        "doc_no": "DN25/0802",
-        "doc_date": "2025-08-25",
-        "card_id": "SPTM",
-        "adj_type": "MIS",
-        "sm_id": "Kee",
-        "currency_id": "MYR",
-        "currency_rate": 1.0,
-        "amount": 483.0,
-        "amount_rm": 483.0,
-        "remark": "",
-        "invoice_type": 6
-    },
-    "DN25/0901": {
-        "doc_no": "DN25/0901",
-        "doc_date": "2025-09-04",
-        "card_id": "WKM4",
-        "adj_type": "MIS",
-        "sm_id": "Yap",
-        "currency_id": "MYR",
-        "currency_rate": 1.0,
-        "amount": 714.55,
-        "amount_rm": 714.55,
-        "remark": "",
-        "invoice_type": 6
-    },
-    "DN25/0902": {
-        "doc_no": "DN25/0902",
-        "doc_date": "2025-09-18",
+    "DN26/0201": {
+        "doc_no": "DN26/0201",
+        "doc_date": "2026-02-27",
         "card_id": "JSHP",
         "adj_type": "MIS",
         "sm_id": "101",
         "currency_id": "MYR",
         "currency_rate": 1.0,
-        "amount": 200.87,
-        "amount_rm": 200.87,
+        "amount": 79.31,
+        "amount_rm": 79.31,
         "remark": "",
         "invoice_type": 6
     },
-    "DN25/1001": {
-        "doc_no": "DN25/1001",
-        "doc_date": "2025-10-27",
+    "DN26/0301": {
+        "doc_no": "DN26/0301",
+        "doc_date": "2026-03-06",
         "card_id": "JSHP",
         "adj_type": "MIS",
         "sm_id": "101",
         "currency_id": "MYR",
         "currency_rate": 1.0,
-        "amount": 14.75,
-        "amount_rm": 14.75,
+        "amount": 307.69,
+        "amount_rm": 307.69,
         "remark": "",
         "invoice_type": 6
     },
-    "DN25/1101": {
-        "doc_no": "DN25/1101",
-        "doc_date": "2025-11-11",
+    "DN26/0401": {
+        "doc_no": "DN26/0401",
+        "doc_date": "2026-04-07",
         "card_id": "JSHP",
         "adj_type": "MIS",
         "sm_id": "101",
         "currency_id": "MYR",
         "currency_rate": 1.0,
-        "amount": 40.0,
-        "amount_rm": 40.0,
+        "amount": 499.98,
+        "amount_rm": 499.98,
         "remark": "",
         "invoice_type": 6
     }

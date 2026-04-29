@@ -1,119 +1,1104 @@
 {
-    "SB75532": [
+    "SB76070": [
         {
-            "doc_no": "SB75532",
+            "doc_no": "SB76070",
             "item_no": 1,
-            "stock_id": "S01537",
-            "remark": "EXC CASE & GLASS",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "249037"
-        }
-    ],
-    "SB75816": [
-        {
-            "doc_no": "SB75816",
-            "item_no": 1,
-            "stock_id": "E475T5",
-            "remark": "PIN 1PCS",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "453FEB"
-        },
-        {
-            "doc_no": "SB75816",
-            "item_no": 2,
-            "stock_id": "411915",
-            "remark": "SERVICE, WATER RESISTANT, BATTERY, CROWN & STEM",
-            "qty": 1.0,
-            "price": 57.0,
-            "serial_no": "661084G"
-        }
-    ],
-    "SB75818": [
-        {
-            "doc_no": "SB75818",
-            "item_no": 1,
-            "stock_id": "4518T8",
-            "remark": "R/BRACELET",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "241277"
-        }
-    ],
-    "SB75820": [
-        {
-            "doc_no": "SB75820",
-            "item_no": 1,
-            "stock_id": "489729",
+            "stock_id": "B45545",
             "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "245290"
+            "serial_no": "535835L"
         }
     ],
-    "SB75893": [
+    "SB76589": [
         {
-            "doc_no": "SB75893",
+            "doc_no": "SB76589",
             "item_no": 1,
-            "stock_id": "405443",
-            "remark": "BATTERY, MOVEMENT, WATER RESISTANT",
-            "qty": 1.0,
-            "price": 48.0,
-            "serial_no": "844093"
-        }
-    ],
-    "SB76041": [
-        {
-            "doc_no": "SB76041",
-            "item_no": 1,
-            "stock_id": "505924",
-            "remark": "EXC HAND",
+            "stock_id": "S01242",
+            "remark": "R/GLASS",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "810787"
+            "serial_no": "032013"
         }
     ],
-    "SB76042": [
+    "SB76596": [
         {
-            "doc_no": "SB76042",
+            "doc_no": "SB76596",
             "item_no": 1,
-            "stock_id": "569993",
+            "stock_id": "S12459",
+            "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "449MSB"
+        }
+    ],
+    "SB76603": [
+        {
+            "doc_no": "SB76603",
+            "item_no": 1,
+            "stock_id": "427945",
+            "remark": "U/G - EXC STRAP",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "751200G"
+        }
+    ],
+    "SB76604": [
+        {
+            "doc_no": "SB76604",
+            "item_no": 1,
+            "stock_id": "532363",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "65668M"
+            "serial_no": "840106"
+        }
+    ],
+    "SB76605": [
+        {
+            "doc_no": "SB76605",
+            "item_no": 1,
+            "stock_id": "S05507",
+            "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "229032"
+        }
+    ],
+    "SB76607": [
+        {
+            "doc_no": "SB76607",
+            "item_no": 1,
+            "stock_id": "4356T5",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "010130"
         },
         {
-            "doc_no": "SB76042",
+            "doc_no": "SB76607",
             "item_no": 2,
-            "stock_id": "539193",
+            "stock_id": "930856",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "762087"
+            "serial_no": "265569L"
         },
         {
-            "doc_no": "SB76042",
+            "doc_no": "SB76607",
             "item_no": 3,
-            "stock_id": "525924",
+            "stock_id": "E434G0",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "930080"
+            "serial_no": "321377"
         },
         {
-            "doc_no": "SB76042",
+            "doc_no": "SB76607",
             "item_no": 4,
-            "stock_id": "4427G3",
+            "stock_id": "E455G5",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "321370"
+        },
+        {
+            "doc_no": "SB76607",
+            "item_no": 5,
+            "stock_id": "E454G3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "321370"
+        },
+        {
+            "doc_no": "SB76607",
+            "item_no": 6,
+            "stock_id": "E39556",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "131343"
+        },
+        {
+            "doc_no": "SB76607",
+            "item_no": 7,
+            "stock_id": "4264T3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "921254"
+        },
+        {
+            "doc_no": "SB76607",
+            "item_no": 11,
+            "stock_id": "4606T9",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "231036"
+        }
+    ],
+    "SB76608": [
+        {
+            "doc_no": "SB76608",
+            "item_no": 1,
+            "stock_id": "489752",
+            "remark": "N/W - MOVEMENT",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "610307"
+        }
+    ],
+    "SB76609": [
+        {
+            "doc_no": "SB76609",
+            "item_no": 1,
+            "stock_id": "558955",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "450411"
+        },
+        {
+            "doc_no": "SB76609",
+            "item_no": 2,
+            "stock_id": "S12952",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "449MSB"
+        },
+        {
+            "doc_no": "SB76609",
+            "item_no": 3,
+            "stock_id": "498950",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "611301"
+        },
+        {
+            "doc_no": "SB76609",
+            "item_no": 4,
+            "stock_id": "E695G3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "360311"
+        },
+        {
+            "doc_no": "SB76609",
+            "item_no": 5,
+            "stock_id": "489728",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "245659"
+        },
+        {
+            "doc_no": "SB76609",
+            "item_no": 6,
+            "stock_id": "E694G5",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "360055"
+        }
+    ],
+    "SB76610": [
+        {
+            "doc_no": "SB76610",
+            "item_no": 1,
+            "stock_id": "S01494",
+            "remark": "GLASS & CASE",
+            "qty": 1.0,
+            "price": 57.6,
+            "serial_no": "112018"
+        }
+    ],
+    "SB76611": [
+        {
+            "doc_no": "SB76611",
+            "item_no": 1,
+            "stock_id": "E18656",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "831222"
+        },
+        {
+            "doc_no": "SB76611",
+            "item_no": 2,
+            "stock_id": "S12353",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "449MSB"
+        },
+        {
+            "doc_no": "SB76611",
+            "item_no": 3,
+            "stock_id": "E294G3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "951303"
+        },
+        {
+            "doc_no": "SB76611",
+            "item_no": 4,
+            "stock_id": "E12496",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "821237"
+        },
+        {
+            "doc_no": "SB76611",
+            "item_no": 5,
+            "stock_id": "S12459",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "821237"
+        },
+        {
+            "doc_no": "SB76611",
+            "item_no": 6,
+            "stock_id": "4316S6",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "861257G"
+        },
+        {
+            "doc_no": "SB76611",
+            "item_no": 7,
+            "stock_id": "S07069",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "329044"
+        },
+        {
+            "doc_no": "SB76611",
+            "item_no": 8,
+            "stock_id": "B96846",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "320581"
+        }
+    ],
+    "SB76612": [
+        {
+            "doc_no": "SB76612",
+            "item_no": 1,
+            "stock_id": "S08252",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "341387"
+        },
+        {
+            "doc_no": "SB76612",
+            "item_no": 2,
+            "stock_id": "B44746",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "5320498B"
+        },
+        {
+            "doc_no": "SB76612",
+            "item_no": 3,
+            "stock_id": "S08459",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "341387"
+        },
+        {
+            "doc_no": "SB76612",
+            "item_no": 4,
+            "stock_id": "E12296",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "821237"
+        },
+        {
+            "doc_no": "SB76612",
+            "item_no": 5,
+            "stock_id": "497650",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "011099"
+        },
+        {
+            "doc_no": "SB76612",
+            "item_no": 6,
+            "stock_id": "498965",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "438007"
+        },
+        {
+            "doc_no": "SB76612",
+            "item_no": 7,
+            "stock_id": "4285T3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "850162"
+        },
+        {
+            "doc_no": "SB76612",
+            "item_no": 8,
+            "stock_id": "618746",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "550245"
+        }
+    ],
+    "SB76613": [
+        {
+            "doc_no": "SB76613",
+            "item_no": 1,
+            "stock_id": "E695G1",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "360194"
+        },
+        {
+            "doc_no": "SB76613",
+            "item_no": 2,
+            "stock_id": "512964",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "830607"
+        },
+        {
+            "doc_no": "SB76613",
+            "item_no": 3,
+            "stock_id": "S07963",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "329044"
+        },
+        {
+            "doc_no": "SB76613",
+            "item_no": 4,
+            "stock_id": "566923",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "540345"
+        },
+        {
+            "doc_no": "SB76613",
+            "item_no": 5,
+            "stock_id": "B63964",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "650605"
+        },
+        {
+            "doc_no": "SB76613",
+            "item_no": 6,
+            "stock_id": "S08453",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "341387"
+        },
+        {
+            "doc_no": "SB76613",
+            "item_no": 7,
+            "stock_id": "E694G5",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "360403"
+        },
+        {
+            "doc_no": "SB76613",
+            "item_no": 8,
+            "stock_id": "E78556",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "230038"
+        }
+    ],
+    "SB76614": [
+        {
+            "doc_no": "SB76614",
+            "item_no": 1,
+            "stock_id": "E919G5",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "933037"
+        },
+        {
+            "doc_no": "SB76614",
+            "item_no": 2,
+            "stock_id": "902333",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "863032"
+        },
+        {
+            "doc_no": "SB76614",
+            "item_no": 3,
+            "stock_id": "448649",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "131337L"
+        },
+        {
+            "doc_no": "SB76614",
+            "item_no": 4,
+            "stock_id": "A90945",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "160402"
+        },
+        {
+            "doc_no": "SB76614",
+            "item_no": 5,
+            "stock_id": "139995",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "869906"
+        }
+    ],
+    "SB76615": [
+        {
+            "doc_no": "SB76615",
+            "item_no": 1,
+            "stock_id": "B71533",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "630261"
+        },
+        {
+            "doc_no": "SB76615",
+            "item_no": 2,
+            "stock_id": "B95506",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "425285"
+        },
+        {
+            "doc_no": "SB76615",
+            "item_no": 3,
+            "stock_id": "430403",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "940011"
+        },
+        {
+            "doc_no": "SB76615",
+            "item_no": 4,
+            "stock_id": "430905",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "940424"
+        },
+        {
+            "doc_no": "SB76615",
+            "item_no": 5,
+            "stock_id": "430903",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "940449"
+        }
+    ],
+    "SB76616": [
+        {
+            "doc_no": "SB76616",
+            "item_no": 1,
+            "stock_id": "506726",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "810105"
+        },
+        {
+            "doc_no": "SB76616",
+            "item_no": 2,
+            "stock_id": "682915",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "200789"
+        },
+        {
+            "doc_no": "SB76616",
+            "item_no": 3,
+            "stock_id": "E38496",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "131339"
+        },
+        {
+            "doc_no": "SB76616",
+            "item_no": 4,
+            "stock_id": "E18656",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "831222"
+        },
+        {
+            "doc_no": "SB76616",
+            "item_no": 5,
+            "stock_id": "301856UL",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "061D31"
+        }
+    ],
+    "SB76617": [
+        {
+            "doc_no": "SB76617",
+            "item_no": 1,
+            "stock_id": "S96959",
+            "remark": "N/W - EXC CASE",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "440944"
+        }
+    ],
+    "SB76618": [
+        {
+            "doc_no": "SB76618",
+            "item_no": 1,
+            "stock_id": "B33526",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "466065L"
+        },
+        {
+            "doc_no": "SB76618",
+            "item_no": 2,
+            "stock_id": "B35898",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "466103L"
+        },
+        {
+            "doc_no": "SB76618",
+            "item_no": 3,
+            "stock_id": "A54994",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "245429"
+        },
+        {
+            "doc_no": "SB76618",
+            "item_no": 4,
+            "stock_id": "A48755",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "231M62"
+        },
+        {
+            "doc_no": "SB76618",
+            "item_no": 5,
+            "stock_id": "E274S5",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "931286"
+        }
+    ],
+    "SB76619": [
+        {
+            "doc_no": "SB76619",
+            "item_no": 1,
+            "stock_id": "B26555",
+            "remark": "BRACELET LINK 1PCS",
+            "qty": 1.0,
+            "price": 20.0,
+            "serial_no": "425616L"
+        }
+    ],
+    "SB76620": [
+        {
+            "doc_no": "SB76620",
+            "item_no": 1,
+            "stock_id": "4379S3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "951297G"
+        },
+        {
+            "doc_no": "SB76620",
+            "item_no": 2,
+            "stock_id": "4416G9",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "111330G"
+        },
+        {
+            "doc_no": "SB76620",
+            "item_no": 3,
+            "stock_id": "489593",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "245110"
+        },
+        {
+            "doc_no": "SB76620",
+            "item_no": 4,
+            "stock_id": "497993",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "327041"
+        },
+        {
+            "doc_no": "SB76620",
+            "item_no": 5,
+            "stock_id": "498996",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "327136"
+        },
+        {
+            "doc_no": "SB76620",
+            "item_no": 6,
+            "stock_id": "497552",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "118495"
+        },
+        {
+            "doc_no": "SB76620",
+            "item_no": 7,
+            "stock_id": "4417G0",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "111330G"
+        },
+        {
+            "doc_no": "SB76620",
+            "item_no": 8,
+            "stock_id": "803931",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "803140"
+        }
+    ],
+    "SB76621": [
+        {
+            "doc_no": "SB76621",
+            "item_no": 1,
+            "stock_id": "497716",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "118824"
+        },
+        {
+            "doc_no": "SB76621",
+            "item_no": 2,
+            "stock_id": "497650",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "011799"
+        },
+        {
+            "doc_no": "SB76621",
+            "item_no": 3,
+            "stock_id": "489965",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "611119"
+        },
+        {
+            "doc_no": "SB76621",
+            "item_no": 4,
+            "stock_id": "489993",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "215061"
+        }
+    ],
+    "SB76622": [
+        {
+            "doc_no": "SB76622",
+            "item_no": 1,
+            "stock_id": "E694G5",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "360317"
+        },
+        {
+            "doc_no": "SB76622",
+            "item_no": 2,
+            "stock_id": "E36489",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "111336L"
+        },
+        {
+            "doc_no": "SB76622",
+            "item_no": 4,
+            "stock_id": "B49905",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "635755L"
+        },
+        {
+            "doc_no": "SB76622",
+            "item_no": 5,
+            "stock_id": "406445",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "844332"
+        },
+        {
+            "doc_no": "SB76622",
+            "item_no": 6,
+            "stock_id": "E37449",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "111332"
+        },
+        {
+            "doc_no": "SB76622",
+            "item_no": 7,
+            "stock_id": "E264G3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "931270"
+        },
+        {
+            "doc_no": "SB76622",
+            "item_no": 8,
+            "stock_id": "4426G9",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
             "serial_no": "111330L"
         },
         {
-            "doc_no": "SB76042",
+            "doc_no": "SB76622",
+            "item_no": 9,
+            "stock_id": "B44906",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "5320498B"
+        }
+    ],
+    "SB76623": [
+        {
+            "doc_no": "SB76623",
+            "item_no": 1,
+            "stock_id": "4609L8",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "253162"
+        },
+        {
+            "doc_no": "SB76623",
+            "item_no": 3,
+            "stock_id": "E09965",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "731188"
+        },
+        {
+            "doc_no": "SB76623",
+            "item_no": 4,
+            "stock_id": "4427G0",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "111330L"
+        },
+        {
+            "doc_no": "SB76623",
             "item_no": 5,
+            "stock_id": "E36582",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "111336L"
+        },
+        {
+            "doc_no": "SB76623",
+            "item_no": 6,
+            "stock_id": "4427E6",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "261366L"
+        },
+        {
+            "doc_no": "SB76623",
+            "item_no": 7,
+            "stock_id": "E849G6",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "635755L"
+        },
+        {
+            "doc_no": "SB76623",
+            "item_no": 8,
+            "stock_id": "448746",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "131337L"
+        },
+        {
+            "doc_no": "SB76623",
+            "item_no": 9,
+            "stock_id": "E196T6",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "920415"
+        }
+    ],
+    "SB76624": [
+        {
+            "doc_no": "SB76624",
+            "item_no": 1,
+            "stock_id": "E36988",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "111336L"
+        },
+        {
+            "doc_no": "SB76624",
+            "item_no": 2,
+            "stock_id": "E234G3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "921282"
+        },
+        {
+            "doc_no": "SB76624",
+            "item_no": 3,
+            "stock_id": "E244G3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "931279"
+        },
+        {
+            "doc_no": "SB76624",
+            "item_no": 4,
+            "stock_id": "E75656",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "230699"
+        },
+        {
+            "doc_no": "SB76624",
+            "item_no": 5,
+            "stock_id": "B55906",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "626350L"
+        },
+        {
+            "doc_no": "SB76624",
+            "item_no": 6,
+            "stock_id": "E82554",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "130056"
+        },
+        {
+            "doc_no": "SB76624",
+            "item_no": 7,
+            "stock_id": "E97934",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "750528"
+        },
+        {
+            "doc_no": "SB76624",
+            "item_no": 8,
+            "stock_id": "E414G3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "231352"
+        }
+    ],
+    "SB76625": [
+        {
+            "doc_no": "SB76625",
+            "item_no": 1,
+            "stock_id": "E85433",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "050397"
+        },
+        {
+            "doc_no": "SB76625",
+            "item_no": 2,
+            "stock_id": "E75459",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "230623"
+        },
+        {
+            "doc_no": "SB76625",
+            "item_no": 3,
+            "stock_id": "E85439",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "050285"
+        },
+        {
+            "doc_no": "SB76625",
+            "item_no": 4,
+            "stock_id": "E75556",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "230103"
+        },
+        {
+            "doc_no": "SB76625",
+            "item_no": 5,
+            "stock_id": "E82956",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "130116"
+        }
+    ],
+    "SB76626": [
+        {
+            "doc_no": "SB76626",
+            "item_no": 1,
+            "stock_id": "E97230",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "842025"
+        }
+    ],
+    "SB76627": [
+        {
+            "doc_no": "SB76627",
+            "item_no": 1,
+            "stock_id": "B62966",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "650592"
+        },
+        {
+            "doc_no": "SB76627",
+            "item_no": 2,
+            "stock_id": "E289G8",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "951302"
+        },
+        {
+            "doc_no": "SB76627",
+            "item_no": 3,
+            "stock_id": "E75450",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "230704"
+        },
+        {
+            "doc_no": "SB76627",
+            "item_no": 4,
+            "stock_id": "E13953",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "751207"
+        },
+        {
+            "doc_no": "SB76627",
+            "item_no": 5,
+            "stock_id": "E13553",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "751207"
+        },
+        {
+            "doc_no": "SB76627",
+            "item_no": 7,
+            "stock_id": "S06764",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "269041"
+        },
+        {
+            "doc_no": "SB76627",
+            "item_no": 8,
             "stock_id": "S06868",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
@@ -121,756 +1106,1003 @@
             "serial_no": "269041"
         },
         {
-            "doc_no": "SB76042",
-            "item_no": 6,
-            "stock_id": "E896T6",
+            "doc_no": "SB76627",
+            "item_no": 9,
+            "stock_id": "B91944",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "920415"
-        },
-        {
-            "doc_no": "SB76042",
-            "item_no": 7,
-            "stock_id": "176466",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "950173"
+            "serial_no": "430514"
         }
     ],
-    "SB76047": [
+    "SB76628": [
         {
-            "doc_no": "SB76047",
+            "doc_no": "SB76628",
             "item_no": 1,
-            "stock_id": "Z",
-            "remark": "GLASS",
+            "stock_id": "A88545",
+            "remark": "U/G - STONE 54 PCS",
             "qty": 1.0,
-            "price": 30.0,
-            "serial_no": "029297"
+            "price": 0.0,
+            "serial_no": "140268"
+        }
+    ],
+    "SB76629": [
+        {
+            "doc_no": "SB76629",
+            "item_no": 1,
+            "stock_id": "4509E6",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "253072"
         },
         {
-            "doc_no": "SB76047",
+            "doc_no": "SB76629",
             "item_no": 2,
-            "stock_id": "Z",
-            "remark": "HUSH PUPPIES GLASS",
-            "qty": 1.0,
-            "price": 30.0,
-            "serial_no": "3293L"
-        },
-        {
-            "doc_no": "SB76047",
-            "item_no": 3,
-            "stock_id": "Z",
-            "remark": "GLASS",
-            "qty": 1.0,
-            "price": 30.0,
-            "serial_no": "60BWJ5"
-        }
-    ],
-    "SB76048": [
-        {
-            "doc_no": "SB76048",
-            "item_no": 1,
-            "stock_id": "S06469",
-            "remark": "U/G EXC CASE",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "269041"
-        },
-        {
-            "doc_no": "SB76048",
-            "item_no": 2,
-            "stock_id": "E354E3",
-            "remark": "U/G SERVICE & BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "021316"
-        }
-    ],
-    "SB76116": [
-        {
-            "doc_no": "SB76116",
-            "item_no": 1,
-            "stock_id": "497792",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "326168"
-        }
-    ],
-    "SB76117": [
-        {
-            "doc_no": "SB76117",
-            "item_no": 1,
-            "stock_id": "405040",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "844215"
-        },
-        {
-            "doc_no": "SB76117",
-            "item_no": 2,
-            "stock_id": "S96858",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "441680"
-        },
-        {
-            "doc_no": "SB76117",
-            "item_no": 3,
-            "stock_id": "4528T8",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "241019"
-        },
-        {
-            "doc_no": "SB76117",
-            "item_no": 4,
-            "stock_id": "489728",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "245626"
-        },
-        {
-            "doc_no": "SB76117",
-            "item_no": 5,
-            "stock_id": "489729",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "245860"
-        },
-        {
-            "doc_no": "SB76117",
-            "item_no": 6,
-            "stock_id": "4513T3",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "541146"
-        },
-        {
-            "doc_no": "SB76117",
-            "item_no": 7,
             "stock_id": "4518T8",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "241202"
+            "serial_no": "241211"
         },
         {
-            "doc_no": "SB76117",
-            "item_no": 8,
-            "stock_id": "E435G1",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "321377"
-        }
-    ],
-    "SB76162": [
-        {
-            "doc_no": "SB76162",
-            "item_no": 1,
-            "stock_id": "S96551",
-            "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "440261"
-        },
-        {
-            "doc_no": "SB76162",
-            "item_no": 2,
-            "stock_id": "498742",
-            "remark": "N/W - HANDS",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "445796"
-        }
-    ],
-    "SB76165": [
-        {
-            "doc_no": "SB76165",
-            "item_no": 1,
-            "stock_id": "840393",
-            "remark": "U/G - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "8380132"
-        },
-        {
-            "doc_no": "SB76165",
-            "item_no": 2,
-            "stock_id": "S01142",
-            "remark": "U/G - BATTERY. R/GLASS",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "032013"
-        },
-        {
-            "doc_no": "SB76165",
+            "doc_no": "SB76629",
             "item_no": 3,
-            "stock_id": "S01492",
-            "remark": "U/G - BATTERY. R/GLASS",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "112018"
-        }
-    ],
-    "SB76167": [
-        {
-            "doc_no": "SB76167",
-            "item_no": 1,
-            "stock_id": "4504L9",
-            "remark": "N/W - POLISH",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "436222"
-        },
-        {
-            "doc_no": "SB76167",
-            "item_no": 2,
-            "stock_id": "E684G9",
+            "stock_id": "E695G3",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "360403"
+            "serial_no": "360373"
         },
         {
-            "doc_no": "SB76167",
-            "item_no": 3,
-            "stock_id": "414905",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "731100L"
-        },
-        {
-            "doc_no": "SB76167",
+            "doc_no": "SB76629",
             "item_no": 4,
-            "stock_id": "489450",
+            "stock_id": "E685G1",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "246291"
+            "serial_no": "360030"
         },
         {
-            "doc_no": "SB76167",
+            "doc_no": "SB76629",
             "item_no": 5,
-            "stock_id": "E725G7",
+            "stock_id": "424944",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "310060"
+            "serial_no": "820570"
         },
         {
-            "doc_no": "SB76167",
+            "doc_no": "SB76629",
             "item_no": 6,
-            "stock_id": "E724G6",
+            "stock_id": "4609E3",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "340548"
-        }
-    ],
-    "SB76168": [
-        {
-            "doc_no": "SB76168",
-            "item_no": 1,
-            "stock_id": "S975K5",
-            "remark": "STONE 1PCS",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "521699"
-        }
-    ],
-    "SB76203": [
-        {
-            "doc_no": "SB76203",
-            "item_no": 1,
-            "stock_id": "4513T3",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "241124"
+            "serial_no": "253099"
         },
         {
-            "doc_no": "SB76203",
-            "item_no": 2,
-            "stock_id": "E447N5",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "321373"
-        },
-        {
-            "doc_no": "SB76203",
-            "item_no": 3,
-            "stock_id": "489529",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "245118"
-        },
-        {
-            "doc_no": "SB76203",
-            "item_no": 4,
-            "stock_id": "497716",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "245209"
-        }
-    ],
-    "SB76204": [
-        {
-            "doc_no": "SB76204",
-            "item_no": 1,
-            "stock_id": "E644G4",
-            "remark": "STONE - 1PCS",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "460626"
-        }
-    ],
-    "SB76205": [
-        {
-            "doc_no": "SB76205",
-            "item_no": 1,
-            "stock_id": "912209",
-            "remark": "EXC CROWN",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "255507G"
-        }
-    ],
-    "SB76207": [
-        {
-            "doc_no": "SB76207",
-            "item_no": 1,
-            "stock_id": "955916",
-            "remark": "GLASS, WATER RESISTANT",
-            "qty": 1.0,
-            "price": 54.0,
-            "serial_no": "041C98"
-        }
-    ],
-    "SB76208": [
-        {
-            "doc_no": "SB76208",
-            "item_no": 1,
-            "stock_id": "S01495",
-            "remark": "U/G - R/DIAL, WATER RESISTANT, SERVICE",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "112018"
-        }
-    ],
-    "SB76211": [
-        {
-            "doc_no": "SB76211",
-            "item_no": 1,
-            "stock_id": "S96450",
-            "remark": "U/G - EXC CASE",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "441750"
-        }
-    ],
-    "SB76212": [
-        {
-            "doc_no": "SB76212",
-            "item_no": 1,
-            "stock_id": "497965",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "246726"
-        },
-        {
-            "doc_no": "SB76212",
-            "item_no": 2,
-            "stock_id": "497716",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "245389"
-        }
-    ],
-    "SB76213": [
-        {
-            "doc_no": "SB76213",
-            "item_no": 1,
-            "stock_id": "E94956",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "830661"
-        },
-        {
-            "doc_no": "SB76213",
-            "item_no": 2,
-            "stock_id": "S06262",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "269041"
-        },
-        {
-            "doc_no": "SB76213",
-            "item_no": 3,
-            "stock_id": "E15953",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "751205"
-        },
-        {
-            "doc_no": "SB76213",
-            "item_no": 4,
-            "stock_id": "397959",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "223387"
-        },
-        {
-            "doc_no": "SB76213",
-            "item_no": 5,
-            "stock_id": "489794",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "245371"
-        },
-        {
-            "doc_no": "SB76213",
-            "item_no": 6,
-            "stock_id": "489797",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "245611"
-        },
-        {
-            "doc_no": "SB76213",
+            "doc_no": "SB76629",
             "item_no": 7,
-            "stock_id": "489716",
+            "stock_id": "4316S6",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "245564"
+            "serial_no": "861257G"
         },
         {
-            "doc_no": "SB76213",
+            "doc_no": "SB76629",
             "item_no": 8,
-            "stock_id": "E445N3",
+            "stock_id": "424666",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "321373"
+            "serial_no": "924075"
         }
     ],
-    "SB76214": [
+    "SB76630": [
         {
-            "doc_no": "SB76214",
+            "doc_no": "SB76630",
             "item_no": 1,
-            "stock_id": "423946",
+            "stock_id": "4279T8",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "820511"
+            "serial_no": "840314"
         },
         {
-            "doc_no": "SB76214",
+            "doc_no": "SB76630",
             "item_no": 2,
-            "stock_id": "4287T5",
+            "stock_id": "4449L6",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "850238"
+            "serial_no": "06C039"
         },
         {
-            "doc_no": "SB76214",
+            "doc_no": "SB76630",
             "item_no": 3,
-            "stock_id": "4609L8",
+            "stock_id": "4277T5",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "253278"
+            "serial_no": "840475"
         },
         {
-            "doc_no": "SB76214",
+            "doc_no": "SB76630",
             "item_no": 4,
-            "stock_id": "E10566",
+            "stock_id": "4447L6",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "731187"
+            "serial_no": "06C039"
         },
         {
-            "doc_no": "SB76214",
+            "doc_no": "SB76630",
             "item_no": 5,
-            "stock_id": "E10564",
+            "stock_id": "4354T3",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "731187"
+            "serial_no": "010049"
+        },
+        {
+            "doc_no": "SB76630",
+            "item_no": 7,
+            "stock_id": "E684G5",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "360409"
+        },
+        {
+            "doc_no": "SB76630",
+            "item_no": 8,
+            "stock_id": "424443",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "841357"
+        },
+        {
+            "doc_no": "SB76630",
+            "item_no": 10,
+            "stock_id": "E685G3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "360024"
         }
     ],
-    "SB76215": [
+    "SB76631": [
         {
-            "doc_no": "SB76215",
+            "doc_no": "SB76631",
             "item_no": 1,
-            "stock_id": "E435G3",
+            "stock_id": "E14945",
+            "remark": "N/W - MOVEMENT",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "751206"
+        },
+        {
+            "doc_no": "SB76631",
+            "item_no": 2,
+            "stock_id": "4277T5",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "321377"
+            "serial_no": "840325"
+        },
+        {
+            "doc_no": "SB76631",
+            "item_no": 3,
+            "stock_id": "4609E3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "253121"
+        },
+        {
+            "doc_no": "SB76631",
+            "item_no": 4,
+            "stock_id": "423643",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "924133"
         }
     ],
-    "SB76216": [
+    "SB76632": [
         {
-            "doc_no": "SB76216",
+            "doc_no": "SB76632",
+            "item_no": 1,
+            "stock_id": "4505T2",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "140007"
+        },
+        {
+            "doc_no": "SB76632",
+            "item_no": 2,
+            "stock_id": "S105N1",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "361399"
+        },
+        {
+            "doc_no": "SB76632",
+            "item_no": 3,
+            "stock_id": "4416G0",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "111330G"
+        },
+        {
+            "doc_no": "SB76632",
+            "item_no": 4,
+            "stock_id": "S104N0",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "361399"
+        },
+        {
+            "doc_no": "SB76632",
+            "item_no": 5,
+            "stock_id": "S115T7",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "361396"
+        },
+        {
+            "doc_no": "SB76632",
+            "item_no": 6,
+            "stock_id": "E77553",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "230029"
+        },
+        {
+            "doc_no": "SB76632",
+            "item_no": 7,
+            "stock_id": "S104N9",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "361399"
+        },
+        {
+            "doc_no": "SB76632",
+            "item_no": 8,
+            "stock_id": "4608T8",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "230706"
+        }
+    ],
+    "SB76633": [
+        {
+            "doc_no": "SB76633",
             "item_no": 1,
             "stock_id": "498958",
-            "remark": "SAPPHIRE GLASS",
-            "qty": 1.0,
-            "price": 72.0,
-            "serial_no": "327303"
-        }
-    ],
-    "SB76217": [
-        {
-            "doc_no": "SB76217",
-            "item_no": 1,
-            "stock_id": "489450",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "246275"
+            "serial_no": "215195"
         },
         {
-            "doc_no": "SB76217",
+            "doc_no": "SB76633",
             "item_no": 2,
-            "stock_id": "E78656",
+            "stock_id": "498928",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "230802"
+            "serial_no": "946111"
         },
         {
-            "doc_no": "SB76217",
-            "item_no": 3,
-            "stock_id": "E77456",
-            "remark": "N/W - BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "230614"
-        },
-        {
-            "doc_no": "SB76217",
+            "doc_no": "SB76633",
             "item_no": 4,
-            "stock_id": "489765",
+            "stock_id": "498716",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "246189"
+            "serial_no": "118509"
         },
         {
-            "doc_no": "SB76217",
+            "doc_no": "SB76633",
             "item_no": 5,
-            "stock_id": "489596",
+            "stock_id": "498916",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "245423"
+            "serial_no": "610946"
+        },
+        {
+            "doc_no": "SB76633",
+            "item_no": 6,
+            "stock_id": "452LM1",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "0333/1000"
+        },
+        {
+            "doc_no": "SB76633",
+            "item_no": 7,
+            "stock_id": "497716",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "214071"
+        },
+        {
+            "doc_no": "SB76633",
+            "item_no": 8,
+            "stock_id": "4254T6",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "922098"
+        },
+        {
+            "doc_no": "SB76633",
+            "item_no": 9,
+            "stock_id": "497752",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "214386"
         }
     ],
-    "SB76218": [
+    "SB76634": [
         {
-            "doc_no": "SB76218",
+            "doc_no": "SB76634",
             "item_no": 1,
-            "stock_id": "4609E6",
+            "stock_id": "497765",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "253475"
+            "serial_no": "214444"
         },
         {
-            "doc_no": "SB76218",
+            "doc_no": "SB76634",
             "item_no": 2,
-            "stock_id": "4609E0",
+            "stock_id": "498997",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "253131"
+            "serial_no": "327133"
         },
         {
-            "doc_no": "SB76218",
+            "doc_no": "SB76634",
             "item_no": 3,
-            "stock_id": "489529",
+            "stock_id": "452LM2",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "214139"
+            "serial_no": "0625/1000"
         },
         {
-            "doc_no": "SB76218",
+            "doc_no": "SB76634",
             "item_no": 4,
+            "stock_id": "451LM1",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "0167/1000"
+        },
+        {
+            "doc_no": "SB76634",
+            "item_no": 5,
             "stock_id": "498993",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "327234"
+            "serial_no": "327039"
         },
         {
-            "doc_no": "SB76218",
-            "item_no": 5,
-            "stock_id": "497729",
+            "doc_no": "SB76634",
+            "item_no": 6,
+            "stock_id": "489916",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "118259"
-        }
-    ],
-    "SB76252": [
+            "serial_no": "943709"
+        },
         {
-            "doc_no": "SB76252",
-            "item_no": 1,
-            "stock_id": "S96750",
-            "remark": "U/G - EXC CASE",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "441328"
-        }
-    ],
-    "SB76253": [
-        {
-            "doc_no": "SB76253",
-            "item_no": 1,
-            "stock_id": "4447L6",
-            "remark": "BLACK CASE",
-            "qty": 1.0,
-            "price": 24.0,
-            "serial_no": "06C039"
-        }
-    ],
-    "SB77043": [
-        {
-            "doc_no": "SB77043",
-            "item_no": 1,
-            "stock_id": "497728",
-            "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "245476"
-        }
-    ],
-    "SB77047": [
-        {
-            "doc_no": "SB77047",
-            "item_no": 1,
-            "stock_id": "S954G9",
-            "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
-            "qty": 1.0,
-            "price": 0.0,
-            "serial_no": "4605T8"
-        }
-    ],
-    "SB77048": [
-        {
-            "doc_no": "SB77048",
-            "item_no": 1,
-            "stock_id": "497728",
+            "doc_no": "SB76634",
+            "item_no": 9,
+            "stock_id": "498965",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "246091"
+            "serial_no": "946204"
         },
         {
-            "doc_no": "SB77048",
+            "doc_no": "SB76634",
+            "item_no": 11,
+            "stock_id": "E85531",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "050032"
+        }
+    ],
+    "SB76635": [
+        {
+            "doc_no": "SB76635",
+            "item_no": 1,
+            "stock_id": "E85439",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "050319"
+        },
+        {
+            "doc_no": "SB76635",
             "item_no": 2,
-            "stock_id": "497929",
+            "stock_id": "4336T6",
             "remark": "N/W - BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "246679"
+            "serial_no": "921283G"
         },
         {
-            "doc_no": "SB77048",
+            "doc_no": "SB76635",
             "item_no": 3,
-            "stock_id": "E244G9",
+            "stock_id": "4359T5",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "010271"
+        },
+        {
+            "doc_no": "SB76635",
+            "item_no": 4,
+            "stock_id": "451LM2",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "0326/1000"
+        }
+    ],
+    "SB76636": [
+        {
+            "doc_no": "SB76636",
+            "item_no": 1,
+            "stock_id": "S05409",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "229032"
+        },
+        {
+            "doc_no": "SB76636",
+            "item_no": 2,
+            "stock_id": "E934K1",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "850638"
+        },
+        {
+            "doc_no": "SB76636",
+            "item_no": 3,
+            "stock_id": "E81393",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "130374"
+        },
+        {
+            "doc_no": "SB76636",
+            "item_no": 4,
+            "stock_id": "S05400",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "229032"
+        },
+        {
+            "doc_no": "SB76636",
+            "item_no": 5,
+            "stock_id": "S05402",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "229032"
+        },
+        {
+            "doc_no": "SB76636",
+            "item_no": 6,
+            "stock_id": "S05403",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "229032"
+        },
+        {
+            "doc_no": "SB76636",
+            "item_no": 7,
+            "stock_id": "S05506",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "229032"
+        },
+        {
+            "doc_no": "SB76636",
+            "item_no": 8,
+            "stock_id": "S01838",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "249037"
+        }
+    ],
+    "SB76637": [
+        {
+            "doc_no": "SB76637",
+            "item_no": 1,
+            "stock_id": "S01933",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "249037"
+        },
+        {
+            "doc_no": "SB76637",
+            "item_no": 2,
+            "stock_id": "S05457",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "142040"
+        },
+        {
+            "doc_no": "SB76637",
+            "item_no": 3,
+            "stock_id": "S01938",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "249037"
+        },
+        {
+            "doc_no": "SB76637",
+            "item_no": 4,
+            "stock_id": "S01232",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "249037"
+        },
+        {
+            "doc_no": "SB76637",
+            "item_no": 5,
+            "stock_id": "S01439",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "249037"
+        },
+        {
+            "doc_no": "SB76637",
+            "item_no": 6,
+            "stock_id": "S05458",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "142040"
+        },
+        {
+            "doc_no": "SB76637",
+            "item_no": 7,
+            "stock_id": "E81898",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "130253"
+        },
+        {
+            "doc_no": "SB76637",
+            "item_no": 8,
+            "stock_id": "S01435",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "249037"
+        }
+    ],
+    "SB76638": [
+        {
+            "doc_no": "SB76638",
+            "item_no": 1,
+            "stock_id": "S05507",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "229032"
+        },
+        {
+            "doc_no": "SB76638",
+            "item_no": 3,
+            "stock_id": "4262T0",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "840078"
+        }
+    ],
+    "SB76639": [
+        {
+            "doc_no": "SB76639",
+            "item_no": 1,
+            "stock_id": "925495",
+            "remark": "N/W - MOVEMENT",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "231C37"
+        }
+    ],
+    "SB76640": [
+        {
+            "doc_no": "SB76640",
+            "item_no": 1,
+            "stock_id": "4508T8",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "234089"
+        },
+        {
+            "doc_no": "SB76640",
+            "item_no": 2,
+            "stock_id": "4502T0",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "233811"
+        },
+        {
+            "doc_no": "SB76640",
+            "item_no": 3,
+            "stock_id": "4503T3",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "234187"
+        },
+        {
+            "doc_no": "SB76640",
+            "item_no": 4,
+            "stock_id": "4506T9",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "233827"
+        },
+        {
+            "doc_no": "SB76640",
+            "item_no": 5,
+            "stock_id": "4607T2",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "230208"
+        },
+        {
+            "doc_no": "SB76640",
+            "item_no": 6,
+            "stock_id": "4426E4",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "261366L"
+        },
+        {
+            "doc_no": "SB76640",
+            "item_no": 9,
+            "stock_id": "489542",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "214434"
+        },
+        {
+            "doc_no": "SB76640",
+            "item_no": 12,
+            "stock_id": "489752",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "214121"
+        }
+    ],
+    "SB76641": [
+        {
+            "doc_no": "SB76641",
+            "item_no": 1,
+            "stock_id": "489765",
+            "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "246235"
+        }
+    ],
+    "SB76642": [
+        {
+            "doc_no": "SB76642",
+            "item_no": 1,
+            "stock_id": "E246G5",
             "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
             "qty": 1.0,
             "price": 0.0,
             "serial_no": "931279"
+        },
+        {
+            "doc_no": "SB76642",
+            "item_no": 2,
+            "stock_id": "E95556",
+            "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY, STONE 5PCS",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "830041"
         }
     ],
-    "SB77049": [
+    "SB76650": [
         {
-            "doc_no": "SB77049",
+            "doc_no": "SB76650",
             "item_no": 1,
-            "stock_id": "4409N3",
+            "stock_id": "973846",
+            "remark": "MOVEMENT, WATER RESISTANT",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "350041"
+        }
+    ],
+    "SB76653": [
+        {
+            "doc_no": "SB76653",
+            "item_no": 1,
+            "stock_id": "153306",
+            "remark": "STONE 16PCS",
+            "qty": 1.0,
+            "price": 20.0,
+            "serial_no": "859720"
+        }
+    ],
+    "SB76701": [
+        {
+            "doc_no": "SB76701",
+            "item_no": 1,
+            "stock_id": "S14353",
+            "remark": "U/G - EXC NEW WATCH",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "56T230"
+        }
+    ],
+    "SB76710": [
+        {
+            "doc_no": "SB76710",
+            "item_no": 1,
+            "stock_id": "497728",
             "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "061331G"
+            "serial_no": "232764"
         }
     ],
-    "SB77050": [
+    "SB76751": [
         {
-            "doc_no": "SB77050",
+            "doc_no": "SB76751",
             "item_no": 1,
-            "stock_id": "S96459",
-            "remark": "U/G - BATTERY, EXC CASE",
+            "stock_id": "E539G5",
+            "remark": "N/W - EXC CASE",
             "qty": 1.0,
             "price": 0.0,
-            "serial_no": "441258"
-        }
-    ],
-    "TJ22185": [
-        {
-            "doc_no": "TJ22185",
-            "item_no": 1,
-            "stock_id": "Z",
-            "remark": "ROS 4977 BRACELET - 1PCS",
-            "qty": 1.0,
-            "price": 96.0,
-            "serial_no": ""
+            "serial_no": "623025"
         },
         {
-            "doc_no": "TJ22185",
+            "doc_no": "SB76751",
             "item_no": 2,
-            "stock_id": "Z",
-            "remark": "ROS 4987 BRACELET - 1PCS",
+            "stock_id": "497529",
+            "remark": "N/W - EXC BRACELET",
             "qty": 1.0,
-            "price": 96.0,
-            "serial_no": ""
+            "price": 0.0,
+            "serial_no": "445337"
         },
         {
-            "doc_no": "TJ22185",
-            "item_no": 4,
-            "stock_id": "Z",
-            "remark": "ROS 4975 BRACELET - 1PCS",
+            "doc_no": "SB76751",
+            "item_no": 3,
+            "stock_id": "497597",
+            "remark": "N/W - EXC BRACELET",
             "qty": 1.0,
-            "price": 102.0,
+            "price": 0.0,
+            "serial_no": "326205"
+        },
+        {
+            "doc_no": "SB76751",
+            "item_no": 4,
+            "stock_id": "498597",
+            "remark": "N/W - EXC BRACELET",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "445531"
+        },
+        {
+            "doc_no": "SB76751",
+            "item_no": 5,
+            "stock_id": "498529",
+            "remark": "N/W - EXC BRACELET",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "536095"
+        },
+        {
+            "doc_no": "SB76751",
+            "item_no": 6,
+            "stock_id": "497594",
+            "remark": "N/W - EXC BRACELET",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "364405"
+        },
+        {
+            "doc_no": "SB76751",
+            "item_no": 7,
+            "stock_id": "4510T9",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "241029"
+        },
+        {
+            "doc_no": "SB76751",
+            "item_no": 8,
+            "stock_id": "S974T3",
+            "remark": "NO SERVICE",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "400519"
+        }
+    ],
+    "SB76757": [
+        {
+            "doc_no": "SB76757",
+            "item_no": 1,
+            "stock_id": "AF10MBK",
+            "remark": "N/W - EXC NEW WATCH",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "B6AD374"
+        }
+    ],
+    "SB76767": [
+        {
+            "doc_no": "SB76767",
+            "item_no": 1,
+            "stock_id": "498729",
+            "remark": "N/W - BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "118466"
+        }
+    ],
+    "SB76805": [
+        {
+            "doc_no": "SB76805",
+            "item_no": 1,
+            "stock_id": "E663G3",
+            "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "440862"
+        }
+    ],
+    "SB76807": [
+        {
+            "doc_no": "SB76807",
+            "item_no": 1,
+            "stock_id": "S06363",
+            "remark": "R/BACK COVER",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "114901"
+        }
+    ],
+    "SB76811": [
+        {
+            "doc_no": "SB76811",
+            "item_no": 1,
+            "stock_id": "E734K6",
+            "remark": "U/G - MOVEMENT, WATER RESISTANT",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "310370"
+        }
+    ],
+    "SB76851": [
+        {
+            "doc_no": "SB76851",
+            "item_no": 1,
+            "stock_id": "E884T3",
+            "remark": "R/DATE",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "940209"
+        }
+    ],
+    "SB77095": [
+        {
+            "doc_no": "SB77095",
+            "item_no": 1,
+            "stock_id": "E12955",
+            "remark": "U/G - SERVICE, WATER RESISTANT, BATTERY, STONE 2PCS",
+            "qty": 1.0,
+            "price": 0.0,
+            "serial_no": "738355"
+        }
+    ],
+    "TJ22266": [
+        {
+            "doc_no": "TJ22266",
+            "item_no": 1,
+            "stock_id": "Z",
+            "remark": "ROS 907 CERAMIC - 1PCS",
+            "qty": 1.0,
+            "price": 15.0,
             "serial_no": ""
         }
     ],
-    "TJ22186": [
+    "TJ22267": [
         {
-            "doc_no": "TJ22186",
+            "doc_no": "TJ22267",
             "item_no": 1,
             "stock_id": "Z",
-            "remark": "AUR AM MINI 10 CHARGER - 2PCS",
+            "remark": "ROS S01 GLASS & CASE - 1PCS",
             "qty": 1.0,
-            "price": 22.0,
+            "price": 57.6,
+            "serial_no": ""
+        }
+    ],
+    "TJ22268": [
+        {
+            "doc_no": "TJ22268",
+            "item_no": 1,
+            "stock_id": "Z",
+            "remark": "ROS 497 BRACELET - 1PCS",
+            "qty": 1.0,
+            "price": 204.0,
+            "serial_no": ""
+        }
+    ],
+    "TJ22269": [
+        {
+            "doc_no": "TJ22269",
+            "item_no": 1,
+            "stock_id": "Z",
+            "remark": "ROS S12 BRACELET - 1PCS",
+            "qty": 1.0,
+            "price": 66.0,
+            "serial_no": ""
+        }
+    ],
+    "TJ22270": [
+        {
+            "doc_no": "TJ22270",
+            "item_no": 1,
+            "stock_id": "Z",
+            "remark": "ROS 4977 BRACELET - 2PCS",
+            "qty": 1.0,
+            "price": 192.0,
             "serial_no": ""
         }
     ]

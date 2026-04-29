@@ -4,14 +4,16 @@ REM getting data from asoft first
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_credit_notes.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_cust_receipts.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_debit_notes.py"
-"C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_delivery_orders.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_goods_received.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_invoices.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_journal_entries.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_products.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_purchase_orders.py"
-"C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_sales_orders.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_service_bills.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_supp_credit_notes.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_supp_invoices.py"
 "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_supp_payments.py"
+
+REM "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_delivery_orders.py"
+REM "C:\Apps\BukkuOps\.venv\Scripts\python.exe" "C:\Apps\BukkuOps\asoft_sales_orders.py"
+

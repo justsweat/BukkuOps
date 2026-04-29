@@ -1,2523 +1,4 @@
 {
-    "A2502927": [
-        {
-            "doc_no": "A2502927",
-            "item_no": 1,
-            "stock_id": "131000",
-            "remark": "C10 CRYSTAL GLASS",
-            "qty": 78.0,
-            "price": 1.8,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502927",
-            "item_no": 2,
-            "stock_id": "131801",
-            "remark": "C18P CRYSTAL GLASS",
-            "qty": 59.0,
-            "price": 2.4,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502927",
-            "item_no": 3,
-            "stock_id": "132500",
-            "remark": "C25A CRYSTAL GLASS",
-            "qty": 68.0,
-            "price": 3.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502928": [
-        {
-            "doc_no": "A2502928",
-            "item_no": 1,
-            "stock_id": "3621011",
-            "remark": "SPRON SR621 SW BATTERY",
-            "qty": 50.0,
-            "price": 1.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502928",
-            "item_no": 2,
-            "stock_id": "3626011",
-            "remark": "SPRON SR626 SW BATTERY",
-            "qty": 60.0,
-            "price": 1.25,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502928",
-            "item_no": 3,
-            "stock_id": "3726011",
-            "remark": "SPRON SR726 SW BATTERY",
-            "qty": 20.0,
-            "price": 2.8,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502928",
-            "item_no": 4,
-            "stock_id": "3920011",
-            "remark": "SPRON SR920 SW BATTERY",
-            "qty": 60.0,
-            "price": 2.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502928",
-            "item_no": 5,
-            "stock_id": "3927011",
-            "remark": "SPRON SR927 SW BATTERY",
-            "qty": 50.0,
-            "price": 3.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502928",
-            "item_no": 6,
-            "stock_id": "RE/364",
-            "remark": "RENATA BATTERY  364  (SR 621 SW)",
-            "qty": 20.0,
-            "price": 2.95,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502928",
-            "item_no": 7,
-            "stock_id": "RE/371",
-            "remark": "RENATA BATTERY  371  (SR 920 SW)",
-            "qty": 10.0,
-            "price": 3.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502928",
-            "item_no": 8,
-            "stock_id": "RE/390",
-            "remark": "RENATA BATTERY  390  (SR 1130 SW)",
-            "qty": 5.0,
-            "price": 3.75,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502928",
-            "item_no": 9,
-            "stock_id": "RE/394",
-            "remark": "RENATA BATTERY  394  (SR 936 SW)",
-            "qty": 20.0,
-            "price": 4.3,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502929": [
-        {
-            "doc_no": "A2502929",
-            "item_no": 1,
-            "stock_id": "AF350RG",
-            "remark": "AURAFIT AM35 SMARTWATCH RGD",
-            "qty": 1.0,
-            "price": 179.4,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502929",
-            "item_no": 2,
-            "stock_id": "AF10MBK",
-            "remark": "AURAFIT A10 MINI SMARTWATCH BLK",
-            "qty": 3.0,
-            "price": 119.4,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502930": [
-        {
-            "doc_no": "A2502930",
-            "item_no": 1,
-            "stock_id": "3621011",
-            "remark": "SPRON SR621 SW BATTERY",
-            "qty": 100.0,
-            "price": 2.05,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502930",
-            "item_no": 2,
-            "stock_id": "3626011",
-            "remark": "SPRON SR626 SW BATTERY",
-            "qty": 100.0,
-            "price": 1.95,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502930",
-            "item_no": 3,
-            "stock_id": "3726011",
-            "remark": "SPRON SR726 SW BATTERY",
-            "qty": 30.0,
-            "price": 3.6,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502930",
-            "item_no": 4,
-            "stock_id": "3920011",
-            "remark": "SPRON SR920 SW BATTERY",
-            "qty": 50.0,
-            "price": 3.1,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502930",
-            "item_no": 5,
-            "stock_id": "3927011",
-            "remark": "SPRON SR927 SW BATTERY",
-            "qty": 30.0,
-            "price": 4.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502930",
-            "item_no": 6,
-            "stock_id": "3936011",
-            "remark": "SPRON SR936 SW BATTERY",
-            "qty": 20.0,
-            "price": 5.9,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502931": [
-        {
-            "doc_no": "A2502931",
-            "item_no": 1,
-            "stock_id": "3626011",
-            "remark": "SPRON SR626 SW BATTERY",
-            "qty": 300.0,
-            "price": 1.95,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502931",
-            "item_no": 2,
-            "stock_id": "3621011",
-            "remark": "SPRON SR621 SW BATTERY",
-            "qty": 200.0,
-            "price": 2.05,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502931",
-            "item_no": 3,
-            "stock_id": "3920011",
-            "remark": "SPRON SR920 SW BATTERY",
-            "qty": 50.0,
-            "price": 3.1,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502931",
-            "item_no": 4,
-            "stock_id": "4161601",
-            "remark": "SPRON CR1616 BATTERY",
-            "qty": 20.0,
-            "price": 3.5,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502931",
-            "item_no": 5,
-            "stock_id": "RE/394",
-            "remark": "RENATA BATTERY  394  (SR 936 SW)",
-            "qty": 10.0,
-            "price": 5.7,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502931",
-            "item_no": 6,
-            "stock_id": "RE/395",
-            "remark": "RENATA BATTERY  395  (SR 927 SW)",
-            "qty": 10.0,
-            "price": 4.6,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502931",
-            "item_no": 7,
-            "stock_id": "RE/364",
-            "remark": "RENATA BATTERY  364  (SR 621 SW)",
-            "qty": 10.0,
-            "price": 3.9,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502931",
-            "item_no": 8,
-            "stock_id": "RE/371",
-            "remark": "RENATA BATTERY  371  (SR 920 SW)",
-            "qty": 20.0,
-            "price": 4.4,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502932": [
-        {
-            "doc_no": "A2502932",
-            "item_no": 1,
-            "stock_id": "E78450",
-            "remark": "ROSCANI BL E78450 R/G BRAC GLA BRN\r\n\r\nMOHAMMAD HARIZ HAIKAL BIN ZAIDEE\r\n",
-            "qty": 1.0,
-            "price": 448.98,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502933": [
-        {
-            "doc_no": "A2502933",
-            "item_no": 1,
-            "stock_id": "E644G4",
-            "remark": "ROSCANI BL E644G4 R/G BRAC SPG BRN\r\n\r\nWAN MAS AYU\r\n",
-            "qty": 1.0,
-            "price": 250.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502934": [
-        {
-            "doc_no": "A2502934",
-            "item_no": 2,
-            "stock_id": "151500",
-            "remark": "SC15 - SINGLE CURVE 1.5M GLASS SETS",
-            "qty": 4.0,
-            "price": 4.9,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502934",
-            "item_no": 3,
-            "stock_id": "131300",
-            "remark": "C13 CRYSTAL GLASS",
-            "qty": 5.0,
-            "price": 2.2,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502934",
-            "item_no": 4,
-            "stock_id": "132500",
-            "remark": "C25A CRYSTAL GLASS",
-            "qty": 4.0,
-            "price": 3.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502934",
-            "item_no": 5,
-            "stock_id": "133000",
-            "remark": "C30A CRYSTAL GLASS",
-            "qty": 10.0,
-            "price": 3.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502935": [
-        {
-            "doc_no": "A2502935",
-            "item_no": 6,
-            "stock_id": "4569T5",
-            "remark": "ROSCANI BL 4569T5 S/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 249.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 7,
-            "stock_id": "S934N0",
-            "remark": "ROSCANI BL S934N0 R/G BRAC GLA RGD",
-            "qty": 1.0,
-            "price": 194.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 8,
-            "stock_id": "E499S8",
-            "remark": "ROSCANI BL E499S8 S/S BRAC GLA BLU",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 9,
-            "stock_id": "E495S1",
-            "remark": "ROSCANI BL E495S1 G/D BRAC GLA YEL",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 10,
-            "stock_id": "E639G3",
-            "remark": "ROSCANI BL E639G3 S/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 11,
-            "stock_id": "E634G5",
-            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 12,
-            "stock_id": "E635G1",
-            "remark": "ROSCANI BL E635G1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 13,
-            "stock_id": "E504G4",
-            "remark": "ROSCANI BL E504G4 R/G BRAC SPG BRN",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 14,
-            "stock_id": "S954G9",
-            "remark": "ROSCANI BL S954G9 R/G BRAC GLA RED",
-            "qty": 1.0,
-            "price": 179.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 15,
-            "stock_id": "E515T1",
-            "remark": "ROSCANI BL E515T1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 16,
-            "stock_id": "4589G7",
-            "remark": "ROSCANI BL 4589G7 S/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 334.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 17,
-            "stock_id": "498993",
-            "remark": "ROSCANI BL 498993 S/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 18,
-            "stock_id": "497997",
-            "remark": "ROSCANI BG 497997 S/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502935",
-            "item_no": 19,
-            "stock_id": "498765",
-            "remark": "ROSCANI BL 498765 2/T BRAC SPG WHT/R",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502936": [
-        {
-            "doc_no": "A2502936",
-            "item_no": 2,
-            "stock_id": "131801",
-            "remark": "C18P CRYSTAL GLASS",
-            "qty": 2.0,
-            "price": 2.4,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502936",
-            "item_no": 3,
-            "stock_id": "132000",
-            "remark": "C20P CRYSTAL GLASS",
-            "qty": 11.0,
-            "price": 2.4,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502936",
-            "item_no": 4,
-            "stock_id": "132500",
-            "remark": "C25A CRYSTAL GLASS",
-            "qty": 9.0,
-            "price": 3.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502936",
-            "item_no": 5,
-            "stock_id": "151500",
-            "remark": "SC15 - SINGLE CURVE 1.5M GLASS SETS",
-            "qty": 4.0,
-            "price": 4.9,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502937": [
-        {
-            "doc_no": "A2502937",
-            "item_no": 1,
-            "stock_id": "E639G3",
-            "remark": "ROSCANI BL E639G3 S/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 2,
-            "stock_id": "E634G5",
-            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 3,
-            "stock_id": "E635G5",
-            "remark": "ROSCANI BL E635G5 G/D BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 4,
-            "stock_id": "E504G4",
-            "remark": "ROSCANI BL E504G4 R/G BRAC SPG BRN",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 5,
-            "stock_id": "E509G6",
-            "remark": "ROSCANI BL E509G6 S/S BRAC SPG GRY",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 6,
-            "stock_id": "E505G1",
-            "remark": "ROSCANI BL E505G1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 7,
-            "stock_id": "S12453",
-            "remark": "ROSCANI BL S12453 R/G BRAC GLA BLK",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 8,
-            "stock_id": "S12455",
-            "remark": "ROSCANI BL S12455 R/G BRAC GLA WHT",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 9,
-            "stock_id": "S12459",
-            "remark": "ROSCANI BL S12459 R/G BRAC GLA RED",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 10,
-            "stock_id": "S12353",
-            "remark": "ROSCANI BL S12353 B/K BRAC GLA BLK",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 11,
-            "stock_id": "S12750",
-            "remark": "ROSCANI BL S12750 B/N BRAC GLA BRN",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 12,
-            "stock_id": "S12555",
-            "remark": "ROSCANI BL S12555 G/D BRAC GLA WHT",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 13,
-            "stock_id": "S12953",
-            "remark": "ROSCANI BL S12953 S/S BRAC GLA BLK",
-            "qty": 1.0,
-            "price": 139.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 14,
-            "stock_id": "4657T5",
-            "remark": "ROSCANI BG 4657T5 G/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 289.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 15,
-            "stock_id": "4667T5",
-            "remark": "ROSCANI BL 4667T5 G/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 289.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 16,
-            "stock_id": "4659T3",
-            "remark": "ROSCANI BG 4659T3 S/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502937",
-            "item_no": 17,
-            "stock_id": "4669T3",
-            "remark": "ROSCANI BL 4669T3 S/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502938": [
-        {
-            "doc_no": "A2502938",
-            "item_no": 1,
-            "stock_id": "E634G0",
-            "remark": "ROSCANI BL E634G0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 2,
-            "stock_id": "E634G5",
-            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 3,
-            "stock_id": "E639G3",
-            "remark": "ROSCANI BL E639G3 S/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 5,
-            "stock_id": "S950G9",
-            "remark": "ROSCANI BL S950G9 S/S STRP GLA RED",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 6,
-            "stock_id": "E659G8",
-            "remark": "ROSCANI BL E659G8 S/S BRAC SPG TEL",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 7,
-            "stock_id": "4586G9",
-            "remark": "ROSCANI BL 4586G9 R/S BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 359.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 8,
-            "stock_id": "4589G7",
-            "remark": "ROSCANI BL 4589G7 S/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 334.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 9,
-            "stock_id": "4589G8",
-            "remark": "ROSCANI BL 4589G8 S/S BRAC SPG BLU",
-            "qty": 1.0,
-            "price": 334.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 11,
-            "stock_id": "E464G9",
-            "remark": "ROSCANI BL E464G9 R/G BRAC GLA RGD",
-            "qty": 2.0,
-            "price": 299.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 12,
-            "stock_id": "E679G8",
-            "remark": "ROSCANI BL E679G8 S/S BRAC SPG BLU",
-            "qty": 2.0,
-            "price": 299.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 13,
-            "stock_id": "S08059",
-            "remark": "ROSCANI BL S08059 R/D STRAP GLA RED",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 15,
-            "stock_id": "497529",
-            "remark": "ROSCANI BG 497529 G/G BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 16,
-            "stock_id": "498528",
-            "remark": "ROSCANI BL 498528 G/G BRAC SPG YEL/BLK",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 17,
-            "stock_id": "498765",
-            "remark": "ROSCANI BL 498765 2/T BRAC SPG WHT/R",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 18,
-            "stock_id": "497928",
-            "remark": "ROSCANI BG 497928 S/S BRAC SPG WHT/B",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502938",
-            "item_no": 20,
-            "stock_id": "E674G2",
-            "remark": "ROSCANI BL E674G2 R/G BRAC SPG MGT",
-            "qty": 2.0,
-            "price": 324.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502939": [
-        {
-            "doc_no": "A2502939",
-            "item_no": 1,
-            "stock_id": "S939N8",
-            "remark": "ROSCANI BL S939N8 S/S BRAC GLA BLU",
-            "qty": 1.0,
-            "price": 184.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502940": [
-        {
-            "doc_no": "A2502940",
-            "item_no": 1,
-            "stock_id": "3416011",
-            "remark": "SPRON SR416 SW BATTERY",
-            "qty": 5.0,
-            "price": 5.9,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 2,
-            "stock_id": "3621011",
-            "remark": "SPRON SR621 SW BATTERY",
-            "qty": 200.0,
-            "price": 2.05,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 3,
-            "stock_id": "3626011",
-            "remark": "SPRON SR626 SW BATTERY",
-            "qty": 300.0,
-            "price": 1.95,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 4,
-            "stock_id": "3726011",
-            "remark": "SPRON SR726 SW BATTERY",
-            "qty": 30.0,
-            "price": 3.6,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 5,
-            "stock_id": "3920011",
-            "remark": "SPRON SR920 SW BATTERY",
-            "qty": 100.0,
-            "price": 3.1,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 6,
-            "stock_id": "3927011",
-            "remark": "SPRON SR927 SW BATTERY",
-            "qty": 30.0,
-            "price": 4.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 7,
-            "stock_id": "1230001",
-            "remark": "ALKALINE 12 V ( 23A ) BATTERY (A)",
-            "qty": 30.0,
-            "price": 2.2,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 8,
-            "stock_id": "4163201",
-            "remark": "SPRON CR1632 BATTERY",
-            "qty": 5.0,
-            "price": 5.8,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 9,
-            "stock_id": "4201601",
-            "remark": "SPRON CR2016 BATTERY",
-            "qty": 50.0,
-            "price": 1.9,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 10,
-            "stock_id": "4203201",
-            "remark": "SPRON CR2032 BATTERY",
-            "qty": 70.0,
-            "price": 1.9,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502940",
-            "item_no": 11,
-            "stock_id": "4245001",
-            "remark": "SPRON CR2450 BATTERY",
-            "qty": 5.0,
-            "price": 7.8,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502941": [
-        {
-            "doc_no": "A2502941",
-            "item_no": 1,
-            "stock_id": "497542",
-            "remark": "ROSCANI BG 497542 G/G BRAC SPG YEL/BLK",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502942": [
-        {
-            "doc_no": "A2502942",
-            "item_no": 1,
-            "stock_id": "S934N0",
-            "remark": "ROSCANI BL S934N0 R/G BRAC GLA RGD",
-            "qty": 1.0,
-            "price": 194.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 2,
-            "stock_id": "S935N1",
-            "remark": "ROSCANI BL S935N1 G/D BRAC GLA YEL",
-            "qty": 1.0,
-            "price": 194.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 3,
-            "stock_id": "E505G1",
-            "remark": "ROSCANI BL E505G1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 4,
-            "stock_id": "E504G4",
-            "remark": "ROSCANI BL E504G4 R/G BRAC SPG BRN",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 5,
-            "stock_id": "E509G6",
-            "remark": "ROSCANI BL E509G6 S/S BRAC SPG GRY",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 6,
-            "stock_id": "E634N0",
-            "remark": "ROSCANI BL E634N0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 7,
-            "stock_id": "E514T0",
-            "remark": "ROSCANI BL E514T0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 8,
-            "stock_id": "E513T3",
-            "remark": "ROSCANI BL E513T3 R/G BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 9,
-            "stock_id": "4577G1",
-            "remark": "ROSCANI BG 4577G1 G/S BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 324.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 10,
-            "stock_id": "4587G1",
-            "remark": "ROSCANI BL 4587G1 G/S BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 354.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 11,
-            "stock_id": "4587G5",
-            "remark": "ROSCANI BL 4587G5 G/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 369.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 12,
-            "stock_id": "4576G9",
-            "remark": "ROSCANI BG 4576G9 R/S BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 339.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 13,
-            "stock_id": "489965",
-            "remark": "ROSCANI BG 489965 S/S BRAC SPG WHT/R/S",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 14,
-            "stock_id": "489765",
-            "remark": "ROSCANI BG 489765 2/T BRAC SPG WHT/R/S",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 15,
-            "stock_id": "497765",
-            "remark": "ROSCANI BG 497765 2/T BRAC SPG WHT/R",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 16,
-            "stock_id": "497793",
-            "remark": "ROSCANI BG 497793 G/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 17,
-            "stock_id": "497742",
-            "remark": "ROSCANI BG 497742 2/T BRAC SPG YEL/BLK",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 18,
-            "stock_id": "497650",
-            "remark": "ROSCANI BG 497650 2/T BRAC SPG SVR",
-            "qty": 1.0,
-            "price": 249.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 19,
-            "stock_id": "489650",
-            "remark": "ROSCANI BG 489650 2/T BRAC SPG SVR",
-            "qty": 1.0,
-            "price": 249.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 20,
-            "stock_id": "497450",
-            "remark": "ROSCANI BG 497450 G/G BRAC SPG SVR",
-            "qty": 1.0,
-            "price": 264.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 21,
-            "stock_id": "497542",
-            "remark": "ROSCANI BG 497542 G/G BRAC SPG YEL/BLK",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502942",
-            "item_no": 22,
-            "stock_id": "489450",
-            "remark": "ROSCANI BG 489450 G/G BRAC SPG SVR",
-            "qty": 1.0,
-            "price": 264.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502943": [
-        {
-            "doc_no": "A2502943",
-            "item_no": 1,
-            "stock_id": "E494S9",
-            "remark": "ROSCANI BL E494S9 R/G BRAC GLA RED",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 2,
-            "stock_id": "E634G0",
-            "remark": "ROSCANI BL E634G0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 3,
-            "stock_id": "E635G1",
-            "remark": "ROSCANI BL E635G1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 4,
-            "stock_id": "E513T3",
-            "remark": "ROSCANI BL E513T3 R/G BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 5,
-            "stock_id": "4657T5",
-            "remark": "ROSCANI BG 4657T5 G/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 289.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 6,
-            "stock_id": "4667T5",
-            "remark": "ROSCANI BL 4667T5 G/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 289.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 7,
-            "stock_id": "S950G9",
-            "remark": "ROSCANI BL S950G9 S/S STRP GLA RED",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 8,
-            "stock_id": "S96551",
-            "remark": "ROSCANI BL S96551 G/D BRAC GLA YEL",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 9,
-            "stock_id": "497552",
-            "remark": "ROSCANI BG 497552 G/G BRAC SPG YEL/S",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 10,
-            "stock_id": "498552",
-            "remark": "ROSCANI BL 498552 G/G BRAC SPG YEL/S",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 11,
-            "stock_id": "E509G6",
-            "remark": "ROSCANI BL E509G6 S/S BRAC SPG GRY",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 12,
-            "stock_id": "4587G1",
-            "remark": "ROSCANI BL 4587G1 G/S BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 354.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502943",
-            "item_no": 13,
-            "stock_id": "498765",
-            "remark": "ROSCANI BL 498765 2/T BRAC SPG WHT/R",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502944": [
-        {
-            "doc_no": "A2502944",
-            "item_no": 1,
-            "stock_id": "S96750",
-            "remark": "ROSCANI BL S96750 B/N BRAC GLA BRN",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 2,
-            "stock_id": "S96557",
-            "remark": "ROSCANI BL S96557 G/D BRAC GLA GRN",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 3,
-            "stock_id": "497529",
-            "remark": "ROSCANI BG 497529 G/G BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 4,
-            "stock_id": "S96551",
-            "remark": "ROSCANI BL S96551 G/D BRAC GLA YEL",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 6,
-            "stock_id": "4669T5",
-            "remark": "ROSCANI BL 4669T5 S/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 7,
-            "stock_id": "4559T5",
-            "remark": "ROSCANI BG 4559T5 S/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 249.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 8,
-            "stock_id": "E474T9",
-            "remark": "ROSCANI BL E474T9 R/G BRAC GLA RGD",
-            "qty": 1.0,
-            "price": 299.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 9,
-            "stock_id": "S96050",
-            "remark": "ROSCANI BL S96050 R/D STRP GLA RED",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 10,
-            "stock_id": "4669T3",
-            "remark": "ROSCANI BL 4669T3 S/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 11,
-            "stock_id": "497797",
-            "remark": "ROSCANI BG 497797 G/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 12,
-            "stock_id": "E509G6",
-            "remark": "ROSCANI BL E509G6 S/S BRAC SPG GRY",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 13,
-            "stock_id": "S07363",
-            "remark": "ROSCANI BL S07363 R/K BRAC GLA BLK",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 14,
-            "stock_id": "498594",
-            "remark": "ROSCANI BL 498594 G/G BRAC SPG BRN",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 15,
-            "stock_id": "405435",
-            "remark": "ROSCANI BG 405435 R/G BRAC GLA WHT",
-            "qty": 1.0,
-            "price": 199.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 16,
-            "stock_id": "A63503",
-            "remark": "ROSCANI BL A63503 G/G BRAC GLA BLK",
-            "qty": 1.0,
-            "price": 119.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 17,
-            "stock_id": "S939N8",
-            "remark": "ROSCANI BL S939N8 S/S BRAC GLA BLU",
-            "qty": 1.0,
-            "price": 184.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 25,
-            "stock_id": "E474T3",
-            "remark": "ROSCANI BL E474T3 R/G BRAC GLA BLK",
-            "qty": 1.0,
-            "price": 299.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 27,
-            "stock_id": "S944T0",
-            "remark": "ROSCANI BL S944T0 R/G BRAC GLA RGD",
-            "qty": 1.0,
-            "price": 194.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 28,
-            "stock_id": "E475T7",
-            "remark": "ROSCANI BL E475T7 G/D BRAC GLA GRN",
-            "qty": 1.0,
-            "price": 289.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 29,
-            "stock_id": "S07963",
-            "remark": "ROSCANI BL S07963 S/S BRAC GLA BLK",
-            "qty": 1.0,
-            "price": 134.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 30,
-            "stock_id": "E513T3",
-            "remark": "ROSCANI BL E513T3 R/G BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 31,
-            "stock_id": "E514T0",
-            "remark": "ROSCANI BL E514T0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 32,
-            "stock_id": "E515T1",
-            "remark": "ROSCANI BL E515T1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 33,
-            "stock_id": "E515T3",
-            "remark": "ROSCANI BL E515T3 G/D BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 34,
-            "stock_id": "E517T5",
-            "remark": "ROSCANI BL E517T5 G/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 35,
-            "stock_id": "E634G0",
-            "remark": "ROSCANI BL E634G0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 36,
-            "stock_id": "E634G5",
-            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 37,
-            "stock_id": "E635G1",
-            "remark": "ROSCANI BL E635G1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 38,
-            "stock_id": "E635G5",
-            "remark": "ROSCANI BL E635G5 G/D BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 39,
-            "stock_id": "E639G3",
-            "remark": "ROSCANI BL E639G3 S/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 214.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 40,
-            "stock_id": "3927002",
-            "remark": "[W-Type] SII SR927 W BATTERY",
-            "qty": 200.0,
-            "price": 3.5,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 42,
-            "stock_id": "RE/364",
-            "remark": "RENATA BATTERY  364  (SR 621 SW)",
-            "qty": 20.0,
-            "price": 2.95,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 43,
-            "stock_id": "RE/377",
-            "remark": "RENATA BATTERY  377  (SR 626 SW)",
-            "qty": 20.0,
-            "price": 2.6,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 44,
-            "stock_id": "RE/321",
-            "remark": "RENATA BATTERY  321  (SR 616 SW)",
-            "qty": 10.0,
-            "price": 3.05,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 45,
-            "stock_id": "RE/371",
-            "remark": "RENATA BATTERY  371  (SR 920 SW)",
-            "qty": 10.0,
-            "price": 3.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 47,
-            "stock_id": "AF350RG",
-            "remark": "AURAFIT AM35 SMARTWATCH RGD",
-            "qty": 2.0,
-            "price": 179.4,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502944",
-            "item_no": 48,
-            "stock_id": "AF180BK",
-            "remark": "AURAFIT AM18 SMARTWATCH BLK",
-            "qty": 2.0,
-            "price": 179.4,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502945": [
-        {
-            "doc_no": "A2502945",
-            "item_no": 1,
-            "stock_id": "RE/321",
-            "remark": "RENATA BATTERY  321  (SR 616 SW)",
-            "qty": 10.0,
-            "price": 4.05,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502945",
-            "item_no": 2,
-            "stock_id": "RE/364",
-            "remark": "RENATA BATTERY  364  (SR 621 SW)",
-            "qty": 10.0,
-            "price": 3.9,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502945",
-            "item_no": 3,
-            "stock_id": "4161602",
-            "remark": "JAPAN CR1616 BATTERY",
-            "qty": 20.0,
-            "price": 2.35,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502945",
-            "item_no": 4,
-            "stock_id": "3616012",
-            "remark": "SII SR616 SW BATTERY",
-            "qty": 30.0,
-            "price": 2.35,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502945",
-            "item_no": 5,
-            "stock_id": "3626012",
-            "remark": "SII SR626 SW BATTERY",
-            "qty": 100.0,
-            "price": 1.25,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502945",
-            "item_no": 6,
-            "stock_id": "3920012",
-            "remark": "SII SR920 SW BATTERY",
-            "qty": 100.0,
-            "price": 2.3,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502946": [
-        {
-            "doc_no": "A2502946",
-            "item_no": 2,
-            "stock_id": "489765",
-            "remark": "ROSCANI BG 489765 2/T BRAC SPG WHT/R/S",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502946",
-            "item_no": 3,
-            "stock_id": "489529",
-            "remark": "ROSCANI BG 489529 G/G BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502946",
-            "item_no": 4,
-            "stock_id": "489729",
-            "remark": "ROSCANI BG 489729 2/T BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502946",
-            "item_no": 5,
-            "stock_id": "489965",
-            "remark": "ROSCANI BG 489965 S/S BRAC SPG WHT/R/S",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502947": [
-        {
-            "doc_no": "A2502947",
-            "item_no": 1,
-            "stock_id": "RE/394",
-            "remark": "RENATA BATTERY  394  (SR 936 SW)",
-            "qty": 100.0,
-            "price": 4.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 2,
-            "stock_id": "RE/362",
-            "remark": "RENATA BATTERY  362  (SR 721 SW)",
-            "qty": 10.0,
-            "price": 2.8,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 3,
-            "stock_id": "RE/390",
-            "remark": "RENATA BATTERY  390  (SR 1130 SW)",
-            "qty": 20.0,
-            "price": 3.75,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 4,
-            "stock_id": "RE/335",
-            "remark": "RENATA BATTERY  335  (SR 512 SW)",
-            "qty": 10.0,
-            "price": 5.05,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 6,
-            "stock_id": "3721012",
-            "remark": "SII SR721 SW BATTERY",
-            "qty": 20.0,
-            "price": 2.55,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 7,
-            "stock_id": "3726012",
-            "remark": "SII SR726 SW BATTERY",
-            "qty": 200.0,
-            "price": 2.8,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 8,
-            "stock_id": "3616012",
-            "remark": "SII SR616 SW BATTERY",
-            "qty": 30.0,
-            "price": 2.35,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 9,
-            "stock_id": "3521012",
-            "remark": "SII SR521 SW BATTERY",
-            "qty": 30.0,
-            "price": 1.75,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 10,
-            "stock_id": "4161602",
-            "remark": "JAPAN CR1616 BATTERY",
-            "qty": 30.0,
-            "price": 2.35,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 11,
-            "stock_id": "4162002",
-            "remark": "JAPAN CR1620 BATTERY",
-            "qty": 10.0,
-            "price": 2.6,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502947",
-            "item_no": 12,
-            "stock_id": "3716012",
-            "remark": "SII SR716 SW BATTERY",
-            "qty": 20.0,
-            "price": 3.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502948": [
-        {
-            "doc_no": "A2502948",
-            "item_no": 1,
-            "stock_id": "497997",
-            "remark": "ROSCANI BG 497997 S/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 2,
-            "stock_id": "498729",
-            "remark": "ROSCANI BL 498729 2/T BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 3,
-            "stock_id": "498793",
-            "remark": "ROSCANI BL 498793 G/S BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 4,
-            "stock_id": "E634G0",
-            "remark": "ROSCANI BL E634G0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 5,
-            "stock_id": "E635G5",
-            "remark": "ROSCANI BL E635G5 G/D BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 6,
-            "stock_id": "RE/362",
-            "remark": "RENATA BATTERY  362  (SR 721 SW)",
-            "qty": 5.0,
-            "price": 3.7,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 7,
-            "stock_id": "3521011",
-            "remark": "SPRON SR521 SW BATTERY",
-            "qty": 20.0,
-            "price": 2.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 8,
-            "stock_id": "3621011",
-            "remark": "SPRON SR621 SW BATTERY",
-            "qty": 50.0,
-            "price": 2.05,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 9,
-            "stock_id": "3626011",
-            "remark": "SPRON SR626 SW BATTERY",
-            "qty": 50.0,
-            "price": 1.95,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 10,
-            "stock_id": "3726011",
-            "remark": "SPRON SR726 SW BATTERY",
-            "qty": 20.0,
-            "price": 3.6,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 11,
-            "stock_id": "3927011",
-            "remark": "SPRON SR927 SW BATTERY",
-            "qty": 20.0,
-            "price": 4.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 12,
-            "stock_id": "4202501",
-            "remark": "SPRON CR2025 BATTERY",
-            "qty": 20.0,
-            "price": 1.9,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502948",
-            "item_no": 13,
-            "stock_id": "4203201",
-            "remark": "SPRON CR2032 BATTERY",
-            "qty": 40.0,
-            "price": 1.9,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502949": [
-        {
-            "doc_no": "A2502949",
-            "item_no": 1,
-            "stock_id": "S96557",
-            "remark": "ROSCANI BL S96557 G/D BRAC GLA GRN",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502949",
-            "item_no": 2,
-            "stock_id": "497797",
-            "remark": "ROSCANI BG 497797 G/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502949",
-            "item_no": 3,
-            "stock_id": "498797",
-            "remark": "ROSCANI BL 498797 G/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502949",
-            "item_no": 4,
-            "stock_id": "489797",
-            "remark": "ROSCANI BG 489797 G/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502949",
-            "item_no": 5,
-            "stock_id": "497997",
-            "remark": "ROSCANI BG 497997 S/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502949",
-            "item_no": 6,
-            "stock_id": "498997",
-            "remark": "ROSCANI BL 498997 S/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502950": [
-        {
-            "doc_no": "A2502950",
-            "item_no": 1,
-            "stock_id": "498529",
-            "remark": "ROSCANI BL 498529 G/G BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502950",
-            "item_no": 2,
-            "stock_id": "498729",
-            "remark": "ROSCANI BL 498729 2/T BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502950",
-            "item_no": 3,
-            "stock_id": "489529",
-            "remark": "ROSCANI BG 489529 G/G BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502950",
-            "item_no": 4,
-            "stock_id": "489552",
-            "remark": "ROSCANI BG 489552 G/G BRAC SPG YEL/S",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502950",
-            "item_no": 5,
-            "stock_id": "E514T0",
-            "remark": "ROSCANI BL E514T0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502950",
-            "item_no": 6,
-            "stock_id": "E517T5",
-            "remark": "ROSCANI BL E517T5 G/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502951": [
-        {
-            "doc_no": "A2502951",
-            "item_no": 1,
-            "stock_id": "4579G8",
-            "remark": "ROSCANI BG 4579G8 S/S BRAC SPG BLU",
-            "qty": 1.0,
-            "price": 304.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502951",
-            "item_no": 2,
-            "stock_id": "4589G8",
-            "remark": "ROSCANI BL 4589G8 S/S BRAC SPG BLU",
-            "qty": 1.0,
-            "price": 334.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502951",
-            "item_no": 3,
-            "stock_id": "4589G7",
-            "remark": "ROSCANI BL 4589G7 S/S BRAC SPG GRN",
-            "qty": 1.0,
-            "price": 334.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502951",
-            "item_no": 4,
-            "stock_id": "489450",
-            "remark": "ROSCANI BG 489450 G/G BRAC SPG SVR",
-            "qty": 1.0,
-            "price": 264.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502951",
-            "item_no": 5,
-            "stock_id": "498450",
-            "remark": "ROSCANI BL 498450 G/G BRAC SPG SVR",
-            "qty": 1.0,
-            "price": 264.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502951",
-            "item_no": 6,
-            "stock_id": "497752",
-            "remark": "ROSCANI BG 497752 2/T BRAC SPG YEL/S",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502951",
-            "item_no": 7,
-            "stock_id": "498752",
-            "remark": "ROSCANI BL 498752 2/T BRAC SPG YEL/S",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502951",
-            "item_no": 8,
-            "stock_id": "E674G2",
-            "remark": "ROSCANI BL E674G2 R/G BRAC SPG MGT",
-            "qty": 1.0,
-            "price": 324.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502952": [
-        {
-            "doc_no": "A2502952",
-            "item_no": 1,
-            "stock_id": "497552",
-            "remark": "ROSCANI BG 497552 G/G BRAC SPG YEL/S",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502952",
-            "item_no": 2,
-            "stock_id": "489952",
-            "remark": "ROSCANI BG 489952 S/S BRAC SPG SVR",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502952",
-            "item_no": 3,
-            "stock_id": "489728",
-            "remark": "ROSCANI BG 489728 2/T BRAC SPG YEL/BLK",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502952",
-            "item_no": 4,
-            "stock_id": "489529",
-            "remark": "ROSCANI BG 489529 G/G BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502952",
-            "item_no": 5,
-            "stock_id": "497529",
-            "remark": "ROSCANI BG 497529 G/G BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502952",
-            "item_no": 6,
-            "stock_id": "489965",
-            "remark": "ROSCANI BG 489965 S/S BRAC SPG WHT/R/S",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502953": [
-        {
-            "doc_no": "A2502953",
-            "item_no": 1,
-            "stock_id": "131000",
-            "remark": "C10 CRYSTAL GLASS",
-            "qty": 8.0,
-            "price": 1.8,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502953",
-            "item_no": 2,
-            "stock_id": "131801",
-            "remark": "C18P CRYSTAL GLASS",
-            "qty": 1.0,
-            "price": 2.4,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502953",
-            "item_no": 3,
-            "stock_id": "151500",
-            "remark": "SC15 - SINGLE CURVE 1.5M GLASS SETS",
-            "qty": 5.0,
-            "price": 4.9,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502954": [
-        {
-            "doc_no": "A2502954",
-            "item_no": 2,
-            "stock_id": "E634G5",
-            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 3,
-            "stock_id": "E635G1",
-            "remark": "ROSCANI BL E635G1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 4,
-            "stock_id": "E635G5",
-            "remark": "ROSCANI BL E635G5 G/D BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 6,
-            "stock_id": "S96551",
-            "remark": "ROSCANI BL S96551 G/D BRAC GLA YEL",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 7,
-            "stock_id": "S96557",
-            "remark": "ROSCANI BL S96557 G/D BRAC GLA GRN",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 8,
-            "stock_id": "S96858",
-            "remark": "ROSCANI BL S96858 B/L BRAC GLA BLU",
-            "qty": 1.0,
-            "price": 159.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 9,
-            "stock_id": "S12456",
-            "remark": "ROSCANI BL S12456 R/G BRAC GLA PNK",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 10,
-            "stock_id": "S12455",
-            "remark": "ROSCANI BL S12455 R/G BRAC GLA WHT",
-            "qty": 1.0,
-            "price": 164.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 11,
-            "stock_id": "497752",
-            "remark": "ROSCANI BG 497752 2/T BRAC SPG YEL/S",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 12,
-            "stock_id": "E514T0",
-            "remark": "ROSCANI BL E514T0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502954",
-            "item_no": 13,
-            "stock_id": "E513T3",
-            "remark": "ROSCANI BL E513T3 R/G BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502955": [
-        {
-            "doc_no": "A2502955",
-            "item_no": 1,
-            "stock_id": "S934N0",
-            "remark": "ROSCANI BL S934N0 R/G BRAC GLA RGD",
-            "qty": 1.0,
-            "price": 194.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 3,
-            "stock_id": "S935N7",
-            "remark": "ROSCANI BL S935N7 G/D BRAC GLA GRN",
-            "qty": 1.0,
-            "price": 194.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 5,
-            "stock_id": "E634G0",
-            "remark": "ROSCANI BL E634G0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 6,
-            "stock_id": "E634G5",
-            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 9,
-            "stock_id": "E635G5",
-            "remark": "ROSCANI BL E635G5 G/D BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 10,
-            "stock_id": "E505G1",
-            "remark": "ROSCANI BL E505G1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 11,
-            "stock_id": "E505G5",
-            "remark": "ROSCANI BL E505G5 G/D BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 12,
-            "stock_id": "E513T3",
-            "remark": "ROSCANI BL E513T3 R/G BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 13,
-            "stock_id": "E514T0",
-            "remark": "ROSCANI BL E514T0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 14,
-            "stock_id": "E515T1",
-            "remark": "ROSCANI BL E515T1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 15,
-            "stock_id": "E515T3",
-            "remark": "ROSCANI BL E515T3 G/D BRAC SPG BLK",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 16,
-            "stock_id": "E517T5",
-            "remark": "ROSCANI BL E517T5 G/S BRAC SPG WHT",
-            "qty": 1.0,
-            "price": 224.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 17,
-            "stock_id": "497529",
-            "remark": "ROSCANI BG 497529 G/G BRAC SPG YEL/R",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 18,
-            "stock_id": "497528",
-            "remark": "ROSCANI BG 497528 G/G BRAC SPG YEL/BLK",
-            "qty": 1.0,
-            "price": 254.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502955",
-            "item_no": 19,
-            "stock_id": "497765",
-            "remark": "ROSCANI BG 497765 2/T BRAC SPG WHT/R",
-            "qty": 1.0,
-            "price": 239.0,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502956": [
-        {
-            "doc_no": "A2502956",
-            "item_no": 1,
-            "stock_id": "3616012",
-            "remark": "SII SR616 SW BATTERY",
-            "qty": 20.0,
-            "price": 2.35,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502956",
-            "item_no": 2,
-            "stock_id": "3621012",
-            "remark": "SII SR621 SW BATTERY",
-            "qty": 100.0,
-            "price": 1.3,
-            "disc_amt": "0.0"
-        }
-    ],
-    "A2502957": [
-        {
-            "doc_no": "A2502957",
-            "item_no": 1,
-            "stock_id": "3516012",
-            "remark": "SII SR516 SW BATTERY",
-            "qty": 30.0,
-            "price": 2.5,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 2,
-            "stock_id": "3416012",
-            "remark": "SII SR416  SW BATTERY",
-            "qty": 15.0,
-            "price": 4.5,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 3,
-            "stock_id": "4241202",
-            "remark": "JAPAN CR2412 BATTERY",
-            "qty": 5.0,
-            "price": 12.5,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 4,
-            "stock_id": "4243002",
-            "remark": "JAPAN CR2430 BATTERY",
-            "qty": 5.0,
-            "price": 5.5,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 5,
-            "stock_id": "4201602",
-            "remark": "JAPAN CR2016 BATTERY",
-            "qty": 10.0,
-            "price": 1.4,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 7,
-            "stock_id": "4202502",
-            "remark": "JAPAN CR2025 BATTERY",
-            "qty": 30.0,
-            "price": 1.4,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 8,
-            "stock_id": "3927012",
-            "remark": "SII SR927 SW BATTERY",
-            "qty": 30.0,
-            "price": 3.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 9,
-            "stock_id": "3936012",
-            "remark": "SII SR936 SW BATTERY",
-            "qty": 20.0,
-            "price": 4.8,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 10,
-            "stock_id": "3621012",
-            "remark": "SII SR621 SW BATTERY",
-            "qty": 300.0,
-            "price": 1.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 11,
-            "stock_id": "3920012",
-            "remark": "SII SR920 SW BATTERY",
-            "qty": 200.0,
-            "price": 2.3,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 12,
-            "stock_id": "3521012",
-            "remark": "SII SR521 SW BATTERY",
-            "qty": 100.0,
-            "price": 1.75,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2502957",
-            "item_no": 13,
-            "stock_id": "3626012",
-            "remark": "SII SR626 SW BATTERY",
-            "qty": 100.0,
-            "price": 1.25,
-            "disc_amt": "0.0"
-        }
-    ],
     "A2502958": [
         {
             "doc_no": "A2502958",
@@ -40345,24 +37826,6 @@
         },
         {
             "doc_no": "A2503577",
-            "item_no": 20,
-            "stock_id": "E504G0",
-            "remark": "ROSCANI BL E504G0 R/G BRAC SPG RGD",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2503577",
-            "item_no": 21,
-            "stock_id": "E504G4",
-            "remark": "ROSCANI BL E504G4 R/G BRAC SPG BRN",
-            "qty": 1.0,
-            "price": 229.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2503577",
             "item_no": 22,
             "stock_id": "E505G1",
             "remark": "ROSCANI BL E505G1 G/D BRAC SPG YEL",
@@ -40499,19 +37962,10 @@
         {
             "doc_no": "A2503577",
             "item_no": 37,
-            "stock_id": "E684G9",
-            "remark": "ROSCANI BL E684G9 R/G BRAC SPG PNK",
+            "stock_id": "E485G1",
+            "remark": "ROSCANI BL E485G1 G/D BRAC GLA YEL",
             "qty": 1.0,
-            "price": 334.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2503577",
-            "item_no": 38,
-            "stock_id": "E685G1",
-            "remark": "ROSCANI BL E685G1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 329.0,
+            "price": 279.0,
             "disc_amt": "0.0"
         },
         {
@@ -40543,20 +37997,11 @@
         },
         {
             "doc_no": "A2503577",
-            "item_no": 42,
-            "stock_id": "E695G1",
-            "remark": "ROSCANI BL E695G1 G/D BRAC SPG YEL",
-            "qty": 1.0,
-            "price": 339.0,
-            "disc_amt": "0.0"
-        },
-        {
-            "doc_no": "A2503577",
             "item_no": 43,
-            "stock_id": "E695G3",
-            "remark": "ROSCANI BL E695G3 G/D BRAC SPG BLK",
+            "stock_id": "S12551",
+            "remark": "ROSCANI BL S12551 G/D BRAC GLA YEL",
             "qty": 1.0,
-            "price": 339.0,
+            "price": 164.0,
             "disc_amt": "0.0"
         },
         {
@@ -40571,10 +38016,10 @@
         {
             "doc_no": "A2503577",
             "item_no": 45,
-            "stock_id": "E465G1",
-            "remark": "ROSCANI BL E465G1 G/D BRAC GLA YEL",
+            "stock_id": "E730K9",
+            "remark": "ROSCANI BL E730K9 B/N BRAC SPG RGD",
             "qty": 1.0,
-            "price": 289.0,
+            "price": 314.0,
             "disc_amt": "0.0"
         },
         {
@@ -40589,10 +38034,10 @@
         {
             "doc_no": "A2503577",
             "item_no": 47,
-            "stock_id": "E466G5",
-            "remark": "ROSCANI BL E466G5 R/S BRAC GLA WHT",
+            "stock_id": "E735K2",
+            "remark": "ROSCANI BL E735K2 G/D BRAC SPG YEL",
             "qty": 1.0,
-            "price": 289.0,
+            "price": 309.0,
             "disc_amt": "0.0"
         },
         {
@@ -40701,6 +38146,132 @@
             "remark": "ROSCANI BL 4669T3 S/S BRAC SPG BLK",
             "qty": 1.0,
             "price": 254.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 60,
+            "stock_id": "S937N5",
+            "remark": "ROSCANI BL S937N5 G/S BRAC GLA WHT",
+            "qty": 1.0,
+            "price": 194.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 61,
+            "stock_id": "497729",
+            "remark": "ROSCANI BG 497729 2/T BRAC SPG YEL/R",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 62,
+            "stock_id": "498729",
+            "remark": "ROSCANI BL 498729 2/T BRAC SPG YEL/R",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 63,
+            "stock_id": "497529",
+            "remark": "ROSCANI BG 497529 G/G BRAC SPG YEL/R",
+            "qty": 1.0,
+            "price": 254.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 64,
+            "stock_id": "498529",
+            "remark": "ROSCANI BL 498529 G/G BRAC SPG YEL/R",
+            "qty": 1.0,
+            "price": 254.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 65,
+            "stock_id": "497728",
+            "remark": "ROSCANI BG 497728 2/T BRAC SPG YEL/BLK",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 66,
+            "stock_id": "498728",
+            "remark": "ROSCANI BL 498728 2/T BRAC SPG YEL/BLK",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 67,
+            "stock_id": "E484G5",
+            "remark": "ROSCANI BL E484G5 R/G BRAC GLA WHT",
+            "qty": 1.0,
+            "price": 289.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 68,
+            "stock_id": "E624G0",
+            "remark": "ROSCANI BL E624G0 R/G BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 69,
+            "stock_id": "E624G3",
+            "remark": "ROSCANI BL E624G3 R/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 70,
+            "stock_id": "E625G1",
+            "remark": "ROSCANI BL E625G1 G/D BRAC SPG YEL",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 71,
+            "stock_id": "E625G5",
+            "remark": "ROSCANI BL E625G5 G/D BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 72,
+            "stock_id": "E629G7",
+            "remark": "ROSCANI BL E629G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503577",
+            "item_no": 73,
+            "stock_id": "4579G8",
+            "remark": "ROSCANI BG 4579G8 S/S BRAC SPG BLU",
+            "qty": 1.0,
+            "price": 304.0,
             "disc_amt": "0.0"
         }
     ],
@@ -41323,6 +38894,2997 @@
             "remark": "SPRON CR2430 BATTERY",
             "qty": 3.0,
             "price": 6.5,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503583": [
+        {
+            "doc_no": "A2503583",
+            "item_no": 1,
+            "stock_id": "131000",
+            "remark": "C10 CRYSTAL GLASS",
+            "qty": 24.0,
+            "price": 1.8,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503584": [
+        {
+            "doc_no": "A2503584",
+            "item_no": 1,
+            "stock_id": "3621011",
+            "remark": "SPRON SR621 SW BATTERY",
+            "qty": 200.0,
+            "price": 2.05,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503584",
+            "item_no": 2,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 200.0,
+            "price": 1.95,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503584",
+            "item_no": 3,
+            "stock_id": "3927011",
+            "remark": "SPRON SR927 SW BATTERY",
+            "qty": 50.0,
+            "price": 4.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503584",
+            "item_no": 4,
+            "stock_id": "3936011",
+            "remark": "SPRON SR936 SW BATTERY",
+            "qty": 50.0,
+            "price": 5.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503584",
+            "item_no": 5,
+            "stock_id": "4203201",
+            "remark": "SPRON CR2032 BATTERY",
+            "qty": 100.0,
+            "price": 1.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503584",
+            "item_no": 6,
+            "stock_id": "4201601",
+            "remark": "SPRON CR2016 BATTERY",
+            "qty": 100.0,
+            "price": 1.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503584",
+            "item_no": 7,
+            "stock_id": "3726011",
+            "remark": "SPRON SR726 SW BATTERY",
+            "qty": 50.0,
+            "price": 3.6,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503584",
+            "item_no": 8,
+            "stock_id": "1230001",
+            "remark": "ALKALINE 12 V ( 23A ) BATTERY (A)",
+            "qty": 50.0,
+            "price": 2.2,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503584",
+            "item_no": 9,
+            "stock_id": "1270001",
+            "remark": "ALKALINE 12 V ( 27A ) BATTERY (A)",
+            "qty": 50.0,
+            "price": 2.6,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503585": [
+        {
+            "doc_no": "A2503585",
+            "item_no": 1,
+            "stock_id": "S12456",
+            "remark": "ROSCANI BL S12456 R/G BRAC GLA PNK",
+            "qty": 1.0,
+            "price": 164.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503585",
+            "item_no": 2,
+            "stock_id": "498529",
+            "remark": "ROSCANI BL 498529 G/G BRAC SPG YEL/R",
+            "qty": 1.0,
+            "price": 254.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503586": [
+        {
+            "doc_no": "A2503586",
+            "item_no": 1,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 400.0,
+            "price": 1.95,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 2,
+            "stock_id": "3621011",
+            "remark": "SPRON SR621 SW BATTERY",
+            "qty": 380.0,
+            "price": 2.05,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 4,
+            "stock_id": "3726001",
+            "remark": "SPRON (W-Type) SR726 W BATTERY",
+            "qty": 100.0,
+            "price": 4.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 5,
+            "stock_id": "3920011",
+            "remark": "SPRON SR920 SW BATTERY",
+            "qty": 200.0,
+            "price": 3.1,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 6,
+            "stock_id": "3927001",
+            "remark": "[W-Type] SPRON SR927 W BATTERY",
+            "qty": 50.0,
+            "price": 4.35,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 7,
+            "stock_id": "4122001",
+            "remark": "SPRON CR1220 BATTERY",
+            "qty": 50.0,
+            "price": 3.2,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 8,
+            "stock_id": "4201601",
+            "remark": "SPRON CR2016 BATTERY",
+            "qty": 100.0,
+            "price": 1.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 9,
+            "stock_id": "4202501",
+            "remark": "SPRON CR2025 BATTERY",
+            "qty": 100.0,
+            "price": 1.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 10,
+            "stock_id": "4493K3",
+            "remark": "ROSCANI BG 4493K3 B/K BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 314.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 11,
+            "stock_id": "4495K1",
+            "remark": "ROSCANI BG 4495K1 G/D BRAC SPG YEL",
+            "qty": 1.0,
+            "price": 314.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 12,
+            "stock_id": "4499K8",
+            "remark": "ROSCANI BG 4499K8 S/S BRAC SPG BLU",
+            "qty": 1.0,
+            "price": 274.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 13,
+            "stock_id": "4703T3",
+            "remark": "ROSCANI BG 4703T3 B/K BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 414.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 14,
+            "stock_id": "4709T3",
+            "remark": "ROSCANI BG 4709T3 S/S BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 394.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 15,
+            "stock_id": "4686G0",
+            "remark": "ROSCANI BL 4686G0 R/S BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 16,
+            "stock_id": "4687G5",
+            "remark": "ROSCANI BL 4687G5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 17,
+            "stock_id": "E624G0",
+            "remark": "ROSCANI BL E624G0 R/G BRAC SPG RGD",
+            "qty": 2.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 18,
+            "stock_id": "E624G3",
+            "remark": "ROSCANI BL E624G3 R/G BRAC SPG BLK",
+            "qty": 2.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 19,
+            "stock_id": "E625G1",
+            "remark": "ROSCANI BL E625G1 G/D BRAC SPG YEL",
+            "qty": 2.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503586",
+            "item_no": 20,
+            "stock_id": "E629G7",
+            "remark": "ROSCANI BL E629G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503587": [
+        {
+            "doc_no": "A2503587",
+            "item_no": 1,
+            "stock_id": "E494S9",
+            "remark": "ROSCANI BL E494S9 R/G BRAC GLA RED\r\n\r\nMOHD ROSLAN BIN MOHD KHALID\r\n",
+            "qty": 1.0,
+            "price": 335.8,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503588": [
+        {
+            "doc_no": "A2503588",
+            "item_no": 1,
+            "stock_id": "E36908",
+            "remark": "ROSCANI BL E36908 S/S BRAC GLA BLU\r\n\r\nHASNIFARIZA BINTI NURI\r\n",
+            "qty": 1.0,
+            "price": 387.24,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503589": [
+        {
+            "doc_no": "A2503589",
+            "item_no": 1,
+            "stock_id": "434906",
+            "remark": "ROSCANI BL 434906 S/S BRAC GLA WHT\r\n\r\nHAFIZUDDIN BIN MAHAT\r\n",
+            "qty": 1.0,
+            "price": 294.18,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503590": [
+        {
+            "doc_no": "A2503590",
+            "item_no": 1,
+            "stock_id": "E645G1",
+            "remark": "ROSCANI BL E645G1 G/D BRAC SPG YEL\r\n\r\nMUHAMMAD AMMAR BIN MOHAMAD ALWI\r\n",
+            "qty": 1.0,
+            "price": 251.79,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503591": [
+        {
+            "doc_no": "A2503591",
+            "item_no": 1,
+            "stock_id": "S07967",
+            "remark": "ROSCANI BL S07967 S/S BRAC GLA BLU\r\n\r\nNUR FARHANA BINTI MARWI\r\n",
+            "qty": 1.0,
+            "price": 231.2,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503592": [
+        {
+            "doc_no": "A2503592",
+            "item_no": 1,
+            "stock_id": "E644G4",
+            "remark": "ROSCANI BL E644G4 R/G BRAC SPG BRN\r\n\r\nSAVANNAH BUNGA JASON\r\n",
+            "qty": 1.0,
+            "price": 372.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503593": [
+        {
+            "doc_no": "A2503593",
+            "item_no": 1,
+            "stock_id": "3920011",
+            "remark": "SPRON SR920 SW BATTERY",
+            "qty": 100.0,
+            "price": 3.1,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503593",
+            "item_no": 2,
+            "stock_id": "1230001",
+            "remark": "ALKALINE 12 V ( 23A ) BATTERY (A)",
+            "qty": 100.0,
+            "price": 2.2,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503593",
+            "item_no": 3,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 200.0,
+            "price": 1.95,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503593",
+            "item_no": 4,
+            "stock_id": "3726011",
+            "remark": "SPRON SR726 SW BATTERY",
+            "qty": 30.0,
+            "price": 3.6,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503593",
+            "item_no": 5,
+            "stock_id": "3721011",
+            "remark": "SPRON SR721 SW BATTERY",
+            "qty": 20.0,
+            "price": 3.2,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503593",
+            "item_no": 6,
+            "stock_id": "4161601",
+            "remark": "SPRON CR1616 BATTERY",
+            "qty": 10.0,
+            "price": 3.5,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503593",
+            "item_no": 7,
+            "stock_id": "4162001",
+            "remark": "SPRON CR1620 BATTERY",
+            "qty": 20.0,
+            "price": 3.6,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503594": [
+        {
+            "doc_no": "A2503594",
+            "item_no": 1,
+            "stock_id": "498528",
+            "remark": "ROSCANI BL 498528 G/G BRAC SPG YEL/BLK",
+            "qty": 1.0,
+            "price": 254.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503594",
+            "item_no": 2,
+            "stock_id": "498728",
+            "remark": "ROSCANI BL 498728 2/T BRAC SPG YEL/BLK",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503595": [
+        {
+            "doc_no": "A2503595",
+            "item_no": 1,
+            "stock_id": "452LM1",
+            "remark": "ROSCANI BL 452LM1 B/K BRAC SPG BLK MULT",
+            "qty": 1.0,
+            "price": 520.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503595",
+            "item_no": 2,
+            "stock_id": "451LM1",
+            "remark": "ROSCANI BG 451LM1 B/K BRAC SPG BLK CHRO",
+            "qty": 1.0,
+            "price": 520.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503595",
+            "item_no": 3,
+            "stock_id": "4657T5",
+            "remark": "ROSCANI BG 4657T5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 289.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503596": [
+        {
+            "doc_no": "A2503596",
+            "item_no": 1,
+            "stock_id": "RE/364",
+            "remark": "RENATA BATTERY  364  (SR 621 SW)",
+            "qty": 10.0,
+            "price": 3.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503596",
+            "item_no": 2,
+            "stock_id": "RE/377",
+            "remark": "RENATA BATTERY  377  (SR 626 SW)",
+            "qty": 10.0,
+            "price": 3.45,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503596",
+            "item_no": 3,
+            "stock_id": "RE/371",
+            "remark": "RENATA BATTERY  371  (SR 920 SW)",
+            "qty": 10.0,
+            "price": 4.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503596",
+            "item_no": 4,
+            "stock_id": "RE/395",
+            "remark": "RENATA BATTERY  395  (SR 927 SW)",
+            "qty": 10.0,
+            "price": 4.6,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503596",
+            "item_no": 5,
+            "stock_id": "RE/394",
+            "remark": "RENATA BATTERY  394  (SR 936 SW)",
+            "qty": 10.0,
+            "price": 5.7,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503596",
+            "item_no": 6,
+            "stock_id": "RE/321",
+            "remark": "RENATA BATTERY  321  (SR 616 SW)",
+            "qty": 5.0,
+            "price": 4.05,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503596",
+            "item_no": 7,
+            "stock_id": "RE/315",
+            "remark": "RENATA BATTERY  315  (SR 716 SW)",
+            "qty": 5.0,
+            "price": 4.1,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503596",
+            "item_no": 8,
+            "stock_id": "RE/373",
+            "remark": "RENATA BATTERY  373  (SR 916 SW)",
+            "qty": 5.0,
+            "price": 4.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503596",
+            "item_no": 9,
+            "stock_id": "RE/379",
+            "remark": "RENATA BATTERY  379  (SR 521 SW)",
+            "qty": 5.0,
+            "price": 3.7,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503597": [
+        {
+            "doc_no": "A2503597",
+            "item_no": 1,
+            "stock_id": "497593",
+            "remark": "ROSCANI BG 497593 G/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 254.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503597",
+            "item_no": 2,
+            "stock_id": "497993",
+            "remark": "ROSCANI BG 497993 S/S BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503597",
+            "item_no": 3,
+            "stock_id": "497716",
+            "remark": "ROSCANI BG 497716 2/T BRAC SPG WHT/D",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503597",
+            "item_no": 4,
+            "stock_id": "498716",
+            "remark": "ROSCANI BL 498716 2/T BRAC SPG WHT/D",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503597",
+            "item_no": 5,
+            "stock_id": "4646G5",
+            "remark": "ROSCANI BL 4646G5 R/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503598": [
+        {
+            "doc_no": "A2503598",
+            "item_no": 1,
+            "stock_id": "3621011",
+            "remark": "SPRON SR621 SW BATTERY",
+            "qty": 50.0,
+            "price": 2.05,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503598",
+            "item_no": 2,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 100.0,
+            "price": 1.95,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503598",
+            "item_no": 3,
+            "stock_id": "3920011",
+            "remark": "SPRON SR920 SW BATTERY",
+            "qty": 50.0,
+            "price": 3.1,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503599": [
+        {
+            "doc_no": "A2503599",
+            "item_no": 1,
+            "stock_id": "E674G2",
+            "remark": "ROSCANI BL E674G2 R/G BRAC SPG MGT",
+            "qty": 1.0,
+            "price": 324.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503600": [
+        {
+            "doc_no": "A2503600",
+            "item_no": 1,
+            "stock_id": "E647G5",
+            "remark": "ROSCANI BL E647G5 G/S BRAC SPG WHT\r\n\r\nROZITA BINTI\r\n",
+            "qty": 1.0,
+            "price": 251.79,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503601": [
+        {
+            "doc_no": "A2503601",
+            "item_no": 1,
+            "stock_id": "E645G1",
+            "remark": "ROSCANI BL E645G1 G/D BRAC SPG YEL\r\n\r\nHARLINA BINTI AHMAD\r\n",
+            "qty": 1.0,
+            "price": 251.79,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503602": [
+        {
+            "doc_no": "A2503602",
+            "item_no": 1,
+            "stock_id": "4579G7",
+            "remark": "ROSCANI BG 4579G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 304.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503602",
+            "item_no": 2,
+            "stock_id": "4579G8",
+            "remark": "ROSCANI BG 4579G8 S/S BRAC SPG BLU",
+            "qty": 1.0,
+            "price": 304.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503603": [
+        {
+            "doc_no": "A2503603",
+            "item_no": 1,
+            "stock_id": "3521011",
+            "remark": "SPRON SR521 SW BATTERY",
+            "qty": 30.0,
+            "price": 1.75,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 2,
+            "stock_id": "3616011",
+            "remark": "SPRON SR616 SW BATTERY",
+            "qty": 30.0,
+            "price": 2.35,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 3,
+            "stock_id": "3621011",
+            "remark": "SPRON SR621 SW BATTERY",
+            "qty": 400.0,
+            "price": 1.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 4,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 400.0,
+            "price": 1.25,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 5,
+            "stock_id": "3716011",
+            "remark": "SPRON SR716 SW BATTERY",
+            "qty": 20.0,
+            "price": 3.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 6,
+            "stock_id": "3721011",
+            "remark": "SPRON SR721 SW BATTERY",
+            "qty": 10.0,
+            "price": 2.55,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 7,
+            "stock_id": "3726001",
+            "remark": "SPRON (W-Type) SR726 W BATTERY",
+            "qty": 80.0,
+            "price": 3.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 8,
+            "stock_id": "3726011",
+            "remark": "SPRON SR726 SW BATTERY",
+            "qty": 60.0,
+            "price": 2.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 9,
+            "stock_id": "3920001",
+            "remark": "[W-Type] SPRON SR920 W BATTERY",
+            "qty": 35.0,
+            "price": 2.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 10,
+            "stock_id": "3920011",
+            "remark": "SPRON SR920 SW BATTERY",
+            "qty": 110.0,
+            "price": 2.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 11,
+            "stock_id": "3927001",
+            "remark": "[W-Type] SPRON SR927 W BATTERY",
+            "qty": 80.0,
+            "price": 3.5,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 12,
+            "stock_id": "3927011",
+            "remark": "SPRON SR927 SW BATTERY",
+            "qty": 50.0,
+            "price": 3.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 13,
+            "stock_id": "4122001",
+            "remark": "SPRON CR1220 BATTERY",
+            "qty": 50.0,
+            "price": 2.35,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 14,
+            "stock_id": "4161601",
+            "remark": "SPRON CR1616 BATTERY",
+            "qty": 35.0,
+            "price": 2.35,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 15,
+            "stock_id": "4201601",
+            "remark": "SPRON CR2016 BATTERY",
+            "qty": 50.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 16,
+            "stock_id": "4202501",
+            "remark": "SPRON CR2025 BATTERY",
+            "qty": 50.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 17,
+            "stock_id": "4203201",
+            "remark": "SPRON CR2032 BATTERY",
+            "qty": 50.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 18,
+            "stock_id": "4243001",
+            "remark": "SPRON CR2430 BATTERY",
+            "qty": 3.0,
+            "price": 5.5,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 19,
+            "stock_id": "4245001",
+            "remark": "SPRON CR2450 BATTERY",
+            "qty": 3.0,
+            "price": 6.5,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 20,
+            "stock_id": "1230001",
+            "remark": "ALKALINE 12 V ( 23A ) BATTERY (A)",
+            "qty": 10.0,
+            "price": 1.5,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 21,
+            "stock_id": "RE/321",
+            "remark": "RENATA BATTERY  321  (SR 616 SW)",
+            "qty": 50.0,
+            "price": 3.05,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 22,
+            "stock_id": "RE/364",
+            "remark": "RENATA BATTERY  364  (SR 621 SW)",
+            "qty": 130.0,
+            "price": 2.95,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 23,
+            "stock_id": "RE/371",
+            "remark": "RENATA BATTERY  371  (SR 920 SW)",
+            "qty": 100.0,
+            "price": 3.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 24,
+            "stock_id": "RE/377",
+            "remark": "RENATA BATTERY  377  (SR 626 SW)",
+            "qty": 90.0,
+            "price": 2.6,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 25,
+            "stock_id": "RE/379",
+            "remark": "RENATA BATTERY  379  (SR 521 SW)",
+            "qty": 10.0,
+            "price": 2.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 26,
+            "stock_id": "RE/394",
+            "remark": "RENATA BATTERY  394  (SR 936 SW)",
+            "qty": 100.0,
+            "price": 4.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503603",
+            "item_no": 27,
+            "stock_id": "RE/395",
+            "remark": "RENATA BATTERY  395  (SR 927 SW)",
+            "qty": 80.0,
+            "price": 3.45,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503604": [
+        {
+            "doc_no": "A2503604",
+            "item_no": 1,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 300.0,
+            "price": 1.95,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503604",
+            "item_no": 2,
+            "stock_id": "3621011",
+            "remark": "SPRON SR621 SW BATTERY",
+            "qty": 200.0,
+            "price": 2.05,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503604",
+            "item_no": 3,
+            "stock_id": "3920011",
+            "remark": "SPRON SR920 SW BATTERY",
+            "qty": 200.0,
+            "price": 3.1,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503604",
+            "item_no": 4,
+            "stock_id": "3927011",
+            "remark": "SPRON SR927 SW BATTERY",
+            "qty": 100.0,
+            "price": 4.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503604",
+            "item_no": 5,
+            "stock_id": "4162001",
+            "remark": "SPRON CR1620 BATTERY",
+            "qty": 30.0,
+            "price": 3.6,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503604",
+            "item_no": 6,
+            "stock_id": "3726011",
+            "remark": "SPRON SR726 SW BATTERY",
+            "qty": 100.0,
+            "price": 3.6,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503604",
+            "item_no": 7,
+            "stock_id": "4203201",
+            "remark": "SPRON CR2032 BATTERY",
+            "qty": 50.0,
+            "price": 1.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503604",
+            "item_no": 8,
+            "stock_id": "4202501",
+            "remark": "SPRON CR2025 BATTERY",
+            "qty": 50.0,
+            "price": 1.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503604",
+            "item_no": 9,
+            "stock_id": "4201601",
+            "remark": "SPRON CR2016 BATTERY",
+            "qty": 50.0,
+            "price": 1.9,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503605": [
+        {
+            "doc_no": "A2503605",
+            "item_no": 1,
+            "stock_id": "3621011",
+            "remark": "SPRON SR621 SW BATTERY",
+            "qty": 70.0,
+            "price": 2.05,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503605",
+            "item_no": 2,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 100.0,
+            "price": 1.95,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503605",
+            "item_no": 3,
+            "stock_id": "3716011",
+            "remark": "SPRON SR716 SW BATTERY",
+            "qty": 5.0,
+            "price": 3.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503605",
+            "item_no": 4,
+            "stock_id": "3927001",
+            "remark": "[W-Type] SPRON SR927 W BATTERY",
+            "qty": 20.0,
+            "price": 4.35,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503605",
+            "item_no": 5,
+            "stock_id": "3927011",
+            "remark": "SPRON SR927 SW BATTERY",
+            "qty": 30.0,
+            "price": 4.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503605",
+            "item_no": 6,
+            "stock_id": "3936011",
+            "remark": "SPRON SR936 SW BATTERY",
+            "qty": 5.0,
+            "price": 5.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503605",
+            "item_no": 7,
+            "stock_id": "4201601",
+            "remark": "SPRON CR2016 BATTERY",
+            "qty": 10.0,
+            "price": 1.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503605",
+            "item_no": 8,
+            "stock_id": "4203201",
+            "remark": "SPRON CR2032 BATTERY",
+            "qty": 20.0,
+            "price": 1.9,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503606": [
+        {
+            "doc_no": "A2503606",
+            "item_no": 1,
+            "stock_id": "4636S5",
+            "remark": "ROSCANI BG 4636S5 R/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503606",
+            "item_no": 2,
+            "stock_id": "4637S5",
+            "remark": "ROSCANI BG 4637S5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503606",
+            "item_no": 3,
+            "stock_id": "4646G5",
+            "remark": "ROSCANI BL 4646G5 R/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503606",
+            "item_no": 4,
+            "stock_id": "4647G5",
+            "remark": "ROSCANI BL 4647G5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503606",
+            "item_no": 5,
+            "stock_id": "E625G5",
+            "remark": "ROSCANI BL E625G5 G/D BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503606",
+            "item_no": 6,
+            "stock_id": "E624G0",
+            "remark": "ROSCANI BL E624G0 R/G BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503606",
+            "item_no": 7,
+            "stock_id": "E504G0",
+            "remark": "ROSCANI BL E504G0 R/G BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503606",
+            "item_no": 8,
+            "stock_id": "E494S9",
+            "remark": "ROSCANI BL E494S9 R/G BRAC GLA RED",
+            "qty": 1.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503606",
+            "item_no": 9,
+            "stock_id": "S96557",
+            "remark": "ROSCANI BL S96557 G/D BRAC GLA GRN",
+            "qty": 1.0,
+            "price": 159.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503606",
+            "item_no": 10,
+            "stock_id": "S96050",
+            "remark": "ROSCANI BL S96050 R/D STRP GLA RED",
+            "qty": 1.0,
+            "price": 159.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503607": [
+        {
+            "doc_no": "A2503607",
+            "item_no": 1,
+            "stock_id": "4634S3",
+            "remark": "ROSCANI BG 4634S3 R/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 2,
+            "stock_id": "4635S1",
+            "remark": "ROSCANI BG 4635S1 G/D BRAC SPG YEL",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 3,
+            "stock_id": "4636S5",
+            "remark": "ROSCANI BG 4636S5 R/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 4,
+            "stock_id": "4637S5",
+            "remark": "ROSCANI BG 4637S5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 5,
+            "stock_id": "4639S7",
+            "remark": "ROSCANI BG 4639S7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 6,
+            "stock_id": "4644G3",
+            "remark": "ROSCANI BL 4644G3 R/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 7,
+            "stock_id": "4645G1",
+            "remark": "ROSCANI BL 4645G1 G/D BRAC SPG YEL",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 8,
+            "stock_id": "4646G5",
+            "remark": "ROSCANI BL 4646G5 R/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 9,
+            "stock_id": "4647G5",
+            "remark": "ROSCANI BL 4647G5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 10,
+            "stock_id": "4649G7",
+            "remark": "ROSCANI BL 4649G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 11,
+            "stock_id": "4495K1",
+            "remark": "ROSCANI BG 4495K1 G/D BRAC SPG YEL",
+            "qty": 1.0,
+            "price": 314.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 12,
+            "stock_id": "4499K8",
+            "remark": "ROSCANI BG 4499K8 S/S BRAC SPG BLU",
+            "qty": 1.0,
+            "price": 274.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 13,
+            "stock_id": "E624G0",
+            "remark": "ROSCANI BL E624G0 R/G BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 14,
+            "stock_id": "E624G3",
+            "remark": "ROSCANI BL E624G3 R/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 15,
+            "stock_id": "E625G1",
+            "remark": "ROSCANI BL E625G1 G/D BRAC SPG YEL",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 16,
+            "stock_id": "E625G5",
+            "remark": "ROSCANI BL E625G5 G/D BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 17,
+            "stock_id": "E629G7",
+            "remark": "ROSCANI BL E629G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 18,
+            "stock_id": "E639G3",
+            "remark": "ROSCANI BL E639G3 S/S BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 214.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 19,
+            "stock_id": "E635G5",
+            "remark": "ROSCANI BL E635G5 G/D BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 20,
+            "stock_id": "498797",
+            "remark": "ROSCANI BL 498797 G/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 21,
+            "stock_id": "498650",
+            "remark": "ROSCANI BL 498650 2/T BRAC SPG SVR",
+            "qty": 1.0,
+            "price": 249.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 22,
+            "stock_id": "497797",
+            "remark": "ROSCANI BG 497797 G/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 23,
+            "stock_id": "497993",
+            "remark": "ROSCANI BG 497993 S/S BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 24,
+            "stock_id": "497650",
+            "remark": "ROSCANI BG 497650 2/T BRAC SPG SVR",
+            "qty": 1.0,
+            "price": 249.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503607",
+            "item_no": 25,
+            "stock_id": "4579G7",
+            "remark": "ROSCANI BG 4579G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 304.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503608": [
+        {
+            "doc_no": "A2503608",
+            "item_no": 1,
+            "stock_id": "4634S3",
+            "remark": "ROSCANI BG 4634S3 R/G BRAC SPG BLK",
+            "qty": 3.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 2,
+            "stock_id": "4635S1",
+            "remark": "ROSCANI BG 4635S1 G/D BRAC SPG YEL",
+            "qty": 3.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 3,
+            "stock_id": "4636S5",
+            "remark": "ROSCANI BG 4636S5 R/S BRAC SPG WHT",
+            "qty": 3.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 4,
+            "stock_id": "4637S5",
+            "remark": "ROSCANI BG 4637S5 G/S BRAC SPG WHT",
+            "qty": 3.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 5,
+            "stock_id": "4639S7",
+            "remark": "ROSCANI BG 4639S7 S/S BRAC SPG GRN",
+            "qty": 3.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 7,
+            "stock_id": "4644G3",
+            "remark": "ROSCANI BL 4644G3 R/G BRAC SPG BLK",
+            "qty": 3.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 8,
+            "stock_id": "4645G1",
+            "remark": "ROSCANI BL 4645G1 G/D BRAC SPG YEL",
+            "qty": 3.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 9,
+            "stock_id": "4646G5",
+            "remark": "ROSCANI BL 4646G5 R/S BRAC SPG WHT",
+            "qty": 3.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 10,
+            "stock_id": "4647G5",
+            "remark": "ROSCANI BL 4647G5 G/S BRAC SPG WHT",
+            "qty": 3.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 11,
+            "stock_id": "4649G7",
+            "remark": "ROSCANI BL 4649G7 S/S BRAC SPG GRN",
+            "qty": 3.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 12,
+            "stock_id": "4685G5",
+            "remark": "ROSCANI BL 4685G5 G/D BRAC SPG WHT",
+            "qty": 5.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 13,
+            "stock_id": "4686G0",
+            "remark": "ROSCANI BL 4686G0 R/S BRAC SPG RGD",
+            "qty": 5.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 14,
+            "stock_id": "4686G7",
+            "remark": "ROSCANI BL 4686G7 R/S BRAC SPG GRN",
+            "qty": 5.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 15,
+            "stock_id": "4686G9",
+            "remark": "ROSCANI BL 4686G9 R/S BRAC SPG Red",
+            "qty": 5.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 16,
+            "stock_id": "4687G5",
+            "remark": "ROSCANI BL 4687G5 G/S BRAC SPG WHT",
+            "qty": 5.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 17,
+            "stock_id": "4689G8",
+            "remark": "ROSCANI BL 4689G8 S/S BRAC SPG BLU",
+            "qty": 5.0,
+            "price": 384.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 18,
+            "stock_id": "4493K3",
+            "remark": "ROSCANI BG 4493K3 B/K BRAC SPG BLK",
+            "qty": 3.0,
+            "price": 314.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 19,
+            "stock_id": "4495K1",
+            "remark": "ROSCANI BG 4495K1 G/D BRAC SPG YEL",
+            "qty": 3.0,
+            "price": 314.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 20,
+            "stock_id": "4499K8",
+            "remark": "ROSCANI BG 4499K8 S/S BRAC SPG BLU",
+            "qty": 3.0,
+            "price": 274.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 22,
+            "stock_id": "4703T3",
+            "remark": "ROSCANI BG 4703T3 B/K BRAC SPG BLK",
+            "qty": 3.0,
+            "price": 414.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 23,
+            "stock_id": "4709T3",
+            "remark": "ROSCANI BG 4709T3 S/S BRAC SPG BLK",
+            "qty": 3.0,
+            "price": 394.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 24,
+            "stock_id": "E624G0",
+            "remark": "ROSCANI BL E624G0 R/G BRAC SPG RGD",
+            "qty": 3.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 25,
+            "stock_id": "E624G3",
+            "remark": "ROSCANI BL E624G3 R/G BRAC SPG BLK",
+            "qty": 3.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 26,
+            "stock_id": "E625G1",
+            "remark": "ROSCANI BL E625G1 G/D BRAC SPG YEL",
+            "qty": 3.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 27,
+            "stock_id": "E625G5",
+            "remark": "ROSCANI BL E625G5 G/D BRAC SPG WHT",
+            "qty": 3.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 28,
+            "stock_id": "E629G7",
+            "remark": "ROSCANI BL E629G7 S/S BRAC SPG GRN",
+            "qty": 4.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 29,
+            "stock_id": "489650",
+            "remark": "ROSCANI BG 489650 2/T BRAC SPG SVR",
+            "qty": 1.0,
+            "price": 249.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 30,
+            "stock_id": "489729",
+            "remark": "ROSCANI BG 489729 2/T BRAC SPG YEL/R",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 31,
+            "stock_id": "489752",
+            "remark": "ROSCANI BG 489752 2/T BRAC SPG YEL/S",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 32,
+            "stock_id": "489794",
+            "remark": "ROSCANI BG 489794 G/S BRAC SPG BRN",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 33,
+            "stock_id": "489796",
+            "remark": "ROSCANI BG 489796 G/S BRAC SPG SVR",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 34,
+            "stock_id": "489965",
+            "remark": "ROSCANI BG 489965 S/S BRAC SPG WHT/R/S",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 35,
+            "stock_id": "489993",
+            "remark": "ROSCANI BG 489993 S/S BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 36,
+            "stock_id": "497650",
+            "remark": "ROSCANI BG 497650 2/T BRAC SPG SVR",
+            "qty": 1.0,
+            "price": 249.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 37,
+            "stock_id": "497729",
+            "remark": "ROSCANI BG 497729 2/T BRAC SPG YEL/R",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 38,
+            "stock_id": "497752",
+            "remark": "ROSCANI BG 497752 2/T BRAC SPG YEL/S",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 39,
+            "stock_id": "497794",
+            "remark": "ROSCANI BG 497794 G/S BRAC SPG BRN",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 40,
+            "stock_id": "497796",
+            "remark": "ROSCANI BG 497796 G/S BRAC SPG SVR",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 41,
+            "stock_id": "497965",
+            "remark": "ROSCANI BG 497965 S/S BRAC SPG WHT/R",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 42,
+            "stock_id": "497993",
+            "remark": "ROSCANI BG 497993 S/S BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 43,
+            "stock_id": "498650",
+            "remark": "ROSCANI BL 498650 2/T BRAC SPG SVR",
+            "qty": 1.0,
+            "price": 249.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 44,
+            "stock_id": "498729",
+            "remark": "ROSCANI BL 498729 2/T BRAC SPG YEL/R",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 45,
+            "stock_id": "498752",
+            "remark": "ROSCANI BL 498752 2/T BRAC SPG YEL/S",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 46,
+            "stock_id": "498794",
+            "remark": "ROSCANI BL 498794 G/S BRAC SPG BRN",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 47,
+            "stock_id": "498796",
+            "remark": "ROSCANI BL 498796 G/S BRAC SPG SVR",
+            "qty": 1.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 48,
+            "stock_id": "498965",
+            "remark": "ROSCANI BL 498965 S/S BRAC SPG WHT/R",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503608",
+            "item_no": 49,
+            "stock_id": "498993",
+            "remark": "ROSCANI BL 498993 S/S BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503609": [
+        {
+            "doc_no": "A2503609",
+            "item_no": 1,
+            "stock_id": "131000",
+            "remark": "C10 CRYSTAL GLASS",
+            "qty": 25.0,
+            "price": 1.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503609",
+            "item_no": 2,
+            "stock_id": "132500",
+            "remark": "C25A CRYSTAL GLASS",
+            "qty": 10.0,
+            "price": 3.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503609",
+            "item_no": 3,
+            "stock_id": "133000",
+            "remark": "C30A CRYSTAL GLASS",
+            "qty": 25.0,
+            "price": 3.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503610": [
+        {
+            "doc_no": "A2503610",
+            "item_no": 1,
+            "stock_id": "886905C",
+            "remark": "ROSCANI CL 886905C S/S STRAP GLA CHC\r\n\r\nWAWA\r\n",
+            "qty": 1.0,
+            "price": 254.6,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503611": [
+        {
+            "doc_no": "A2503611",
+            "item_no": 1,
+            "stock_id": "3920011",
+            "remark": "SPRON SR920 SW BATTERY",
+            "qty": 50.0,
+            "price": 3.1,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503611",
+            "item_no": 2,
+            "stock_id": "3616011",
+            "remark": "SPRON SR616 SW BATTERY",
+            "qty": 20.0,
+            "price": 3.1,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503611",
+            "item_no": 3,
+            "stock_id": "3721011",
+            "remark": "SPRON SR721 SW BATTERY",
+            "qty": 10.0,
+            "price": 3.2,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503611",
+            "item_no": 4,
+            "stock_id": "3621011",
+            "remark": "SPRON SR621 SW BATTERY",
+            "qty": 100.0,
+            "price": 2.05,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503611",
+            "item_no": 5,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 100.0,
+            "price": 1.95,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503611",
+            "item_no": 6,
+            "stock_id": "4163201",
+            "remark": "SPRON CR1632 BATTERY",
+            "qty": 10.0,
+            "price": 5.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503611",
+            "item_no": 7,
+            "stock_id": "9920001",
+            "remark": "SPRON CTL920 BATTERY",
+            "qty": 1.0,
+            "price": 55.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503612": [
+        {
+            "doc_no": "A2503612",
+            "item_no": 1,
+            "stock_id": "4201602",
+            "remark": "JAPAN CR2016 BATTERY",
+            "qty": 10.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503612",
+            "item_no": 2,
+            "stock_id": "4202502",
+            "remark": "JAPAN CR2025 BATTERY",
+            "qty": 10.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503612",
+            "item_no": 3,
+            "stock_id": "3920012",
+            "remark": "SII SR920 SW BATTERY",
+            "qty": 20.0,
+            "price": 2.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503612",
+            "item_no": 4,
+            "stock_id": "3621012",
+            "remark": "SII SR621 SW BATTERY",
+            "qty": 50.0,
+            "price": 1.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503612",
+            "item_no": 5,
+            "stock_id": "3626012",
+            "remark": "SII SR626 SW BATTERY",
+            "qty": 150.0,
+            "price": 1.25,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503612",
+            "item_no": 6,
+            "stock_id": "3927012",
+            "remark": "SII SR927 SW BATTERY",
+            "qty": 10.0,
+            "price": 3.3,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503613": [
+        {
+            "doc_no": "A2503613",
+            "item_no": 1,
+            "stock_id": "S935N1",
+            "remark": "ROSCANI BL S935N1 G/D BRAC GLA YEL",
+            "qty": 1.0,
+            "price": 194.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 2,
+            "stock_id": "S935N7",
+            "remark": "ROSCANI BL S935N7 G/D BRAC GLA GRN",
+            "qty": 1.0,
+            "price": 194.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 3,
+            "stock_id": "S937N5",
+            "remark": "ROSCANI BL S937N5 G/S BRAC GLA WHT",
+            "qty": 1.0,
+            "price": 194.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 4,
+            "stock_id": "S939N8",
+            "remark": "ROSCANI BL S939N8 S/S BRAC GLA BLU",
+            "qty": 1.0,
+            "price": 184.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 5,
+            "stock_id": "E634G5",
+            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 6,
+            "stock_id": "E635G5",
+            "remark": "ROSCANI BL E635G5 G/D BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 7,
+            "stock_id": "E515T3",
+            "remark": "ROSCANI BL E515T3 G/D BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 8,
+            "stock_id": "E517T5",
+            "remark": "ROSCANI BL E517T5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 9,
+            "stock_id": "E505G1",
+            "remark": "ROSCANI BL E505G1 G/D BRAC SPG YEL",
+            "qty": 1.0,
+            "price": 224.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 10,
+            "stock_id": "E509G6",
+            "remark": "ROSCANI BL E509G6 S/S BRAC SPG GRY",
+            "qty": 1.0,
+            "price": 214.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 11,
+            "stock_id": "E494S9",
+            "remark": "ROSCANI BL E494S9 R/G BRAC GLA RED",
+            "qty": 1.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 12,
+            "stock_id": "E495S3",
+            "remark": "ROSCANI BL E495S3 G/D BRAC GLA BLK",
+            "qty": 1.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 13,
+            "stock_id": "E684G3",
+            "remark": "ROSCANI BL E684G3 R/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 334.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 14,
+            "stock_id": "E694G5",
+            "remark": "ROSCANI BL E694G5 R/G BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 344.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503613",
+            "item_no": 15,
+            "stock_id": "E694G3",
+            "remark": "ROSCANI BL E694G3 R/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 344.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503614": [
+        {
+            "doc_no": "A2503614",
+            "item_no": 1,
+            "stock_id": "E474T9",
+            "remark": "ROSCANI BL E474T9 R/G BRAC GLA RGD",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503615": [
+        {
+            "doc_no": "A2503615",
+            "item_no": 1,
+            "stock_id": "3521012",
+            "remark": "SII SR521 SW BATTERY",
+            "qty": 20.0,
+            "price": 1.75,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503615",
+            "item_no": 2,
+            "stock_id": "3621012",
+            "remark": "SII SR621 SW BATTERY",
+            "qty": 50.0,
+            "price": 1.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503615",
+            "item_no": 3,
+            "stock_id": "3626012",
+            "remark": "SII SR626 SW BATTERY",
+            "qty": 50.0,
+            "price": 1.25,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503615",
+            "item_no": 4,
+            "stock_id": "3716012",
+            "remark": "SII SR716 SW BATTERY",
+            "qty": 10.0,
+            "price": 3.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503615",
+            "item_no": 5,
+            "stock_id": "3726012",
+            "remark": "SII SR726 SW BATTERY",
+            "qty": 20.0,
+            "price": 2.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503615",
+            "item_no": 6,
+            "stock_id": "4201602",
+            "remark": "JAPAN CR2016 BATTERY",
+            "qty": 20.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503615",
+            "item_no": 7,
+            "stock_id": "4202502",
+            "remark": "JAPAN CR2025 BATTERY",
+            "qty": 15.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503615",
+            "item_no": 8,
+            "stock_id": "4203202",
+            "remark": "JAPAN CR2032 BATTERY",
+            "qty": 20.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503616": [
+        {
+            "doc_no": "A2503616",
+            "item_no": 1,
+            "stock_id": "E714G0",
+            "remark": "ROSCANI BL E714G0 R/G BRAC SPG BRN\r\n\r\nNURUL SHAZLINDA\r\n",
+            "qty": 1.0,
+            "price": 486.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503617": [
+        {
+            "doc_no": "A2503617",
+            "item_no": 1,
+            "stock_id": "3626011",
+            "remark": "SPRON SR626 SW BATTERY",
+            "qty": 200.0,
+            "price": 1.95,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503617",
+            "item_no": 2,
+            "stock_id": "3927011",
+            "remark": "SPRON SR927 SW BATTERY",
+            "qty": 50.0,
+            "price": 4.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503617",
+            "item_no": 3,
+            "stock_id": "3920011",
+            "remark": "SPRON SR920 SW BATTERY",
+            "qty": 50.0,
+            "price": 3.1,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503618": [
+        {
+            "doc_no": "A2503618",
+            "item_no": 1,
+            "stock_id": "131000",
+            "remark": "C10 CRYSTAL GLASS",
+            "qty": 1.0,
+            "price": 0.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503618",
+            "item_no": 2,
+            "stock_id": "151500",
+            "remark": "SC15 - SINGLE CURVE 1.5M GLASS SETS",
+            "qty": 1.0,
+            "price": 3.2,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503619": [
+        {
+            "doc_no": "A2503619",
+            "item_no": 1,
+            "stock_id": "3416011",
+            "remark": "SPRON SR416 SW BATTERY",
+            "qty": 5.0,
+            "price": 4.5,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503619",
+            "item_no": 2,
+            "stock_id": "4201201",
+            "remark": "SPRON CR2012 BATTERY",
+            "qty": 10.0,
+            "price": 6.5,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503620": [
+        {
+            "doc_no": "A2503620",
+            "item_no": 1,
+            "stock_id": "4122002",
+            "remark": "JAPAN CR1220 BATTERY",
+            "qty": 20.0,
+            "price": 2.35,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503620",
+            "item_no": 2,
+            "stock_id": "4162002",
+            "remark": "JAPAN CR1620 BATTERY",
+            "qty": 5.0,
+            "price": 2.6,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503620",
+            "item_no": 3,
+            "stock_id": "3521012",
+            "remark": "SII SR521 SW BATTERY",
+            "qty": 10.0,
+            "price": 1.75,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503620",
+            "item_no": 4,
+            "stock_id": "3626012",
+            "remark": "SII SR626 SW BATTERY",
+            "qty": 150.0,
+            "price": 1.25,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503620",
+            "item_no": 5,
+            "stock_id": "3621012",
+            "remark": "SII SR621 SW BATTERY",
+            "qty": 50.0,
+            "price": 1.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503620",
+            "item_no": 6,
+            "stock_id": "3716012",
+            "remark": "SII SR716 SW BATTERY",
+            "qty": 5.0,
+            "price": 3.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503620",
+            "item_no": 7,
+            "stock_id": "3726012",
+            "remark": "SII SR726 SW BATTERY",
+            "qty": 20.0,
+            "price": 2.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503620",
+            "item_no": 8,
+            "stock_id": "7440002",
+            "remark": "JAPAN LR44 BATTERY",
+            "qty": 5.0,
+            "price": 1.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503620",
+            "item_no": 9,
+            "stock_id": "1230002",
+            "remark": "ALKALINE 12 V ( 23A ) BATTERY (B)",
+            "qty": 5.0,
+            "price": 1.5,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503620",
+            "item_no": 10,
+            "stock_id": "3920012",
+            "remark": "SII SR920 SW BATTERY",
+            "qty": 30.0,
+            "price": 2.3,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503621": [
+        {
+            "doc_no": "A2503621",
+            "item_no": 1,
+            "stock_id": "4203202",
+            "remark": "JAPAN CR2032 BATTERY",
+            "qty": 10.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503621",
+            "item_no": 2,
+            "stock_id": "3920012",
+            "remark": "SII SR920 SW BATTERY",
+            "qty": 10.0,
+            "price": 2.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503621",
+            "item_no": 3,
+            "stock_id": "4122002",
+            "remark": "JAPAN CR1220 BATTERY",
+            "qty": 20.0,
+            "price": 2.35,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503621",
+            "item_no": 4,
+            "stock_id": "4161602",
+            "remark": "JAPAN CR1616 BATTERY",
+            "qty": 5.0,
+            "price": 2.35,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503621",
+            "item_no": 5,
+            "stock_id": "3621012",
+            "remark": "SII SR621 SW BATTERY",
+            "qty": 20.0,
+            "price": 1.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503621",
+            "item_no": 6,
+            "stock_id": "3626012",
+            "remark": "SII SR626 SW BATTERY",
+            "qty": 50.0,
+            "price": 1.25,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503621",
+            "item_no": 7,
+            "stock_id": "RE/379",
+            "remark": "RENATA BATTERY  379  (SR 521 SW)",
+            "qty": 3.0,
+            "price": 3.7,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503621",
+            "item_no": 8,
+            "stock_id": "RE/364",
+            "remark": "RENATA BATTERY  364  (SR 621 SW)",
+            "qty": 5.0,
+            "price": 3.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503621",
+            "item_no": 9,
+            "stock_id": "RE/371",
+            "remark": "RENATA BATTERY  371  (SR 920 SW)",
+            "qty": 5.0,
+            "price": 4.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503621",
+            "item_no": 10,
+            "stock_id": "RE/394",
+            "remark": "RENATA BATTERY  394  (SR 936 SW)",
+            "qty": 3.0,
+            "price": 5.7,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503622": [
+        {
+            "doc_no": "A2503622",
+            "item_no": 1,
+            "stock_id": "3112012",
+            "remark": "JAPAN SR1120 SW BATTERY",
+            "qty": 30.0,
+            "price": 4.25,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503622",
+            "item_no": 2,
+            "stock_id": "4201602",
+            "remark": "JAPAN CR2016 BATTERY",
+            "qty": 20.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503622",
+            "item_no": 3,
+            "stock_id": "4202502",
+            "remark": "JAPAN CR2025 BATTERY",
+            "qty": 20.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503622",
+            "item_no": 4,
+            "stock_id": "4203202",
+            "remark": "JAPAN CR2032 BATTERY",
+            "qty": 20.0,
+            "price": 1.4,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503622",
+            "item_no": 5,
+            "stock_id": "3621012",
+            "remark": "SII SR621 SW BATTERY",
+            "qty": 70.0,
+            "price": 1.3,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503622",
+            "item_no": 6,
+            "stock_id": "3626012",
+            "remark": "SII SR626 SW BATTERY",
+            "qty": 180.0,
+            "price": 1.25,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503622",
+            "item_no": 7,
+            "stock_id": "3726012",
+            "remark": "SII SR726 SW BATTERY",
+            "qty": 30.0,
+            "price": 2.8,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503622",
+            "item_no": 8,
+            "stock_id": "4121602",
+            "remark": "JAPAN CR1216 BATTERY",
+            "qty": 5.0,
+            "price": 2.9,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503622",
+            "item_no": 9,
+            "stock_id": "RE/390",
+            "remark": "RENATA BATTERY  390  (SR 1130 SW)",
+            "qty": 5.0,
+            "price": 5.5,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503622",
+            "item_no": 10,
+            "stock_id": "RE/371",
+            "remark": "RENATA BATTERY  371  (SR 920 SW)",
+            "qty": 5.0,
+            "price": 4.4,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503623": [
+        {
+            "doc_no": "A2503623",
+            "item_no": 1,
+            "stock_id": "4646G5",
+            "remark": "ROSCANI BL 4646G5 R/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 2,
+            "stock_id": "4649G7",
+            "remark": "ROSCANI BL 4649G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 3,
+            "stock_id": "4647G5",
+            "remark": "ROSCANI BL 4647G5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 4,
+            "stock_id": "4686G7",
+            "remark": "ROSCANI BL 4686G7 R/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 5,
+            "stock_id": "4686G9",
+            "remark": "ROSCANI BL 4686G9 R/S BRAC SPG Red",
+            "qty": 2.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 6,
+            "stock_id": "4689G8",
+            "remark": "ROSCANI BL 4689G8 S/S BRAC SPG BLU",
+            "qty": 2.0,
+            "price": 384.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 7,
+            "stock_id": "4685G5",
+            "remark": "ROSCANI BL 4685G5 G/D BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 8,
+            "stock_id": "4687G5",
+            "remark": "ROSCANI BL 4687G5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 9,
+            "stock_id": "4686G0",
+            "remark": "ROSCANI BL 4686G0 R/S BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 10,
+            "stock_id": "E639G3",
+            "remark": "ROSCANI BL E639G3 S/S BRAC SPG BLK",
+            "qty": 3.0,
+            "price": 214.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 11,
+            "stock_id": "E634G5",
+            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503623",
+            "item_no": 12,
+            "stock_id": "497765",
+            "remark": "ROSCANI BG 497765 2/T BRAC SPG WHT/R",
+            "qty": 2.0,
+            "price": 239.0,
+            "disc_amt": "0.0"
+        }
+    ],
+    "A2503624": [
+        {
+            "doc_no": "A2503624",
+            "item_no": 1,
+            "stock_id": "4644G3",
+            "remark": "ROSCANI BL 4644G3 R/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 2,
+            "stock_id": "4649G7",
+            "remark": "ROSCANI BL 4649G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 3,
+            "stock_id": "4644G3",
+            "remark": "ROSCANI BL 4644G3 R/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 294.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 4,
+            "stock_id": "4686G7",
+            "remark": "ROSCANI BL 4686G7 R/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 5,
+            "stock_id": "4686G9",
+            "remark": "ROSCANI BL 4686G9 R/S BRAC SPG Red",
+            "qty": 2.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 6,
+            "stock_id": "4689G8",
+            "remark": "ROSCANI BL 4689G8 S/S BRAC SPG BLU",
+            "qty": 2.0,
+            "price": 384.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 7,
+            "stock_id": "4686G0",
+            "remark": "ROSCANI BL 4686G0 R/S BRAC SPG RGD",
+            "qty": 3.0,
+            "price": 404.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 8,
+            "stock_id": "E629G7",
+            "remark": "ROSCANI BL E629G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 279.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 9,
+            "stock_id": "E624G0",
+            "remark": "ROSCANI BL E624G0 R/G BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 10,
+            "stock_id": "E634G0",
+            "remark": "ROSCANI BL E634G0 R/G BRAC SPG RGD",
+            "qty": 2.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 11,
+            "stock_id": "E634G5",
+            "remark": "ROSCANI BL E634G5 R/G BRAC SPG WHT",
+            "qty": 2.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 12,
+            "stock_id": "E639G3",
+            "remark": "ROSCANI BL E639G3 S/S BRAC SPG BLK",
+            "qty": 2.0,
+            "price": 214.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 13,
+            "stock_id": "E514T0",
+            "remark": "ROSCANI BL E514T0 R/G BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 14,
+            "stock_id": "E499S8",
+            "remark": "ROSCANI BL E499S8 S/S BRAC GLA BLU",
+            "qty": 1.0,
+            "price": 214.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 15,
+            "stock_id": "E494S5",
+            "remark": "ROSCANI BL E494S5 R/G BRAC GLA WHT",
+            "qty": 2.0,
+            "price": 229.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 16,
+            "stock_id": "S12455",
+            "remark": "ROSCANI BL S12455 R/G BRAC GLA WHT",
+            "qty": 1.0,
+            "price": 164.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 17,
+            "stock_id": "S12456",
+            "remark": "ROSCANI BL S12456 R/G BRAC GLA PNK",
+            "qty": 1.0,
+            "price": 164.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 18,
+            "stock_id": "S12452",
+            "remark": "ROSCANI BL S12452 R/G BRAC GLA RGD",
+            "qty": 1.0,
+            "price": 164.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 19,
+            "stock_id": "S12459",
+            "remark": "ROSCANI BL S12459 R/G BRAC GLA RED",
+            "qty": 1.0,
+            "price": 164.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 20,
+            "stock_id": "S12958",
+            "remark": "ROSCANI BL S12958 S/S BRAC GLA TEL",
+            "qty": 1.0,
+            "price": 139.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 21,
+            "stock_id": "S12953",
+            "remark": "ROSCANI BL S12953 S/S BRAC GLA BLK",
+            "qty": 1.0,
+            "price": 139.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 22,
+            "stock_id": "S12952",
+            "remark": "ROSCANI BL S12952 S/S BRAC GLA PPL",
+            "qty": 1.0,
+            "price": 139.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 23,
+            "stock_id": "E674G2",
+            "remark": "ROSCANI BL E674G2 R/G BRAC SPG MGT",
+            "qty": 1.0,
+            "price": 324.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 24,
+            "stock_id": "E464G9",
+            "remark": "ROSCANI BL E464G9 R/G BRAC GLA RGD",
+            "qty": 2.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 25,
+            "stock_id": "E466G5",
+            "remark": "ROSCANI BL E466G5 R/S BRAC GLA WHT",
+            "qty": 1.0,
+            "price": 289.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 26,
+            "stock_id": "E474T3",
+            "remark": "ROSCANI BL E474T3 R/G BRAC GLA BLK",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 27,
+            "stock_id": "E474T9",
+            "remark": "ROSCANI BL E474T9 R/G BRAC GLA RGD",
+            "qty": 1.0,
+            "price": 299.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 28,
+            "stock_id": "4586G9",
+            "remark": "ROSCANI BL 4586G9 R/S BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 359.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 29,
+            "stock_id": "4589G7",
+            "remark": "ROSCANI BL 4589G7 S/S BRAC SPG GRN",
+            "qty": 1.0,
+            "price": 334.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 30,
+            "stock_id": "E724G0",
+            "remark": "ROSCANI BL E724G0 R/G BRAC SPG BRN",
+            "qty": 1.0,
+            "price": 324.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 31,
+            "stock_id": "E714G6",
+            "remark": "ROSCANI BL E714G6 R/G BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 334.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 32,
+            "stock_id": "E694G5",
+            "remark": "ROSCANI BL E694G5 R/G BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 344.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 33,
+            "stock_id": "E694G3",
+            "remark": "ROSCANI BL E694G3 R/G BRAC SPG BLK",
+            "qty": 1.0,
+            "price": 344.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 34,
+            "stock_id": "E444N9",
+            "remark": "ROSCANI BL E444N9 R/G BRAC SPG RGD",
+            "qty": 1.0,
+            "price": 334.0,
+            "disc_amt": "0.0"
+        },
+        {
+            "doc_no": "A2503624",
+            "item_no": 35,
+            "stock_id": "E447N5",
+            "remark": "ROSCANI BL E447N5 G/S BRAC SPG WHT",
+            "qty": 1.0,
+            "price": 329.0,
             "disc_amt": "0.0"
         }
     ]

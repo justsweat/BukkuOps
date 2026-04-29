@@ -1,37 +1,4 @@
 {
-    "DO250168": {
-        "doc_no": "DO250168",
-        "doc_date": "2025-10-14",
-        "card_id": "NBTU",
-        "currency_id": "MYR",
-        "currency_rate": 1.0,
-        "status": "M",
-        "sm_id": "Yap",
-        "amount": 506.0,
-        "amount_rm": 506.0
-    },
-    "DO250169": {
-        "doc_no": "DO250169",
-        "doc_date": "2025-10-14",
-        "card_id": "NBTZ",
-        "currency_id": "MYR",
-        "currency_rate": 1.0,
-        "status": "M",
-        "sm_id": "Yap",
-        "amount": 1030.0,
-        "amount_rm": 1030.0
-    },
-    "DO250170": {
-        "doc_no": "DO250170",
-        "doc_date": "2025-10-14",
-        "card_id": "ZREP",
-        "currency_id": "MYR",
-        "currency_rate": 1.0,
-        "status": "A",
-        "sm_id": "-",
-        "amount": 3480.2,
-        "amount_rm": 3480.2
-    },
     "DO250171": {
         "doc_no": "DO250171",
         "doc_date": "2025-10-23",
@@ -273,5 +240,49 @@
         "sm_id": "Yap",
         "amount": 1265.0,
         "amount_rm": 1265.0
+    },
+    "DO250193": {
+        "doc_no": "DO250193",
+        "doc_date": "2025-11-13",
+        "card_id": "NBTZ",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "sm_id": "Yap",
+        "amount": 1374.0,
+        "amount_rm": 1374.0
+    },
+    "DO250194": {
+        "doc_no": "DO250194",
+        "doc_date": "2025-11-14",
+        "card_id": "NBTU",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "sm_id": "Yap",
+        "amount": 359.5,
+        "amount_rm": 359.5
+    },
+    "DO250195": {
+        "doc_no": "DO250195",
+        "doc_date": "2025-11-14",
+        "card_id": "NBTW",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "sm_id": "Yap",
+        "amount": 482.5,
+        "amount_rm": 482.5
+    },
+    "DO250196": {
+        "doc_no": "DO250196",
+        "doc_date": "2025-11-14",
+        "card_id": "NBTT",
+        "currency_id": "MYR",
+        "currency_rate": 1.0,
+        "status": "M",
+        "sm_id": "Yap",
+        "amount": 253.95,
+        "amount_rm": 253.95
     }
 }

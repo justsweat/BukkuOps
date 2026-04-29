@@ -1,83 +1,83 @@
 {
-    "JE250905": {
-        "doc_no": "JE250905",
-        "doc_date": "2025-09-30",
-        "remark": "TRANSFER A/C OF 1122",
-        "total_dr": 1325.0,
-        "total_cr": 1325.0,
-        "trx_no": 187894,
-        "trx_date": "2025-09-01"
+    "JE260301": {
+        "doc_no": "JE260301",
+        "doc_date": "2026-03-13",
+        "remark": "FEB / EIS",
+        "total_dr": 98.2,
+        "total_cr": 98.2,
+        "trx_no": 194326,
+        "trx_date": "2026-03-01"
     },
-    "JE250906": {
-        "doc_no": "JE250906",
-        "doc_date": "2025-09-30",
-        "remark": "TRANSFER A/C OF 1122",
-        "total_dr": 1594.0,
-        "total_cr": 1594.0,
-        "trx_no": 187900,
-        "trx_date": "2025-09-01"
+    "JE260302": {
+        "doc_no": "JE260302",
+        "doc_date": "2026-03-13",
+        "remark": "FEB / EPF",
+        "total_dr": 10822.0,
+        "total_cr": 10822.0,
+        "trx_no": 194327,
+        "trx_date": "2026-03-01"
     },
-    "JE250907": {
-        "doc_no": "JE250907",
-        "doc_date": "2025-09-30",
-        "remark": "TRANSFER A/C OF 1122",
-        "total_dr": 2320.0,
-        "total_cr": 2320.0,
-        "trx_no": 187905,
-        "trx_date": "2025-09-01"
+    "JE260303": {
+        "doc_no": "JE260303",
+        "doc_date": "2026-03-10",
+        "remark": "MAR STAFF TAX",
+        "total_dr": 2816.65,
+        "total_cr": 2816.65,
+        "trx_no": 194356,
+        "trx_date": "2026-03-01"
     },
-    "JE250908": {
-        "doc_no": "JE250908",
-        "doc_date": "2025-09-30",
-        "remark": "SEPT CLOSING STOCK",
-        "total_dr": 535008.0,
-        "total_cr": 535008.0,
-        "trx_no": 187982,
-        "trx_date": "2025-09-01"
+    "JE260304": {
+        "doc_no": "JE260304",
+        "doc_date": "2026-03-10",
+        "remark": "TIKTOK AFFILIATE",
+        "total_dr": 248.63,
+        "total_cr": 248.63,
+        "trx_no": 194381,
+        "trx_date": "2026-03-01"
     },
-    "JE250909": {
-        "doc_no": "JE250909",
-        "doc_date": "2025-09-30",
-        "remark": "SEPT CLOSING STOCK",
-        "total_dr": 138077.0,
-        "total_cr": 138077.0,
-        "trx_no": 187985,
-        "trx_date": "2025-09-01"
+    "JE260305": {
+        "doc_no": "JE260305",
+        "doc_date": "2026-03-24",
+        "remark": "WTT1 / THE TIME SHOP / ANNUAL DINNER",
+        "total_dr": 847.32,
+        "total_cr": 847.32,
+        "trx_no": 194382,
+        "trx_date": "2026-03-01"
     },
-    "JE250910": {
-        "doc_no": "JE250910",
-        "doc_date": "2025-09-30",
-        "remark": "SEPT CLOSING STOCK",
-        "total_dr": 3832488.0,
-        "total_cr": 3832488.0,
-        "trx_no": 187986,
-        "trx_date": "2025-09-01"
+    "JE260306": {
+        "doc_no": "JE260306",
+        "doc_date": "2026-03-26",
+        "remark": "NBTG / BOSTON TIME AMANJAYA",
+        "total_dr": 211.38,
+        "total_cr": 211.38,
+        "trx_no": 194383,
+        "trx_date": "2026-03-01"
     },
-    "JE250911": {
-        "doc_no": "JE250911",
-        "doc_date": "2025-09-30",
-        "remark": "SEPT CLOSING STOCK",
-        "total_dr": 66452.0,
-        "total_cr": 66452.0,
-        "trx_no": 187987,
-        "trx_date": "2025-09-01"
+    "JE260307": {
+        "doc_no": "JE260307",
+        "doc_date": "2026-03-13",
+        "remark": "922 PCS DISCHARGED BATTERY / REPAIR DEPT",
+        "total_dr": 851.09,
+        "total_cr": 851.09,
+        "trx_no": 194387,
+        "trx_date": "2026-03-01"
     },
-    "JE250912": {
-        "doc_no": "JE250912",
-        "doc_date": "2025-09-30",
-        "remark": "SEPT CLOSING STOCK",
-        "total_dr": 31208.0,
-        "total_cr": 31208.0,
-        "trx_no": 187988,
-        "trx_date": "2025-09-01"
+    "JE260308": {
+        "doc_no": "JE260308",
+        "doc_date": "2026-03-13",
+        "remark": "OEFG / FOREX",
+        "total_dr": 0.64,
+        "total_cr": 0.64,
+        "trx_no": 194390,
+        "trx_date": "2026-03-01"
     },
-    "JE250913": {
-        "doc_no": "JE250913",
-        "doc_date": "2025-09-30",
-        "remark": "SEPT CLOSING STOCK",
-        "total_dr": 801848.0,
-        "total_cr": 801848.0,
-        "trx_no": 187989,
-        "trx_date": "2025-09-01"
+    "JE260309": {
+        "doc_no": "JE260309",
+        "doc_date": "2026-03-16",
+        "remark": "OLSG / FOREX",
+        "total_dr": 0.54,
+        "total_cr": 0.54,
+        "trx_no": 194448,
+        "trx_date": "2026-03-01"
     }
 }
